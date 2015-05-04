@@ -30,8 +30,8 @@ comments:
     with a little problem in providing the needed amount of connectors we got all
     the robots walking!
 ---
-<p><!--:en-->Lutz and Min Lin led the Insectbot workshop yesterday with some help from Paul for soldering the boards and Ricky to program the Arduinos. About 10 parent&#47;kid pair showed up for the workshop each assembling their own robot. The kit has an DFDuino (Arduino Uno from DFRobot) and two servos that will be useful in future projects.</p>
-<p><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;12&#47;IMG_0318-300x225.jpg" alt="" &#47;><br />
-<img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;12&#47;IMG_0319-300x225.jpg" alt="" &#47;><!--:--><!--:zh-->Lutz老师和谢老师教导十个小朋友做虫虫机器人。</p>
-<p><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;12&#47;IMG_0318-300x225.jpg" alt="" &#47;><br />
-<img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;12&#47;IMG_0319-300x225.jpg" alt="" &#47;><!--:--></p>
+<p><!--:en-->Lutz and Min Lin led the Insectbot workshop yesterday with some help from Paul for soldering the boards and Ricky to program the Arduinos. About 10 parent/kid pair showed up for the workshop each assembling their own robot. The kit has an DFDuino (Arduino Uno from DFRobot) and two servos that will be useful in future projects.</p>
+<p><img src="http://xinchejian.com/wp-content/uploads/2011/12/IMG_0318-300x225.jpg" alt="" /><br />
+<img src="http://xinchejian.com/wp-content/uploads/2011/12/IMG_0319-300x225.jpg" alt="" /><!--:--><!--:zh-->Lutz老师和谢老师教导十个小朋友做虫虫机器人。</p>
+<p><img src="http://xinchejian.com/wp-content/uploads/2011/12/IMG_0318-300x225.jpg" alt="" /><br />
+<img src="http://xinchejian.com/wp-content/uploads/2011/12/IMG_0319-300x225.jpg" alt="" /><!--:--></p>

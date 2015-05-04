@@ -24,23 +24,23 @@ comments:
   author_url: https://twitter.com/xinchejian
   date: '2014-03-24 12:24:32 +0800'
   date_gmt: '2014-03-24 04:24:32 +0800'
-  content: "摸摸摸, 六触摸点噪音电路\nDIY Crackle Box -- March 29th \n250rmb&#47;person \n下午2点－5点\n
-    \nFee (including materi... http:&#47;&#47;t.co&#47;wWGsFnuCed"
+  content: "摸摸摸, 六触摸点噪音电路\nDIY Crackle Box -- March 29th \n250rmb/person \n下午2点－5点\n
+    \nFee (including materi... http://t.co/wWGsFnuCed"
 - id: 22808
   author: Paul Yang
   author_email: facebook.100000324397404@example.com
   author_url: https://facebook.com/profile.php?id=100000324397404
   date: '2014-03-24 21:37:23 +0800'
   date_gmt: '2014-03-24 13:37:23 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000324397404"
-    target="_blank">Paul Yang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000324397404"
+    target="_blank">Paul Yang</a> liked this on Facebook.
 ---
-<p><!--:en--><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;Crakle-Box-600x400.jpg"><img class="alignnone size-medium wp-image-6227" alt="Crakle-Box-600x400" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;Crakle-Box-600x400-300x200.jpg" width="300" height="200" &#47;><&#47;a></p>
-<p><strong>Fee (including materials)<&#47;strong>: online registration: 250rmb&#47;person</p>
-<p><strong>时间 Time：<&#47;strong>下午2点－5点 ／2PM - 5PM</p>
-<p><strong>地址：新车间创客空间，上海徐汇区长乐路1035号2楼（乌鲁木齐路口）<&#47;strong></p>
-<p><strong>Location: XinCheJian Hackerspace, 2nd floor 1035 Changle Rd (corner Wulumuqi Rd.)<&#47;strong></p>
-<p><strong>工作坊内容 Workshop Content：<&#47;strong></p>
+<p><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2014/03/Crakle-Box-600x400.jpg"><img class="alignnone size-medium wp-image-6227" alt="Crakle-Box-600x400" src="http://xinchejian.com/wp-content/uploads/2014/03/Crakle-Box-600x400-300x200.jpg" width="300" height="200" /></a></p>
+<p><strong>Fee (including materials)</strong>: online registration: 250rmb/person</p>
+<p><strong>时间 Time：</strong>下午2点－5点 ／2PM - 5PM</p>
+<p><strong>地址：新车间创客空间，上海徐汇区长乐路1035号2楼（乌鲁木齐路口）</strong></p>
+<p><strong>Location: XinCheJian Hackerspace, 2nd floor 1035 Changle Rd (corner Wulumuqi Rd.)</strong></p>
+<p><strong>工作坊内容 Workshop Content：</strong></p>
 <p>在这次的工作坊中，大家将制作一个简单有趣的设计：摸摸摸 － 超绚的银色触摸界面，经典的六触摸点噪音电路，由Michel Waisvisz在七十年代设计。在轻触间把各种奇妙声音展现。无需繁杂的操作，快来感受指尖的曼妙的歌声。</p>
 <p>制作简单方便，自带喇叭，随时随地，你都可以随身携带把玩。听，你的手指在唱歌！对于身体的变化非常敏感，甚至以几个人连起来进行演奏。</p>
 <p>首先你们将会了解摸摸摸的电路基本原理，以及它声音变化的原因，随后大家动手焊接组装，组装完成后就可以尽情享受探索声音的乐趣了！</p>

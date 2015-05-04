@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: XinCheJian @ Shanghai 247 http:&#47;&#47;t.co...'
+title: '#xinchejian: XinCheJian @ Shanghai 247 http://t.co...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: XinCheJian @ Shanghai 247 http:&#47;&#47;t.co&#47;NHNHr4Bp</p>
+<p>#xinchejian: XinCheJian @ Shanghai 247 http://t.co/NHNHr4Bp</p>

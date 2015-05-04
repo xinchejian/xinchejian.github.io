@@ -22,20 +22,20 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en--><img src="http:&#47;&#47;www.3dpchina.com&#47;files&#47;cc43b840-2674-46f1-8f24-518e23a1e610.jpg" alt="" &#47;></p>
+<p><!--:en--><img src="http://www.3dpchina.com/files/cc43b840-2674-46f1-8f24-518e23a1e610.jpg" alt="" /></p>
 <p><strong><br />
 <h4>May 30th~31st 2012</p>
-<p>First 3D printing salon in China, mark it on your calendar now!<&#47;h4></p>
-<p><a href="www.3dpchina.com" target="_blank">www.3dpchina.com<&#47;a><br />
-<&#47;strong><br />
-<img src="http:&#47;&#47;www.3dpchina.com&#47;upload&#47;04c01070-4d04-41c6-a470-4a9679a9eb56.jpg" alt="" &#47;></p>
-<p><img src="http:&#47;&#47;www.3dpchina.com&#47;upload&#47;d34dfeba-48df-42a7-a292-964c5ed26c20.jpg" alt="" &#47;></p>
-<p><img src="http:&#47;&#47;www.3dpchina.com&#47;upload&#47;16fcfe77-0bcc-4143-b6ca-45913b8ec3fc.jpg" alt="" &#47;><!--:--><!--:zh--><img src="http:&#47;&#47;www.3dpchina.com&#47;files&#47;cc43b840-2674-46f1-8f24-518e23a1e610.jpg" alt="" &#47;></p>
+<p>First 3D printing salon in China, mark it on your calendar now!</h4></p>
+<p><a href="www.3dpchina.com" target="_blank">www.3dpchina.com</a><br />
+</strong><br />
+<img src="http://www.3dpchina.com/upload/04c01070-4d04-41c6-a470-4a9679a9eb56.jpg" alt="" /></p>
+<p><img src="http://www.3dpchina.com/upload/d34dfeba-48df-42a7-a292-964c5ed26c20.jpg" alt="" /></p>
+<p><img src="http://www.3dpchina.com/upload/16fcfe77-0bcc-4143-b6ca-45913b8ec3fc.jpg" alt="" /><!--:--><!--:zh--><img src="http://www.3dpchina.com/files/cc43b840-2674-46f1-8f24-518e23a1e610.jpg" alt="" /></p>
 <p><strong><br />
 <h4>2012年5月30日－31日</p>
-<p>首次在国内举办的3D打印大会，喜欢3D打印的朋友们千万别错过喔！<&#47;h4></p>
-<p><a href="www.3dpchina.com" target="_blank">www.3dpchina.com<&#47;a><br />
-<&#47;strong></p>
-<p><img src="http:&#47;&#47;www.3dpchina.com&#47;upload&#47;04c01070-4d04-41c6-a470-4a9679a9eb56.jpg" alt="" &#47;></p>
-<p><img src="http:&#47;&#47;www.3dpchina.com&#47;upload&#47;d34dfeba-48df-42a7-a292-964c5ed26c20.jpg" alt="" &#47;></p>
-<p><img src="http:&#47;&#47;www.3dpchina.com&#47;upload&#47;16fcfe77-0bcc-4143-b6ca-45913b8ec3fc.jpg" alt="" &#47;><!--:--></p>
+<p>首次在国内举办的3D打印大会，喜欢3D打印的朋友们千万别错过喔！</h4></p>
+<p><a href="www.3dpchina.com" target="_blank">www.3dpchina.com</a><br />
+</strong></p>
+<p><img src="http://www.3dpchina.com/upload/04c01070-4d04-41c6-a470-4a9679a9eb56.jpg" alt="" /></p>
+<p><img src="http://www.3dpchina.com/upload/d34dfeba-48df-42a7-a292-964c5ed26c20.jpg" alt="" /></p>
+<p><img src="http://www.3dpchina.com/upload/16fcfe77-0bcc-4143-b6ca-45913b8ec3fc.jpg" alt="" /><!--:--></p>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '[Upcoming Workshops] MSP&#47;Jitter, InsectBot and Arduino'
+title: '[Upcoming Workshops] MSP/Jitter, InsectBot and Arduino'
 author:
   display_name: David Li
   login: david
@@ -24,7 +24,7 @@ tags:
 - insectbot
 comments: []
 ---
-<style type="text&#47;css">
+<style type="text/css">
 		#outlook a{<br />
 			padding:0;<br />
 		}<br />
@@ -64,7 +64,7 @@ comments: []
 			background-color:#DEE0E2;<br />
 		}<br />
 		.borderBar{<br />
-			background-image:url('http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png');<br />
+			background-image:url('http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png');<br />
 			background-position:top left;<br />
 			background-repeat:repeat;<br />
 			height:5px !important;<br />
@@ -244,17 +244,17 @@ comments: []
 		#monkeyRewards img{<br />
 			max-width:190px;<br />
 		}<br />
-<&#47;style></p>
+</style></p>
 <div leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #DEE0E2;width: 100% !important;">
     	<center></p>
 <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="margin: 0;padding: 0;background-color: #DEE0E2;height: 100% !important;width: 100% !important;">
 <tr>
 <td align="center" valign="top" style="padding-bottom: 40px;border-collapse: collapse;">
-                    	<!-- &#47;&#47; BEGIN CONTAINER --></p>
+                    	<!-- // BEGIN CONTAINER --></p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer">
 <tr>
 <td align="center" valign="top" style="padding-bottom: 20px;border-collapse: collapse;">
-                                    <!-- &#47;&#47; BEGIN PREHEADER --></p>
+                                    <!-- // BEGIN PREHEADER --></p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
 <tr>
 <td align="center" valign="top" style="padding-top: 10px;padding-bottom: 10px;border-collapse: collapse;">
@@ -262,53 +262,53 @@ comments: []
 <tr>
 <td valign="top" class="preheaderContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;">
                                                             Use this area to offer a short teaser of your email's content. Text here will show in the preview area of some email clients.<br />
-                                                        <&#47;td><br />
+                                                        </td><br />
                                                         <!-- *|IFNOT:ARCHIVE_PAGE|* --></p>
 <td width="20" style="border-collapse: collapse;">
                                                             <br><br />
-                                                        <&#47;td></p>
+                                                        </td></p>
 <td valign="top" width="200" class="preheaderContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;">
-                                                            Email not displaying correctly?<br><a href="*|ARCHIVE|*" target="_blank" style="color: #505050;font-weight: normal;text-decoration: underline;">View it in your browser<&#47;a>.<br />
-                                                        <&#47;td><br />
+                                                            Email not displaying correctly?<br><a href="*|ARCHIVE|*" target="_blank" style="color: #505050;font-weight: normal;text-decoration: underline;">View it in your browser</a>.<br />
+                                                        </td><br />
                                                         <!-- *|END:IF|* --><br />
-                                                    <&#47;tr><br />
-                                                <&#47;table><br />
-                                            <&#47;td><br />
-                                        <&#47;tr><br />
-                                    <&#47;table><br />
+                                                    </tr><br />
+                                                </table><br />
+                                            </td><br />
+                                        </tr><br />
+                                    </table><br />
                                     <!-- END PREHEADER \\ --><br />
-                                <&#47;td><br />
-                            <&#47;tr></p>
+                                </td><br />
+                            </tr></p>
 <tr>
 <td align="center" valign="top" style="border-collapse: collapse;">
-                                	<!-- &#47;&#47; BEGIN HEADER --></p>
+                                	<!-- // BEGIN HEADER --></p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader" style="background-color: #F8F8F8;border-top: 10px solid #A6BFC9;">
 <tr>
 <td align="center" valign="top" style="padding-top: 20px;padding-bottom: 20px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td class="headerContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 18px;font-weight: bold;line-height: 100%;padding-top: 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;text-align: left;vertical-align: middle;">
-                                                            <img src="https:&#47;&#47;gallery.mailchimp.com&#47;98ab15cb868dfa090df3d6f81&#47;images&#47;untitled.2.14c9fdf.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 200px;width: 148px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="148" height="200" id="headerImage campaign-icon"><br />
-                                                        <&#47;td><br />
-                                                    <&#47;tr></p>
+                                                            <img src="https://gallery.mailchimp.com/98ab15cb868dfa090df3d6f81/images/untitled.2.14c9fdf.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 200px;width: 148px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="148" height="200" id="headerImage campaign-icon"><br />
+                                                        </td><br />
+                                                    </tr></p>
 <tr>
 <td class="headerContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 18px;font-weight: bold;line-height: 100%;padding-top: 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;text-align: left;vertical-align: middle;">
 <h1 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 40px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	Workshops | 工作坊<&#47;h1></p>
+	Workshops | 工作坊</h1></p>
 <h3 style="color: #ED5E29;display: block;font-family: Georgia;font-size: 16px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	<i>Learn how to make all kinds of stuffs!&nbsp;<&#47;i><&#47;h3><br />
-<&#47;td><br />
-                                                    <&#47;tr><br />
-                                                <&#47;table><br />
-                                            <&#47;td><br />
-                                        <&#47;tr><br />
-                                    <&#47;table><br />
+	<i>Learn how to make all kinds of stuffs!&nbsp;</i></h3><br />
+</td><br />
+                                                    </tr><br />
+                                                </table><br />
+                                            </td><br />
+                                        </tr><br />
+                                    </table><br />
                                     <!-- END HEADER \\ --><br />
-                                <&#47;td><br />
-                            <&#47;tr></p>
+                                </td><br />
+                            </tr></p>
 <tr>
 <td align="center" valign="top" style="border-collapse: collapse;">
-                                	<!-- &#47;&#47; BEGIN BODY --></p>
+                                	<!-- // BEGIN BODY --></p>
 <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody" style="background-color: #F8F8F8;">
 <tr mc:repeatable="repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1_1" mchideable="hideable_repeat_1_1">
 <td align="center" valign="top" style="padding-bottom: 40px;border-collapse: collapse;">
@@ -317,57 +317,57 @@ comments: []
 <td align="center" valign="top" style="padding-bottom: 20px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td class="borderBar" background="http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png" style="border-collapse: collapse;background-image: url(http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
-                                                                        <img src="http:&#47;&#47;gallery.mailchimp.com&#47;2425ea8ad3&#47;images&#47;blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr></p>
+<td class="borderBar" background="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style="border-collapse: collapse;background-image: url(http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
+                                                                    </td><br />
+                                                                </tr></p>
 <tr>
 <td style="border-collapse: collapse;">
-                                                                        <img src="https:&#47;&#47;gallery.mailchimp.com&#47;98ab15cb868dfa090df3d6f81&#47;images&#47;untitled.3.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 600px;width: 450px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="450" height="600"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr></p>
+                                                                        <img src="https://gallery.mailchimp.com/98ab15cb868dfa090df3d6f81/images/untitled.3.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 600px;width: 450px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="450" height="600"><br />
+                                                                    </td><br />
+                                                                </tr></p>
 <tr>
-<td class="borderBar" background="http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png" style="border-collapse: collapse;background-image: url(http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
-                                                                        <img src="http:&#47;&#47;gallery.mailchimp.com&#47;2425ea8ad3&#47;images&#47;blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr><br />
-                                                            <&#47;table><br />
-                                                        <&#47;td><br />
-                                                    <&#47;tr></p>
+<td class="borderBar" background="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style="border-collapse: collapse;background-image: url(http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
+                                                                    </td><br />
+                                                                </tr><br />
+                                                            </table><br />
+                                                        </td><br />
+                                                    </tr></p>
 <tr>
 <td align="center" valign="top" style="padding-right: 40px;padding-left: 40px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" width="300" class="upperBodyContent" style="border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 16px;line-height: 150%;text-align: left;">
 <h2 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 24px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	MSP&#47;Jitter Workshop (Nov 9-10)<br><br />
+	MSP/Jitter Workshop (Nov 9-10)<br><br />
 	<br><br />
-	<span style="font-size:14px;"><strong style="display: inline; font-size: 13px; color: rgb(0, 0, 0); line-height: normal;">Max<&#47;strong><span style="color: rgb(0, 0, 0); line-height: normal;">&nbsp;is the environment you use to create visual programs, called patches, plus a set of building blocks (called objects) used in those programs.&nbsp;<&#47;span><strong style="display: inline; font-size: 13px; color: rgb(0, 0, 0); line-height: normal;">MSP<&#47;strong><span style="color: rgb(0, 0, 0); line-height: normal;">&nbsp;is a set of Max objects for audio and signal processing.&nbsp;<&#47;span><strong style="display: inline; font-size: 13px; color: rgb(0, 0, 0); line-height: normal;">Jitter<&#47;strong><span style="color: rgb(0, 0, 0); line-height: normal;">&nbsp;is a set of Max objects for video, graphics, and matrix data processing.&nbsp;<&#47;span><&#47;span><&#47;h2><br />
-<span style="font-size:14px;">MAX是您使用的环境，创造视听节目，被称为修补程序，加上这些程序中使用了一套积木（称为对象）。 MSP是一组音频信号处理的最大对象。Jitter是最大的一组视频，图形和矩阵数据处理的对象。<&#47;span><&#47;td></p>
+	<span style="font-size:14px;"><strong style="display: inline; font-size: 13px; color: rgb(0, 0, 0); line-height: normal;">Max</strong><span style="color: rgb(0, 0, 0); line-height: normal;">&nbsp;is the environment you use to create visual programs, called patches, plus a set of building blocks (called objects) used in those programs.&nbsp;</span><strong style="display: inline; font-size: 13px; color: rgb(0, 0, 0); line-height: normal;">MSP</strong><span style="color: rgb(0, 0, 0); line-height: normal;">&nbsp;is a set of Max objects for audio and signal processing.&nbsp;</span><strong style="display: inline; font-size: 13px; color: rgb(0, 0, 0); line-height: normal;">Jitter</strong><span style="color: rgb(0, 0, 0); line-height: normal;">&nbsp;is a set of Max objects for video, graphics, and matrix data processing.&nbsp;</span></span></h2><br />
+<span style="font-size:14px;">MAX是您使用的环境，创造视听节目，被称为修补程序，加上这些程序中使用了一套积木（称为对象）。 MSP是一组音频信号处理的最大对象。Jitter是最大的一组视频，图形和矩阵数据处理的对象。</span></td></p>
 <td width="40" style="border-collapse: collapse;">
                                                                         <br><br />
-                                                                    <&#47;td></p>
+                                                                    </td></p>
 <td valign="top" width="180" style="border-collapse: collapse;">
 <div class="upperBodyContent" style="color: #43404D;font-family: Georgia;font-size: 16px;line-height: 150%;text-align: left;">
 <h4 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 12px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	<strong>Two days<&#47;strong> workshop for<&#47;h4></p>
+	<strong>Two days</strong> workshop for</h4></p>
 <h1 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 40px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	<span style="font-size:32px;"><span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">&yen;600<&#47;span><&#47;span><&#47;h1><br />
-<&#47;div><br />
+	<span style="font-size:32px;"><span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">&yen;600</span></span></h1><br />
+</div><br />
                                                                         <br></p>
 <table border="0" cellpadding="0" cellspacing="0" class="upperTemplateButton" style="-moz-border-radius: 5px;-webkit-border-radius: 5px;background-color: #ED5E29;border-radius: 5px;">
 <tr>
-<td align="center" valign="middle" class="upperTemplateButtonContent" style="padding-top: 15px;padding-right: 20px;padding-bottom: 15px;padding-left: 20px;border-collapse: collapse;color: #FFFFFF;font-family: Georgia;font-size: 31px;font-weight: normal;text-align: center;text-decoration: none;"><a href="http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=195" target="_self" style="color: #FFFFFF;font-family: Georgia;font-size: 31px;font-weight: normal;text-align: center;text-decoration: none;"><i>Sing up!<&#47;i><&#47;a><&#47;td><br />
-                                                                            <&#47;tr><br />
-                                                                        <&#47;table><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr><br />
-                                                            <&#47;table><br />
-                                                        <&#47;td><br />
-                                                    <&#47;tr><br />
-                                                <&#47;table><br />
-                                            <&#47;td><br />
-                                        <&#47;tr></p>
+<td align="center" valign="middle" class="upperTemplateButtonContent" style="padding-top: 15px;padding-right: 20px;padding-bottom: 15px;padding-left: 20px;border-collapse: collapse;color: #FFFFFF;font-family: Georgia;font-size: 31px;font-weight: normal;text-align: center;text-decoration: none;"><a href="http://xinchejian.com/event2/upcoming-workshop/?ee=195" target="_self" style="color: #FFFFFF;font-family: Georgia;font-size: 31px;font-weight: normal;text-align: center;text-decoration: none;"><i>Sing up!</i></a></td><br />
+                                                                            </tr><br />
+                                                                        </table><br />
+                                                                    </td><br />
+                                                                </tr><br />
+                                                            </table><br />
+                                                        </td><br />
+                                                    </tr><br />
+                                                </table><br />
+                                            </td><br />
+                                        </tr></p>
 <tr mc:repeatable="repeat_2" mc:repeatindex="0">
 <td align="center" valign="top" style="padding-top: 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="520">
@@ -376,21 +376,21 @@ comments: []
 <table border="0" cellpadding="10" cellspacing="0" width="100%" class="productImageBlock" style="border: 1px solid #BBBBBB;background-color: #DEE0E2;">
 <tr>
 <td width="230" style="border-collapse: collapse;">
-                                                                    	<img src="http:&#47;&#47;gallery.mailchimp.com&#47;98ab15cb868dfa090df3d6f81&#47;images&#47;untitled.4.1.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 152px;width: 230px;margin: 0;padding: 0;max-width: 230px;line-height: 100%;outline: none;text-decoration: none;" width="230" height="152" class="productImage"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr><br />
-                                                            <&#47;table><br />
-                                                        <&#47;td></p>
+                                                                    	<img src="http://gallery.mailchimp.com/98ab15cb868dfa090df3d6f81/images/untitled.4.1.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 152px;width: 230px;margin: 0;padding: 0;max-width: 230px;line-height: 100%;outline: none;text-decoration: none;" width="230" height="152" class="productImage"><br />
+                                                                    </td><br />
+                                                                </tr><br />
+                                                            </table><br />
+                                                        </td></p>
 <td width="20" style="border-collapse: collapse;">
                                                         	<br><br />
-                                                        <&#47;td></p>
+                                                        </td></p>
 <td valign="top" width="250" style="border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td class="borderBar" background="http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png" style="border-collapse: collapse;background-image: url(http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
-                                                                        <img src="http:&#47;&#47;gallery.mailchimp.com&#47;2425ea8ad3&#47;images&#47;blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr></p>
+<td class="borderBar" background="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style="border-collapse: collapse;background-image: url(http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
+                                                                    </td><br />
+                                                                </tr></p>
 <tr>
 <td valign="top" class="lowerBodyContent" style="padding-top: 15px;border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 14px;line-height: 125%;text-align: left;">
 <h2 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 24px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
@@ -398,12 +398,12 @@ comments: []
 	(Nov 16 2pm)<br><br />
 	<br><br />
 	虫虫机器人<br><br />
-	(11月16号 2pm)<&#47;h2></p>
+	(11月16号 2pm)</h2></p>
 <p style="font-size: 13px; color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">
-	<strong>Come build your world-destroying INSECTBOT.<&#47;strong><&#47;p></p>
+	<strong>Come build your world-destroying INSECTBOT.</strong></p></p>
 <p style="font-size: 13px; color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">
 	Audience: any person aged from 5 ~ 99 interested in robotics ;-)<br><br />
-	Bring your own notebook<&#47;p></p>
+	Bring your own notebook</p></p>
 <p style="font-size: 13px; color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">
 	The Insectbot kit includes the following:<br><br />
 	－ Arduino board<br><br />
@@ -411,46 +411,46 @@ comments: []
 	－ 1 Ultrasound distance sensor<br><br />
 	－ Other materials for the robot structures<br><br />
 	<br><br />
-	参加人员：5岁到99岁对机器人有兴趣的小朋友！;-)<&#47;p></p>
+	参加人员：5岁到99岁对机器人有兴趣的小朋友！;-)</p></p>
 <p style="font-size: 13px; color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">
 	需要自己准备笔记本<br><br />
 	包含下列材料：<br><br />
 	－ Arduino微控制器板<br><br />
 	－ 舵机2个<br><br />
 	－ 超音波距离传感器1个<br><br />
-	－ 其他机器人结构材料<&#47;p><br />
-<&#47;td><br />
-                                                                <&#47;tr></p>
+	－ 其他机器人结构材料</p><br />
+</td><br />
+                                                                </tr></p>
 <tr>
 <td align="left" valign="top" style="padding-top: 20px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" class="lowerBodyContent" style="border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 14px;line-height: 125%;text-align: left;">
 <h4 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 12px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	<strong>4 hours workshop<&#47;strong><&#47;h4></p>
+	<strong>4 hours workshop</strong></h4></p>
 <h2 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 24px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	<span style="font-size:32px;"><span style="background-color: rgb(246, 246, 246); color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px;">&yen;250<&#47;span><&#47;span><&#47;h2><br />
-<&#47;td></p>
+	<span style="font-size:32px;"><span style="background-color: rgb(246, 246, 246); color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px;">&yen;250</span></span></h2><br />
+</td></p>
 <td width="20" style="border-collapse: collapse;">
                                                                                 	<br><br />
-                                                                                <&#47;td></p>
+                                                                                </td></p>
 <td align="right" valign="top" style="border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" class="lowerTemplateButton" style="-moz-border-radius: 5px;-webkit-border-radius: 5px;background-color: #ED5E29;border-radius: 5px;">
 <tr>
-<td align="center" valign="middle" class="lowerTemplateButtonContent" style="padding-top: 15px;padding-right: 20px;padding-bottom: 15px;padding-left: 20px;border-collapse: collapse;color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><a href="http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=196" target="_self" style="color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><i>Sign Up!<&#47;i><&#47;a><&#47;td><br />
-                                                                                        <&#47;tr><br />
-                                                                                    <&#47;table><br />
-                                                                                <&#47;td><br />
-                                                                            <&#47;tr><br />
-                                                                        <&#47;table><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr><br />
-                                                            <&#47;table><br />
-                                                        <&#47;td><br />
-                                                    <&#47;tr><br />
-                                                <&#47;table><br />
-                                            <&#47;td><br />
-                                        <&#47;tr><br />
+<td align="center" valign="middle" class="lowerTemplateButtonContent" style="padding-top: 15px;padding-right: 20px;padding-bottom: 15px;padding-left: 20px;border-collapse: collapse;color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><a href="http://xinchejian.com/event2/upcoming-workshop/?ee=196" target="_self" style="color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><i>Sign Up!</i></a></td><br />
+                                                                                        </tr><br />
+                                                                                    </table><br />
+                                                                                </td><br />
+                                                                            </tr><br />
+                                                                        </table><br />
+                                                                    </td><br />
+                                                                </tr><br />
+                                                            </table><br />
+                                                        </td><br />
+                                                    </tr><br />
+                                                </table><br />
+                                            </td><br />
+                                        </tr><br />
 <tr mc:repeatable="repeat_2" mc:repeatindex="1">
 <td align="center" valign="top" style="padding-top: 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="520">
@@ -459,82 +459,82 @@ comments: []
 <table border="0" cellpadding="10" cellspacing="0" width="100%" class="productImageBlock" style="border: 1px solid #BBBBBB;background-color: #DEE0E2;">
 <tr>
 <td width="230" style="border-collapse: collapse;">
-                                                                    	<img src="http:&#47;&#47;gallery.mailchimp.com&#47;98ab15cb868dfa090df3d6f81&#47;images&#47;untitled.5.1.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 131px;width: 230px;margin: 0;padding: 0;max-width: 230px;line-height: 100%;outline: none;text-decoration: none;" width="230" height="131" class="productImage"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr><br />
-                                                            <&#47;table><br />
-                                                        <&#47;td></p>
+                                                                    	<img src="http://gallery.mailchimp.com/98ab15cb868dfa090df3d6f81/images/untitled.5.1.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 131px;width: 230px;margin: 0;padding: 0;max-width: 230px;line-height: 100%;outline: none;text-decoration: none;" width="230" height="131" class="productImage"><br />
+                                                                    </td><br />
+                                                                </tr><br />
+                                                            </table><br />
+                                                        </td></p>
 <td width="20" style="border-collapse: collapse;">
                                                         	<br><br />
-                                                        <&#47;td></p>
+                                                        </td></p>
 <td valign="top" width="250" style="border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td class="borderBar" background="http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png" style="border-collapse: collapse;background-image: url(http:&#47;&#47;gallery.mailchimp.com&#47;27aac8a65e64c994c4416d6b8&#47;images&#47;diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
-                                                                        <img src="http:&#47;&#47;gallery.mailchimp.com&#47;2425ea8ad3&#47;images&#47;blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr></p>
+<td class="borderBar" background="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style="border-collapse: collapse;background-image: url(http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;"><br />
+                                                                    </td><br />
+                                                                </tr></p>
 <tr>
 <td valign="top" class="lowerBodyContent" style="padding-top: 15px;border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 14px;line-height: 125%;text-align: left;">
 <h2 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 24px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	Get Started with Arduino&nbsp;<&#47;h2><br />
-<span style="font-size:18px;">(Nov 17)<&#47;span><br><br />
+	Get Started with Arduino&nbsp;</h2><br />
+<span style="font-size:18px;">(Nov 17)</span><br><br />
 <br><br />
 <span style="font-size:24px;">Arduino入门工作坊<br><br />
-<span style="font-size:18px;">(11月17号)<&#47;span><&#47;span><br><br />
+<span style="font-size:18px;">(11月17号)</span></span><br><br />
 <br><br />
-<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">Content of the workshop:<&#47;span><br style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);"><br />
-<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">* Introduction to Arduino: board, IDE<&#47;span><br style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);"><br />
-<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">* Build a few interesting circuit with a breadboard and Protoboard (soldering)<&#47;span><br style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);"><br />
-<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">* Followed by a discussion and Q&amp;A<&#47;span><br><br />
+<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">Content of the workshop:</span><br style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);"><br />
+<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">* Introduction to Arduino: board, IDE</span><br style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);"><br />
+<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">* Build a few interesting circuit with a breadboard and Protoboard (soldering)</span><br style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);"><br />
+<span style="color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px; background-color: rgb(246, 246, 246);">* Followed by a discussion and Q&amp;A</span><br><br />
 <br><br />
-<span style="background-color: rgb(246, 246, 246); color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px;">内容：<&#47;span><br></p>
+<span style="background-color: rgb(246, 246, 246); color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; font-size: 13px; line-height: 19px;">内容：</span><br></p>
 <p style="font-size: 13px; color: rgb(0, 0, 0); font-family: Georgia, Baskerville, Palatino, Times; line-height: 19px; background-color: rgb(246, 246, 246);">
-	* 入门Arduino（IDE &#47;编程&#47;挂接传感器）<br><br />
+	* 入门Arduino（IDE /编程/挂接传感器）<br><br />
 	* 动手做几个简单的电路与编程、实验板焊接<br><br />
-	* 讨论与问答<&#47;p></p>
+	* 讨论与问答</p></p>
 <div>
-	&nbsp;<&#47;div><br />
-<&#47;td><br />
-                                                                <&#47;tr></p>
+	&nbsp;</div><br />
+</td><br />
+                                                                </tr></p>
 <tr>
 <td align="left" valign="top" style="padding-top: 20px;border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" class="lowerBodyContent" style="border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 14px;line-height: 125%;text-align: left;">
 <h4 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 12px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	<strong>4 hours workshop<&#47;strong><&#47;h4></p>
+	<strong>4 hours workshop</strong></h4></p>
 <h2 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 24px;font-weight: normal;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
-	&yen;150<&#47;h2><br />
-<&#47;td></p>
+	&yen;150</h2><br />
+</td></p>
 <td width="20" style="border-collapse: collapse;">
                                                                                 	<br><br />
-                                                                                <&#47;td></p>
+                                                                                </td></p>
 <td align="right" valign="top" style="border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" class="lowerTemplateButton" style="-moz-border-radius: 5px;-webkit-border-radius: 5px;background-color: #ED5E29;border-radius: 5px;">
 <tr>
-<td align="center" valign="middle" class="lowerTemplateButtonContent" style="padding-top: 15px;padding-right: 20px;padding-bottom: 15px;padding-left: 20px;border-collapse: collapse;color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><a href="http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=23" target="_self" style="color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><i>Sign Up!<&#47;i><&#47;a><&#47;td><br />
-                                                                                        <&#47;tr><br />
-                                                                                    <&#47;table><br />
-                                                                                <&#47;td><br />
-                                                                            <&#47;tr><br />
-                                                                        <&#47;table><br />
-                                                                    <&#47;td><br />
-                                                                <&#47;tr><br />
-                                                            <&#47;table><br />
-                                                        <&#47;td><br />
-                                                    <&#47;tr><br />
-                                                <&#47;table><br />
-                                            <&#47;td><br />
-                                        <&#47;tr><br />
-                                    <&#47;table><br />
+<td align="center" valign="middle" class="lowerTemplateButtonContent" style="padding-top: 15px;padding-right: 20px;padding-bottom: 15px;padding-left: 20px;border-collapse: collapse;color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><a href="http://xinchejian.com/event2/upcoming-workshop/?ee=23" target="_self" style="color: #FFFFFF;font-family: Georgia;font-size: 19px;font-weight: normal;text-align: center;text-decoration: none;"><i>Sign Up!</i></a></td><br />
+                                                                                        </tr><br />
+                                                                                    </table><br />
+                                                                                </td><br />
+                                                                            </tr><br />
+                                                                        </table><br />
+                                                                    </td><br />
+                                                                </tr><br />
+                                                            </table><br />
+                                                        </td><br />
+                                                    </tr><br />
+                                                </table><br />
+                                            </td><br />
+                                        </tr><br />
+                                    </table><br />
                                     <!-- END BODY \\ --><br />
-                                <&#47;td><br />
-                            <&#47;tr><br />
-                        <&#47;table><br />
+                                </td><br />
+                            </tr><br />
+                        </table><br />
                         <!-- END CONTAINER \\ --><br />
-                    <&#47;td><br />
-                <&#47;tr><br />
-            <&#47;table><br />
-        <&#47;center><br />
-<&#47;div></p>
+                    </td><br />
+                </tr><br />
+            </table><br />
+        </center><br />
+</div></p>

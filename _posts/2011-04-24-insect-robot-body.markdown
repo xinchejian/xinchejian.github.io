@@ -35,59 +35,59 @@ comments:
     Africa"
 ---
 <p><!--:en--></p>
-<h1>Insect Robot Body<&#47;h1></p>
-<p>Inspired by <a href="http:&#47;&#47;xinchejian.com&#47;2011&#47;04&#47;11&#47;insect-robot-from-lumi&#47;">Lumi's Insect Robot<&#47;a>, we had our <a href="http:&#47;&#47;xinchejian.com&#47;2011&#47;04&#47;18&#47;insect-robot-workshop&#47;">first insect robot workshop<&#47;a> today.<&#47;p></p>
-<p>The BOM<&#47;p></p>
+<h1>Insect Robot Body</h1></p>
+<p>Inspired by <a href="http://xinchejian.com/2011/04/11/insect-robot-from-lumi/">Lumi's Insect Robot</a>, we had our <a href="http://xinchejian.com/2011/04/18/insect-robot-workshop/">first insect robot workshop</a> today.</p></p>
+<p>The BOM</p></p>
 <ul>
-<li>Cloth hanger<&#47;li>
-<li>9v battery<&#47;li>
-<li>Batter Holder<&#47;li>
-<li>Ultrasound Distance Sensor<&#47;li>
-<li>Servo<&#47;li>
-<li>Arduino UNO<&#47;li>
-<li>Velcro!!!<&#47;li><br />
-<&#47;ul></p>
+<li>Cloth hanger</li>
+<li>9v battery</li>
+<li>Batter Holder</li>
+<li>Ultrasound Distance Sensor</li>
+<li>Servo</li>
+<li>Arduino UNO</li>
+<li>Velcro!!!</li><br />
+</ul></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"&#47;><br />
-<&#47;p><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"/><br />
+</p><br />
 <!--:--><br />
 <!--:zh--></p>
-<h1>虫虫机器人的身体<&#47;h1></p>
-<p>我们今天办了第一个<a href="http:&#47;&#47;xinchejian.com&#47;2011&#47;04&#47;11&#47;insect-robot-from-lumi&#47;">Lumi's 虫虫机器人<&#47;a>的<a href="http:&#47;&#47;xinchejian.com&#47;2011&#47;04&#47;18&#47;insect-robot-workshop&#47;">工作坊<&#47;a><&#47;p></p>
-<p>材料<&#47;p></p>
+<h1>虫虫机器人的身体</h1></p>
+<p>我们今天办了第一个<a href="http://xinchejian.com/2011/04/11/insect-robot-from-lumi/">Lumi's 虫虫机器人</a>的<a href="http://xinchejian.com/2011/04/18/insect-robot-workshop/">工作坊</a></p></p>
+<p>材料</p></p>
 <ul>
-<li>钢丝衣架<&#47;li>
-<li>9v 电池和电池盒<&#47;li>
-<li>超音波距离传感器<&#47;li>
-<li>舵机<&#47;li>
-<li>Arduino UNO<&#47;li>
-<li>Velcro!!!<&#47;li><br />
-<&#47;ul></p>
+<li>钢丝衣架</li>
+<li>9v 电池和电池盒</li>
+<li>超音波距离传感器</li>
+<li>舵机</li>
+<li>Arduino UNO</li>
+<li>Velcro!!!</li><br />
+</ul></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"/><br />
+</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"&#47;><br />
-<&#47;p><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"/><br />
+</p><br />
 <!--:--></p>

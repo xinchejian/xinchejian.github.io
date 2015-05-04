@@ -19,9 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;DSC_6740.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;DSC_6740-290x290.jpg" alt="DSC_6740" width="290" height="290" class="aligncenter size-thumbnail wp-image-6956" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;mrt" target="_blank" title="立即报名">Register 报名参加<&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/10/DSC_6740.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/DSC_6740-290x290.jpg" alt="DSC_6740" width="290" height="290" class="aligncenter size-thumbnail wp-image-6956" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/mrt" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:en--><br />
 XINCHEJIAN MEMBERS ONLY!<br />
 For members who don&rsquo;t know how to handle the tools safely and correctly, this is your chance to learn to operate the tools in the right way and to protect yourself from getting injured. We&rsquo;ve got some dangerous tools there in the machine room. You don&rsquo;t want to mishandle these ones.<br />

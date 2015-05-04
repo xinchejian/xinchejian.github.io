@@ -38,13 +38,13 @@ comments:
     when people touch it. ;) Hmm... Wonder how the sensor will work with the big tank
     of water. ;)
 ---
-<p><!--:en--><a href="http:&#47;&#47;xinchejian.com&#47;2011&#47;09&#47;15&#47;ultrasonic-fogger-aeroponics&#47;">The fogger box<&#47;a> has been working well. The transplants have been growing root rapidly after just few days.<br />
-<br &#47;><br &#47;></p>
-<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;IMG_2220.jpg" alt="IMG 2220" title="IMG_2220.JPG" border="0"&#47;></p>
-<p><center><a href='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg'><img width="300" height="400" src='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg' border='0' style='margin:5px'><&#47;a><&#47;center><br &#47;><br &#47;><br &#47;></p>
-<p><center><a href='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;E645378E-5AC0-4ED1-AF74-87527C152F642.jpg'><img width="300" height="400" src='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;E645378E-5AC0-4ED1-AF74-87527C152F642.jpg' border='0' style='margin:5px'><&#47;a><&#47;center><br &#47;>- Posted using BlogPress from my iPhone<br &#47;><!--:--><!--:zh--></p>
-<p><a href="http:&#47;&#47;xinchejian.com&#47;2011&#47;09&#47;15&#47;ultrasonic-fogger-aeroponics&#47;">雾气箱<&#47;a>的效果非常的好，几天的时间，移植的植物就开始长出很漂亮的根。</p>
-<p><br &#47;><br &#47;></p>
-<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;IMG_2220.jpg" alt="IMG 2220" title="IMG_2220.JPG" border="0"&#47;></p>
-<p><center><a href='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg'><img width="300" height="400" src='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg' border='0' style='margin:5px'><&#47;a><&#47;center><br &#47;><br &#47;><br &#47;></p>
-<p><center><a href='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;E645378E-5AC0-4ED1-AF74-87527C152F642.jpg'><img width="300" height="400" src='http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;E645378E-5AC0-4ED1-AF74-87527C152F642.jpg' border='0' style='margin:5px'><&#47;a><&#47;center><br &#47;>- Posted using BlogPress from my iPhone<br &#47;><!--:--></p>
+<p><!--:en--><a href="http://xinchejian.com/2011/09/15/ultrasonic-fogger-aeroponics/">The fogger box</a> has been working well. The transplants have been growing root rapidly after just few days.<br />
+<br /><br /></p>
+<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/09/IMG_2220.jpg" alt="IMG 2220" title="IMG_2220.JPG" border="0"/></p>
+<p><center><a href='http://xinchejian.com/wp-content/uploads/2011/09/2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg'><img width="300" height="400" src='http://xinchejian.com/wp-content/uploads/2011/09/2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg' border='0' style='margin:5px'></a></center><br /><br /><br /></p>
+<p><center><a href='http://xinchejian.com/wp-content/uploads/2011/09/E645378E-5AC0-4ED1-AF74-87527C152F642.jpg'><img width="300" height="400" src='http://xinchejian.com/wp-content/uploads/2011/09/E645378E-5AC0-4ED1-AF74-87527C152F642.jpg' border='0' style='margin:5px'></a></center><br />- Posted using BlogPress from my iPhone<br /><!--:--><!--:zh--></p>
+<p><a href="http://xinchejian.com/2011/09/15/ultrasonic-fogger-aeroponics/">雾气箱</a>的效果非常的好，几天的时间，移植的植物就开始长出很漂亮的根。</p>
+<p><br /><br /></p>
+<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/09/IMG_2220.jpg" alt="IMG 2220" title="IMG_2220.JPG" border="0"/></p>
+<p><center><a href='http://xinchejian.com/wp-content/uploads/2011/09/2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg'><img width="300" height="400" src='http://xinchejian.com/wp-content/uploads/2011/09/2FF0C230-4A27-437B-AD02-3191D6CB90063.jpg' border='0' style='margin:5px'></a></center><br /><br /><br /></p>
+<p><center><a href='http://xinchejian.com/wp-content/uploads/2011/09/E645378E-5AC0-4ED1-AF74-87527C152F642.jpg'><img width="300" height="400" src='http://xinchejian.com/wp-content/uploads/2011/09/E645378E-5AC0-4ED1-AF74-87527C152F642.jpg' border='0' style='margin:5px'></a></center><br />- Posted using BlogPress from my iPhone<br /><!--:--></p>

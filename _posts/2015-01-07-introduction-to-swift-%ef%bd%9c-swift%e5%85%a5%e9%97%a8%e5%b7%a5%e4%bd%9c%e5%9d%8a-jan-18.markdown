@@ -19,12 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;01&#47;Screen-Shot-2014-06-03-at-6.47.25-am.png"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;01&#47;Screen-Shot-2014-06-03-at-6.47.25-am-290x290.png" alt="Screen-Shot-2014-06-03-at-6.47.25-am" width="290" height="290" class="aligncenter size-thumbnail wp-image-7093" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;2263877664400" target="_blank" title="立即报名">Register 报名参加<&#47;a></p>
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2015/01/Screen-Shot-2014-06-03-at-6.47.25-am.png"><img src="http://xinchejian.com/wp-content/uploads/2015/01/Screen-Shot-2014-06-03-at-6.47.25-am-290x290.png" alt="Screen-Shot-2014-06-03-at-6.47.25-am" width="290" height="290" class="aligncenter size-thumbnail wp-image-7093" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/2263877664400" target="_blank" title="立即报名">Register 报名参加</a></p>
 <p><!--:en--><br />
 Fee: rmb200; for xcj member rmb150.<br />
-Swift is a new programming language introduced by Apple in 2014 with the intent to gradually replace Objective-C. It allows developers to build applications for both OS  X and iOS. In this class, you will learn the basics of Swift including built-in data types and data structures, control flow, basic input&#47;output, error handling and more.<br />
+Swift is a new programming language introduced by Apple in 2014 with the intent to gradually replace Objective-C. It allows developers to build applications for both OS  X and iOS. In this class, you will learn the basics of Swift including built-in data types and data structures, control flow, basic input/output, error handling and more.<br />
 Requirements: MacBook with Xcode 6.1 or later. You can download Xcode for free from the Mac App Store.<br />
 <!--:--><br />
 <!--:zh--><br />

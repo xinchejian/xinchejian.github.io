@@ -20,9 +20,9 @@ tags: []
 comments: []
 ---
 <p>Saturday, September 13, 2014 10:00 - 12:00 AM<br />
-<a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;th.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;th-290x176.jpg" alt="th" width="290" height="176" class="aligncenter size-thumbnail wp-image-6639" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;flex" target="_blank" title="立即报名">立即报名 Register<&#47;a><br />
+<a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/08/th.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/08/th-290x176.jpg" alt="th" width="290" height="176" class="aligncenter size-thumbnail wp-image-6639" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/flex" target="_blank" title="立即报名">立即报名 Register</a><br />
 <!--:zh--><br />
 喜欢飞行器滴童鞋们快来加入兴趣小组吧！新车间会员免费！<br />
 Flexbot将在创客空间新车间首次组织爱好者小组，让创客们开始更多的了解飞行器，并继续设计各种开源小型飞行器，把自己的创造也加入到飞行器的设计中。<br />

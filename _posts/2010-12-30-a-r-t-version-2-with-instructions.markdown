@@ -21,8 +21,8 @@ tags:
 - A.R.T.
 comments: []
 ---
-<p>Today I built a second new A.R.T. to test new configurations.<&#47;p></p>
-<p>It's also because it is a bit frustrating not to have a working version at all times for demos while I'm trying out new mechanical layouts...  I took the opportunity to write down a detailed list of parts, tools and steps that I've checked in to github (note that I have not finished as I still have to solve the ranging sensor and write a new program):<&#47;p></p>
-<p><a href="https:&#47;&#47;github.com&#47;rngadam&#47;ART&#47;blob&#47;master&#47;ART_Control3&#47;BUILD.txt">https:&#47;&#47;github.com&#47;rngadam&#47;ART&#47;blob&#47;master&#47;ART_Control3&#47;BUILD.txt<&#47;a><&#47;p></p>
-<p>See gallery for pictures...<&#47;p></p>
-<p>[gallery link="file"]<&#47;p></p>
+<p>Today I built a second new A.R.T. to test new configurations.</p></p>
+<p>It's also because it is a bit frustrating not to have a working version at all times for demos while I'm trying out new mechanical layouts...  I took the opportunity to write down a detailed list of parts, tools and steps that I've checked in to github (note that I have not finished as I still have to solve the ranging sensor and write a new program):</p></p>
+<p><a href="https://github.com/rngadam/ART/blob/master/ART_Control3/BUILD.txt">https://github.com/rngadam/ART/blob/master/ART_Control3/BUILD.txt</a></p></p>
+<p>See gallery for pictures...</p></p>
+<p>[gallery link="file"]</p></p>

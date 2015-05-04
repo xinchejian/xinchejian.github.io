@@ -20,10 +20,10 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111115_232616.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111115_225233.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111115_221915.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111115_221841.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111115_221811.jpg" &#47;></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111115_232616.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111115_225233.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111115_221915.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111115_221841.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111115_221811.jpg" /></p>
 <p>Laser microscope, pcb printing, arcade cabinet making, lego mindstorm building, busting Pandaboard Linux config... Busy evening!<br><br />
-<&#47;p></p>
+</p></p>

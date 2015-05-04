@@ -29,4 +29,4 @@ comments: []
 <p>1. Don't feed them. Roger and I will put them on scheduled diet. </p>
 <p>2. No netting them out of water. It's bad for the fishes. </p>
 <p>3. Do not name them. It will make it much harder to turn them into delicious fish sticks if they have names. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;photo.jpg" alt="Photo" title="photo.JPG" border="0" width="320" height="240" &#47;></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/07/photo.jpg" alt="Photo" title="photo.JPG" border="0" width="320" height="240" /></p>

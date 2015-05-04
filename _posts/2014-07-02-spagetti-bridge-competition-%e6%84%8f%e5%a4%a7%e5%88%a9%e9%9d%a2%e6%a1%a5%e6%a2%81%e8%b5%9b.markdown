@@ -19,13 +19,13 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;07&#47;IMAG0150.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;07&#47;IMAG0150-290x290.jpg" alt="IMAG0150" width="290" height="290" class="aligncenter size-thumbnail wp-image-6513" &#47;><&#47;a><br />
-<a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(255, 153, 0);" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808146acac6f0146f63086474417" target="_blank" id="ied_button_show" alt="购买门票Spagetti bridge competition 意大利面桥梁赛" title="购买门票">Register 报名参加<&#47;a><br />
-Date: Saturday July 12 @ <strong>1:00 PM &ndash; 5:00 PM<&#47;strong><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/07/IMAG0150.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/07/IMAG0150-290x290.jpg" alt="IMAG0150" width="290" height="290" class="aligncenter size-thumbnail wp-image-6513" /></a><br />
+<a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(255, 153, 0);" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f0146f63086474417" target="_blank" id="ied_button_show" alt="购买门票Spagetti bridge competition 意大利面桥梁赛" title="购买门票">Register 报名参加</a><br />
+Date: Saturday July 12 @ <strong>1:00 PM &ndash; 5:00 PM</strong><br />
 日期：7月12号星期六下午1点-5点。<br />
 Location: XinCheJian, F1 of building 3, No. 28 East Yuyuan Road<br />
 地点：新车间，愚园东路28号3号楼一楼西侧。<br />
-Fee: free for Members; <strong>RMB100 for nonmembers<&#47;strong>.<br />
+Fee: free for Members; <strong>RMB100 for nonmembers</strong>.<br />
 费用：会员免费，非会员100块。<br />
 Who among you can build the mightiest bridge? Who has the superior spaghetti engineering skills? For those of you brave enough, register to join the fun on Saturday July 12th!<br />
 Form your own team or join one, and get ready to architect and construct a bridge made out of spaghetti.<br />

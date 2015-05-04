@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Design a Block Language for Arduino http:&#47;&#47;xinchejian.com&#47;?p=479</p>
+<p>#xinchejian: Design a Block Language for Arduino http://xinchejian.com/?p=479</p>

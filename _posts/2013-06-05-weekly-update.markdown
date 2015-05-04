@@ -29,16 +29,16 @@ comments:
   author_url: http://facebook.com/profile.php?id=608365948
   date: '2013-06-05 15:46:43 +0800'
   date_gmt: '2013-06-05 07:46:43 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=608365948" target="_blank">Denisa
-    Kera<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=608365948" target="_blank">Denisa
+    Kera</a> liked this on Facebook.
 - id: 18411
   author: Ingrid Fischer-Schreiber
   author_email: facebook.1147204132@example.com
   author_url: http://facebook.com/profile.php?id=1147204132
   date: '2013-06-05 18:46:06 +0800'
   date_gmt: '2013-06-05 10:46:06 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=1147204132" target="_blank">Ingrid
-    Fischer-Schreiber<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=1147204132" target="_blank">Ingrid
+    Fischer-Schreiber</a> liked this on Facebook.
 - id: 18463
   author: Aaron Long
   author_email: aaronlong1982@gmail.com
@@ -49,10 +49,10 @@ comments:
 ---
 <p><!--:en--><br />
 1. Shanghai Library - XinCheJian just launched an event in cooperation with the Shanghai Library (exit line 10.. shanghai library) projects are being displayed on the 3rd floor and will be rotated throughout the month - check it out daily.</p>
-<p>2. Doodlebot competition offering - buy now, 190rmb for the robot, order today to sachsenpower@gmail.com but you will be on the hook for the cash if you change your mind! Read more here about the competition - http:&#47;&#47;letsmakerobots.com&#47;node&#47;37126</p>
+<p>2. Doodlebot competition offering - buy now, 190rmb for the robot, order today to sachsenpower@gmail.com but you will be on the hook for the cash if you change your mind! Read more here about the competition - http://letsmakerobots.com/node/37126</p>
 <p>3. It's time to buy stuff.. everything must go, ask about Mitch Altman kits to get started in electronics.</p>
 <p>4. Don't forget to renew your membership! If you aren't sure, talk to a staff member.</p>
-<p><strong>Wednesday's Presentations<&#47;strong></p>
+<p><strong>Wednesday's Presentations</strong></p>
 <p>IoT - Rob van Kranenburg<br />
 Dr. J. (Sjaak) Wolfert: SmartAgriFood<br />
 David Li: Makers and IoT<br />

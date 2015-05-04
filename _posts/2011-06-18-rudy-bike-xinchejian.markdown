@@ -64,16 +64,16 @@ comments:
   content: We'll forward his contact info to you by email, please send an email to
     info@xinchejian.com, thanks!
 ---
-<p>We are really happy to have the opportunities in hosting the <a href="http:&#47;&#47;rudybike.com">Rudy Bike<&#47;a> in the past few weeks so they can finish the bike for the Demo Day. Rudy Bike is a cool looking electric bike controlled by Arduino and Android.<&#47;p></p>
+<p>We are really happy to have the opportunities in hosting the <a href="http://rudybike.com">Rudy Bike</a> in the past few weeks so they can finish the bike for the Demo Day. Rudy Bike is a cool looking electric bike controlled by Arduino and Android.</p></p>
 <p>
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5842011704&#47;" title="Rudy Bike by xxom, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5067&#47;5842011704_76c5c81177.jpg" alt="Rudy Bike"><&#47;a><br />
-<&#47;p></p>
+<a href="http://www.flickr.com/photos/taweili/5842011704/" title="Rudy Bike by xxom, on Flickr"><img src="http://farm6.static.flickr.com/5067/5842011704_76c5c81177.jpg" alt="Rudy Bike"></a><br />
+</p></p>
 <p>
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5841461861&#47;" title="Rudy Bike by xxom, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5072&#47;5841461861_4ca89d9620.jpg"alt="Rudy Bike"><&#47;a><br />
-<&#47;p></p>
+<a href="http://www.flickr.com/photos/taweili/5841461861/" title="Rudy Bike by xxom, on Flickr"><img src="http://farm6.static.flickr.com/5072/5841461861_4ca89d9620.jpg"alt="Rudy Bike"></a><br />
+</p></p>
 <p>
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5842008458&#47;" title="Rudy Bike by xxom, on Flickr"><img src="http:&#47;&#47;farm4.static.flickr.com&#47;3324&#47;5842008458_785d85fedb.jpg"alt="Rudy Bike"><&#47;a><br />
-<&#47;p></p>
+<a href="http://www.flickr.com/photos/taweili/5842008458/" title="Rudy Bike by xxom, on Flickr"><img src="http://farm4.static.flickr.com/3324/5842008458_785d85fedb.jpg"alt="Rudy Bike"></a><br />
+</p></p>
 <p>
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5842007318&#47;" title="Rudy Bike by xxom, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5073&#47;5842007318_1a49c8b09b.jpg"alt="Rudy Bike"><&#47;a><br />
-<&#47;p></p>
+<a href="http://www.flickr.com/photos/taweili/5842007318/" title="Rudy Bike by xxom, on Flickr"><img src="http://farm6.static.flickr.com/5073/5842007318_1a49c8b09b.jpg"alt="Rudy Bike"></a><br />
+</p></p>

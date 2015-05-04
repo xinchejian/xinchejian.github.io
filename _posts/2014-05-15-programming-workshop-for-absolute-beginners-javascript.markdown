@@ -24,34 +24,34 @@ comments:
   author_url: https://facebook.com/profile.php?id=100002313386916
   date: '2014-05-15 14:25:03 +0800'
   date_gmt: '2014-05-15 06:25:03 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002313386916"
-    target="_blank">Jerry Liang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100002313386916"
+    target="_blank">Jerry Liang</a> liked this on Facebook.
 - id: 25249
   author: Paul Yang
   author_email: facebook.100000324397404@example.com
   author_url: https://facebook.com/profile.php?id=100000324397404
   date: '2014-05-15 20:53:53 +0800'
   date_gmt: '2014-05-15 12:53:53 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000324397404"
-    target="_blank">Paul Yang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000324397404"
+    target="_blank">Paul Yang</a> liked this on Facebook.
 - id: 25250
   author: Cathy Hsu
   author_email: facebook.843488@example.com
   author_url: https://facebook.com/profile.php?id=843488
   date: '2014-05-15 20:53:54 +0800'
   date_gmt: '2014-05-15 12:53:54 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=843488" target="_blank">Cathy
-    Hsu<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=843488" target="_blank">Cathy
+    Hsu</a> liked this on Facebook.
 - id: 25811
   author: Lionello Lunesu
   author_email: facebook.1195917587@example.com
   author_url: https://facebook.com/profile.php?id=1195917587
   date: '2014-05-27 22:58:25 +0800'
   date_gmt: '2014-05-27 14:58:25 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1195917587" target="_blank">Lionello
-    Lunesu<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1195917587" target="_blank">Lionello
+    Lunesu</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;javascript.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;javascript-290x290.jpg" alt="javascript" width="290" height="290" class="aligncenter size-thumbnail wp-image-6374" &#47;><&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/05/javascript.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/05/javascript-290x290.jpg" alt="javascript" width="290" height="290" class="aligncenter size-thumbnail wp-image-6374" /></a><br />
 Fee费用: RMB150<br />
 Time时间: 2pm - 5pm, May 25th 5月25号下午2点-5点<br />
 Location地点: XinCheJian, sw corner of SOHO Donghai Plaza, 299 Tongren Road. 新车间，铜仁路299号，soho东海广场西南角<br />
@@ -69,4 +69,4 @@ Even though we are using javascript as the language, but we will be focused on t
 本次工作坊讲解的javascript语言侧重编程基础，不会涉及网页或网站制作。<br />
 Requirement: Bring your own laptop with a functioning modern web browser and text editor of your own choice.<br />
 参加工作坊时请携带安装了较新版浏览器和文本编辑器的电脑。</p>
-<p><a href="http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=222">Please sign up here 报名链接<&#47;a></p>
+<p><a href="http://xinchejian.com/event2/upcoming-workshop/?ee=222">Please sign up here 报名链接</a></p>

@@ -26,7 +26,7 @@ comments:
   date_gmt: '2014-10-09 08:42:48 +0800'
   content: |-
     RT @xinchejian: XinCheJian Rasperry Pi Meetup 新车间树莓派小组:
-    Every Sunday at 10am   http:&#47;&#47;t.co&#47;YlZn3Lqak0
+    Every Sunday at 10am   http://t.co/YlZn3Lqak0
 - id: 28018
   author: isaac
   author_email: twitter.56833@example.com
@@ -35,20 +35,20 @@ comments:
   date_gmt: '2014-10-09 08:39:20 +0800'
   content: |-
     RT @xinchejian: XinCheJian Rasperry Pi Meetup 新车间树莓派小组:
-    Every Sunday at 10am   http:&#47;&#47;t.co&#47;YlZn3Lqak0
+    Every Sunday at 10am   http://t.co/YlZn3Lqak0
 - id: 28024
   author: Richard Hsu
   author_email: facebook.571420184@example.com
   author_url: https://facebook.com/profile.php?id=571420184
   date: '2014-10-10 09:56:34 +0800'
   date_gmt: '2014-10-10 01:56:34 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=571420184" target="_blank">Richard
-    Hsu<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=571420184" target="_blank">Richard
+    Hsu</a> liked this on Facebook.
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;27000025_pDVF.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;27000025_pDVF-290x290.jpg" alt="27000025_pDVF" width="290" height="290" class="aligncenter size-thumbnail wp-image-6679" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;RP" target="_blank" title="立即报名">Register报名参加<&#47;a><br />
-<strong>Every Sunday at 10am <&#47;strong><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/10/27000025_pDVF.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/27000025_pDVF-290x290.jpg" alt="27000025_pDVF" width="290" height="290" class="aligncenter size-thumbnail wp-image-6679" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/RP" target="_blank" title="立即报名">Register报名参加</a><br />
+<strong>Every Sunday at 10am </strong><br />
 Free for XCJ members; 100RMB for non members.<br />
 <!--:en--><br />
 Tired of playing with Arduino and want to up the game? Join XinCheJian Raspberry Meetup to do some cool and complicated stuff.<br />

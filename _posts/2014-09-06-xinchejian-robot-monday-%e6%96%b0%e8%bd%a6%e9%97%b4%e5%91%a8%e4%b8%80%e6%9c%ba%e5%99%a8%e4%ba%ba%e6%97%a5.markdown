@@ -26,7 +26,7 @@ comments:
   date: '2014-09-07 01:07:56 +0800'
   date_gmt: '2014-09-06 17:07:56 +0800'
   content: "RT @xinchejian: XinCheJian Robot Monday 新车间周一机器人日: Monday, September 08,
-    2014, 19:00 - 21:00 pm \n ... http:&#47;&#47;t.co&#47;gbv4xBhN83"
+    2014, 19:00 - 21:00 pm \n ... http://t.co/gbv4xBhN83"
 - id: 27183
   author: dixon1e
   author_email: twitter.16919654@example.com
@@ -34,21 +34,21 @@ comments:
   date: '2014-09-06 23:48:32 +0800'
   date_gmt: '2014-09-06 15:48:32 +0800'
   content: "RT @xinchejian: XinCheJian Robot Monday 新车间周一机器人日: Monday, September 08,
-    2014, 19:00 - 21:00 pm \n ... http:&#47;&#47;t.co&#47;gbv4xBhN83"
+    2014, 19:00 - 21:00 pm \n ... http://t.co/gbv4xBhN83"
 - id: 27253
   author: Jerry Liang
   author_email: facebook.100002313386916@example.com
   author_url: https://facebook.com/profile.php?id=100002313386916
   date: '2014-09-11 21:34:21 +0800'
   date_gmt: '2014-09-11 13:34:21 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002313386916"
-    target="_blank">Jerry Liang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100002313386916"
+    target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
 <p>Every Monday from September 08, 2014, 19:00 - 21:00 pm<br />
-<a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
+<a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
 <!--:en--><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;OnlineStore.Box_.20130614h.png"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;OnlineStore.Box_.20130614h-290x290.png" alt="OnlineStore.Box_.20130614h" width="290" height="290" class="aligncenter size-thumbnail wp-image-6653" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;2246903288200" target="_blank" title="立即报名">报名参加 Register<&#47;a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/09/OnlineStore.Box_.20130614h.png"><img src="http://xinchejian.com/wp-content/uploads/2014/09/OnlineStore.Box_.20130614h-290x290.png" alt="OnlineStore.Box_.20130614h" width="290" height="290" class="aligncenter size-thumbnail wp-image-6653" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/event/2246903288200" target="_blank" title="立即报名">报名参加 Register</a><br />
 Are you interested in robots, programming, 3d printing or simply play and have fun making? Well start your week with this cool technology, open to everyone. No initial knowledge required. Come and learn how to make robots with hardware kits and PCB boards based on arduino, 3d print for custom parts; join us every Monday from 7pm.<br />
 The Robot Monday group will be hosting a free exploring workshop for XinCheJian members only from 5pm to 7pm on September 8th, prior to group meetup. Become a XinCheJian member learn about robots.<br />
 <!--:--><br />

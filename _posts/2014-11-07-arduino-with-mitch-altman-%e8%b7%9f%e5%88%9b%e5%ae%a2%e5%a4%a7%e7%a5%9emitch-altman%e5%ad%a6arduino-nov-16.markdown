@@ -26,7 +26,7 @@ comments:
   date: '2014-11-07 17:22:05 +0800'
   date_gmt: '2014-11-07 09:22:05 +0800'
   content: 'RT @xinchejian: Arduino with Mitch Altman 跟创客大神Mitch Altman学Arduino ..
-    http:&#47;&#47;t.co&#47;UsXKCG7zAg'
+    http://t.co/UsXKCG7zAg'
 - id: 28408
   author: tomvanvu
   author_email: twitter.41566711@example.com
@@ -34,9 +34,9 @@ comments:
   date: '2014-11-08 09:32:42 +0800'
   date_gmt: '2014-11-08 01:32:42 +0800'
   content: 'RT @xinchejian: Arduino with Mitch Altman 跟创客大神Mitch Altman学Arduino ..
-    http:&#47;&#47;t.co&#47;UsXKCG7zAg'
+    http://t.co/UsXKCG7zAg'
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a> <a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;11&#47;800px-Arduinos_For_Total_Newbies_workshop.jpg"><img class="aligncenter size-thumbnail wp-image-6988" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;11&#47;800px-Arduinos_For_Total_Newbies_workshop-290x290.jpg" alt="800px-Arduinos_For_Total_Newbies_workshop" width="290" height="290" &#47;><&#47;a> <a style="background-color: #0088cc; color: white; border-radius: 4px; cursor: pointer; font-size: 14px; padding: 6px 20px;" title="立即报名" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;8255090990500" target="_blank">报名参加 Register<&#47;a></p>
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a> <a href="http://xinchejian.com/wp-content/uploads/2014/11/800px-Arduinos_For_Total_Newbies_workshop.jpg"><img class="aligncenter size-thumbnail wp-image-6988" src="http://xinchejian.com/wp-content/uploads/2014/11/800px-Arduinos_For_Total_Newbies_workshop-290x290.jpg" alt="800px-Arduinos_For_Total_Newbies_workshop" width="290" height="290" /></a> <a style="background-color: #0088cc; color: white; border-radius: 4px; cursor: pointer; font-size: 14px; padding: 6px 20px;" title="立即报名" href="http://www.huodongxing.com/event/8255090990500" target="_blank">报名参加 Register</a></p>
 <p><!--:en--><br />
 rmb200 for non xinchejian members and rmb150 for xinchejian members.<br />
 Taught by Mitch Altman.<br />

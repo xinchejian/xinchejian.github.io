@@ -24,18 +24,18 @@ comments:
   author_url: https://facebook.com/profile.php?id=100004293002430
   date: '2013-08-20 16:33:06 +0800'
   date_gmt: '2013-08-20 08:33:06 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100004293002430"
-    target="_blank">Ioanna Tzanetos<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100004293002430"
+    target="_blank">Ioanna Tzanetos</a> liked this on Facebook.
 - id: 20235
   author: Janie Lin
   author_email: facebook.572220355@example.com
   author_url: https://facebook.com/profile.php?id=572220355
   date: '2013-08-20 17:16:09 +0800'
   date_gmt: '2013-08-20 09:16:09 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=572220355" target="_blank">Janie
-    Lin<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=572220355" target="_blank">Janie
+    Lin</a> liked this on Facebook.
 ---
-<p><!--:zh--><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;08&#47;shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;08&#47;shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" &#47;><&#47;a></p>
+<p><!--:zh--><a href="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" /></a></p>
 <p>经由三个月，Make+艺术与科技计划终于将对世界展示自己。欢迎在8月28日到9月2日之间，来上海展览中心-瑞士科技文化中心的展厅看我们的第一个展。展览将展出Make+其中三个项目。到其官网上可以下载免费参观券。kyz.shkp.org.cn</p>
 <p>&nbsp;</p>
 <p>Make+第一站@2013年上海国际科学与艺术展 &ldquo;融合 -- 十年纷呈&rdquo;</p>
@@ -44,8 +44,8 @@ comments:
 <p>2013年8月28日 （9:30 - 16:30）<br />
 2013年8月29日 - 9月1日 （9:00 - 16:30）<br />
 2013年9月2日 （9:00 - 15:00）</p>
-<p><span style="color: #ff0000;">8月28日晚7点，我们还将在新车间庆祝2013年计划的结束。欢迎新车间的各位朋友来玩。下半周将会有更详细的信息。<&#47;span></p>
-<p>Make+计划由林哲水创立，与新车间和视界艺术中心合作，并由DFRobot，swissnex China支持。更多信息，请见我们的官网@makeplus.org 或新浪微博@makeplus-sh<!--:--><!--:en--><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;08&#47;shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;08&#47;shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" &#47;><&#47;a></p>
+<p><span style="color: #ff0000;">8月28日晚7点，我们还将在新车间庆祝2013年计划的结束。欢迎新车间的各位朋友来玩。下半周将会有更详细的信息。</span></p>
+<p>Make+计划由林哲水创立，与新车间和视界艺术中心合作，并由DFRobot，swissnex China支持。更多信息，请见我们的官网@makeplus.org 或新浪微博@makeplus-sh<!--:--><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" /></a></p>
 <p>Make+ Art &amp; Technology program, after three months of hard work, will finally show the world what's it got. Go check out our very first exhibition at the swissnex China booth, Shanghai exhibition center from August 28 - September 2. It will display three of the Make+ projects. Free admission by ordering from&nbsp;kyz.shkp.org.cn</p>
 <p>&nbsp;</p>
 <p>Make+ 1st stop@2013 Shanghai International Science and Art Exhibition</p>
@@ -57,7 +57,7 @@ August 28, 2013 (9:30-16:30)<br />
 August 29, 2013 - September 1 (9:00 - 16:30)<br />
 September 2, 2013 (9:00 - 15:00)</p>
 <p>&nbsp;</p>
-<p><span style="color: #ff0000;">Also, we are celebrating the 2013 Make+ program on August 28 (Wednesday) @7pm with a summer party+presentation. All friends welcomed! More info will be posted later this week.<&#47;span></p>
+<p><span style="color: #ff0000;">Also, we are celebrating the 2013 Make+ program on August 28 (Wednesday) @7pm with a summer party+presentation. All friends welcomed! More info will be posted later this week.</span></p>
 <p>Make+ program is initiated by Sophia Lin, with a partnership between XinCheJian and V Art Center, and is supported by DFRobot and swissnex China. For more information, please check out our website@makeplus.org or &nbsp;our sina weibo@Makeplus-sh</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

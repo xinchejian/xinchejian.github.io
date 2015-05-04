@@ -34,6 +34,6 @@ comments:
 ---
 <p><!--:en-->It's a normal Thursday but in Xinchejian is something special going on. It's not unusual that we use the 3D printer since we got it running but this Thursday it will be different.<br />
 Why? Tonight we not just print stuff, we also take pictures of the process, exactly each 6 seconds one picture. The time for the part we want to print is about 37 minutes. If you do the math then we talk about a 37 minutes photo shooting with a total amount of pictures of 370.<br />
-These 370 pictures are stacked and converted to a video with a length of 1.27 minutes. All this has been done by MinWei, a passionate photographer in Shanghai. Please check his Flickr Photo Stream here: <a title="http:&#47;&#47;www.flickr.com&#47;photos&#47;minweiphoto&#47;" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;minweiphoto&#47;">http:&#47;&#47;www.flickr.com&#47;photos&#47;minweiphoto&#47;<&#47;a></p>
+These 370 pictures are stacked and converted to a video with a length of 1.27 minutes. All this has been done by MinWei, a passionate photographer in Shanghai. Please check his Flickr Photo Stream here: <a title="http://www.flickr.com/photos/minweiphoto/" href="http://www.flickr.com/photos/minweiphoto/">http://www.flickr.com/photos/minweiphoto/</a></p>
 <p>Now watch the video and see 37 minutes flying away in just 1.27 minutes...impressive:<br />
-<a title="Time Lapse Video" href="http:&#47;&#47;v.youku.com&#47;v_show&#47;id_XNDU1NjU5OTQ4.html" target="_blank">http:&#47;&#47;v.youku.com&#47;v_show&#47;id_XNDU1NjU5OTQ4.html<&#47;a><!--:--></p>
+<a title="Time Lapse Video" href="http://v.youku.com/v_show/id_XNDU1NjU5OTQ4.html" target="_blank">http://v.youku.com/v_show/id_XNDU1NjU5OTQ4.html</a><!--:--></p>

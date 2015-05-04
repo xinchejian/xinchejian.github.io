@@ -28,10 +28,10 @@ comments: []
 <p>int E1 = 5;<br />
 int M1 = 4;<br />
 int E2 = 6;<br />
-int M2 = 7;&#47;&#47;着部分是motor shield的定义<br />
+int M2 = 7;//着部分是motor shield的定义<br />
 int front=8;<br />
 int leftfront=9;<br />
-int leftback=10;&#47;&#47;传感器定义</p>
+int leftback=10;//传感器定义</p>
 <p>void setup()<br />
 {<br />
     pinMode(M1, OUTPUT);<br />
@@ -40,37 +40,37 @@ int leftback=10;&#47;&#47;传感器定义</p>
     pinMode(leftfront,INPUT);<br />
     pinMode(leftback,INPUT);<br />
  }<br />
- void foward()&#47;&#47;前进函数定义<br />
+ void foward()//前进函数定义<br />
  {<br />
     digitalWrite(M1,HIGH);<br />
     digitalWrite(M2, HIGH);<br />
-    analogWrite(E1, 255);   &#47;&#47;PWM调速<br />
-    analogWrite(E2, 255);   &#47;&#47;PWM调速<br />
+    analogWrite(E1, 255);   //PWM调速<br />
+    analogWrite(E2, 255);   //PWM调速<br />
      }<br />
-     void back()&#47;&#47;后退函数定义<br />
+     void back()//后退函数定义<br />
      {<br />
     digitalWrite(M1,LOW);<br />
     digitalWrite(M2, LOW);<br />
-    analogWrite(E1, 255);   &#47;&#47;PWM调速<br />
-    analogWrite(E2, 255);   &#47;&#47;PWM调速<br />
+    analogWrite(E1, 255);   //PWM调速<br />
+    analogWrite(E2, 255);   //PWM调速<br />
   }<br />
-  void rightgo()&#47;&#47;右转函数定义<br />
+  void rightgo()//右转函数定义<br />
   {<br />
     digitalWrite(M1,HIGH);<br />
     digitalWrite(M2, LOW);<br />
-    analogWrite(E1, 255);   &#47;&#47;PWM调速<br />
-    analogWrite(E2, 255);   &#47;&#47;PWM调速<br />
+    analogWrite(E1, 255);   //PWM调速<br />
+    analogWrite(E2, 255);   //PWM调速<br />
   }<br />
-  void leftgo()&#47;&#47;左转函数定义<br />
+  void leftgo()//左转函数定义<br />
   {<br />
     digitalWrite(M1,LOW);<br />
     digitalWrite(M2, HIGH);<br />
-    analogWrite(E1, 255);   &#47;&#47;PWM调速<br />
-    analogWrite(E2, 255);   &#47;&#47;PWM调速<br />
+    analogWrite(E1, 255);   //PWM调速<br />
+    analogWrite(E2, 255);   //PWM调速<br />
   }</p>
 <p>void loop()<br />
 {<br />
-if (digitalRead(9)==1)&#47;&#47;策略为如果右中部如果一直保持触发即贴住墙就好了，如果没有就向右转，直到接触到墙壁。<br />
+if (digitalRead(9)==1)//策略为如果右中部如果一直保持触发即贴住墙就好了，如果没有就向右转，直到接触到墙壁。<br />
 {<br />
   rightgo();<br />
 delay(600);<br />
@@ -92,8 +92,8 @@ delay(100);<br />
 <p>程序以上<br />
 请各位指正批评。<br />
 另外附上我使用设备的购买地址<br />
-http:&#47;&#47;www.dfrobot.com&#47;index.php?route=product&#47;product&path=36&product_id=114<br />
-http:&#47;&#47;www.dfrobot.com&#47;index.php?route=product&#47;product&product_id=69<br />
-http:&#47;&#47;www.dfrobot.com&#47;index.php?route=product&#47;product&filter_tag=Arduino&product_id=49<br />
-http:&#47;&#47;www.dfrobot.com&#47;index.php?route=product&#47;product&path=35&product_id=96<br />
-http:&#47;&#47;www.dfrobot.com&#47;index.php?route=product&#47;product&path=35_39&product_id=264</p>
+http://www.dfrobot.com/index.php?route=product/product&path=36&product_id=114<br />
+http://www.dfrobot.com/index.php?route=product/product&product_id=69<br />
+http://www.dfrobot.com/index.php?route=product/product&filter_tag=Arduino&product_id=49<br />
+http://www.dfrobot.com/index.php?route=product/product&path=35&product_id=96<br />
+http://www.dfrobot.com/index.php?route=product/product&path=35_39&product_id=264</p>

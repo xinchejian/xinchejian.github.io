@@ -19,12 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<h1><a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Arcade_Machines">Arcade Machines<&#47;a><&#47;h1></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage2.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage4.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage5.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage6.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage1.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage7.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage3.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;NewImage.png" alt="NewImage" title="NewImage.png" border="0"&#47;><&#47;p></p>
+<h1><a href="http://wiki.xinchejian.com/wiki/Arcade_Machines">Arcade Machines</a></h1></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage2.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage4.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage5.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage6.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage1.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage7.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage3.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/NewImage.png" alt="NewImage" title="NewImage.png" border="0"/></p></p>

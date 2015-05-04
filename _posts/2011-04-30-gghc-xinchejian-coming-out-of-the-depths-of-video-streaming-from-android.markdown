@@ -26,6 +26,6 @@ tags:
 - competition
 comments: []
 ---
-<p>Ricky just make an update on his quest to streaming video from Android.<&#47;p></p>
-<p><img src="http:&#47;&#47;www.element14.com&#47;community&#47;servlet&#47;JiveServlet&#47;downloadImage&#47;38-4616-44761&#47;450-337&#47;IMG_0208.JPG"><&#47;p></p>
-<p><a href="http:&#47;&#47;www.element14.com&#47;community&#47;groups&#47;xinchejian-gghc&#47;blog&#47;2011&#47;04&#47;30&#47;xinchejian-coming-out-of-the-depths-of-video-streaming-from-android">element14: XinCheJian GGHC: XinCheJian coming out of the depths of video streaming from Android!<&#47;a>: ""<&#47;p></p>
+<p>Ricky just make an update on his quest to streaming video from Android.</p></p>
+<p><img src="http://www.element14.com/community/servlet/JiveServlet/downloadImage/38-4616-44761/450-337/IMG_0208.JPG"></p></p>
+<p><a href="http://www.element14.com/community/groups/xinchejian-gghc/blog/2011/04/30/xinchejian-coming-out-of-the-depths-of-video-streaming-from-android">element14: XinCheJian GGHC: XinCheJian coming out of the depths of video streaming from Android!</a>: ""</p></p>

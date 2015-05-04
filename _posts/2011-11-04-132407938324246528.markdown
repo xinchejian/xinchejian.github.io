@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Improvised wire twister http:&#47;&#47;t.co&#47;1...'
+title: '#xinchejian: Improvised wire twister http://t.co/1...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Improvised wire twister http:&#47;&#47;t.co&#47;129ptDxr</p>
+<p>#xinchejian: Improvised wire twister http://t.co/129ptDxr</p>

@@ -42,58 +42,58 @@ comments:
   date_gmt: '2011-01-24 00:47:32 +0800'
   content: Sam, thanks for the info.
 ---
-<div id="_mcePaste">Been researching wireless solutions to transmit in real-time sensor and decision information from ART in addition to possibly enabling minimal controls (on&#47;off&#47;behavior switch) and perhaps even wireless firmware updates.<&#47;div></p>
-<div id="_mcePaste"><&#47;div></p>
-<div>My criteria:<&#47;div></p>
+<div id="_mcePaste">Been researching wireless solutions to transmit in real-time sensor and decision information from ART in addition to possibly enabling minimal controls (on/off/behavior switch) and perhaps even wireless firmware updates.</div></p>
+<div id="_mcePaste"></div></p>
+<div>My criteria:</div></p>
 <div>
 <ul>
-<li>Low-cost (<200RMB, preferably <100RMB)<&#47;li>
-<li>Simplex or half-duplex OK<&#47;li>
-<li>Low-bandwidth (>1,200 bit&#47;s)<&#47;li>
-<li>Low-power (<100 mAh)<&#47;li>
-<li>Medium-range (500m-1000m)<&#47;li>
-<li>TTL or SPI interface<&#47;li><br />
-<&#47;ul><br />
-<&#47;div></p>
-<div id="_mcePaste">One of the main issue is that I cannot find a clear reference to the spectrum allocation in China (The US has a very convenient Frequency Allocations Chart: <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Frequency_allocation">http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Frequency_allocation<&#47;a>).<&#47;div></p>
-<div><&#47;div></p>
-<div id="_mcePaste">I know that 2.4Ghz is good worldwide (such as what the Nordic nRF240L uses) but that has a very limited range (50m-100m). So is Bluetooth and to a certain degree Wifi (and they are pretty expensive too).<&#47;div></p>
-<div><&#47;div></p>
-<div>There are these:<&#47;div></p>
+<li>Low-cost (<200RMB, preferably <100RMB)</li>
+<li>Simplex or half-duplex OK</li>
+<li>Low-bandwidth (>1,200 bit/s)</li>
+<li>Low-power (<100 mAh)</li>
+<li>Medium-range (500m-1000m)</li>
+<li>TTL or SPI interface</li><br />
+</ul><br />
+</div></p>
+<div id="_mcePaste">One of the main issue is that I cannot find a clear reference to the spectrum allocation in China (The US has a very convenient Frequency Allocations Chart: <a href="http://en.wikipedia.org/wiki/Frequency_allocation">http://en.wikipedia.org/wiki/Frequency_allocation</a>).</div></p>
+<div></div></p>
+<div id="_mcePaste">I know that 2.4Ghz is good worldwide (such as what the Nordic nRF240L uses) but that has a very limited range (50m-100m). So is Bluetooth and to a certain degree Wifi (and they are pretty expensive too).</div></p>
+<div></div></p>
+<div>There are these:</div></p>
 <div>
 <ul>
-<li>PTR8000+ [Nordic nRF905 (433&#47;868&#47;915MHz)]
+<li>PTR8000+ [Nordic nRF905 (433/868/915MHz)]
 <ul>
-<li><a href="http:&#47;&#47;www.nordicsemi.com&#47;index.cfm?obj=product&amp;act=display&amp;pro=83">http:&#47;&#47;www.nordicsemi.com&#47;index.cfm?obj=product&amp;act=display&amp;pro=83<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;item.taobao.com&#47;item.htm?id=6062297954 ">http:&#47;&#47;item.taobao.com&#47;item.htm?id=6062297954 <&#47;a>(50RMB!)<&#47;li>
-<li><a href="http:&#47;&#47;www.techtoys.com.hk&#47;RF_Modules&#47;Nordic_905&#47;nRF905_rev1_4.pdf">http:&#47;&#47;www.techtoys.com.hk&#47;RF_Modules&#47;Nordic_905&#47;nRF905_rev1_4.pdf<&#47;a><&#47;li>
-<li>tops out at 500m LOS<&#47;li><br />
-<&#47;ul><br />
-<&#47;li></p>
+<li><a href="http://www.nordicsemi.com/index.cfm?obj=product&amp;act=display&amp;pro=83">http://www.nordicsemi.com/index.cfm?obj=product&amp;act=display&amp;pro=83</a></li>
+<li><a href="http://item.taobao.com/item.htm?id=6062297954 ">http://item.taobao.com/item.htm?id=6062297954 </a>(50RMB!)</li>
+<li><a href="http://www.techtoys.com.hk/RF_Modules/Nordic_905/nRF905_rev1_4.pdf">http://www.techtoys.com.hk/RF_Modules/Nordic_905/nRF905_rev1_4.pdf</a></li>
+<li>tops out at 500m LOS</li><br />
+</ul><br />
+</li></p>
 <li>Laipac Tech RF 900DV(900 mhz)
 <ul>
-<li><a href="http:&#47;&#47;www.laipac.com&#47;easy_900dv_eng.htm">http:&#47;&#47;www.laipac.com&#47;easy_900dv_eng.htm<&#47;a><&#47;li><br />
-<&#47;ul><br />
-<&#47;li></p>
+<li><a href="http://www.laipac.com/easy_900dv_eng.htm">http://www.laipac.com/easy_900dv_eng.htm</a></li><br />
+</ul><br />
+</li></p>
 <li>Laipac ASK Transmitters (315 mhz)
 <ul>
-<li><a href="http:&#47;&#47;www.laipac.com&#47;easy_900dv_eng.htm">http:&#47;&#47;www.laipac.com&#47;easy_315a_eng.htm<&#47;a><&#47;li><br />
-<&#47;ul><br />
-<&#47;li></p>
+<li><a href="http://www.laipac.com/easy_900dv_eng.htm">http://www.laipac.com/easy_315a_eng.htm</a></li><br />
+</ul><br />
+</li></p>
 <li>Databridge
 <ul>
-<li><a href="http:&#47;&#47;www.starmanelectric.com&#47;OrderDataBridge&#47;tabid&#47;71&#47;Default.aspx">http:&#47;&#47;www.starmanelectric.com&#47;OrderDataBridge&#47;tabid&#47;71&#47;Default.aspx<&#47;a><&#47;li>
-<li>http:&#47;&#47;www.starmanelectric.com&#47;LinkClick.aspx?fileticket=REf&#47;38lk&#47;L4%3d&amp;tabid=75&amp;mid=456<&#47;li>
-<li>Expensive (87$USD) and not available here?<&#47;li><br />
-<&#47;ul><br />
-<&#47;li></p>
-<li>JZ871 Data RF transceiver for wireless telemetry system (433 MHz or 868Mhz&#47;915Mhz)
+<li><a href="http://www.starmanelectric.com/OrderDataBridge/tabid/71/Default.aspx">http://www.starmanelectric.com/OrderDataBridge/tabid/71/Default.aspx</a></li>
+<li>http://www.starmanelectric.com/LinkClick.aspx?fileticket=REf/38lk/L4%3d&amp;tabid=75&amp;mid=456</li>
+<li>Expensive (87$USD) and not available here?</li><br />
+</ul><br />
+</li></p>
+<li>JZ871 Data RF transceiver for wireless telemetry system (433 MHz or 868Mhz/915Mhz)
 <ul>
-<li><a href="http:&#47;&#47;www.laipac.com&#47;easy_900dv_eng.htm">http:&#47;&#47;www.alibaba.com&#47;product-gs&#47;252550553&#47;RF_data_transceiver.html<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;www.jizhuo.com&#47;download&#47;product_images&#47;f&#47;cn_f__101.pdf">http:&#47;&#47;www.jizhuo.com&#47;download&#47;product_images&#47;f&#47;cn_f__101.pdf<&#47;a><&#47;li>
-<li>I'm guessing if Alibaba is selling it, it's ok in China? Or is it exactly just an export product?<&#47;li><br />
-<&#47;ul><br />
-<&#47;li><br />
-<&#47;ul><br />
-<&#47;div></p>
-<div id="_mcePaste">Last one actually looks better than the Nordic on paper, but from what I gathered the price is pretty high. &nbsp;I wonder about the price and why I can't find it on Taobao...<&#47;div></p>
+<li><a href="http://www.laipac.com/easy_900dv_eng.htm">http://www.alibaba.com/product-gs/252550553/RF_data_transceiver.html</a></li>
+<li><a href="http://www.jizhuo.com/download/product_images/f/cn_f__101.pdf">http://www.jizhuo.com/download/product_images/f/cn_f__101.pdf</a></li>
+<li>I'm guessing if Alibaba is selling it, it's ok in China? Or is it exactly just an export product?</li><br />
+</ul><br />
+</li><br />
+</ul><br />
+</div></p>
+<div id="_mcePaste">Last one actually looks better than the Nordic on paper, but from what I gathered the price is pretty high. &nbsp;I wonder about the price and why I can't find it on Taobao...</div></p>

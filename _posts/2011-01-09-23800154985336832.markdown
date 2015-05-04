@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Telemetry wireless solution  http:&#47;&#47;x...'
+title: '#xinchejian: Telemetry wireless solution  http://x...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Telemetry wireless solution  http:&#47;&#47;xinchejian.com&#47;?p=339</p>
+<p>#xinchejian: Telemetry wireless solution  http://xinchejian.com/?p=339</p>

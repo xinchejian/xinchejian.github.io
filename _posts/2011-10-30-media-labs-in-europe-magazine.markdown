@@ -32,9 +32,9 @@ comments:
   date: '2011-10-31 20:06:46 +0800'
   date_gmt: '2011-10-31 12:06:46 +0800'
   content: |-
-    You can buy the digital copy from here: http:&#47;&#47;www.digitalmcd.com&#47;boutique-numerique&#47;
+    You can buy the digital copy from here: http://www.digitalmcd.com/boutique-numerique/
 
     It's a bilingual magazine...
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111030_170334.jpg" &#47;></p>
-<p>We have a copy (offered by Habib and Clement) of this magazine at Xinchejian if you want to read it.<&#47;p></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111030_170334.jpg" /></p>
+<p>We have a copy (offered by Habib and Clement) of this magazine at Xinchejian if you want to read it.</p></p>

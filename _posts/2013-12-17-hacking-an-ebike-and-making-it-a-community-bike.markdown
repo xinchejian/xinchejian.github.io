@@ -22,4 +22,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><strong>Jonathan presents his E-Bike that he's been working on this year, throw away your keyfobs!<&#47;strong> <iframe src="http:&#47;&#47;player.youku.com&#47;embed&#47;XNjQ3ODY2Nzg0" height="498" width="510" allowfullscreen="" frameborder="0"><&#47;iframe></p>
+<p><strong>Jonathan presents his E-Bike that he's been working on this year, throw away your keyfobs!</strong> <iframe src="http://player.youku.com/embed/XNjQ3ODY2Nzg0" height="498" width="510" allowfullscreen="" frameborder="0"></iframe></p>

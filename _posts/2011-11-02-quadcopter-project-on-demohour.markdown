@@ -20,8 +20,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en-->Show your support for He Qichen's Quadcopter project on DemoHour：<a href="http:&#47;&#47;www.demohour.com&#47;projects&#47;297265">http:&#47;&#47;www.demohour.com&#47;projects&#47;297265<&#47;a></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzE1ODIzNTI0&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed><br />
-<!--:--><!--:zh-->希望大家能大力支持何琪辰的四轴飞行器项目：<a href="http:&#47;&#47;www.demohour.com&#47;projects&#47;297265">http:&#47;&#47;www.demohour.com&#47;projects&#47;297265<&#47;a></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzE1ODIzNTI0&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed><br />
+<p><!--:en-->Show your support for He Qichen's Quadcopter project on DemoHour：<a href="http://www.demohour.com/projects/297265">http://www.demohour.com/projects/297265</a></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzE1ODIzNTI0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><br />
+<!--:--><!--:zh-->希望大家能大力支持何琪辰的四轴飞行器项目：<a href="http://www.demohour.com/projects/297265">http://www.demohour.com/projects/297265</a></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzE1ODIzNTI0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><br />
 <!--:--></p>

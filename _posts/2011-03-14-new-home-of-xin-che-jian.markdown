@@ -67,27 +67,27 @@ comments:
   content: 欢迎你来加入我们！
 ---
 <p><!--:en--><br />
-<h1>Xin Che Jian is moving!<&#47;h1> </p>
-<p>After a 3 months of experimenting in <a href="http:&#47;&#47;xindanwei.com">Xindanwei<&#47;a>, we have proven the potential of having a hackerspace in Shanghai but we need a bigger space. We found a new 100 square meter location in Anhua Lu and Jiangsu Lu inside a old factory. The place is definitely a ideal location for setting up a hackerspace. The new space will be ready by the end of March!<&#47;p></p>
-<h3>Lovely neighborhoold<&#47;h3></p>
-<p>There are all kind of business around. I am sure we can use them in our making.<&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0352.jpg" alt="IMG 0352" title="IMG_0352.jpg" border="0"&#47;></p>
-<h3>Yes, it's a real factory (che jian)!<&#47;h3><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0363.jpg" alt="IMG 0363" title="IMG_0363.JPG" border="0"&#47;></p>
-<h3>Let the be light<&#47;h3></p>
-<p>One big side of the room is full of window.<&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0348.jpg" alt="IMG 0348" title="IMG_0348.JPG" border="0"&#47;></p>
-<h3>Plenty of space<&#47;h3></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0346.jpg" alt="IMG 0346" title="IMG_0346.JPG" border="0"&#47;><!--:--><!--:zh--><br />
-<h1>新车间搬家了哦！<&#47;h1> </p>
-<p>经过在 <a href="http:&#47;&#47;xindanwei.com">新单位<&#47;a>二楼三个月的孵化后，新车间成长了，要飞了。在安化路和江苏路的老工厂里面找到了一个100平米的新场地，新车间现在真的在工厂里面了。应该在三月底就会装修好。欢迎大家来玩。<&#47;p></p>
-<h3>Lovely neighborhoold<&#47;h3></p>
-<p>There are all kind of business around. I am sure we can use them in our making.<&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0352.jpg" alt="IMG 0352" title="IMG_0352.jpg" border="0"&#47;></p>
-<h3>Yes, it's a real factory (che jian)!<&#47;h3><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0363.jpg" alt="IMG 0363" title="IMG_0363.JPG" border="0"&#47;></p>
-<h3>Let the be light<&#47;h3></p>
-<p>One big side of the room is full of window.<&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0348.jpg" alt="IMG 0348" title="IMG_0348.JPG" border="0"&#47;></p>
-<h3>Plenty of space<&#47;h3></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;IMG_0346.jpg" alt="IMG 0346" title="IMG_0346.JPG" border="0"&#47;><!--:--></p>
+<h1>Xin Che Jian is moving!</h1> </p>
+<p>After a 3 months of experimenting in <a href="http://xindanwei.com">Xindanwei</a>, we have proven the potential of having a hackerspace in Shanghai but we need a bigger space. We found a new 100 square meter location in Anhua Lu and Jiangsu Lu inside a old factory. The place is definitely a ideal location for setting up a hackerspace. The new space will be ready by the end of March!</p></p>
+<h3>Lovely neighborhoold</h3></p>
+<p>There are all kind of business around. I am sure we can use them in our making.</p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0352.jpg" alt="IMG 0352" title="IMG_0352.jpg" border="0"/></p>
+<h3>Yes, it's a real factory (che jian)!</h3><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0363.jpg" alt="IMG 0363" title="IMG_0363.JPG" border="0"/></p>
+<h3>Let the be light</h3></p>
+<p>One big side of the room is full of window.</p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0348.jpg" alt="IMG 0348" title="IMG_0348.JPG" border="0"/></p>
+<h3>Plenty of space</h3></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0346.jpg" alt="IMG 0346" title="IMG_0346.JPG" border="0"/><!--:--><!--:zh--><br />
+<h1>新车间搬家了哦！</h1> </p>
+<p>经过在 <a href="http://xindanwei.com">新单位</a>二楼三个月的孵化后，新车间成长了，要飞了。在安化路和江苏路的老工厂里面找到了一个100平米的新场地，新车间现在真的在工厂里面了。应该在三月底就会装修好。欢迎大家来玩。</p></p>
+<h3>Lovely neighborhoold</h3></p>
+<p>There are all kind of business around. I am sure we can use them in our making.</p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0352.jpg" alt="IMG 0352" title="IMG_0352.jpg" border="0"/></p>
+<h3>Yes, it's a real factory (che jian)!</h3><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0363.jpg" alt="IMG 0363" title="IMG_0363.JPG" border="0"/></p>
+<h3>Let the be light</h3></p>
+<p>One big side of the room is full of window.</p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0348.jpg" alt="IMG 0348" title="IMG_0348.JPG" border="0"/></p>
+<h3>Plenty of space</h3></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/IMG_0346.jpg" alt="IMG 0346" title="IMG_0346.JPG" border="0"/><!--:--></p>

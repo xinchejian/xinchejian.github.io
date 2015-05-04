@@ -19,8 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;07&#47;fusion.png"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;07&#47;fusion-290x290.png" alt="fusion" width="290" height="290" class="aligncenter size-thumbnail wp-image-6548" &#47;><&#47;a><br />
-<a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(153, 204, 255);" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808146acac6f01473fcd673a1c95" target="_blank" id="ied_button_show" alt="购买门票3D modeling workshop 3D 建模工作坊 - fusion 360" title="购买门票">购买门票<&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/07/fusion.png"><img src="http://xinchejian.com/wp-content/uploads/2014/07/fusion-290x290.png" alt="fusion" width="290" height="290" class="aligncenter size-thumbnail wp-image-6548" /></a><br />
+<a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(153, 204, 255);" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f01473fcd673a1c95" target="_blank" id="ied_button_show" alt="购买门票3D modeling workshop 3D 建模工作坊 - fusion 360" title="购买门票">购买门票</a><br />
 *** 电脑系统要求 OS requirements: ***<br />
 64位win 7, 或64位Mac OS X 10.8, 或更高版本<br />
 64-bit Windows 7 or newer and 64-bit Mac OS X 10.8 or newer</p>

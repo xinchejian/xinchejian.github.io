@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: <!--:en-->Barcamp Shanghai Fall 2012<!--:--><!--:zh-->Barcamp 上海 秋天 2012<!--:--> http:&#47;&#47;t.co&#47;oFgbrdqG</p>
+<p>#xinchejian: <!--:en-->Barcamp Shanghai Fall 2012<!--:--><!--:zh-->Barcamp 上海 秋天 2012<!--:--> http://t.co/oFgbrdqG</p>

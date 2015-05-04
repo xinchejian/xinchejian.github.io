@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Arduino shield assembly workshop http:&#47;&#47;xinchejian.com&#47;2011&#47;08&#47;05&#47;arduino-shield-assembly-workshop&#47;</p>
+<p>#xinchejian: Arduino shield assembly workshop http://xinchejian.com/2011/08/05/arduino-shield-assembly-workshop/</p>

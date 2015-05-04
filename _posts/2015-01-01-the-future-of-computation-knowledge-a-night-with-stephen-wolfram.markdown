@@ -113,7 +113,7 @@ comments:
   content: |-
     RT @c0r3d3v: The Future of Computation &amp; Knowledge: A Night with Stephen Wolfram | 新车间 [XinCheJian]
 
-    Go go go http:&#47;&#47;t.co&#47;GkVf84DnBi
+    Go go go http://t.co/GkVf84DnBi
 - id: 29682
   author: c0r3d3v
   author_email: twitter.2917224013@example.com
@@ -123,39 +123,39 @@ comments:
   content: |-
     The Future of Computation &amp; Knowledge: A Night with Stephen Wolfram | 新车间 [XinCheJian]
 
-    Go go go http:&#47;&#47;t.co&#47;34JVz0MuSq
+    Go go go http://t.co/34JVz0MuSq
 - id: 29683
   author: Ingrid Fischer-Schreiber
   author_email: facebook.1147204132@example.com
   author_url: https://facebook.com/profile.php?id=1147204132
   date: '2015-01-04 15:06:22 +0800'
   date_gmt: '2015-01-04 07:06:22 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1147204132" target="_blank">Ingrid
-    Fischer-Schreiber<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1147204132" target="_blank">Ingrid
+    Fischer-Schreiber</a> liked this on Facebook.
 - id: 29684
   author: Paul Yang
   author_email: facebook.100000324397404@example.com
   author_url: https://facebook.com/profile.php?id=100000324397404
   date: '2015-01-04 15:06:22 +0800'
   date_gmt: '2015-01-04 07:06:22 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000324397404"
-    target="_blank">Paul Yang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000324397404"
+    target="_blank">Paul Yang</a> liked this on Facebook.
 - id: 29685
   author: 新车间 [Xin Che Jian]
   author_email: facebook.175737115791930@example.com
   author_url: https://facebook.com/profile.php?id=175737115791930
   date: '2015-01-04 15:06:22 +0800'
   date_gmt: '2015-01-04 07:06:22 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=175737115791930"
-    target="_blank">新车间 [Xin Che Jian]<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=175737115791930"
+    target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 - id: 29686
   author: Shuyue Zhang
   author_email: facebook.100002134188562@example.com
   author_url: https://facebook.com/profile.php?id=100002134188562
   date: '2015-01-04 15:06:23 +0800'
   date_gmt: '2015-01-04 07:06:23 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002134188562"
-    target="_blank">Shuyue Zhang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100002134188562"
+    target="_blank">Shuyue Zhang</a> liked this on Facebook.
 ---
 <p>Date: Jan 4<br />
 Time: 6:30 PM to 8PM<br />
@@ -163,7 +163,7 @@ Host: People Squared and XinCheJian<br />
 计算和知识的未来 The Future of Computation and Knowledge<br />
 活动嘉宾：斯蒂芬&middot;沃尔夫勒姆博士&nbsp;Dr. Stephen Wolfram<br />
 时间：2015年1月4日晚6:30至8:30<br />
-<img class="aligncenter size-full wp-image-7077" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;01&#47;stephen.wolfram.jpg" alt="stephen.wolfram" width="500" height="335" &#47;></p>
+<img class="aligncenter size-full wp-image-7077" src="http://xinchejian.com/wp-content/uploads/2015/01/stephen.wolfram.jpg" alt="stephen.wolfram" width="500" height="335" /></p>
 <p>About Speaker: Stephen Wolfram is a distinguished scientist, technologist and entrepreneur. He has devoted his career to the development and application of computational thinking.<br />
 斯蒂芬&bull;沃尔夫勒姆是一位杰出的科学家、技术专家和创业家。他的整个职业生涯都贡献在计算化思维的研发和应用领域中。<br />
 His Mathematica software system launched in 1988 has been central to technical research and education for more than a generation. His work on basic science---summarized in his bestselling book A New Kind of Science---has defined a major new intellectual direction, with applications across the sciences, technology and the arts. In 2009 Wolfram built on his earlier work to launch Wolfram|Alpha to make as much of the world&rsquo;s knowledge as possible computable---and accessible on the web and in intelligent assistants like Apple&rsquo;s Siri.<br />

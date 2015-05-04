@@ -22,4 +22,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en-->3ders, a site about 3d printing, has an article about us: <a href="http:&#47;&#47;www.3ders.org&#47;articles&#47;20111124-hackerspaces-in-china.html">Hackerspaces in China<&#47;a>.<!--:--><!--:zh-->3D吧有文章<a href="http:&#47;&#47;www.3ders.org&#47;cn&#47;articles&#47;20111126-hackerspaces-in-china.html">创意空间在中国<&#47;a>.<!--:--></p>
+<p><!--:en-->3ders, a site about 3d printing, has an article about us: <a href="http://www.3ders.org/articles/20111124-hackerspaces-in-china.html">Hackerspaces in China</a>.<!--:--><!--:zh-->3D吧有文章<a href="http://www.3ders.org/cn/articles/20111126-hackerspaces-in-china.html">创意空间在中国</a>.<!--:--></p>

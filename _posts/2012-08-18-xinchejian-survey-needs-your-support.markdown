@@ -44,19 +44,19 @@ comments:
 ---
 <p><!--:en-->
 <div>
-<div>新车间问卷调查<&#47;div></p>
-<div>中文版本:&nbsp;<a href="http:&#47;&#47;xinchejian.us5.list-manage.com&#47;track&#47;click?u=98ab15cb868dfa090df3d6f81&amp;id=7aaf1cf8b6&amp;e=d41eb7a33d" target="_blank">http:&#47;&#47;www.surveymonkey.<wbr>com&#47;s&#47;ZXDKD6X<&#47;wbr><&#47;a><&#47;div></p>
+<div>新车间问卷调查</div></p>
+<div>中文版本:&nbsp;<a href="http://xinchejian.us5.list-manage.com/track/click?u=98ab15cb868dfa090df3d6f81&amp;id=7aaf1cf8b6&amp;e=d41eb7a33d" target="_blank">http://www.surveymonkey.<wbr>com/s/ZXDKD6X</wbr></a></div></p>
 <div>
-怎样才能把创客空间办的更好？您希望新车间怎么去做呢？<&#47;div></p>
-<div>在此邀请大家参与问卷调查，齐心协力创建一个更受欢迎，<wbr>更强大的新车间社区！<&#47;wbr><&#47;div><br />
-Xinchejian Survey<&#47;div></p>
-<div>How can we make Xinchejian better? &nbsp;What do you want to see Xinchejian do?<&#47;div></p>
-<div>Please take our survey so we know how to serve the you, the hacker community better!<&#47;div></p>
-<div><&#47;div></p>
-<div><strong>GIVE ME THE SURVEY NOW!<&#47;strong><&#47;div></p>
-<div>English Version:&nbsp;<a href="http:&#47;&#47;xinchejian.us5.list-manage1.com&#47;track&#47;click?u=98ab15cb868dfa090df3d6f81&amp;id=1c061a05ed&amp;e=d41eb7a33d" target="_blank">http:&#47;&#47;www.surveymonkey.com&#47;s&#47;<wbr>ZL5KLMY<&#47;wbr><&#47;a><&#47;div><!--:--><!--:zh-->
-<div>新车间问卷调查<&#47;div></p>
-<div>中文版本:&nbsp;<a href="http:&#47;&#47;xinchejian.us5.list-manage.com&#47;track&#47;click?u=98ab15cb868dfa090df3d6f81&amp;id=7aaf1cf8b6&amp;e=d41eb7a33d" target="_blank">http:&#47;&#47;www.surveymonkey.<wbr>com&#47;s&#47;ZXDKD6X<&#47;wbr><&#47;a><&#47;div></p>
+怎样才能把创客空间办的更好？您希望新车间怎么去做呢？</div></p>
+<div>在此邀请大家参与问卷调查，齐心协力创建一个更受欢迎，<wbr>更强大的新车间社区！</wbr></div><br />
+Xinchejian Survey</div></p>
+<div>How can we make Xinchejian better? &nbsp;What do you want to see Xinchejian do?</div></p>
+<div>Please take our survey so we know how to serve the you, the hacker community better!</div></p>
+<div></div></p>
+<div><strong>GIVE ME THE SURVEY NOW!</strong></div></p>
+<div>English Version:&nbsp;<a href="http://xinchejian.us5.list-manage1.com/track/click?u=98ab15cb868dfa090df3d6f81&amp;id=1c061a05ed&amp;e=d41eb7a33d" target="_blank">http://www.surveymonkey.com/s/<wbr>ZL5KLMY</wbr></a></div><!--:--><!--:zh-->
+<div>新车间问卷调查</div></p>
+<div>中文版本:&nbsp;<a href="http://xinchejian.us5.list-manage.com/track/click?u=98ab15cb868dfa090df3d6f81&amp;id=7aaf1cf8b6&amp;e=d41eb7a33d" target="_blank">http://www.surveymonkey.<wbr>com/s/ZXDKD6X</wbr></a></div></p>
 <div>
-怎样才能把创客空间办的更好？您希望新车间怎么去做呢？<&#47;div></p>
-<div>在此邀请大家参与问卷调查，齐心协力创建一个更受欢迎，<wbr>更强大的新车间社区！<&#47;wbr><&#47;div><!--:--></p>
+怎样才能把创客空间办的更好？您希望新车间怎么去做呢？</div></p>
+<div>在此邀请大家参与问卷调查，齐心协力创建一个更受欢迎，<wbr>更强大的新车间社区！</wbr></div><!--:--></p>

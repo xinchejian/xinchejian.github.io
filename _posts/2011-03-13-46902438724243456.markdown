@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: XinCheJian, Hackerspace, Robots, and HCR at Barcamp Shanghai http:&#47;&#47;xinchejian.com&#47;?p=539</p>
+<p>#xinchejian: XinCheJian, Hackerspace, Robots, and HCR at Barcamp Shanghai http://xinchejian.com/?p=539</p>

@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Aquaponic update from Roger Mu http:&#47;...'
+title: '#xinchejian: Aquaponic update from Roger Mu http:/...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Aquaponic update from Roger Mu http:&#47;&#47;t.co&#47;iSDOkKe0</p>
+<p>#xinchejian: Aquaponic update from Roger Mu http://t.co/iSDOkKe0</p>

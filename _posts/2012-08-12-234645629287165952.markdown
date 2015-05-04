@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Building a simple Hydroponic Planter http:&#47;&#47;t.co&#47;ccMwdtZ5</p>
+<p>#xinchejian: Building a simple Hydroponic Planter http://t.co/ccMwdtZ5</p>

@@ -21,8 +21,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111111_224505.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111111_224448.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111111_224444.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111111_224439.jpg" &#47;></p>
-<p>Lio just finished getting the wood plate for the joysticks and buttons. He's showing off the hacked TV driven by a Commodore 64 to generate a mirror image that can be itself "projected" on a mirror. He still has some work to do to wire everything up and make the case nicer, but the hard part is over. Interesting factoid: the speaker at the right is hiding a broken piece of the mirror!<&#47;p></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111111_224505.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111111_224448.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111111_224444.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111111_224439.jpg" /></p>
+<p>Lio just finished getting the wood plate for the joysticks and buttons. He's showing off the hacked TV driven by a Commodore 64 to generate a mirror image that can be itself "projected" on a mirror. He still has some work to do to wire everything up and make the case nicer, but the hard part is over. Interesting factoid: the speaker at the right is hiding a broken piece of the mirror!</p></p>

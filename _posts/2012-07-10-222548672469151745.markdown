@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Building Outdoor Aquaponic http:&#47;&#47;t.c...'
+title: '#xinchejian: Building Outdoor Aquaponic http://t.c...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Building Outdoor Aquaponic http:&#47;&#47;t.co&#47;NVe97LwT</p>
+<p>#xinchejian: Building Outdoor Aquaponic http://t.co/NVe97LwT</p>

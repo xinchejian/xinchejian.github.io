@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: ZBrush Workshop session 1&#47;4 ZBrush 工作坊第一节 Aug.10
+title: ZBrush Workshop session 1/4 ZBrush 工作坊第一节 Aug.10
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy
@@ -25,20 +25,20 @@ comments:
   author_url: https://facebook.com/profile.php?id=581876225
   date: '2014-08-06 18:39:57 +0800'
   date_gmt: '2014-08-06 10:39:57 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=581876225" target="_blank">Sam
-    Chou<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=581876225" target="_blank">Sam
+    Chou</a> liked this on Facebook.
 - id: 26691
   author: Min Chi
   author_email: facebook.633713884@example.com
   author_url: https://facebook.com/profile.php?id=633713884
   date: '2014-08-06 18:40:28 +0800'
   date_gmt: '2014-08-06 10:40:28 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=633713884" target="_blank">Min
-    Chi<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=633713884" target="_blank">Min
+    Chi</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;z1.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;z1-245x290.jpg" alt="z1" width="245" height="290" class="aligncenter size-thumbnail wp-image-6582" &#47;><&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/08/z1.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/08/z1-245x290.jpg" alt="z1" width="245" height="290" class="aligncenter size-thumbnail wp-image-6582" /></a><br />
 ZBrush - 一个强有力的数字艺术创造工具  A powerful digital sculpting tool<br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;xcjzb1" target="_blank" title="立即报名">报名参加 Register<&#47;a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/xcjzb1" target="_blank" title="立即报名">报名参加 Register</a><br />
 ZBrush 是按照世界领先的特效工作室和全世界范围内的游戏设计者的需要，以一种精密的结合方式开发成功的，它提供了极其优秀的功能和特色，可以极大地增强你的创造力。<br />
 - 在建模方面，ZBrush进行了相当大的优化编码改革，并与一套独特的建模流程相结合，可以让你制作出令人惊讶的复杂模型。无论是从中级到高分辨率的模型，你的任何雕刻动作都可以瞬间得到回应。还可以实时的进行不断的渲染和着色。<br />
 - 对于绘制操作，ZBrush增加了新的范围尺度，可以让你给基于像素的作品增加深度，材质，光照和复杂精密的渲染特效，真正实现了2D与3D的结合，模糊了多边形与像素之间的界限。<br />

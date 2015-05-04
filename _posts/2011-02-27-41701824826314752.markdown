@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Electronic Dice http:&#47;&#47;xinchejian.com...'
+title: '#xinchejian: Electronic Dice http://xinchejian.com...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Electronic Dice http:&#47;&#47;xinchejian.com&#47;?p=501</p>
+<p>#xinchejian: Electronic Dice http://xinchejian.com/?p=501</p>

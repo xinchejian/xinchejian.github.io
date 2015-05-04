@@ -65,46 +65,46 @@ comments:
   content: Thank you so much lionello. 4 battries work like a charm.
 ---
 <p><!--:en--></p>
-<h1>Insect Robot Workshop<&#47;h1></p>
-<h2>Workshop instruction will be in Chinese.<&#47;h2></p>
+<h1>Insect Robot Workshop</h1></p>
+<h2>Workshop instruction will be in Chinese.</h2></p>
 <ul>
-<li>Date: April 24, Sunday<&#47;li>
-<li>Time: 1 ~ 5 PM<&#47;li>
-<li>Audience: any person aged from 5 ~ 99 interested in robotics ;-)<&#47;li>
-<li>Bring your own notebook<&#47;li>
+<li>Date: April 24, Sunday</li>
+<li>Time: 1 ~ 5 PM</li>
+<li>Audience: any person aged from 5 ~ 99 interested in robotics ;-)</li>
+<li>Bring your own notebook</li>
 <li>Fee：250 rmb
 <ul>
 The kit includes the following:</p>
-<li>Arduino borad<&#47;li>
-<li>2 Servo<&#47;li>
-<li>1 Ultrasound distance sensor<&#47;li>
-<li>Other material for the robot structures<&#47;li><br />
-<&#47;ul><br />
-<&#47;li><br />
-<&#47;ul></p>
-<p><embed src='http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjU5ODIyMjAw&#47;v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application&#47;x-shockwave-flash'><&#47;embed><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"&#47;><&#47;p></p>
+<li>Arduino borad</li>
+<li>2 Servo</li>
+<li>1 Ultrasound distance sensor</li>
+<li>Other material for the robot structures</li><br />
+</ul><br />
+</li><br />
+</ul></p>
+<p><embed src='http://player.youku.com/player.php/sid/XMjU5ODIyMjAw/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
 <p><!--:--><br />
 <!--:zh--></p>
-<h1>虫虫机器人工作坊<&#47;h1></p>
+<h1>虫虫机器人工作坊</h1></p>
 <ul>
-<li>日期：4月24日<&#47;li>
-<li>时间：下午1点~5点<&#47;li>
-<li>参加人员：5岁到99岁对机器人有兴趣的小朋友！;-) <&#47;li>
-<li>需要自己准备笔记本<&#47;li>
+<li>日期：4月24日</li>
+<li>时间：下午1点~5点</li>
+<li>参加人员：5岁到99岁对机器人有兴趣的小朋友！;-) </li>
+<li>需要自己准备笔记本</li>
 <li>费用：250 包含下列材料
 <ul>
-<li>Arduino微控制器板<&#47;li>
-<li>舵机2个<&#47;li>
-<li>超音波距离传感器1个<&#47;li>
-<li>其他机器人结构材料<&#47;li><br />
-<&#47;ul><br />
-<&#47;li><br />
-<&#47;ul></p>
-<p><embed src='http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjU5ODIyMjAw&#47;v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application&#47;x-shockwave-flash'><&#47;embed><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"&#47;><&#47;p></p>
+<li>Arduino微控制器板</li>
+<li>舵机2个</li>
+<li>超音波距离传感器1个</li>
+<li>其他机器人结构材料</li><br />
+</ul><br />
+</li><br />
+</ul></p>
+<p><embed src='http://player.youku.com/player.php/sid/XMjU5ODIyMjAw/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
 <p><!--:--></p>

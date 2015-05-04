@@ -24,16 +24,16 @@ comments:
   author_url: https://facebook.com/profile.php?id=564797661
   date: '2014-06-01 17:55:22 +0800'
   date_gmt: '2014-06-01 09:55:22 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=564797661" target="_blank">Richard
-    Brown<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=564797661" target="_blank">Richard
+    Brown</a> liked this on Facebook.
 - id: 26026
   author: William Lue
   author_email: facebook.1051771888@example.com
   author_url: https://facebook.com/profile.php?id=1051771888
   date: '2014-06-01 18:53:48 +0800'
   date_gmt: '2014-06-01 10:53:48 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1051771888" target="_blank">William
-    Lue<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1051771888" target="_blank">William
+    Lue</a> liked this on Facebook.
 - id: 26031
   author: Kada Liao
   author_email: facebook.100002322129447@example.com
@@ -47,26 +47,26 @@ comments:
   author_url: https://facebook.com/profile.php?id=100002322129447
   date: '2014-06-02 02:36:26 +0800'
   date_gmt: '2014-06-01 18:36:26 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002322129447"
-    target="_blank">Kada Liao<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100002322129447"
+    target="_blank">Kada Liao</a> liked this on Facebook.
 - id: 26033
   author: Ted Hung
   author_email: facebook.707880286@example.com
   author_url: https://facebook.com/profile.php?id=707880286
   date: '2014-06-02 02:36:28 +0800'
   date_gmt: '2014-06-01 18:36:28 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=707880286" target="_blank">Ted
-    Hung<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=707880286" target="_blank">Ted
+    Hung</a> liked this on Facebook.
 - id: 26059
   author: Jerry Liang
   author_email: facebook.100002313386916@example.com
   author_url: https://facebook.com/profile.php?id=100002313386916
   date: '2014-06-02 22:55:15 +0800'
   date_gmt: '2014-06-02 14:55:15 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002313386916"
-    target="_blank">Jerry Liang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100002313386916"
+    target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;pcb.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;pcb-290x225.jpg" alt="pcb" width="290" height="225" class="aligncenter size-thumbnail wp-image-6422" &#47;><&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/pcb.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/pcb-290x225.jpg" alt="pcb" width="290" height="225" class="aligncenter size-thumbnail wp-image-6422" /></a><br />
 =Introduction to PCB Design=<br />
 PCB电路板设计入门</p>
 <p>June 8th 1pm - 4pm 6月8号下午1:00 - 4:00<br />
@@ -79,12 +79,12 @@ Online payment: 300RMB; Pay at door: 350RMB 网上支付300元；现场支付350
 <p>We'll use 0805 SMD components as much as possible because drilling holes just suck!<br />
 我们将尽可能多地使用0805 SMD元件，尽可能少打孔。</p>
 <p>=What you must prepare= 请务必</p>
-<p>1. Download EagleCAD and activate the freemium version: www.cadsoft.de&#47;freeware.htm<br />
-下载好EagleCAD 软件并激活免费版。www.cadsoft.de&#47;freeware.htm<br />
+<p>1. Download EagleCAD and activate the freemium version: www.cadsoft.de/freeware.htm<br />
+下载好EagleCAD 软件并激活免费版。www.cadsoft.de/freeware.htm<br />
 2. bring your computer, yourself to the workshop<br />
 携带安装好软件的电脑。</p>
 <p>=The Workshop= 工作坊<br />
 The workshop will be a guided tutorial for 3 hours, it's ideal for both kids and adults without programming or electrical knowledge. The workshop will be in English only given by Paul.<br />
 本次工作坊共计3个小时，适合成人及10岁以上孩子参加并学习编程和电子知识。<br />
 工作坊语言为英语，主讲人为Paul Adams.</p>
-<p><a style="background-color: rgb(51, 153, 102); color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 6px 30px; text-decoration: none; background-position: initial initial; background-repeat: initial initial;" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808145f542f00146565697de2d70" target="_blank" id="ied_button_show" alt="报名参加PCB电路板设计入门" title="报名参加">Register 报名参加<&#47;a></p>
+<p><a style="background-color: rgb(51, 153, 102); color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 6px 30px; text-decoration: none; background-position: initial initial; background-repeat: initial initial;" href="http://www.vasee.com/event/view.jsp?inid=ff80808145f542f00146565697de2d70" target="_blank" id="ied_button_show" alt="报名参加PCB电路板设计入门" title="报名参加">Register 报名参加</a></p>

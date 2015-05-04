@@ -21,5 +21,5 @@ tags:
 - lego
 comments: []
 ---
-<p>One of the coolest things <a href="http:&#47;&#47;www.flamingoeda.com">Flamingo EDA<&#47;a> brought to the Xinshanzhai talk is the Lego compatible sensor block! This is very awesome. I WANT ONE! Actually, I want a DOZENS and a bucket of Lego blocks!</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;IMG_0268.jpg" alt="IMG_0268.jpg" title="IMG_0268.jpg" border="0" width="298" height="400" &#47;></p>
+<p>One of the coolest things <a href="http://www.flamingoeda.com">Flamingo EDA</a> brought to the Xinshanzhai talk is the Lego compatible sensor block! This is very awesome. I WANT ONE! Actually, I want a DOZENS and a bucket of Lego blocks!</p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0268.jpg" alt="IMG_0268.jpg" title="IMG_0268.jpg" border="0" width="298" height="400" /></p>

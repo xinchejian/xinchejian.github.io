@@ -25,4 +25,4 @@ categories:
 tags: []
 comments: []
 ---
-<div><object id="ssss" width="480" height="370" ><param name="allowScriptAccess" value="always" &#47;><embed pluginspage="http:&#47;&#47;www.macromedia.com&#47;go&#47;getflashplayer" src="http:&#47;&#47;you.video.sina.com.cn&#47;api&#47;sinawebApi&#47;outplayrefer.php&#47;vid=62402532_2127170620_O0zgHCA9Bm7K+l1lHz2stqkP7KQNt6nniGizulWkIwxZQ0&#47;XM5GfYNkH4izVAtkEqDhAQpo7dfwj1B8&#47;s.swf" type="application&#47;x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"><&#47;embed><&#47;object><&#47;div></p>
+<div><object id="ssss" width="480" height="370" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=62402532_2127170620_O0zgHCA9Bm7K+l1lHz2stqkP7KQNt6nniGizulWkIwxZQ0/XM5GfYNkH4izVAtkEqDhAQpo7dfwj1B8/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"></embed></object></div></p>

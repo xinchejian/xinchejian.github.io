@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: XinCheJian on 88Bar http:&#47;&#47;t.co&#47;1IDGR...'
+title: '#xinchejian: XinCheJian on 88Bar http://t.co/1IDGR...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: XinCheJian on 88Bar http:&#47;&#47;t.co&#47;1IDGRZHJ</p>
+<p>#xinchejian: XinCheJian on 88Bar http://t.co/1IDGRZHJ</p>

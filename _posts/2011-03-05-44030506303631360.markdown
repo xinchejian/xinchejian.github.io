@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: EmbeDream YM4 and Arduino Uno http:&#47;&#47;...'
+title: '#xinchejian: EmbeDream YM4 and Arduino Uno http://...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: EmbeDream YM4 and Arduino Uno http:&#47;&#47;xinchejian.com&#47;?p=511</p>
+<p>#xinchejian: EmbeDream YM4 and Arduino Uno http://xinchejian.com/?p=511</p>

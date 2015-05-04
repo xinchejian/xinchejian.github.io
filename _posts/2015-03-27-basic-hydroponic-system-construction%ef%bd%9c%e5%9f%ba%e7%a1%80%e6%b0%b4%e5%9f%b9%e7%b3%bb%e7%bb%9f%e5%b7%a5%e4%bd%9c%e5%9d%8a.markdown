@@ -25,19 +25,19 @@ comments:
   author_url: https://facebook.com/profile.php?id=100008877213303
   date: '2015-04-03 22:44:41 +0800'
   date_gmt: '2015-04-03 14:44:41 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100008877213303"
-    target="_blank">Ananda Gabo<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100008877213303"
+    target="_blank">Ananda Gabo</a> liked this on Facebook.
 - id: 30689
   author: 新车间 [Xin Che Jian]
   author_email: facebook.175737115791930@example.com
   author_url: https://facebook.com/profile.php?id=175737115791930
   date: '2015-04-03 22:44:42 +0800'
   date_gmt: '2015-04-03 14:44:42 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=175737115791930"
-    target="_blank">新车间 [Xin Che Jian]<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=175737115791930"
+    target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;hydropnics.jpeg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;hydropnics-290x290.jpeg" alt="hydropnics" width="290" height="290" class="aligncenter size-thumbnail wp-image-6971" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;7274992464800" target="_blank" title="立即报名">Sign Up 报名参加<&#47;a></p>
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/10/hydropnics.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/hydropnics-290x290.jpeg" alt="hydropnics" width="290" height="290" class="aligncenter size-thumbnail wp-image-6971" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/7274992464800" target="_blank" title="立即报名">Sign Up 报名参加</a></p>
 <p><!--:zh--><br />
 活动时间：2015-04-18 14:00 至 2015-04-18 16:00<br />
 活动地点：上海图书馆 创新空间<br />
@@ -52,7 +52,7 @@ comments:
 <!--:en--><br />
 Time: April 18, 2pm - 4pm.<br />
 Address: 1555 Middle Huaihai Road, F3 of Shanghai Library.<br />
-Fee:  200 RMB includes hand watered hydroponic system, watering bottle&#47;spray, nutrients。<br />
+Fee:  200 RMB includes hand watered hydroponic system, watering bottle/spray, nutrients。<br />
 Description:<br />
 If you know nothing about growing plants or what hydroponics is, this workshop is for you. This workshop will cover basic plant growing and hydroponic techniques that will allow you to understand and maintain one of the most basic hydroponic system types (hand watered container) with some of the lowest maintenance and resilient edible plants available.<br />
 You will also learn how to assemble a basic hand watered container hydroponic system, and how to transplant seedlings into the system. At the end of the workshop, you will leave with a functioning hydroponic system with live plants and the knowledge to keep them alive. After that, all you will need for success is patience and motivation!<br />

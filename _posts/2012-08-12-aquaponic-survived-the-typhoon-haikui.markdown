@@ -40,9 +40,9 @@ comments:
 ---
 <p><!--:en-->My outdoor aquaponic farm survived well through the typhoon Haikui hitting Shanghai. The few plants in the grow bed did well and starting to show amazing growth. </p>
 <p>The basil at the middle are growing beautifully. Basil are not used much in the home cooking. Anyone who like to taste some aquaponic basil, let me know. I will bring some to the space.</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;image.jpg" alt="Image" title="image.jpg" border="0"&#47;></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/image.jpg" alt="Image" title="image.jpg" border="0"/></p>
 <p>The system is still showing some sign of the young aquaponic system, a bit iron deficiency. Chelated iron has been added to improve that as well as a bag of coral skeleton is added as PH buffer. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;image2.jpg" alt="Image" title="image.jpg" border="0"&#47;><!--:--><!--:zh-->在海葵来的时候还非常的担心户外的鱼菜共生系统会有很大的影响，幸好没有出什么问题，这几天成长开始快了。在照片中间的罗勒长的很漂亮。我会带一些到新车间，有兴趣品尝的朋友可以过来。</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;image.jpg" alt="Image" title="image.jpg" border="0"&#47;></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/image2.jpg" alt="Image" title="image.jpg" border="0"/><!--:--><!--:zh-->在海葵来的时候还非常的担心户外的鱼菜共生系统会有很大的影响，幸好没有出什么问题，这几天成长开始快了。在照片中间的罗勒长的很漂亮。我会带一些到新车间，有兴趣品尝的朋友可以过来。</p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/image.jpg" alt="Image" title="image.jpg" border="0"/></p>
 <p>在系统里面加入了珊瑚做为PH的调节，也加入了铁肥，补充这样还在初期的鱼菜共生系统这个方面的不足。</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;image2.jpg" alt="Image" title="image.jpg" border="0"&#47;><!--:--></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/image2.jpg" alt="Image" title="image.jpg" border="0"/><!--:--></p>

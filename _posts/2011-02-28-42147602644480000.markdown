@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Cub Scout, Tiger Mom and Arduino Electronic Dice http:&#47;&#47;xinchejian.com&#47;?p=503</p>
+<p>#xinchejian: Cub Scout, Tiger Mom and Arduino Electronic Dice http://xinchejian.com/?p=503</p>

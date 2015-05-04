@@ -37,7 +37,7 @@ comments:
   date_gmt: '2011-03-17 10:12:01 +0800'
   content: Not yet. Hopefully, by the end of this month. :) You want one, right?
 ---
-<h1>We have the FRAME!!!<&#47;h1></p>
-<p>Danny show up in Barcamp with a big surprise! He show me the fiber&#47;aluminium frame of the quadcopter he just got CNCed. What a beauty!<&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;SNC18108.jpg" alt="SNC18108" title="SNC18108.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;SNC18109.jpg" alt="SNC18109" title="SNC18109.JPG" border="0"&#47;><&#47;p></p>
+<h1>We have the FRAME!!!</h1></p>
+<p>Danny show up in Barcamp with a big surprise! He show me the fiber/aluminium frame of the quadcopter he just got CNCed. What a beauty!</p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/SNC18108.jpg" alt="SNC18108" title="SNC18108.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/SNC18109.jpg" alt="SNC18109" title="SNC18109.JPG" border="0"/></p></p>

@@ -24,11 +24,11 @@ tags:
 comments: []
 ---
 <p><!--:en-->XinCheJian's opening hours for the moment are Saturday and Sunday from 2pm to 5pm. If you wish to visit us during weekdays, please contact us 1 day before by email: info@xinchejian.com. Thank you for your support!</p>
-<p>Subscribe to our Mailing List : <a href="mailto:xinchejian+subscribe@googlegroups.com">xinchejian+subscribe@googlegroups.com<&#47;a><br />
-Sending a post to our Mailing List : <a href="mailto:xinchejian@googlegroups.com">xinchejian@googlegroups.com<&#47;a></p>
-<p>Follow us on : <a href="http:&#47;&#47;www.facebook.com&#47;pages&#47;新车间-Xin-Che-Jian&#47;175737115791930">Facebook<&#47;a>, <a href="http:&#47;&#47;t.sina.com.cn&#47;xinchejian">Weibo<&#47;a>, <a href="http:&#47;&#47;twitter.com&#47;xinchejian">Twitter<&#47;a>, <a href="http:&#47;&#47;www.douban.com&#47;people&#47;50667890&#47;">Douban<&#47;a><br />
+<p>Subscribe to our Mailing List : <a href="mailto:xinchejian+subscribe@googlegroups.com">xinchejian+subscribe@googlegroups.com</a><br />
+Sending a post to our Mailing List : <a href="mailto:xinchejian@googlegroups.com">xinchejian@googlegroups.com</a></p>
+<p>Follow us on : <a href="http://www.facebook.com/pages/新车间-Xin-Che-Jian/175737115791930">Facebook</a>, <a href="http://t.sina.com.cn/xinchejian">Weibo</a>, <a href="http://twitter.com/xinchejian">Twitter</a>, <a href="http://www.douban.com/people/50667890/">Douban</a><br />
 <!--:--><!--:zh-->新车间目前开门时间只有周六和周日的下午2点到5点。如果您在这个时间以外想过去，可以先提前一天给我们发邮件 (info@xinchejian.com)，好约个时间。谢谢支持！</p>
-<p>加入Google邮件讨论组请寄邮件到 : <a href="mailto:xinchejian+subscribe@googlegroups.com">xinchejian+subscribe@googlegroups.com<&#47;a><br />
-发信息到Google邮件讨论组请寄邮件到 : <a href="mailto:xinchejian@googlegroups.com">xinchejian@googlegroups.com<&#47;a></p>
-<p>关注我们 : <a href="http:&#47;&#47;www.facebook.com&#47;pages&#47;新车间-Xin-Che-Jian&#47;175737115791930">脸书<&#47;a>, <a href="http:&#47;&#47;t.sina.com.cn&#47;xinchejian">微搏<&#47;a>, <a href="http:&#47;&#47;twitter.com&#47;xinchejian">推特<&#47;a>, <a href="http:&#47;&#47;www.douban.com&#47;people&#47;50667890&#47;">豆瓣<&#47;a><br />
+<p>加入Google邮件讨论组请寄邮件到 : <a href="mailto:xinchejian+subscribe@googlegroups.com">xinchejian+subscribe@googlegroups.com</a><br />
+发信息到Google邮件讨论组请寄邮件到 : <a href="mailto:xinchejian@googlegroups.com">xinchejian@googlegroups.com</a></p>
+<p>关注我们 : <a href="http://www.facebook.com/pages/新车间-Xin-Che-Jian/175737115791930">脸书</a>, <a href="http://t.sina.com.cn/xinchejian">微搏</a>, <a href="http://twitter.com/xinchejian">推特</a>, <a href="http://www.douban.com/people/50667890/">豆瓣</a><br />
 <!--:--></p>

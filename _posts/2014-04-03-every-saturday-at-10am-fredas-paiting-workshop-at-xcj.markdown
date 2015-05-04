@@ -25,8 +25,8 @@ comments:
   author_url: https://facebook.com/profile.php?id=100002313386916
   date: '2014-04-03 10:51:37 +0800'
   date_gmt: '2014-04-03 02:51:37 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002313386916"
-    target="_blank">Jerry Liang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100002313386916"
+    target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
 <p><!--:en-->Spring, colors, smell of paint...</p>
 <p>制作工具:</p>

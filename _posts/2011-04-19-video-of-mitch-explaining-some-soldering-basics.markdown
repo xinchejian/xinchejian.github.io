@@ -24,6 +24,6 @@ tags:
 - soldering
 comments: []
 ---
-<p><!--:en--><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjYwMDc0NDE2&#47;v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application&#47;x-shockwave-flash"><&#47;embed><br />
-<!--:--><!--:zh--><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjYwMDc0NDE2&#47;v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application&#47;x-shockwave-flash"><&#47;embed><br />
+<p><!--:en--><embed src="http://player.youku.com/player.php/sid/XMjYwMDc0NDE2/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
+<!--:--><!--:zh--><embed src="http://player.youku.com/player.php/sid/XMjYwMDc0NDE2/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
 <!--:--></p>

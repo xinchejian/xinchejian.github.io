@@ -61,32 +61,32 @@ comments:
   author_url: https://facebook.com/profile.php?id=175737115791930
   date: '2015-04-09 12:53:10 +0800'
   date_gmt: '2015-04-09 04:53:10 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=175737115791930"
-    target="_blank">新车间 [Xin Che Jian]<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=175737115791930"
+    target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 - id: 30696
   author: Matt Jani
   author_email: facebook.517448651@example.com
   author_url: https://facebook.com/profile.php?id=517448651
   date: '2015-04-09 12:53:16 +0800'
   date_gmt: '2015-04-09 04:53:16 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=517448651" target="_blank">Matt
-    Jani<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=517448651" target="_blank">Matt
+    Jani</a> liked this on Facebook.
 - id: 30697
   author: Paul Yang
   author_email: facebook.100000324397404@example.com
   author_url: https://facebook.com/profile.php?id=100000324397404
   date: '2015-04-09 12:53:21 +0800'
   date_gmt: '2015-04-09 04:53:21 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000324397404"
-    target="_blank">Paul Yang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000324397404"
+    target="_blank">Paul Yang</a> liked this on Facebook.
 - id: 30698
   author: Ananda Gabo
   author_email: facebook.100008877213303@example.com
   author_url: https://facebook.com/profile.php?id=100008877213303
   date: '2015-04-09 12:53:27 +0800'
   date_gmt: '2015-04-09 04:53:27 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100008877213303"
-    target="_blank">Ananda Gabo<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100008877213303"
+    target="_blank">Ananda Gabo</a> liked this on Facebook.
 - id: 30701
   author: Amanda.Maxy
   author_email: amanda0310@me.com
@@ -146,21 +146,21 @@ comments:
   date_gmt: '2015-04-14 13:34:22 +0800'
   content: click the green button to sign up. payment info inside.
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;04&#47;IMG_0027.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;04&#47;IMG_0027-290x290.jpg" alt="IMG_0027" width="290" height="290" class="aligncenter size-thumbnail wp-image-7241" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;4278169591400" target="_blank" title="立即报名">Sign up 报名参加<&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2015/04/IMG_0027.jpg"><img src="http://xinchejian.com/wp-content/uploads/2015/04/IMG_0027-290x290.jpg" alt="IMG_0027" width="290" height="290" class="aligncenter size-thumbnail wp-image-7241" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/4278169591400" target="_blank" title="立即报名">Sign up 报名参加</a><br />
 <!--:en--><br />
-<strong>Please do sign up no later than 22nd Wednesday!<&#47;strong><br />
+<strong>Please do sign up no later than 22nd Wednesday!</strong><br />
 Build your own hobby-grade high speed drone! Kit consists of everything you need to get into  the drone hobby ( including remote control). Capable of flying Kilometers away and can climb hundreds of meters into the sky. You may also install modules such as camera, sonar, Gps, great platform for your future projects. The drone is entirely made of extremely strong and light carbon fiber, it is almost impossible to break. Note: This is NOT a toy<br />
-<strong>Kit Fee: <&#47;strong><br />
+<strong>Kit Fee: </strong><br />
 1600 RMB<br />
-<strong>Workshop Fee: <&#47;strong><br />
+<strong>Workshop Fee: </strong><br />
 300RMB<br />
 Time：<br />
 April 25th, from 10am till project finished<br />
 <!--:--><br />
 <!--:zh--><br />
-<strong>需要提前准备套件，请周三前报名并付费！<&#47;strong><br />
+<strong>需要提前准备套件，请周三前报名并付费！</strong><br />
 制作高速四轴飞行器工作坊！套件包含所有所需配件，包括遥控器。飞行距离可达千米，高度上百米。也可以安装其他模块，如摄像头，声纳，GPS等。机架材料为高强度碳纤维制作，不易摔坏。本工作坊搭建的四轴飞行器可作为项目平台，不是普通的玩具哦～<br />
 套件费用：1600元<br />
 工作坊费用：300元<br />

@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Fun Arduino compatible electronic blocks for Lego http:&#47;&#47;xinchejian.com&#47;?p=468</p>
+<p>#xinchejian: Fun Arduino compatible electronic blocks for Lego http://xinchejian.com/?p=468</p>

@@ -20,12 +20,12 @@ categories:
 tags: []
 comments: []
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;12&#47;600_431999265.jpeg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;12&#47;600_431999265-290x290.jpeg" alt="600_431999265" width="290" height="290" class="aligncenter size-thumbnail wp-image-7073" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;9263588870500" target="_blank" title="立即报名">报名参加 Register<&#47;a></p>
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/12/600_431999265.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/12/600_431999265-290x290.jpeg" alt="600_431999265" width="290" height="290" class="aligncenter size-thumbnail wp-image-7073" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/9263588870500" target="_blank" title="立即报名">报名参加 Register</a></p>
 <p><!--:en--><br />
 Time: Jan. 3rd Sunday, 10:30am - 12:30pm.<br />
-Fee: RMB150&#47;session for XinCheJian members; RMB200&#47;session for non XinCheJian members.<br />
+Fee: RMB150/session for XinCheJian members; RMB200/session for non XinCheJian members.<br />
 The Arduino workshop is great for those looking to get started with micro-controller programming and need a kickstart in the right direction. This is one of the most Popular workshops at xinchejian, Designed to not overwhelm people but provide the right balance of theoretical and hands on experience. Please do not sign up if you are not going to show up as you&rsquo;ll be taking a seat from someone that wants to do it. This workshop will run in English.</p>
 <p>You will need to have your own Arduino kit, we have kits in XinCheJian for sale at RMB 210.00 &ndash; order online from DFRobot or Buy from us and help support the space.</p>
 <p>Content of the workshop:<br />

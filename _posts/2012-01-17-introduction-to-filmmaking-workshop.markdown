@@ -34,5 +34,5 @@ comments:
   content: Hi, 你好！我们已经收到了你的报名，你应该收到报名成功的邮件，你没有收到吗？
 ---
 <p><!--:en-->Camera, Roll, Action!</p>
-<p>A 1 day full workshop to encompass scripting, directing, filming, and editing, brought to you by XinCheJian, run by French filmmaker, director, and producer J&eacute;r&ocirc;me Laniau. An opportunity not to be missed. Please check <a href="http:&#47;&#47;xinchejian.com&#47;event&#47;?ee=97"><font color="blue">HERE<&#47;font><&#47;a> for details. Seats are limited, please register and reserve your spot today!<!--:--><!--:zh-->Camera, Roll, Action!</p>
-<p>想要学怎么拍电影吗？想要在一天内就拍出你的第一部电影短片吗？2月4日新车间将带给你一个不容错过的好机会。从早上10点到晚上10点，法国电影导演和制片人 J&eacute;r&ocirc;me Laniau 将带你一起编剧，导演，摄影，和编辑你的第一部电影短片。更多详情请到<a href="http:&#47;&#47;xinchejian.com&#47;event&#47;?ee=97"><font color="blue">这里<&#47;font><&#47;a>查询。报名人数有限，请即刻注册预定好你的位子。<!--:--></p>
+<p>A 1 day full workshop to encompass scripting, directing, filming, and editing, brought to you by XinCheJian, run by French filmmaker, director, and producer J&eacute;r&ocirc;me Laniau. An opportunity not to be missed. Please check <a href="http://xinchejian.com/event/?ee=97"><font color="blue">HERE</font></a> for details. Seats are limited, please register and reserve your spot today!<!--:--><!--:zh-->Camera, Roll, Action!</p>
+<p>想要学怎么拍电影吗？想要在一天内就拍出你的第一部电影短片吗？2月4日新车间将带给你一个不容错过的好机会。从早上10点到晚上10点，法国电影导演和制片人 J&eacute;r&ocirc;me Laniau 将带你一起编剧，导演，摄影，和编辑你的第一部电影短片。更多详情请到<a href="http://xinchejian.com/event/?ee=97"><font color="blue">这里</font></a>查询。报名人数有限，请即刻注册预定好你的位子。<!--:--></p>

@@ -25,12 +25,12 @@ comments:
   author_url: https://facebook.com/profile.php?id=100001797015109
   date: '2014-11-29 03:38:03 +0800'
   date_gmt: '2014-11-28 19:38:03 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100001797015109"
-    target="_blank">Ria Lunesu<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100001797015109"
+    target="_blank">Ria Lunesu</a> liked this on Facebook.
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;11&#47;600_431999265.jpeg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;11&#47;600_431999265-290x290.jpeg" alt="600_431999265" width="290" height="290" class="aligncenter size-thumbnail wp-image-7115" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;8267651561000" target="_blank" title="立即报名">报名参加 Register<&#47;a></p>
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/11/600_431999265.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/11/600_431999265-290x290.jpeg" alt="600_431999265" width="290" height="290" class="aligncenter size-thumbnail wp-image-7115" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/8267651561000" target="_blank" title="立即报名">报名参加 Register</a></p>
 <p><!--:en--><br />
 Time: Feb. 08 Sunday 10:30am - 12:30pm.<br />
 Fee: RMB150 for XinCheJian members; RMB200 for non XinCheJian members.<br />

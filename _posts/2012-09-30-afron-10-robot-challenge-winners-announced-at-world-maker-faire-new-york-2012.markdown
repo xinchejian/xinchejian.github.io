@@ -39,8 +39,8 @@ comments:
 2. SwarmRobot: China<br />
 3. SEG: MIT, USA<br />
 4. DiscBot: USA<br />
-<&#47;ol><br />
+</ol><br />
 That's Xinchejian in second place, behind Harvard University's funded research group and ahead of the MIT University!<br />
-<a href="http:&#47;&#47;xinchejian.com&#47;2012&#47;09&#47;30&#47;afron-10-robot-challenge-winners-announced-at-world-maker-faire-new-york-2012&#47;xinchejianswarmrobots-2012-09-28-800x&#47;" rel="attachment wp-att-3884"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;09&#47;XinchejianSwarmRobots-2012-09-28-800x-300x222.jpg" alt="Prize winning Xinchejian SwarmRobots" title="Prize winning Xinchejian SwarmRobots" width="300" height="222" class="alignnone size-medium wp-image-3884" &#47;><&#47;a></p>
-<p>Since entering the competition SwarmRobots we have been adding more capability including object detection, communication and wireless charging. If you would like to be part of Xinchejian or the SwarmRobots team, come to Xinchejian's free Open Night, every Wednesday at 7:30PM to find out more or start with these <a title="XinCheJian SwarmRobot videos" href="http:&#47;&#47;www.soku.com&#47;search_video&#47;q_spanner888">videos<&#47;a>!<!--:--><!--:zh--><br &#47;><br />
+<a href="http://xinchejian.com/2012/09/30/afron-10-robot-challenge-winners-announced-at-world-maker-faire-new-york-2012/xinchejianswarmrobots-2012-09-28-800x/" rel="attachment wp-att-3884"><img src="http://xinchejian.com/wp-content/uploads/2012/09/XinchejianSwarmRobots-2012-09-28-800x-300x222.jpg" alt="Prize winning Xinchejian SwarmRobots" title="Prize winning Xinchejian SwarmRobots" width="300" height="222" class="alignnone size-medium wp-image-3884" /></a></p>
+<p>Since entering the competition SwarmRobots we have been adding more capability including object detection, communication and wireless charging. If you would like to be part of Xinchejian or the SwarmRobots team, come to Xinchejian's free Open Night, every Wednesday at 7:30PM to find out more or start with these <a title="XinCheJian SwarmRobot videos" href="http://www.soku.com/search_video/q_spanner888">videos</a>!<!--:--><!--:zh--><br /><br />
 <!--:--></p>

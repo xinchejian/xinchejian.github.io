@@ -19,9 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;12&#47;WeChat_1419317760.jpeg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;12&#47;WeChat_1419317760-290x289.jpeg" alt="WeChat_1419317760" width="290" height="289" class="aligncenter size-thumbnail wp-image-7068" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;5261742224600" target="_blank" title="立即报名">Register 报名参加<&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href<a href="http://xinchejian.com/wp-content/uploads/2014/12/WeChat_1419317760.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/12/WeChat_1419317760-290x289.jpeg" alt="WeChat_1419317760" width="290" height="289" class="aligncenter size-thumbnail wp-image-7068" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/5261742224600" target="_blank" title="立即报名">Register 报名参加</a><br />
 又一波福利送到！<br />
 12月28号周日上午机智云开源硬件gokit体验活动！机智云工程师现场进行案例讲解，参加者也可以尝试自己开发！会员免费！<br />
 机智云结合多年的智能家居开发经验，构建智能硬件自助开发平台，并自主研发了连接云端和微信的智能硬件开发板Gokit，以帮助想要生产智能家居的企业更好的理解物联网。<br />

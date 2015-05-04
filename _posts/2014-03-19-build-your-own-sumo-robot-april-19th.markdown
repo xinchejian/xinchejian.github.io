@@ -27,16 +27,16 @@ comments:
   author_url: https://facebook.com/profile.php?id=594770117
   date: '2014-03-20 21:21:51 +0800'
   date_gmt: '2014-03-20 13:21:51 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=594770117" target="_blank">Ian
-    Chin<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=594770117" target="_blank">Ian
+    Chin</a> liked this on Facebook.
 - id: 22779
   author: Wrtnode Opensourcehardware
   author_email: facebook.100006778053821@example.com
   author_url: https://facebook.com/profile.php?id=100006778053821
   date: '2014-03-20 21:21:53 +0800'
   date_gmt: '2014-03-20 13:21:53 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100006778053821"
-    target="_blank">Wrtnode Opensourcehardware<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100006778053821"
+    target="_blank">Wrtnode Opensourcehardware</a> liked this on Facebook.
 - id: 22876
   author: Luk Wai Yip
   author_email: 281291507@qq.com
@@ -89,20 +89,20 @@ comments:
   content: diyer
 ---
 <p><!--:en--></p>
-<div><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;sumo-xinchejian.jpeg"><img alt="sumo-xinchejian" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;03&#47;sumo-xinchejian-300x225.jpeg" width="300" height="225" &#47;><&#47;a><&#47;div></p>
-<div><&#47;div></p>
-<div>Please<strong> sign up at the link under 'upcoming events'<&#47;strong>&nbsp;to the right of the website!!<&#47;div></p>
-<div>Price: members RMB300 and nonmembers RMB400,&nbsp;&nbsp;including the kits.<&#47;div></p>
-<div><&#47;div></p>
-<div>For people who would like to join the SUMO robot races but have no idea how to start building their own robot have now their chance to join&hellip; The Build your&nbsp;<b>OWN<&#47;b>&nbsp;sumo robot workshop.<&#47;div></p>
+<div><a href="http://xinchejian.com/wp-content/uploads/2014/03/sumo-xinchejian.jpeg"><img alt="sumo-xinchejian" src="http://xinchejian.com/wp-content/uploads/2014/03/sumo-xinchejian-300x225.jpeg" width="300" height="225" /></a></div></p>
+<div></div></p>
+<div>Please<strong> sign up at the link under 'upcoming events'</strong>&nbsp;to the right of the website!!</div></p>
+<div>Price: members RMB300 and nonmembers RMB400,&nbsp;&nbsp;including the kits.</div></p>
+<div></div></p>
+<div>For people who would like to join the SUMO robot races but have no idea how to start building their own robot have now their chance to join&hellip; The Build your&nbsp;<b>OWN</b>&nbsp;sumo robot workshop.</div></p>
 <ul>
-<li>During the workshop you will be provided will all the necessary materials.<&#47;li>
-<li>A guide will be presented showing the major steps of how to complete your SUMO robot.<&#47;li>
-<li>And hands-on help during the day<&#47;li><br />
-<&#47;ul></p>
-<div>During the day you will be busy soldering, drilling, cutting, gluing and all the other necessary &nbsp;work involved to get your robot wrestling in the sumo ring.<&#47;div></p>
-<div><&#47;div></p>
-<div>No experience with Arduino is required but is a plus.<&#47;div></p>
-<div><&#47;div></p>
-<div>You can join this workshop individually or with a friend (strongly suggested if you&rsquo;re an absolute beginner due to the limited time)<&#47;div><br />
+<li>During the workshop you will be provided will all the necessary materials.</li>
+<li>A guide will be presented showing the major steps of how to complete your SUMO robot.</li>
+<li>And hands-on help during the day</li><br />
+</ul></p>
+<div>During the day you will be busy soldering, drilling, cutting, gluing and all the other necessary &nbsp;work involved to get your robot wrestling in the sumo ring.</div></p>
+<div></div></p>
+<div>No experience with Arduino is required but is a plus.</div></p>
+<div></div></p>
+<div>You can join this workshop individually or with a friend (strongly suggested if you&rsquo;re an absolute beginner due to the limited time)</div><br />
 <!--:--></p>

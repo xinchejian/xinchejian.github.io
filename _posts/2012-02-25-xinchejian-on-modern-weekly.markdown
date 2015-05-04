@@ -20,7 +20,7 @@ tags:
 - press
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.modernweekly.com&#47;" target="_blank">Modern Weekly<&#47;a> did a nice report on Maker in China featuring Beijing Hackerspace and XinCheJian. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;IMG_2410.jpg" alt="IMG 2410" title="IMG_2410.jpg" border="0"&#47;></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;IMG_2408.jpg" alt="IMG 2408" title="IMG_2408.jpg" border="0"&#47;></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;IMG_2409.jpg" alt="IMG 2409" title="IMG_2409.jpg" border="0"&#47;></p>
+<p><a href="http://www.modernweekly.com/" target="_blank">Modern Weekly</a> did a nice report on Maker in China featuring Beijing Hackerspace and XinCheJian. </p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/02/IMG_2410.jpg" alt="IMG 2410" title="IMG_2410.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/02/IMG_2408.jpg" alt="IMG 2408" title="IMG_2408.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/02/IMG_2409.jpg" alt="IMG 2409" title="IMG_2409.jpg" border="0"/></p>

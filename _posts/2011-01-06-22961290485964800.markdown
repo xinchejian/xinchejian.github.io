@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: A.R.T. Glamour  http:&#47;&#47;xinchejian.com...'
+title: '#xinchejian: A.R.T. Glamour  http://xinchejian.com...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: A.R.T. Glamour  http:&#47;&#47;xinchejian.com&#47;?p=322</p>
+<p>#xinchejian: A.R.T. Glamour  http://xinchejian.com/?p=322</p>

@@ -33,7 +33,7 @@ comments:
   author_url: ''
   date: '2012-08-21 17:04:53 +0800'
   date_gmt: '2012-08-21 09:04:53 +0800'
-  content: 呵呵，是呀。等你的PH&#47;PPM传感好了，我们来做个水耕用的Arduino. ;)
+  content: 呵呵，是呀。等你的PH/PPM传感好了，我们来做个水耕用的Arduino. ;)
 - id: 5360
   author: Jia Qi
   author_email: h.hujiaqi@gmail.com
@@ -58,11 +58,11 @@ comments:
   date_gmt: '2012-08-21 15:17:37 +0800'
   content: couldn't make any seedling this evening @XCJ... will try on Saturday then
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;2012&#47;08&#47;12&#47;building-a-simple-hydroponic-planter&#47;">The planter built a week ago<&#47;a> is doing well on my balcony. Here is the before and after photos. <&#47;p></p>
-<hr&#47;>
-<h3>A week ago<&#47;h3></p>
+<p><a href="http://xinchejian.com/2012/08/12/building-a-simple-hydroponic-planter/">The planter built a week ago</a> is doing well on my balcony. Here is the before and after photos. </p></p>
+<hr/>
+<h3>A week ago</h3></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;IMG_3227.jpg"><br />
-<&#47;p></p>
-<h3>Today<&#47;h3></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;IMG_3302.jpg" alt="IMG 3302" title="IMG_3302.jpg" border="0"&#47;><&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3227.jpg"><br />
+</p></p>
+<h3>Today</h3></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3302.jpg" alt="IMG 3302" title="IMG_3302.jpg" border="0"/></p></p>

@@ -21,12 +21,12 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en--><img style="display: block; margin-right: auto; margin-left: auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_163947.jpg" alt="image" &#47;></p>
-<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_182929.jpg" alt="image" &#47;></p>
-<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_182933.jpg" alt="image" &#47;></p>
-<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_182951.jpg" alt="image" &#47;></p>
-<p>For more information, check our <a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Panda_Board">wiki<&#47;a>.<!--:--><!--:zh--><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_163947.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_182929.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_182933.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_182951.jpg" &#47;></p>
-<p>For more information, check our <a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Panda_Board">wiki<&#47;a>.<&#47;p><!--:--></p>
+<p><!--:en--><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_163947.jpg" alt="image" /></p>
+<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_182929.jpg" alt="image" /></p>
+<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_182933.jpg" alt="image" /></p>
+<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_182951.jpg" alt="image" /></p>
+<p>For more information, check our <a href="http://wiki.xinchejian.com/wiki/Panda_Board">wiki</a>.<!--:--><!--:zh--><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_163947.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_182929.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_182933.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_182951.jpg" /></p>
+<p>For more information, check our <a href="http://wiki.xinchejian.com/wiki/Panda_Board">wiki</a>.</p><!--:--></p>

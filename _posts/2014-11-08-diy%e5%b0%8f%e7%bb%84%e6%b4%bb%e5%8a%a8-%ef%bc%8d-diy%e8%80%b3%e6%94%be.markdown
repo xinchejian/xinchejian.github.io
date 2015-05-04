@@ -26,11 +26,11 @@ comments:
   date: '2014-11-08 14:08:24 +0800'
   date_gmt: '2014-11-08 06:08:24 +0800'
   content: "RT @xinchejian: DIY小组活动 DIY耳放 - Nov. 15: 上海静安愚园东路28号3号楼一楼 新车间 \n本次活动将会让爱好者,安装一个传奇级别的耳放，自己购买配件。极客都是喜欢动手和音乐的人，我们离不开m...
-    http:&#47;&#47;t.co&#47;CTw1wnF6YW"
+    http://t.co/CTw1wnF6YW"
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;11&#47;0.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;11&#47;0-290x290.jpg" alt="0" width="290" height="290" class="aligncenter size-thumbnail wp-image-6994" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;3255247748600" target="_blank" title="立即报名">Register 报名参加<&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/11/0.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/11/0-290x290.jpg" alt="0" width="290" height="290" class="aligncenter size-thumbnail wp-image-6994" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/event/3255247748600" target="_blank" title="立即报名">Register 报名参加</a><br />
 时间：11月15号周六上午10点。<br />
 本次活动将会让爱好者,安装一个传奇级别的耳放，自己购买配件。极客都是喜欢动手和音乐的人，我们离不开music。<br />
 耳放是一个纯洁你的耳机让音乐到达飘飘欲仙的境界。当然你可以自由你愿意的配件然后大家来一起组织一起玩。如果你有一副好耳机，一定记得带出来测试这个耳放。这个耳放可以达到市面上2000-4000元的耳放级别。大家来见证奇迹的时刻。耳放做好后，我们可以K一下古典，人声，和旋以及一些新世纪和慢摇滚的音乐。有好的音源的伙伴可以带上你的音源来show一下台面分享一下音乐的动力。<br />

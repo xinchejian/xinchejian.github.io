@@ -27,5 +27,5 @@ comments:
   date_gmt: '2012-02-13 02:58:05 +0800'
   content: partick真棒！
 ---
-<p><img title="" class="alignnone" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;wpid-IMG_20120212_142419.jpg" &#47;></p>
+<p><img title="" class="alignnone" alt="image" src="http://xinchejian.com/wp-content/uploads/2012/02/wpid-IMG_20120212_142419.jpg" /></p>
 <p>Introduction to vvvv workshop at Xinchejian; a multimedia development environment. Next week: advanced practical workshop.</p>

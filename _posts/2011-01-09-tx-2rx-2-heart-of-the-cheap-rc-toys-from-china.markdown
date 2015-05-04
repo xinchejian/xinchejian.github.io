@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'TX-2&#47;RX-2: Heart of the cheap RC Toys from China'
+title: 'TX-2/RX-2: Heart of the cheap RC Toys from China'
 author:
   display_name: David Li
   login: david
@@ -56,7 +56,7 @@ comments:
   author_url: ''
   date: '2011-10-24 05:58:01 +0800'
   date_gmt: '2011-10-23 21:58:01 +0800'
-  content: "Hi. My son has a couple of cheap Chinese RC cars - all with 27Mhz RC transmitter&#47;receivers.
+  content: "Hi. My son has a couple of cheap Chinese RC cars - all with 27Mhz RC transmitter/receivers.
     On of the cars I checked uses this RX-2 chip and I have a transmitter that uses
     a 27Mhz crystal. I want to try and replace the transmitter's crystal for a different
     frequency and match it up with the receiver circuit of the car so that we don't
@@ -77,7 +77,7 @@ comments:
   author_url: ''
   date: '2012-04-05 02:26:37 +0800'
   date_gmt: '2012-04-04 18:26:37 +0800'
-  content: "datasheet for this ic availiable in below website\r\nhttp:&#47;&#47;www.datasheetarchive.com&#47;\r\njust
+  content: "datasheet for this ic availiable in below website\r\nhttp://www.datasheetarchive.com/\r\njust
     type RX2 in the search box"
 - id: 11278
   author: reyes aryelle l.
@@ -120,12 +120,12 @@ comments:
     together, the cars don't move because there is a interference. Anyone have a suggest
     to fix it?\r\nRegards\r\n\r\nI hope to be clear with my english!"
 ---
-<p>To get ready for the Robot Contest event on 1&#47;16, I order the RMB 58 RC cars from Taobao. This RC car is good size and properly built. Originally, I wanted to go with the route of replacing the control board with Arduino and drive everything there. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;IMG_0193.jpg" alt="IMG_0193.JPG" title="IMG_0193.JPG" border="0" width="500" height="373" &#47;></p>
-<p>As I was trying to hook up the motor to Arduino, I realized that there wasn't any <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;H-bridge">H Bridge<&#47;a> and it was way too cold to go out and get it. Hmm... I figure there must be some H Bridge on the control board I just rip out of the car.  </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;IMG_0216.jpg" alt="IMG_0216.jpg" title="IMG_0216.jpg" border="0" width="500" height="417" &#47;></p>
-<p>As I located the two H bridge on the board, I notice the RX-2 chip. Out of curiosity, I decide to google for this chip. To a pleasant surprise, I found <a href="http:&#47;&#47;xinchejian.com&#47;?attachment_id=345">RX-2&#47;TX-2 Datasheet in Chinese<&#47;a> and <a href="http:&#47;&#47;xinchejian.com&#47;?attachment_id=347">guide<&#47;a> for exactly the board in the car and remote.</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;IMG_0215.jpg" alt="IMG_0215.jpg" title="IMG_0215.jpg" border="0" width="536" height="509" &#47;></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;untitled.jpg" alt="untitled.jpg" title="untitled.jpg" border="0" width="500" height="201" &#47;></p>
-<p>Decide to replace RX-2 in the car with Arduino so the H-Bridge on board can be reused and the RF for the remote can still work. Still trying to figure out what I am going to do with those remote control signal. A few facts about RX-2&#47;TX-2 chip I found is that the RC frequency can be adjusted by different resistance from 100K to 500K Ohm between OSCI&#47;OSCO pins. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;untitled1.jpg" alt="untitled.jpg" title="untitled.jpg" border="0" width="500" height="195" &#47;></p>
+<p>To get ready for the Robot Contest event on 1/16, I order the RMB 58 RC cars from Taobao. This RC car is good size and properly built. Originally, I wanted to go with the route of replacing the control board with Arduino and drive everything there. </p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0193.jpg" alt="IMG_0193.JPG" title="IMG_0193.JPG" border="0" width="500" height="373" /></p>
+<p>As I was trying to hook up the motor to Arduino, I realized that there wasn't any <a href="http://en.wikipedia.org/wiki/H-bridge">H Bridge</a> and it was way too cold to go out and get it. Hmm... I figure there must be some H Bridge on the control board I just rip out of the car.  </p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0216.jpg" alt="IMG_0216.jpg" title="IMG_0216.jpg" border="0" width="500" height="417" /></p>
+<p>As I located the two H bridge on the board, I notice the RX-2 chip. Out of curiosity, I decide to google for this chip. To a pleasant surprise, I found <a href="http://xinchejian.com/?attachment_id=345">RX-2/TX-2 Datasheet in Chinese</a> and <a href="http://xinchejian.com/?attachment_id=347">guide</a> for exactly the board in the car and remote.</p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0215.jpg" alt="IMG_0215.jpg" title="IMG_0215.jpg" border="0" width="536" height="509" /></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/untitled.jpg" alt="untitled.jpg" title="untitled.jpg" border="0" width="500" height="201" /></p>
+<p>Decide to replace RX-2 in the car with Arduino so the H-Bridge on board can be reused and the RF for the remote can still work. Still trying to figure out what I am going to do with those remote control signal. A few facts about RX-2/TX-2 chip I found is that the RC frequency can be adjusted by different resistance from 100K to 500K Ohm between OSCI/OSCO pins. </p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/untitled1.jpg" alt="untitled.jpg" title="untitled.jpg" border="0" width="500" height="195" /></p>

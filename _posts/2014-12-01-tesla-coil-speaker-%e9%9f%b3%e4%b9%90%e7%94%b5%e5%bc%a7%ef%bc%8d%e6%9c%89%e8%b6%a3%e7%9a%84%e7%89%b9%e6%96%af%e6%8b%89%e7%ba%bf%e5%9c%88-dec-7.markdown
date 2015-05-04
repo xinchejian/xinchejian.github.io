@@ -24,8 +24,8 @@ comments:
   author_url: https://facebook.com/profile.php?id=1093425662
   date: '2014-12-01 17:39:27 +0800'
   date_gmt: '2014-12-01 09:39:27 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1093425662" target="_blank">Sharon
-    Wang<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1093425662" target="_blank">Sharon
+    Wang</a> liked this on Facebook.
 - id: 28846
   author: Lionello Lunesu
   author_email: facebook.1195917587@example.com
@@ -40,7 +40,7 @@ comments:
   date: '2014-12-02 23:36:19 +0800'
   date_gmt: '2014-12-02 15:36:19 +0800'
   content: too bad, i am not in Shanghai this weekend. will there be a chance next
-    weekend on 13.&#47;14. to do stuff with the coil speaker?
+    weekend on 13./14. to do stuff with the coil speaker?
 - id: 28985
   author: Amanda.Maxy
   author_email: amanda0310@me.com
@@ -50,8 +50,8 @@ comments:
   content: Workshops are arranged randomly. Will announce it when we have the next
     one.
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;30771764662089731.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;30771764662089731-290x290.jpg" alt="30771764662089731" width="290" height="290" class="aligncenter size-thumbnail wp-image-6981" &#47;><&#47;a><a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;7258579359600" target="_blank" title="立即报名">Register 报名参加<&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/10/30771764662089731.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/30771764662089731-290x290.jpg" alt="30771764662089731" width="290" height="290" class="aligncenter size-thumbnail wp-image-6981" /></a><a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/7258579359600" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:zh--><br />
 时间：12月7号周日，下午14:00－17:00.<br />
 费用：300元；新车间会员享受250元优惠价格。费用包含所需材料。<br />

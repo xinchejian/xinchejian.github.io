@@ -21,4 +21,4 @@ tags:
 - bloomberg
 comments: []
 ---
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;04&#47;untitled.jpg" alt="Untitled" title="untitled.jpg" border="0" width="435" height="2709" &#47;></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/04/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0" width="435" height="2709" /></p>

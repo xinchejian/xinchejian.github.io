@@ -23,11 +23,11 @@ comments: []
 ---
 <p>XinCheJian participated in a panel and discussion last Sunday at XinDanWei.</p>
 <ul>
-<li>Liu Yan, Chen Xu from <a href="http:&#47;&#47;xindanwei.com&#47;">XinDanwei<&#47;a><&#47;li>
-<li>Ricky Ng-Adam, Min Lin Hsieh from <a href="http:&#47;&#47;xinchejian.com&#47;">XinCheJian<&#47;a><&#47;li>
-<li>Tony Bacigulapo, "Mayor" of <a href="http:&#47;&#47;nwc.co">New Work City<&#47;a>, New York<&#47;li><br />
-<&#47;ul><br />
-<a rel="attachment wp-att-1298" href="http:&#47;&#47;xinchejian.com&#47;2011&#47;08&#47;09&#47;1297&#47;futureco&#47;"><img class="aligncenter size-medium wp-image-1298" title="The Future is Co" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;futureco-225x300.jpg" alt="" width="225" height="300" &#47;><&#47;a></p>
-<p><a href="http:&#47;&#47;anxiaostudio.com&#47;2011&#47;08&#47;11&#47;notes-from-the-future-is-co-at-xindanwei-coworking-in-china-america-and-the-world&#47;">Notes from the moderator, An Xiao are available<&#47;a>.</p>
+<li>Liu Yan, Chen Xu from <a href="http://xindanwei.com/">XinDanwei</a></li>
+<li>Ricky Ng-Adam, Min Lin Hsieh from <a href="http://xinchejian.com/">XinCheJian</a></li>
+<li>Tony Bacigulapo, "Mayor" of <a href="http://nwc.co">New Work City</a>, New York</li><br />
+</ul><br />
+<a rel="attachment wp-att-1298" href="http://xinchejian.com/2011/08/09/1297/futureco/"><img class="aligncenter size-medium wp-image-1298" title="The Future is Co" src="http://xinchejian.com/wp-content/uploads/2011/08/futureco-225x300.jpg" alt="" width="225" height="300" /></a></p>
+<p><a href="http://anxiaostudio.com/2011/08/11/notes-from-the-future-is-co-at-xindanwei-coworking-in-china-america-and-the-world/">Notes from the moderator, An Xiao are available</a>.</p>
 <p>Quotes:</p>
-<blockquote><p>At a hacker space like Xinchejian, this might mean bringing in hackers of different kinds, from software programmers to roboticists to urban farmers. The point is to find that magic spark of synergy that a more homogenous group wouldn&rsquo;t be able to provide.<&#47;blockquote></p>
+<blockquote><p>At a hacker space like Xinchejian, this might mean bringing in hackers of different kinds, from software programmers to roboticists to urban farmers. The point is to find that magic spark of synergy that a more homogenous group wouldn&rsquo;t be able to provide.</blockquote></p>

@@ -25,7 +25,7 @@ tags:
 comments:
 - id: 4684
   author: Wednesday Meetup &#8211; Free &#8211; @ XinCheJian &#8211; 7-9pm &#8211;
-    04&#47;07&#47;2012 | 新车间 [Xinchejian]
+    04/07/2012 | 新车间 [Xinchejian]
   author_email: ''
   author_url: http://xinchejian.com/2012/07/04/wednesday-meetup-free-xinchejian-7-9pm-04072012/
   date: '2012-07-04 14:12:59 +0800'
@@ -40,7 +40,7 @@ comments:
 - Aeroponics (under construction)<br />
 - Oregano (operational since 16-June)</p>
 <p>if anyone of you have interested in joining us or for more information, feel free to contact David Li or Roger Mu.</p>
-<p><a href="http:&#47;&#47;xinchejian.com&#47;2012&#47;07&#47;02&#47;ongoing-hydroponic-projects-by-20120630&#47;ongoing_hydroponic_projects_xcj&#47;" rel="attachment wp-att-3490"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;ongoing_hydroponic_projects_XCJ-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-3490" &#47;><&#47;a><!--:--><!--:zh-->农耕队看板上列出了目前新车间正在开展的种植项目，具体如下：</p>
+<p><a href="http://xinchejian.com/2012/07/02/ongoing-hydroponic-projects-by-20120630/ongoing_hydroponic_projects_xcj/" rel="attachment wp-att-3490"><img src="http://xinchejian.com/wp-content/uploads/2012/07/ongoing_hydroponic_projects_XCJ-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-3490" /></a><!--:--><!--:zh-->农耕队看板上列出了目前新车间正在开展的种植项目，具体如下：</p>
 <p>- 自动水位升降系统 (2012年6月4日启动)<br />
 - 生态农业鱼菜共生系统 (2012年6月11日启动)<br />
 - 超音波雾化汽耕 (2012年6月中旬启动)<br />
@@ -48,4 +48,4 @@ comments:
 - 无水雾培种植 (筹备中)<br />
 - 牛至养殖 (2012年6月16日启动)</p>
 <p>若需要了解更多项目进展，或有兴趣加入农耕队，欢迎来新车间参观，并联系 Dvid Li 和 Roger Mu。</p>
-<p><a href="http:&#47;&#47;xinchejian.com&#47;2012&#47;07&#47;02&#47;ongoing-hydroponic-projects-by-20120630&#47;ongoing_hydroponic_projects_xcj&#47;" rel="attachment wp-att-3490"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;ongoing_hydroponic_projects_XCJ-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-3490" &#47;><&#47;a><!--:--></p>
+<p><a href="http://xinchejian.com/2012/07/02/ongoing-hydroponic-projects-by-20120630/ongoing_hydroponic_projects_xcj/" rel="attachment wp-att-3490"><img src="http://xinchejian.com/wp-content/uploads/2012/07/ongoing_hydroponic_projects_XCJ-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-3490" /></a><!--:--></p>

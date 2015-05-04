@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Intro to programming and Arduino http:&#47;&#47;t.co&#47;Rq3LWP8S</p>
+<p>#xinchejian: Intro to programming and Arduino http://t.co/Rq3LWP8S</p>

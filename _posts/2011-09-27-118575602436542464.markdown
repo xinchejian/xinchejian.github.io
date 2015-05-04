@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: 中文的书： Getting Started with Arduino http:&#47;&#47;t.co&#47;X7nzlgDb</p>
+<p>#xinchejian: 中文的书： Getting Started with Arduino http://t.co/X7nzlgDb</p>

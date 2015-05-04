@@ -21,5 +21,5 @@ tags:
 - eco design faire
 comments: []
 ---
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;06&#47;untitled.jpg" alt="Untitled" title="untitled.jpg" border="0" width="487" height="600" &#47;><&#47;p></p>
-<h3><a href="http:&#47;&#47;indu.arting365.com&#47;creative&#47;2011-11-16&#47;1321423949d251806.html">Link to full article<&#47;a><&#47;h3></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/06/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0" width="487" height="600" /></p></p>
+<h3><a href="http://indu.arting365.com/creative/2011-11-16/1321423949d251806.html">Link to full article</a></h3></p>

@@ -44,12 +44,12 @@ comments:
   content: Well, everyone is welcome! ;)
 ---
 <p><!--:en--><br />
-<h2 id="event_title-119">Time: Sunday March 25th from 5pm to 7pm<&#47;h2></p>
+<h2 id="event_title-119">Time: Sunday March 25th from 5pm to 7pm</h2></p>
 <div>
-<h3>Everyone is welcome to celebrate with us!!<&#47;h3><br />
-<&#47;div><!--:--><!--:zh--><br />
-<h2 id="event_title-119">时间：本周日3月25日下午5点～7点<&#47;h2></p>
+<h3>Everyone is welcome to celebrate with us!!</h3><br />
+</div><!--:--><!--:zh--><br />
+<h2 id="event_title-119">时间：本周日3月25日下午5点～7点</h2></p>
 <div>
-<h3>欢迎大家来共享盛举！！<&#47;h3></p>
-<h3><&#47;h3><br />
-<&#47;div><!--:--></p>
+<h3>欢迎大家来共享盛举！！</h3></p>
+<h3></h3><br />
+</div><!--:--></p>

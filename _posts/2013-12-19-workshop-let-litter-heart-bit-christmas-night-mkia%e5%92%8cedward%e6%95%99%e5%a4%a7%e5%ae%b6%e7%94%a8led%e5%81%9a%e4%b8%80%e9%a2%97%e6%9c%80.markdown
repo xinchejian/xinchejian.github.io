@@ -19,12 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;PicForxinchejianWEB.png"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;PicForxinchejianWEB-300x47.png" alt="PicForxinchejianWEB" width="300" height="47" class="alignnone size-medium wp-image-6158" &#47;><&#47;a></p>
+<p><a href="http://xinchejian.com/wp-content/uploads/2013/12/PicForxinchejianWEB.png"><img src="http://xinchejian.com/wp-content/uploads/2013/12/PicForxinchejianWEB-300x47.png" alt="PicForxinchejianWEB" width="300" height="47" class="alignnone size-medium wp-image-6158" /></a></p>
 <p>Workshop : Let litter heart bit Christmas night<br />
 THE Subject :HOW TO MAKE A LITTER HEART BIT By MIKA and EDWARD<br />
 The Time：Dec 22st  1pm-3pm<br />
 The address：1035 Changle Rd, 2nd floor, Xuhui District, Shanghai<br />
-Fee： 100元（online）&#47; 120元（scene）<br />
+Fee： 100元（online）/ 120元（scene）<br />
 Goal：<br />
 Christmas is a day for people show their true love!<br />
 You need let her\him know !<br />
@@ -33,7 +33,7 @@ Try to make a heart lights<br />
 Let it show !<br />
 Show your true heart;<br />
 Light the Christmas night !<br />
-SIGN ADDRESS: http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=202</p>
+SIGN ADDRESS: http://xinchejian.com/event2/upcoming-workshop/?ee=202</p>
 <p>主题：Mkia和Edward教大家用LED做一颗最真诚的&ldquo;心&rdquo;<br />
 时间：2013年12月22 下午1点-3点<br />
 地址：上海市徐汇区长乐路1035号2楼<br />
@@ -48,4 +48,4 @@ SIGN ADDRESS: http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47
 Mkia和Edward将教你做一颗最真诚的&ldquo;心&rdquo;<br />
 瞬间秒杀一切告别创意；<br />
 照亮这个浪漫的圣诞之夜；<br />
-报名连接： http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=202</p>
+报名连接： http://xinchejian.com/event2/upcoming-workshop/?ee=202</p>

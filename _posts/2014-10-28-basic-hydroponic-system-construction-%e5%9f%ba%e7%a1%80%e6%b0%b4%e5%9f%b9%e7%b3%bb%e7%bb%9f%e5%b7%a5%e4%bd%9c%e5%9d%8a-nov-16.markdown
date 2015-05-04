@@ -20,9 +20,9 @@ categories:
 tags: []
 comments: []
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;hydropnics.jpeg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;hydropnics-290x290.jpeg" alt="hydropnics" width="290" height="290" class="aligncenter size-thumbnail wp-image-6971" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;hp1" target="_blank" title="立即报名">报名参加 Register<&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/10/hydropnics.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/hydropnics-290x290.jpeg" alt="hydropnics" width="290" height="290" class="aligncenter size-thumbnail wp-image-6971" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/hp1" target="_blank" title="立即报名">报名参加 Register</a><br />
 <!--:zh--><br />
 时间：11月23号周日，下午14:00 － 15:30.<br />
 费用：150元（会员）或200元（非会员），包括整套水培种植器具，手动浇水器，营养液<br />
@@ -35,7 +35,7 @@ comments: []
 <!--:--><br />
 <!--:en--><br />
 Time: 14:00 - 15:30 Sunday, Nov. 23rd.<br />
-Fee: 150 RMB (for xinchejian members) and 200 RMB (non xinchejian members, including hand watered hydroponic system, watering bottle&#47;spray, nutrients。<br />
+Fee: 150 RMB (for xinchejian members) and 200 RMB (non xinchejian members, including hand watered hydroponic system, watering bottle/spray, nutrients。<br />
 Description:<br />
 If you know nothing about growing plants or what hydroponics is, this workshop is for you. This workshop will cover basic plant growing and hydroponic techniques that will allow you to understand and maintain one of the most basic hydroponic system types (hand watered container) with some of the lowest maintenance and resilient edible plants available.<br />
 You will also learn how to assemble a basic hand watered container hydroponic system, and how to transplant seedlings into the system. At the end of the workshop, you will leave with a functioning hydroponic system with live plants and the knowledge to keep them alive. After that, all you will need for success is patience and motivation!<br />

@@ -2,8 +2,8 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 05&#47;12&#47;2012<!--:--><!--:zh-->Wednesday
-  Meetup - Free - @ XinCheJian - 7-9pm - 05&#47;12&#47;2012<!--:-->
+title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 05/12/2012<!--:--><!--:zh-->Wednesday
+  Meetup - Free - @ XinCheJian - 7-9pm - 05/12/2012<!--:-->
 author:
   display_name: nihaopaul
   login: nihaopaul
@@ -26,19 +26,19 @@ tags: []
 comments: []
 ---
 <p><!--:en--><br />
-<h1>12月05日周三开放日更新<&#47;h1></p>
+<h1>12月05日周三开放日更新</h1></p>
 <ul>
-<li>Marie Dariel - Bio Mimickery<&#47;li>
-<li>Michael Rozenberg - A board game fanatic<&#47;li><br />
-<&#47;ul><br />
+<li>Marie Dariel - Bio Mimickery</li>
+<li>Michael Rozenberg - A board game fanatic</li><br />
+</ul><br />
 Marie Dariel will be talking about bio mimickery in design and how they hope to launch a program in the middle of next year that focuses on Nature-Inspired Innovation, a hot topic.</p>
 <p>Michael Rozenberg will be presenting on board games, his deep passion for them and how he's using them in day to day life and business. He's also bringing his most loved board game over tonight, so get ready to get your game on and take it for a spin!</p>
 <p>who else? *your name here* it's also adhoc, so get ready, just keep it to 9 minutes plus Q&amp;A afterwards<!--:--><!--:zh--><br />
-<h1>12月05日周三开放日更新<&#47;h1></p>
+<h1>12月05日周三开放日更新</h1></p>
 <ul>
-<li>Marie Dariel - Bio Mimickery<&#47;li>
-<li>Michael Rozenberg - A board game fanatic<&#47;li><br />
-<&#47;ul><br />
+<li>Marie Dariel - Bio Mimickery</li>
+<li>Michael Rozenberg - A board game fanatic</li><br />
+</ul><br />
 Marie Dariel will be talking about bio mimickery in design and how they hope to launch a program in the middle of next year that focuses on Nature-Inspired Innovation, a hot topic.</p>
 <p>Michael Rozenberg will be presenting on board games, his deep passion for them and how he's using them in day to day life and business. He's also bringing his most loved board game over tonight, so get ready to get your game on and take it for a spin!</p>
 <p>who else? *your name here* it's also adhoc, so get ready, just keep it to 9 minutes plus Q&amp;A afterwards<!--:--></p>

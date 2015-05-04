@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Hacking YN460 flash and Arduino http:&#47;&#47;t.co&#47;BNigF4em</p>
+<p>#xinchejian: Hacking YN460 flash and Arduino http://t.co/BNigF4em</p>

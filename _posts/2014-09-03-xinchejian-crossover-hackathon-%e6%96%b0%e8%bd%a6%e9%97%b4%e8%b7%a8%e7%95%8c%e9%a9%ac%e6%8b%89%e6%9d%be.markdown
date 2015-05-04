@@ -28,42 +28,42 @@ comments:
   author_url: https://twitter.com/sagaro
   date: '2014-09-03 23:34:51 +0800'
   date_gmt: '2014-09-03 15:34:51 +0800'
-  content: "RT @xinchejian: XINCHEJIAN CROSSOVER HACKATHON 新车间跨界马拉松:  \n... http:&#47;&#47;t.co&#47;4eMTRr5evY"
+  content: "RT @xinchejian: XINCHEJIAN CROSSOVER HACKATHON 新车间跨界马拉松:  \n... http://t.co/4eMTRr5evY"
 - id: 27130
   author: Ted Hung
   author_email: facebook.707880286@example.com
   author_url: https://facebook.com/profile.php?id=707880286
   date: '2014-09-04 01:30:31 +0800'
   date_gmt: '2014-09-03 17:30:31 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=707880286" target="_blank">Ted
-    Hung<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=707880286" target="_blank">Ted
+    Hung</a> liked this on Facebook.
 - id: 27147
   author: 蔡坤良
   author_email: facebook.100001618168609@example.com
   author_url: https://facebook.com/profile.php?id=100001618168609
   date: '2014-09-04 16:55:27 +0800'
   date_gmt: '2014-09-04 08:55:27 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100001618168609"
-    target="_blank">蔡坤良<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100001618168609"
+    target="_blank">蔡坤良</a> liked this on Facebook.
 - id: 27148
   author: Jia-yuan Tsai
   author_email: facebook.741304375@example.com
   author_url: https://facebook.com/profile.php?id=741304375
   date: '2014-09-04 16:56:14 +0800'
   date_gmt: '2014-09-04 08:56:14 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=741304375" target="_blank">Jia-yuan
-    Tsai<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=741304375" target="_blank">Jia-yuan
+    Tsai</a> liked this on Facebook.
 ---
 <p>Friday, September 19, 2014 18:30 - 21:00 PM to Sunday, September 21, 2014<br />
-<a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;webwxgetmsgimg.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6645" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;hachathon" target="_blank" title="立即报名">立即报名 Register<&#47;a><br />
+<a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/09/webwxgetmsgimg.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/09/webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6645" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/hachathon" target="_blank" title="立即报名">立即报名 Register</a><br />
 <!--:zh--><br />
 视野决定高度。当你一直受囿于你固定的朋友圈、同事圈的时候，你是否想过你的思维可能会被慢慢局限住？四十八个小时，快速高效，紧张刺激。付出的是一个周末，收获的是不同行业、不同水平、不同背景的伙伴们的想法和经验。当然，如果你是冲着现场滴妹子们而来，那放下你的矜持，展示你的魅力，带个妹子回家也是极好的。<br />
 活动现场高强度脑力活动长时间持续，请自备大脑！<br />
 参赛说明<br />
-* 部分硬件由主办方提供，请参赛选手&#47;团队提前一周提交所需硬件及工具列表。主办方无法提供的部分需自己准备，主办方提供一定资金支持；<br />
-* 欢迎个人&#47;团队报名参赛；<br />
+* 部分硬件由主办方提供，请参赛选手/团队提前一周提交所需硬件及工具列表。主办方无法提供的部分需自己准备，主办方提供一定资金支持；<br />
+* 欢迎个人/团队报名参赛；<br />
 * 评选是以团队为单位进行评选；团队人数最多5人；<br />
 组队流程<br />
 * 创意阐述：3分钟创意展示，最好配合PPT，（如有PPT文件，13日前提交给工作人员）；<br />
@@ -109,7 +109,7 @@ Hackathon Event Dates and Details<br />
 Rules and Guidelines:<br />
 &bull; Max 5 people on each team<br />
 &bull; All IP belongs to team or individual<br />
-&bull; Create a quality powerpoint presentation and&#47;or product demo<br />
+&bull; Create a quality powerpoint presentation and/or product demo<br />
 &bull; Participants will have 10 minutes to present and a 5 minute Q&A<br />
 Judging Criteria: Scored 1-5 and weighed<br />
 TBD<br />

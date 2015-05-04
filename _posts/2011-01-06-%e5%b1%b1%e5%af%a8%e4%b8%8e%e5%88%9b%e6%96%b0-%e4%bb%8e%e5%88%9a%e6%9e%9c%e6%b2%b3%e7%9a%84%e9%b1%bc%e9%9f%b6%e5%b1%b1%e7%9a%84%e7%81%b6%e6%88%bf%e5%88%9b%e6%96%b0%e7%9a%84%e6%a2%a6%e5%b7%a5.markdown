@@ -23,7 +23,7 @@ tags:
 - open source
 comments: []
 ---
-<p>在<a href="http:&#47;&#47;groups.google.com&#47;group&#47;opensourcecamp-shanghai">OpenSourceCamp Shanghai<&#47;a>上有很精彩对开源和山寨的讨论，<a href="besttone.com.cn">王江川<&#47;a>写了这篇相当有趣的文章。</p>
+<p>在<a href="http://groups.google.com/group/opensourcecamp-shanghai">OpenSourceCamp Shanghai</a>上有很精彩对开源和山寨的讨论，<a href="besttone.com.cn">王江川</a>写了这篇相当有趣的文章。</p>
 <p>--- </p>
 <p>这两日，看到大家在坛子里炒得确实很开锅，不时冒出一些新颖的单词来，什么云计算、创新工厂、开源商业模式，同时又似乎总被一个土的掉牙的词---&ldquo;山寨&rdquo;时不时搅和着。</p>
 <p>耳边被山寨这个词浸濡许久了，今天，抽空进行点思考和梳理。</p>

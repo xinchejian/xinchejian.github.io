@@ -25,32 +25,32 @@ comments:
   author_url: http://facebook.com/profile.php?id=175737115791930
   date: '2013-02-08 12:01:25 +0800'
   date_gmt: '2013-02-08 04:01:25 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=175737115791930"
-    target="_blank">新车间 [Xin Che Jian]<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=175737115791930"
+    target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 - id: 13940
   author: William Hooi
   author_email: facebook.554580338@example.com
   author_url: http://facebook.com/profile.php?id=554580338
   date: '2013-02-08 13:00:48 +0800'
   date_gmt: '2013-02-08 05:00:48 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=554580338" target="_blank">William
-    Hooi<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=554580338" target="_blank">William
+    Hooi</a> liked this on Facebook.
 - id: 13944
   author: Paul Yang
   author_email: facebook.100000324397404@example.com
   author_url: http://facebook.com/profile.php?id=100000324397404
   date: '2013-02-08 16:16:07 +0800'
   date_gmt: '2013-02-08 08:16:07 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=100000324397404"
-    target="_blank">Paul Yang<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=100000324397404"
+    target="_blank">Paul Yang</a> liked this on Facebook.
 - id: 14033
   author: Camilo Parra
   author_email: facebook.650336569@example.com
   author_url: http://facebook.com/profile.php?id=650336569
   date: '2013-02-09 16:31:41 +0800'
   date_gmt: '2013-02-09 08:31:41 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=650336569" target="_blank">Camilo
-    Parra<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=650336569" target="_blank">Camilo
+    Parra</a> liked this on Facebook.
 - id: 14880
   author: naba_alkhoza3ee
   author_email: twitter.naba_alkhoza3ee@example.com
@@ -106,11 +106,11 @@ comments:
   author_url: ''
   date: '2013-04-11 18:08:04 +0800'
   date_gmt: '2013-04-11 10:08:04 +0800'
-  content: 可以看这个鱼菜共生的博客： http:&#47;&#47;blog.shanghaiaquaponics.com&#47;zh
+  content: 可以看这个鱼菜共生的博客： http://blog.shanghaiaquaponics.com/zh
 ---
 <p><!--:zh-->
-<p><a href="http:&#47;&#47;blog.shanghaiaquaponics.com&#47;zh&#47;2013&#47;02&#47;03&#47;desktop-aquaponic-with-ikea-selma-box&#47;" target="_blank">用宜家Samla做的鱼菜共生箱子<&#47;a><br />
-<a href="http:&#47;&#47;blog.shanghaiaquaponics.com&#47;2013&#47;02&#47;03&#47;desktop-aquaponic-with-ikea-selma-box&#47;" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;01&#47;IMGP8610_2.jpg"&#47;><&#47;a><&#47;p></p>
+<p><a href="http://blog.shanghaiaquaponics.com/zh/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank">用宜家Samla做的鱼菜共生箱子</a><br />
+<a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="http://xinchejian.com/wp-content/uploads/2013/01/IMGP8610_2.jpg"/></a></p></p>
 <p><!--:--><!--:en-->
-<p>Check out the link for the <a href="http:&#47;&#47;blog.shanghaiaquaponics.com&#47;2013&#47;02&#47;03&#47;desktop-aquaponic-with-ikea-selma-box&#47;" target="_blank">step by step to build aquaponic box with Ikea Samla<&#47;a>. <a href="http:&#47;&#47;blog.shanghaiaquaponics.com&#47;2013&#47;02&#47;03&#47;desktop-aquaponic-with-ikea-selma-box&#47;" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;01&#47;IMGP8610_2.jpg"&#47;><&#47;a><&#47;p></p>
+<p>Check out the link for the <a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank">step by step to build aquaponic box with Ikea Samla</a>. <a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="http://xinchejian.com/wp-content/uploads/2013/01/IMGP8610_2.jpg"/></a></p></p>
 <p><!--:--></p>

@@ -25,23 +25,23 @@ comments:
   date: '2014-09-01 21:10:58 +0800'
   date_gmt: '2014-09-01 13:10:58 +0800'
   content: "RT @xinchejian: Design Thinking Seminar 解密设计思维:  \nHow to Always Think
-    Out of the Box？ ... http:&#47;&#47;t.co&#47;cdBfEr5pFD"
+    Out of the Box？ ... http://t.co/cdBfEr5pFD"
 - id: 27111
   author: Tony Kuo
   author_email: facebook.100000873754579@example.com
   author_url: https://facebook.com/profile.php?id=100000873754579
   date: '2014-09-02 15:13:37 +0800'
   date_gmt: '2014-09-02 07:13:37 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000873754579"
-    target="_blank">Tony Kuo<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000873754579"
+    target="_blank">Tony Kuo</a> liked this on Facebook.
 - id: 27112
   author: Sean Chooi
   author_email: facebook.1517424750@example.com
   author_url: https://facebook.com/profile.php?id=1517424750
   date: '2014-09-02 15:14:04 +0800'
   date_gmt: '2014-09-02 07:14:04 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1517424750" target="_blank">Sean
-    Chooi<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1517424750" target="_blank">Sean
+    Chooi</a> liked this on Facebook.
 - id: 27128
   author: birdsandfish
   author_email: twitter.20408491@example.com
@@ -49,12 +49,12 @@ comments:
   date: '2014-09-03 17:50:36 +0800'
   date_gmt: '2014-09-03 09:50:36 +0800'
   content: "RT @xinchejian: Design Thinking Seminar 解密设计思维:  \nHow to Always Think
-    Out of the Box？ ... http:&#47;&#47;t.co&#47;cdBfEr5pFD"
+    Out of the Box？ ... http://t.co/cdBfEr5pFD"
 ---
 <p>Sunday, September 07, 2014 10:30 - 12:00 AM<br />
-<a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;20140311193107_1475_new.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;09&#47;20140311193107_1475_new-290x290.jpg" alt="20140311193107_1475_new" width="290" height="290" class="aligncenter size-thumbnail wp-image-6642" &#47;><&#47;a><br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;2245499595300" target="_blank" title="立即报名">报名参加 Register<&#47;a><br />
+<a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/09/20140311193107_1475_new.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/09/20140311193107_1475_new-290x290.jpg" alt="20140311193107_1475_new" width="290" height="290" class="aligncenter size-thumbnail wp-image-6642" /></a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/event/2245499595300" target="_blank" title="立即报名">报名参加 Register</a><br />
 <!--:en--><br />
 How to Always Think Out of the Box？ &mdash;&mdash; Core Value of Design Thinking<br />
 Design Thinking is the confidence that everyone can be part of creating a more desirable future, and a process to take action when faced with a difficult challenge. That kind of optimism is well needed in education.<br />

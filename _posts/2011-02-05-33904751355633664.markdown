@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Visual Programming Language for Arduino (1) http:&#47;&#47;xinchejian.com&#47;?p=472</p>
+<p>#xinchejian: Visual Programming Language for Arduino (1) http://xinchejian.com/?p=472</p>

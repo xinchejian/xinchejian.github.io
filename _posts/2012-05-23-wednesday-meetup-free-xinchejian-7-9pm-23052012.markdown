@@ -2,8 +2,8 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 23&#47;05&#47;2012<!--:--><!--:zh-->Wednesday
-  Meetup - Free - @ XinCheJian - 7-9pm - 23&#47;05&#47;2012<!--:-->
+title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 23/05/2012<!--:--><!--:zh-->Wednesday
+  Meetup - Free - @ XinCheJian - 7-9pm - 23/05/2012<!--:-->
 author:
   display_name: nihaopaul
   login: nihaopaul
@@ -34,7 +34,7 @@ comments: []
 <p>Valentin has been working on the Reprap over the weekend and this week, keep an eye out or an ear out for it printing.</p>
 <p>Paul has been working on the CNC mill, the computer has 8GB SSD thanks to Edward, which means its quite fast!</p>
 <p>Resistors are now available sorted by resistance, cut into 10's and hung on the wall near the kitchen, that's 10 resistors for 1rmb</p>
-<p><strong>=Wednesday Presenters=<&#47;strong></p>
+<p><strong>=Wednesday Presenters=</strong></p>
 <p>David Li, the Foreman of XinCheJian And Roger Mu king of the jungle, will be kicking off the Hydroponics corner, a group is forming around Hydroponics, Areoponics - lets see what seeds they will plant first.</p>
 <p>Li Xiang a Ph.D Candidate from Shanghai Jiao Tong University will be presenting his project and also seeking help in an experience involving machine learning and robotics along the lines of Factory Automation for Docks.</p>
 <p>The rest of the evening will be met with discussions and people working on projects</p>
@@ -42,7 +42,7 @@ comments: []
 <p>Valentin has been working on the Reprap over the weekend and this week, keep an eye out or an ear out for it printing.</p>
 <p>Paul has been working on the CNC mill, the computer has 8GB SSD thanks to Edward, which means its quite fast!</p>
 <p>Resistors are now available sorted by resistance, cut into 10's and hung on the wall near the kitchen, that's 10 resistors for 1rmb</p>
-<p><strong>=Wednesday Presenters=<&#47;strong></p>
+<p><strong>=Wednesday Presenters=</strong></p>
 <p>David Li, the Foreman of XinCheJian And Roger Mu king of the jungle, will be kicking off the Hydroponics corner, a group is forming around Hydroponics, Areoponics - lets see what seeds they will plant first.</p>
 <p>Li Xiang a Ph.D Candidate from Shanghai Jiao Tong University will be presenting his project and also seeking help in an experience involving machine learning and robotics along the lines of Factory Automation for Docks.</p>
 <p>The rest of the evening will be met with discussions and people working on projects</p>

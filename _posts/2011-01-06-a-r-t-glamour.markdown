@@ -32,9 +32,9 @@ comments:
 ---
 <p>Happened to stop by Xin Che Jian with my camera today and I thought I should take some A.R.T. glamour shoots. </p>
 <p><center></p>
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5329911690&#47;" title="A.R.T. by xxom, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5086&#47;5329911690_50c689268b.jpg" width="332" height="500" alt="A.R.T." &#47;><&#47;a></p>
-<p><br&#47;></p>
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5329912002&#47;" title="A.R.T. by xxom, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5089&#47;5329912002_23efa56e65.jpg" width="332" height="500" alt="A.R.T." &#47;><&#47;a></p>
-<p><br&#47;></p>
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;taweili&#47;5329912832&#47;" title="A.R.T. by xxom, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5288&#47;5329912832_cf5680dfac.jpg" width="500" height="332" alt="A.R.T." &#47;><&#47;a><br />
-<&#47;center></p>
+<p><a href="http://www.flickr.com/photos/taweili/5329911690/" title="A.R.T. by xxom, on Flickr"><img src="http://farm6.static.flickr.com/5086/5329911690_50c689268b.jpg" width="332" height="500" alt="A.R.T." /></a></p>
+<p><br/></p>
+<p><a href="http://www.flickr.com/photos/taweili/5329912002/" title="A.R.T. by xxom, on Flickr"><img src="http://farm6.static.flickr.com/5089/5329912002_23efa56e65.jpg" width="332" height="500" alt="A.R.T." /></a></p>
+<p><br/></p>
+<p><a href="http://www.flickr.com/photos/taweili/5329912832/" title="A.R.T. by xxom, on Flickr"><img src="http://farm6.static.flickr.com/5288/5329912832_cf5680dfac.jpg" width="500" height="332" alt="A.R.T." /></a><br />
+</center></p>

@@ -22,4 +22,4 @@ tags:
 - wednesday
 comments: []
 ---
-<p>checkout this awesome robot.. thanks to them for sending us a paper robot with the commander system inside :)  <embed src='http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzU1ODY3MTI0&#47;v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application&#47;x-shockwave-flash'><&#47;embed></p>
+<p>checkout this awesome robot.. thanks to them for sending us a paper robot with the commander system inside :)  <embed src='http://player.youku.com/player.php/sid/XMzU1ODY3MTI0/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed></p>

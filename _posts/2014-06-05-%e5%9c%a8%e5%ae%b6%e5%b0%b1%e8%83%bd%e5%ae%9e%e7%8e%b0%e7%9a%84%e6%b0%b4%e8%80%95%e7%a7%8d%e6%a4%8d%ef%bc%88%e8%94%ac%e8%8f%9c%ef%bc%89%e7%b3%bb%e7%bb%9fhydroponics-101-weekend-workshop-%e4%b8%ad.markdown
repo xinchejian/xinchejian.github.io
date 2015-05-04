@@ -20,12 +20,12 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;IMG_20131222_160910-225x300.jpg" alt="IMG_20131222_160910" width="225" height="300" &#47;><&#47;a><br />
-<a style="background: none repeat scroll 0 0 #7EBD40;color: #F2FFFF;font-weight:700;border: 1px solid #4A8F32;border-radius: 4px 4px 4px 4px;cursor: pointer;display: inline-block;font-size: 14px;margin-bottom: 3px;overflow: visible;padding: 6px 30px;text-decoration: none;" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808145f542f001466bd35caa0c96" target="_blank" id="ied_button_show" alt="报名参加在家就能实现的水耕种植（蔬菜）系统Hydroponics 101 Workshop" title="报名参加">报名参加 Register<&#47;a><br />
-<a> Date fixed on June 29th 2pm -4pm. 6月工作坊时间确定为6月29号星期天下午2点-4点。 <&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2013/12/IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" src="http://xinchejian.com/wp-content/uploads/2013/12/IMG_20131222_160910-225x300.jpg" alt="IMG_20131222_160910" width="225" height="300" /></a><br />
+<a style="background: none repeat scroll 0 0 #7EBD40;color: #F2FFFF;font-weight:700;border: 1px solid #4A8F32;border-radius: 4px 4px 4px 4px;cursor: pointer;display: inline-block;font-size: 14px;margin-bottom: 3px;overflow: visible;padding: 6px 30px;text-decoration: none;" href="http://www.vasee.com/event/view.jsp?inid=ff80808145f542f001466bd35caa0c96" target="_blank" id="ied_button_show" alt="报名参加在家就能实现的水耕种植（蔬菜）系统Hydroponics 101 Workshop" title="报名参加">报名参加 Register</a><br />
+<a> Date fixed on June 29th 2pm -4pm. 6月工作坊时间确定为6月29号星期天下午2点-4点。 </a><br />
 (中英双语) 主题：学习种子培养、植物活体克隆和窗台水耕种植系统的建立</p>
 <p>地点：新车间，铜仁路299号（soho东海广场南门保安亭旁）<br />
-费用：现场付费375元&#47;人，网上付费享300元每人的优惠价格；费用包括：种培育苗盒、窗台水培系统所需材料、水培营养液 (可持续6-8个月植物所需)。</p>
+费用：现场付费375元/人，网上付费享300元每人的优惠价格；费用包括：种培育苗盒、窗台水培系统所需材料、水培营养液 (可持续6-8个月植物所需)。</p>
 <p>如果对以下任一课题有兴趣，你可不能错过这个水培工作坊：<br />
  同传统种植方式相比，水耕有什么不同和其特点？<br />
  想知道如何从种子开始植物种植和栽培<br />

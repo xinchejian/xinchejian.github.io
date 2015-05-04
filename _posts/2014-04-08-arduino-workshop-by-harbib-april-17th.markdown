@@ -25,8 +25,8 @@ comments:
   author_url: https://facebook.com/profile.php?id=633713884
   date: '2014-04-08 12:26:52 +0800'
   date_gmt: '2014-04-08 04:26:52 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=633713884" target="_blank">Min
-    Chi<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=633713884" target="_blank">Min
+    Chi</a> liked this on Facebook.
 - id: 22994
   author: Lei Liu
   author_email: meteor3223@hotmail.com
@@ -47,27 +47,27 @@ comments:
 <p><!--:en-->
 <div dir="ltr">
 <div>
-<div><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;04&#47;images.jpg"><img class="aligncenter size-full wp-image-6273" alt="images" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;04&#47;images.jpg" width="243" height="207" &#47;><&#47;a><&#47;div></p>
-<div>Time&nbsp;:&nbsp;7pm-10pm<&#47;div></p>
-<div>Venue&nbsp;: XinCheJian, F2 of 1035 Changle Road, Wulumuqi Road corner.<&#47;div></p>
+<div><a href="http://xinchejian.com/wp-content/uploads/2014/04/images.jpg"><img class="aligncenter size-full wp-image-6273" alt="images" src="http://xinchejian.com/wp-content/uploads/2014/04/images.jpg" width="243" height="207" /></a></div></p>
+<div>Time&nbsp;:&nbsp;7pm-10pm</div></p>
+<div>Venue&nbsp;: XinCheJian, F2 of 1035 Changle Road, Wulumuqi Road corner.</div></p>
 <div>
-<div>8 seats available<&#47;div></p>
-<div>(including 4 seats reserved in priority for designers&#47;artists of the PLTFRM community)<&#47;div><br />
-<&#47;div><br />
-<&#47;div></p>
-<div><span style="text-decoration: underline;">Description<&#47;span>&nbsp;:<&#47;div></p>
-<div>You are a designer and would like and already thought of an easy-to-start way to start playing with interactive tools&#47;objects ?<&#47;div></p>
-<div>This workshop&nbsp;is&nbsp;for you !<&#47;div></p>
-<div>We propose you to introduce you with Arduino : the board that you probably heard of but maybe never touched ;-)<&#47;div></p>
-<div>We prepared for you a simple program made of :<&#47;div></p>
-<div>&nbsp;&nbsp; a) quick intro to the Arduino board functions&nbsp;&#47; decryption of a few inspirational projects (from sound, to geometrical figure, wearables and more upon demand !)<&#47;div></p>
-<div>&nbsp;&nbsp; b) testing of the platform with basic applications (LED blink, etc)<&#47;div></p>
-<div>&nbsp;&nbsp; c)&nbsp;Q&amp;A + sharing about potential personal projects you would be interested in building with (or without) peers<&#47;div></p>
-<div>NB : &nbsp;tea, beers, fruits and snacks provided<&#47;div></p>
-<div><&#47;div></p>
-<div><span style="text-decoration: underline;">Rates :<&#47;span><&#47;div></p>
-<div>&nbsp;80RMB entrance fee<&#47;div></p>
-<div>&nbsp;If you do not have a board :<&#47;div></p>
-<div>&nbsp; a) 210RMB to buy the DFR Robot Arduino uno kit for beginners and go back home play with it for the rest of your life (You bet it!)<&#47;div></p>
-<div>&nbsp; b) Will also have&nbsp;2 boards to lend you in case you don't wanna get one (no worries:-))<&#47;div><br />
-<&#47;div><!--:--></p>
+<div>8 seats available</div></p>
+<div>(including 4 seats reserved in priority for designers/artists of the PLTFRM community)</div><br />
+</div><br />
+</div></p>
+<div><span style="text-decoration: underline;">Description</span>&nbsp;:</div></p>
+<div>You are a designer and would like and already thought of an easy-to-start way to start playing with interactive tools/objects ?</div></p>
+<div>This workshop&nbsp;is&nbsp;for you !</div></p>
+<div>We propose you to introduce you with Arduino : the board that you probably heard of but maybe never touched ;-)</div></p>
+<div>We prepared for you a simple program made of :</div></p>
+<div>&nbsp;&nbsp; a) quick intro to the Arduino board functions&nbsp;/ decryption of a few inspirational projects (from sound, to geometrical figure, wearables and more upon demand !)</div></p>
+<div>&nbsp;&nbsp; b) testing of the platform with basic applications (LED blink, etc)</div></p>
+<div>&nbsp;&nbsp; c)&nbsp;Q&amp;A + sharing about potential personal projects you would be interested in building with (or without) peers</div></p>
+<div>NB : &nbsp;tea, beers, fruits and snacks provided</div></p>
+<div></div></p>
+<div><span style="text-decoration: underline;">Rates :</span></div></p>
+<div>&nbsp;80RMB entrance fee</div></p>
+<div>&nbsp;If you do not have a board :</div></p>
+<div>&nbsp; a) 210RMB to buy the DFR Robot Arduino uno kit for beginners and go back home play with it for the rest of your life (You bet it!)</div></p>
+<div>&nbsp; b) Will also have&nbsp;2 boards to lend you in case you don't wanna get one (no worries:-))</div><br />
+</div><!--:--></p>

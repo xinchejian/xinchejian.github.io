@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: ARTv5 Electronics Design http:&#47;&#47;xinch...'
+title: '#xinchejian: ARTv5 Electronics Design http://xinch...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: ARTv5 Electronics Design http:&#47;&#47;xinchejian.com&#47;?p=398</p>
+<p>#xinchejian: ARTv5 Electronics Design http://xinchejian.com/?p=398</p>

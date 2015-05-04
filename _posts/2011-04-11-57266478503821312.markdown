@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Insect Robot from Lumi http:&#47;&#47;xinchej...'
+title: '#xinchejian: Insect Robot from Lumi http://xinchej...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Insect Robot from Lumi http:&#47;&#47;xinchejian.com&#47;2011&#47;04&#47;11&#47;insect-robot-from-lumi&#47;</p>
+<p>#xinchejian: Insect Robot from Lumi http://xinchejian.com/2011/04/11/insect-robot-from-lumi/</p>

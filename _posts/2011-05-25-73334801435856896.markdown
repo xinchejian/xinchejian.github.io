@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: HCR Roboracing http:&#47;&#47;xinchejian.com&#47;...'
+title: '#xinchejian: HCR Roboracing http://xinchejian.com/...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: HCR Roboracing http:&#47;&#47;xinchejian.com&#47;2011&#47;05&#47;25&#47;hcr-roboracing&#47;</p>
+<p>#xinchejian: HCR Roboracing http://xinchejian.com/2011/05/25/hcr-roboracing/</p>

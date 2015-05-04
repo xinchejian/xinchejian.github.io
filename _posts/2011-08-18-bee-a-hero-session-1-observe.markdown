@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Bee a hero!                 &#47;Session 1 : Observe'
+title: 'Bee a hero!                 /Session 1 : Observe'
 author:
   display_name: au.moyon
   login: au.moyon
@@ -35,17 +35,17 @@ comments:
 ---
 <p>HI HACKERS!</p>
 <p>NEED A BREAK WITH YOUR ROBOT? Well, the wild bees need your skills.</p>
-<p>Become a bee hero, join the goldendusters.&nbsp;<em><a href="http:&#47;&#47;goldensdusters.com">Goldendust<&#47;a> <&#47;em>is a global design project about pollination service. It aims to provide immediate efficient and desirables solutions to the phenomenon of bee&nbsp;extinction.</p>
+<p>Become a bee hero, join the goldendusters.&nbsp;<em><a href="http://goldensdusters.com">Goldendust</a> </em>is a global design project about pollination service. It aims to provide immediate efficient and desirables solutions to the phenomenon of bee&nbsp;extinction.</p>
 <p>Xinchejian is hosting a small scale wild bees refuge which is a flag product easy to put on your balcony or window. This way you can provide to them a safe habitat while they are pollinating flowers around.</p>
 <p>We invite everyone, hacker and non hacker to think about how we can boost &nbsp;man-bees interactions : being able to observe, count the bees and integrate the refuge into modern farming practices is building a strong experience and help raise awareness.</p>
 <p>You are welcome to brainstorm, online (by leaving your comments, post sketches...), at the space or by writing at infoshumus@gmail.com.</p>
-<p>We will build a bee refuge during the workshop on <strong>saturday 20th!<&#47;strong></p>
-<p><strong>SESSION 1 : OBSERVE<&#47;strong></p>
-<p>We open the first session with the question : <strong>How to observe the bees?<&#47;strong></p>
-<p><strong> <&#47;strong>Help us to build a pictures bank that will serve local research. Help us find cheap solutions to observe the bees. Webcam, snapshot, bee robot?</p>
+<p>We will build a bee refuge during the workshop on <strong>saturday 20th!</strong></p>
+<p><strong>SESSION 1 : OBSERVE</strong></p>
+<p>We open the first session with the question : <strong>How to observe the bees?</strong></p>
+<p><strong> </strong>Help us to build a pictures bank that will serve local research. Help us find cheap solutions to observe the bees. Webcam, snapshot, bee robot?</p>
 <p><strong><br />
-<&#47;strong></p>
+</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img class="alignnone size-full wp-image-1388" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;Bee-refuge-hacking-OBSERVE8-e1313652776229.jpg" alt="" width="600" height="848" &#47;></p>
+<p><img class="alignnone size-full wp-image-1388" src="http://xinchejian.com/wp-content/uploads/2011/08/Bee-refuge-hacking-OBSERVE8-e1313652776229.jpg" alt="" width="600" height="848" /></p>
 <p><!--:--></p>

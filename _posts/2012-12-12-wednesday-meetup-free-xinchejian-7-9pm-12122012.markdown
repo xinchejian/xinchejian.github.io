@@ -2,8 +2,8 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 12&#47;12&#47;2012<!--:--><!--:zh-->Wednesday
-  Meetup - Free - @ XinCheJian - 7-9pm - 12&#47;12&#47;2012<!--:-->
+title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 12/12/2012<!--:--><!--:zh-->Wednesday
+  Meetup - Free - @ XinCheJian - 7-9pm - 12/12/2012<!--:-->
 author:
   display_name: nihaopaul
   login: nihaopaul
@@ -29,19 +29,19 @@ tags: []
 comments: []
 ---
 <p><!--:en-->Congratulations to those that built a 3D printer on the weekend, Lucio was excited and nervous to host this workshop, being his first ever one! You've all done very well and not given up! Look out for more improvements and more workshops from High Energy - i don't sleep - Lucio!</p>
-<h1>Summary for Wednesday&#47;本周三开放日综述<&#47;h1><br />
+<h1>Summary for Wednesday/本周三开放日综述</h1><br />
 胡介鸣 - BlackBoxlab<br />
 Alex Cureton-Griffiths - SpaceGAMBIT</p>
 <h1>
-<p>Wednesday Presenters&#47;本周演讲者介绍<&#47;h1><br />
-胡介鸣 will be presenting blackboxlab and some of their installation work done previously and how you can also get involved. Using art, electronics, design, interaction, any action! check out http:&#47;&#47;www.blackboxlab.org</p>
+<p>Wednesday Presenters/本周演讲者介绍</h1><br />
+胡介鸣 will be presenting blackboxlab and some of their installation work done previously and how you can also get involved. Using art, electronics, design, interaction, any action! check out http://www.blackboxlab.org</p>
 <p>Alex from SpaceGAMBIT will hopefully be presenting this evening, it's been hard to pin him down, so we just tied a rope to his rocketship!</p>
 <p>who else? *your name here* it's also adhoc, so get ready, just keep it to 9 minutes plus Q&amp;A afterwards<!--:--><!--:zh-->Congratulations to those that built a 3D printer on the weekend, Lucio was excited and nervous to host this workshop, being his first ever one! You've all done very well and not given up! Look out for more improvements and more workshops from High Energy - i don't sleep - Lucio!</p>
-<h1>Summary for Wednesday&#47;本周三开放日综述<&#47;h1><br />
+<h1>Summary for Wednesday/本周三开放日综述</h1><br />
 胡介鸣 - BlackBoxlab<br />
 Alex Cureton-Griffiths - SpaceGAMBIT</p>
 <h1>
-<p>Wednesday Presenters&#47;本周演讲者介绍<&#47;h1><br />
-胡 介鸣 will be presenting blackboxlab and some of their installation work done previously and how you can also get involved. Using art, electronics, design, interaction, any action! check out http:&#47;&#47;www.blackboxlab.org</p>
+<p>Wednesday Presenters/本周演讲者介绍</h1><br />
+胡 介鸣 will be presenting blackboxlab and some of their installation work done previously and how you can also get involved. Using art, electronics, design, interaction, any action! check out http://www.blackboxlab.org</p>
 <p>Alex from SpaceGAMBIT will hopefully be presenting this evening, it's been hard to pin him down, so we just tied a rope to his rocketship!</p>
 <p>who else? *your name here* it's also adhoc, so get ready, just keep it to 9 minutes plus Q&amp;A afterwards<!--:--></p>

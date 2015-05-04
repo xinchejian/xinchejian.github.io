@@ -20,11 +20,11 @@ categories:
 tags: []
 comments: []
 ---
-<p>People can now support XinCheJian by buying these nice patches, sold for RMB15 each. All profits goes to support XinCheJian Shanghai Hackers Community ^_^<&#47;p></p>
+<p>People can now support XinCheJian by buying these nice patches, sold for RMB15 each. All profits goes to support XinCheJian Shanghai Hackers Community ^_^</p></p>
 <p>Main Logo Design<br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;XCJPatch1.png" title="XCJPatch1"><img width="300" height="224" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;XCJPatch1-300x224.png" class="attachment-medium" alt="XCJPatch1" title="XCJPatch1"><&#47;a><&#47;p></p>
-<p>Paul Adams sponsored for these two designs, thank you Paul!<&#47;p></p>
+<a href="http://xinchejian.com/wp-content/uploads/2011/08/XCJPatch1.png" title="XCJPatch1"><img width="300" height="224" src="http://xinchejian.com/wp-content/uploads/2011/08/XCJPatch1-300x224.png" class="attachment-medium" alt="XCJPatch1" title="XCJPatch1"></a></p></p>
+<p>Paul Adams sponsored for these two designs, thank you Paul!</p></p>
 <p>Design by Andrea Carlon<br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;XCJPatch2.png" title="XCJPatch2"><img width="300" height="222" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;XCJPatch2-300x222.png" class="attachment-medium" alt="XCJPatch2" title="XCJPatch2"><&#47;a><&#47;p></p>
+<a href="http://xinchejian.com/wp-content/uploads/2011/08/XCJPatch2.png" title="XCJPatch2"><img width="300" height="222" src="http://xinchejian.com/wp-content/uploads/2011/08/XCJPatch2-300x222.png" class="attachment-medium" alt="XCJPatch2" title="XCJPatch2"></a></p></p>
 <p>QR code, very limited edition!!<br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;XCJPatch3.png" title="XCJPatch3"><img width="300" height="224" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;XCJPatch3-300x224.png" class="attachment-medium" alt="XCJPatch3" title="XCJPatch3"><&#47;a><&#47;p></p>
+<a href="http://xinchejian.com/wp-content/uploads/2011/08/XCJPatch3.png" title="XCJPatch3"><img width="300" height="224" src="http://xinchejian.com/wp-content/uploads/2011/08/XCJPatch3-300x224.png" class="attachment-medium" alt="XCJPatch3" title="XCJPatch3"></a></p></p>

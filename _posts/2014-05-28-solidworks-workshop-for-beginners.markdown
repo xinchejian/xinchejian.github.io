@@ -24,27 +24,27 @@ comments:
   author_url: https://facebook.com/profile.php?id=100001881236699
   date: '2014-05-28 18:54:21 +0800'
   date_gmt: '2014-05-28 10:54:21 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100001881236699"
-    target="_blank">Ansgar Halbfas<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100001881236699"
+    target="_blank">Ansgar Halbfas</a> liked this on Facebook.
 - id: 25847
   author: Wenyu Chen
   author_email: facebook.100000317945166@example.com
   author_url: https://facebook.com/profile.php?id=100000317945166
   date: '2014-05-28 23:34:42 +0800'
   date_gmt: '2014-05-28 15:34:42 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000317945166"
-    target="_blank">Wenyu Chen<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000317945166"
+    target="_blank">Wenyu Chen</a> liked this on Facebook.
 - id: 25861
   author: William Lue
   author_email: facebook.1051771888@example.com
   author_url: https://facebook.com/profile.php?id=1051771888
   date: '2014-05-29 18:57:06 +0800'
   date_gmt: '2014-05-29 10:57:06 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1051771888" target="_blank">William
-    Lue<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1051771888" target="_blank">William
+    Lue</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;Costing.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;05&#47;Costing-290x290.jpg" alt="Costing" width="290" height="290" class="aligncenter size-thumbnail wp-image-6416" &#47;><&#47;a><br />
-<a style="background-color: rgb(128, 0, 0); color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 6px 30px; text-decoration: none; background-position: initial initial; background-repeat: initial initial;" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808145f542f00146425723225569" target="_blank" id="ied_button_show" alt="报名参加Solidworks 初学者工作坊 Solidworks workshop for beginners" title="报名参加">报名参加 Register<&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/05/Costing.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/05/Costing-290x290.jpg" alt="Costing" width="290" height="290" class="aligncenter size-thumbnail wp-image-6416" /></a><br />
+<a style="background-color: rgb(128, 0, 0); color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 6px 30px; text-decoration: none; background-position: initial initial; background-repeat: initial initial;" href="http://www.vasee.com/event/view.jsp?inid=ff80808145f542f00146425723225569" target="_blank" id="ied_button_show" alt="报名参加Solidworks 初学者工作坊 Solidworks workshop for beginners" title="报名参加">报名参加 Register</a><br />
 现场支付250元，网上支付200元。<br />
 200RMB pay online, 250RMB pay at door.<br />
 时间: 6月29号星期天10:00 - 12:00.<br />

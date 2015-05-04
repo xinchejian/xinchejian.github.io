@@ -26,11 +26,11 @@ comments:
   date_gmt: '2014-12-09 11:57:59 +0800'
   content: 呵呵，学习了
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;07&#47;fusion.png"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;07&#47;fusion-290x290.png" alt="fusion" width="290" height="290" class="aligncenter size-thumbnail wp-image-6548" &#47;><&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/07/fusion.png"><img src="http://xinchejian.com/wp-content/uploads/2014/07/fusion-290x290.png" alt="fusion" width="290" height="290" class="aligncenter size-thumbnail wp-image-6548" /></a><br />
 *** 电脑系统要求 OS requirements: ***<br />
 64位win 7, 或64位Mac OS X 10.8, 或更高版本<br />
 64-bit Windows 7 or newer and 64-bit Mac OS X 10.8 or newer<br />
-<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;xcjfs3" target="_blank" title="立即报名">报名参加 Register<&#47;a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/xcjfs3" target="_blank" title="立即报名">报名参加 Register</a><br />
 请一定网上报名。非网上报名参加者将收取RMB200元。<br />
 Please do register online. RMB200 for walkins.<br />
 Fusion360是美国autodesk公司推出的一款三维可视化建模软件。该软件是autodesk在工业设计和机械设计领域很多相关技术的试验田，很多成熟的技术都被运用到其他autodesk的商业软件中。该软件中比较流行的技术包括直接建模技术，T样条建模技术，基于联结的装配技术，自顶向下的参数化建模技术，云端数据管理等。Fusion 360对学生和设计爱好者完全免费。同时支持Windows和Mac，是MAC下最好用的CAD软件。<br />

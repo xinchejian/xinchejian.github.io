@@ -19,12 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en--><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODcyNTQ0&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODU0NTU2&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODQ5MTc2&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODYxMzI4&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed><br />
-<!--:--><!--:zh--><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODcyNTQ0&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODU0NTU2&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODQ5MTc2&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed></p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzUzODYxMzI4&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed><br />
+<p><!--:en--><embed src="http://player.youku.com/player.php/sid/XMzUzODcyNTQ0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzUzODU0NTU2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzUzODQ5MTc2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzUzODYxMzI4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><br />
+<!--:--><!--:zh--><embed src="http://player.youku.com/player.php/sid/XMzUzODcyNTQ0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzUzODU0NTU2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzUzODQ5MTc2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p><embed src="http://player.youku.com/player.php/sid/XMzUzODYxMzI4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><br />
 <!--:--></p>

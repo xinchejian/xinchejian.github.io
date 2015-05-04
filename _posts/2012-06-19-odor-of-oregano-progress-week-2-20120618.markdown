@@ -26,6 +26,6 @@ comments: []
 ---
 <p><!--:en-->After another one week, we got pretty good seedling with strong roots; transplant was completed this evening with great support from Roger. &nbsp;More details will be shared on this Wednesday evening XCJ meetup; stay still and get your nose ready ;)</p>
 <p>[gallery columns="1" orderby="post_date"]<!--:--><!--:zh-->
-<p>After another one week, we got pretty good seedling with strong roots; transplant was completed this evening with great support from Roger.<&#47;p></p>
-<p>More details will be shared on this Wednesday evening XCJ meetup; stay still and get your nose ready :) <&#47;p><br />
+<p>After another one week, we got pretty good seedling with strong roots; transplant was completed this evening with great support from Roger.</p></p>
+<p>More details will be shared on this Wednesday evening XCJ meetup; stay still and get your nose ready :) </p><br />
 <!--:--></p>

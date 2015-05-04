@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Links to Chinese Makers | 国内的DIY链接 http:&#47;&#47;xinchejian.com&#47;?p=474</p>
+<p>#xinchejian: Links to Chinese Makers | 国内的DIY链接 http://xinchejian.com/?p=474</p>

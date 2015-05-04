@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: <!--:en-->Quadcopter Team<!--:--><!--:zh-->搞飞机(4旋翼)小组<!--:--> http:&#47;&#47;xinchejian.com&#47;2011&#47;03&#47;27&#47;quadcopter-team&#47;</p>
+<p>#xinchejian: <!--:en-->Quadcopter Team<!--:--><!--:zh-->搞飞机(4旋翼)小组<!--:--> http://xinchejian.com/2011/03/27/quadcopter-team/</p>

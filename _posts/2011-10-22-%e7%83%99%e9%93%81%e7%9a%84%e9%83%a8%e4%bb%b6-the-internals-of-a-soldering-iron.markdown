@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMAG0633.jpg" &#47;></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMAG0633.jpg" /></p>

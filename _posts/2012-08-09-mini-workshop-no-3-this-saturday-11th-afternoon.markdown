@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->mini workshop No. 3 this Saturday (11th) afternoon<!--:--><!--:zh-->本周六(8&#47;11)迷你工作坊第三弹<!--:-->
+title: <!--:en-->mini workshop No. 3 this Saturday (11th) afternoon<!--:--><!--:zh-->本周六(8/11)迷你工作坊第三弹<!--:-->
 author:
   display_name: Jia Qi
   login: gg24gg24
@@ -22,6 +22,6 @@ comments: []
 <p><!--:en-->Mini Workshop No. 3 will be continued by Urban Farming Team this Saturday from 1430.<br />
 We will practice how to make a good cutting from existing fresh plants, so later they will form new roots and new plant.<br />
 You can bring your own lovely house and garden plants otherwise, we can steal from David and Roger's ;-)</p>
-<p><a href="http:&#47;&#47;xinchejian.com&#47;2012&#47;08&#47;09&#47;mini-workshop-no-3-this-saturday-11th-afternoon&#47;_129889922582700000&#47;" rel="attachment wp-att-3691"><img class="alignleft size-medium wp-image-3691" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;129889922582700000-300x215.jpg" alt="" width="300" height="215" &#47;><&#47;a><!--:--><!--:zh-->新车间农耕队决心把迷你工作坊进行到底! 本周六下午2点半第三弹将会和大家一起练习如何切取鲜活植物枝条的一部分，插入基质中，使其生根、萌芽，继而长成为新植株的繁殖方法。</p>
+<p><a href="http://xinchejian.com/2012/08/09/mini-workshop-no-3-this-saturday-11th-afternoon/_129889922582700000/" rel="attachment wp-att-3691"><img class="alignleft size-medium wp-image-3691" src="http://xinchejian.com/wp-content/uploads/2012/08/129889922582700000-300x215.jpg" alt="" width="300" height="215" /></a><!--:--><!--:zh-->新车间农耕队决心把迷你工作坊进行到底! 本周六下午2点半第三弹将会和大家一起练习如何切取鲜活植物枝条的一部分，插入基质中，使其生根、萌芽，继而长成为新植株的繁殖方法。</p>
 <p>周六你可以带上自己钟爱的盆栽；要不，到时借农耕队现有的植物拿来操练操练 ;-)</p>
-<p><a href="http:&#47;&#47;xinchejian.com&#47;2012&#47;08&#47;09&#47;mini-workshop-no-3-this-saturday-11th-afternoon&#47;_129889922582700000&#47;" rel="attachment wp-att-3691"><img class="alignleft size-medium wp-image-3691" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;129889922582700000-300x215.jpg" alt="" width="300" height="215" &#47;><&#47;a><!--:--></p>
+<p><a href="http://xinchejian.com/2012/08/09/mini-workshop-no-3-this-saturday-11th-afternoon/_129889922582700000/" rel="attachment wp-att-3691"><img class="alignleft size-medium wp-image-3691" src="http://xinchejian.com/wp-content/uploads/2012/08/129889922582700000-300x215.jpg" alt="" width="300" height="215" /></a><!--:--></p>

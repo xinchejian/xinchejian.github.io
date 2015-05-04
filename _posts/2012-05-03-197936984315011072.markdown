@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Ricky&rsquo;s report on Makercarnival talks http:&#47;&#47;t.co&#47;dBerJaPz</p>
+<p>#xinchejian: Ricky&rsquo;s report on Makercarnival talks http://t.co/dBerJaPz</p>

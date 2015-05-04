@@ -22,7 +22,7 @@ tags:
 - aaajiao
 comments: []
 ---
-<p>Aaajiao of <a href="http:&#47;&#47;xindanwei.com" target="_blank">Xindanwei<&#47;a> gave a talk on what it took to run a space and his personal experience with making and hacking. XinCheJian goes well back with <a href="http:&#47;&#47;xindanwei.com" target="_blank">Xindanwei<&#47;a> from working together on Scratch for Kids to incubating XinCheJian on 2F of YongJia Lu location.<&#47;p></p>
+<p>Aaajiao of <a href="http://xindanwei.com" target="_blank">Xindanwei</a> gave a talk on what it took to run a space and his personal experience with making and hacking. XinCheJian goes well back with <a href="http://xindanwei.com" target="_blank">Xindanwei</a> from working together on Scratch for Kids to incubating XinCheJian on 2F of YongJia Lu location.</p></p>
 <p style="text-align:center">
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;03&#47;DSC_7735.jpg" alt="DSC 7735" title="DSC_7735.JPG" border="0"&#47;><br />
-<&#47;p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/DSC_7735.jpg" alt="DSC 7735" title="DSC_7735.JPG" border="0"/><br />
+</p></p>

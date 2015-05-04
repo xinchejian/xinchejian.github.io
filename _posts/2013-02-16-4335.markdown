@@ -25,48 +25,48 @@ comments:
   author_url: http://facebook.com/profile.php?id=554580338
   date: '2013-02-16 21:31:05 +0800'
   date_gmt: '2013-02-16 13:31:05 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=554580338" target="_blank">William
-    Hooi<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=554580338" target="_blank">William
+    Hooi</a> liked this on Facebook.
 - id: 14445
   author: 新车间 [Xin Che Jian]
   author_email: facebook.175737115791930@example.com
   author_url: http://facebook.com/profile.php?id=175737115791930
   date: '2013-02-16 21:31:07 +0800'
   date_gmt: '2013-02-16 13:31:07 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=175737115791930"
-    target="_blank">新车间 [Xin Che Jian]<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=175737115791930"
+    target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 - id: 14459
   author: Nancy R. Ouyang
   author_email: facebook.746685617@example.com
   author_url: http://facebook.com/profile.php?id=746685617
   date: '2013-02-17 00:45:54 +0800'
   date_gmt: '2013-02-16 16:45:54 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=746685617" target="_blank">Nancy
-    R. Ouyang<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=746685617" target="_blank">Nancy
+    R. Ouyang</a> liked this on Facebook.
 - id: 14490
   author: Ansgar Halbfas
   author_email: facebook.100001881236699@example.com
   author_url: http://facebook.com/profile.php?id=100001881236699
   date: '2013-02-17 05:01:01 +0800'
   date_gmt: '2013-02-16 21:01:01 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=100001881236699"
-    target="_blank">Ansgar Halbfas<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=100001881236699"
+    target="_blank">Ansgar Halbfas</a> liked this on Facebook.
 - id: 14510
   author: Ingrid Fischer-Schreiber
   author_email: facebook.1147204132@example.com
   author_url: http://facebook.com/profile.php?id=1147204132
   date: '2013-02-17 13:15:44 +0800'
   date_gmt: '2013-02-17 05:15:44 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=1147204132" target="_blank">Ingrid
-    Fischer-Schreiber<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=1147204132" target="_blank">Ingrid
+    Fischer-Schreiber</a> liked this on Facebook.
 - id: 14511
   author: Emma Syan Xu
   author_email: facebook.652571839@example.com
   author_url: http://facebook.com/profile.php?id=652571839
   date: '2013-02-17 13:15:46 +0800'
   date_gmt: '2013-02-17 05:15:46 +0800'
-  content: <a href="http:&#47;&#47;facebook.com&#47;profile.php?id=652571839" target="_blank">Emma
-    Syan Xu<&#47;a> liked this on Facebook.
+  content: <a href="http://facebook.com/profile.php?id=652571839" target="_blank">Emma
+    Syan Xu</a> liked this on Facebook.
 ---
 <p><!--:en-->This time, exactly the week before Chinese new year our Wednesday open house talk was recorded and broadcast in the Shanghai TV news yesterday evening. With a little bit luck we will appear in TV again and again if you (yes, you members) create cool projects which are interesting enough for the media to show.</p>
-<p><embed src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XNTE0NTg1ODY4&#47;v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application&#47;x-shockwave-flash"><&#47;embed><!--:--></p>
+<p><embed src="http://player.youku.com/player.php/sid/XNTE0NTg1ODY4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><!--:--></p>

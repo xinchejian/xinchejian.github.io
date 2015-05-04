@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-1322287828038.jpg" &#47;></p>
-<p>Even with a mad scramble to find all the missing parts from the Botmill kit, Mike reports some encouraging news: <&#47;p></p>
-<blockquote><p>I finished the wiring, opto flags, feet, extruder, and wired up the power. Basically all that's left is to square the axis, locktite the frame bolts, then plug it into the computer. Actually, just plug it in the computer and see if you can get the motors going and try extruding some plastic. We can calibrate and fine tune it after all the bugs have been worked out.<&#47;p><br />
-<&#47;blockquote></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-1322287828038.jpg" /></p>
+<p>Even with a mad scramble to find all the missing parts from the Botmill kit, Mike reports some encouraging news: </p></p>
+<blockquote><p>I finished the wiring, opto flags, feet, extruder, and wired up the power. Basically all that's left is to square the axis, locktite the frame bolts, then plug it into the computer. Actually, just plug it in the computer and see if you can get the motors going and try extruding some plastic. We can calibrate and fine tune it after all the bugs have been worked out.</p><br />
+</blockquote></p>

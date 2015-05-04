@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Emergency switch http:&#47;&#47;t.co&#47;5DxNldcg'
+title: '#xinchejian: Emergency switch http://t.co/5DxNldcg'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Emergency switch http:&#47;&#47;t.co&#47;5DxNldcg</p>
+<p>#xinchejian: Emergency switch http://t.co/5DxNldcg</p>

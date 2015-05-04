@@ -24,31 +24,31 @@ comments:
   author_url: https://facebook.com/profile.php?id=633713884
   date: '2014-06-16 19:58:08 +0800'
   date_gmt: '2014-06-16 11:58:08 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=633713884" target="_blank">Min
-    Chi<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=633713884" target="_blank">Min
+    Chi</a> liked this on Facebook.
 - id: 26234
   author: Johnson Yeh
   author_email: facebook.100000928204596@example.com
   author_url: https://facebook.com/profile.php?id=100000928204596
   date: '2014-06-16 19:58:10 +0800'
   date_gmt: '2014-06-16 11:58:10 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000928204596"
-    target="_blank">Johnson Yeh<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000928204596"
+    target="_blank">Johnson Yeh</a> liked this on Facebook.
 - id: 26243
   author: William Lue
   author_email: facebook.1051771888@example.com
   author_url: https://facebook.com/profile.php?id=1051771888
   date: '2014-06-16 23:36:22 +0800'
   date_gmt: '2014-06-16 15:36:22 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1051771888" target="_blank">William
-    Lue<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=1051771888" target="_blank">William
+    Lue</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;DSC_5975.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;DSC_5975-290x290.jpg" alt="DSC_5975" width="290" height="290" class="aligncenter size-thumbnail wp-image-6465" &#47;><&#47;a><br />
-<a style="background: none repeat scroll 0 0 #7EBD40;color: #F2FFFF;font-weight:700;border: 1px solid #4A8F32;border-radius: 4px 4px 4px 4px;cursor: pointer;display: inline-block;font-size: 14px;margin-bottom: 3px;overflow: visible;padding: 6px 30px;text-decoration: none;" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808145f542f00146a45359f879fe" target="_blank" id="ied_button_show" alt="购买门票3D扫描与打印 3D Scan and Print " title="购买门票">报名参加 Register<&#47;a><br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/DSC_5975.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/DSC_5975-290x290.jpg" alt="DSC_5975" width="290" height="290" class="aligncenter size-thumbnail wp-image-6465" /></a><br />
+<a style="background: none repeat scroll 0 0 #7EBD40;color: #F2FFFF;font-weight:700;border: 1px solid #4A8F32;border-radius: 4px 4px 4px 4px;cursor: pointer;display: inline-block;font-size: 14px;margin-bottom: 3px;overflow: visible;padding: 6px 30px;text-decoration: none;" href="http://www.vasee.com/event/view.jsp?inid=ff80808145f542f00146a45359f879fe" target="_blank" id="ied_button_show" alt="购买门票3D扫描与打印 3D Scan and Print " title="购买门票">报名参加 Register</a><br />
 Learn How to 3D Print and see a real live 3D Scanning!<br />
 学习如何应用3d打印技术并观看实时三维扫描</p>
-<p>Fee: 230rmb&#47;person (200rmb&#47;person for online payment)<br />
-收费：230元&#47;人（网付200元&#47;人）<br />
+<p>Fee: 230rmb/person (200rmb/person for online payment)<br />
+收费：230元/人（网付200元/人）<br />
 Date: June 22nd 3:00pm - 6:00pm<br />
 日期：6月22号下午3:00 &ndash; 6:00.</p>
 <p>What you will Learn: 您将可以了解如下内容：<br />

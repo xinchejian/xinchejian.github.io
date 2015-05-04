@@ -53,7 +53,7 @@ comments:
     the KK is ok but very limlited in any case dont fall into the super QQ that controller
     is a joke \r\nregards\r\nEric"
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_111224.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-IMG_20111029_111240.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;10&#47;wpid-1319858342504.jpg" &#47;></p>
-<p>Building an army of inexpensive quadcopters...<&#47;p></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_111224.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111029_111240.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-1319858342504.jpg" /></p>
+<p>Building an army of inexpensive quadcopters...</p></p>

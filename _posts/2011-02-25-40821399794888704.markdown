@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Visited by EmbedDream and their awesome FIRA bot http:&#47;&#47;xinchejian.com&#47;?p=487</p>
+<p>#xinchejian: Visited by EmbedDream and their awesome FIRA bot http://xinchejian.com/?p=487</p>

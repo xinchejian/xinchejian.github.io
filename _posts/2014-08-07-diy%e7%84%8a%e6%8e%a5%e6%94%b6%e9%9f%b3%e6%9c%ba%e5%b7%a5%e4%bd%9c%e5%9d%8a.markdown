@@ -24,35 +24,35 @@ comments:
   author_url: https://facebook.com/profile.php?id=650797914
   date: '2014-08-07 23:21:16 +0800'
   date_gmt: '2014-08-07 15:21:16 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=650797914" target="_blank">Rex
-    Tsai<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=650797914" target="_blank">Rex
+    Tsai</a> liked this on Facebook.
 - id: 26702
   author: Jia-yuan Tsai
   author_email: facebook.741304375@example.com
   author_url: https://facebook.com/profile.php?id=741304375
   date: '2014-08-07 23:21:27 +0800'
   date_gmt: '2014-08-07 15:21:27 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=741304375" target="_blank">Jia-yuan
-    Tsai<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=741304375" target="_blank">Jia-yuan
+    Tsai</a> liked this on Facebook.
 - id: 26703
   author: Silvia Lindtner
   author_email: facebook.6028935@example.com
   author_url: https://facebook.com/profile.php?id=6028935
   date: '2014-08-07 23:51:17 +0800'
   date_gmt: '2014-08-07 15:51:17 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=6028935" target="_blank">Silvia
-    Lindtner<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=6028935" target="_blank">Silvia
+    Lindtner</a> liked this on Facebook.
 - id: 26704
   author: Min Chi
   author_email: facebook.633713884@example.com
   author_url: https://facebook.com/profile.php?id=633713884
   date: '2014-08-08 00:39:19 +0800'
   date_gmt: '2014-08-07 16:39:19 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=633713884" target="_blank">Min
-    Chi<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=633713884" target="_blank">Min
+    Chi</a> liked this on Facebook.
 ---
-<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;webwxgetmsgimg.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6596" &#47;><&#47;a><br />
-报名链接：https:&#47;&#47;rexchen80.wufoo.com&#47;forms&#47;diyeec&#47;<br />
+<p><a href="http://xinchejian.com/wp-content/uploads/2014/08/webwxgetmsgimg.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/08/webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6596" /></a><br />
+报名链接：https://rexchen80.wufoo.com/forms/diyeec/<br />
 活动费用:200元<br />
 活动日期:8月10日(星期日) 下午2点<br />
 活动地点:新车间</p>

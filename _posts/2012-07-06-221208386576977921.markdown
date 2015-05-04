@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Building auto Siphon http:&#47;&#47;t.co&#47;SwNE...'
+title: '#xinchejian: Building auto Siphon http://t.co/SwNE...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Building auto Siphon http:&#47;&#47;t.co&#47;SwNEdxq1</p>
+<p>#xinchejian: Building auto Siphon http://t.co/SwNEdxq1</p>

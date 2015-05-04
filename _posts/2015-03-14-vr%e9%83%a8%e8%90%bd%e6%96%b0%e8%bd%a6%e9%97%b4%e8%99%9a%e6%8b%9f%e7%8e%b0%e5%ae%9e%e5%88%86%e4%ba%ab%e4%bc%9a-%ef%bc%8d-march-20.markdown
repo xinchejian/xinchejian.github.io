@@ -26,8 +26,8 @@ comments:
   date_gmt: '2015-03-15 14:27:17 +0800'
   content: 报名
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;03&#47;30181896537918798.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;03&#47;30181896537918798-290x290.jpg" alt="30181896537918798" width="290" height="290" class="aligncenter size-thumbnail wp-image-7149" &#47;><&#47;a><br />
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2015/03/30181896537918798.jpg"><img src="http://xinchejian.com/wp-content/uploads/2015/03/30181896537918798-290x290.jpg" alt="30181896537918798" width="290" height="290" class="aligncenter size-thumbnail wp-image-7149" /></a><br />
 活动时间<br />
 2015年3月20日上午17:30-19:30（周五下午）<br />
 活动地点<br />

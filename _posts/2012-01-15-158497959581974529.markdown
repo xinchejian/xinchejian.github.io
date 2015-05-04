@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: 意面桥比赛前三名 http:&#47;&#47;t.co&#47;0naszC9k'
+title: '#xinchejian: 意面桥比赛前三名 http://t.co/0naszC9k'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: 意面桥比赛前三名 http:&#47;&#47;t.co&#47;0naszC9k</p>
+<p>#xinchejian: 意面桥比赛前三名 http://t.co/0naszC9k</p>

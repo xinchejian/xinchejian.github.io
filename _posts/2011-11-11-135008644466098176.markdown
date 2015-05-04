@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Homemade arcade cabinet http:&#47;&#47;t.co&#47;J...'
+title: '#xinchejian: Homemade arcade cabinet http://t.co/J...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Homemade arcade cabinet http:&#47;&#47;t.co&#47;Jbh4o7is</p>
+<p>#xinchejian: Homemade arcade cabinet http://t.co/Jbh4o7is</p>

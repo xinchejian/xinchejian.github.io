@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111106_124251.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111106_124310.jpg" &#47;></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;11&#47;wpid-IMG_20111106_124449.jpg" &#47;></p>
-<p>...built by Edward. The simplest machine: when turned on, it turn itself off.<&#47;p></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111106_124251.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111106_124310.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111106_124449.jpg" /></p>
+<p>...built by Edward. The simplest machine: when turned on, it turn itself off.</p></p>

@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Quadcopter assembly workshop http:&#47;&#47;t...'
+title: '#xinchejian: Quadcopter assembly workshop http://t...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Quadcopter assembly workshop http:&#47;&#47;t.co&#47;9T4V1J0p</p>
+<p>#xinchejian: Quadcopter assembly workshop http://t.co/9T4V1J0p</p>

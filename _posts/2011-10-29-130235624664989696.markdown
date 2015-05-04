@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: Pandaboard donation! http:&#47;&#47;t.co&#47;z6kw...'
+title: '#xinchejian: Pandaboard donation! http://t.co/z6kw...'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Pandaboard donation! http:&#47;&#47;t.co&#47;z6kwXUwL</p>
+<p>#xinchejian: Pandaboard donation! http://t.co/z6kwXUwL</p>

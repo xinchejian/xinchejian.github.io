@@ -31,39 +31,39 @@ comments:
   content: Support you, lio!
 ---
 <p><!--:en--><br />
-<h1>Lio 李欧<&#47;h1><br />
-<a title="Portraits of Makers by xinchejian, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;76398697@N08&#47;6854417278&#47;"><img src="http:&#47;&#47;farm7.staticflickr.com&#47;6213&#47;6854417278_faf311f9a4_z.jpg" alt="Portraits of Makers" width="426" height="640" &#47;><&#47;a></p>
+<h1>Lio 李欧</h1><br />
+<a title="Portraits of Makers by xinchejian, on Flickr" href="http://www.flickr.com/photos/76398697@N08/6854417278/"><img src="http://farm7.staticflickr.com/6213/6854417278_faf311f9a4_z.jpg" alt="Portraits of Makers" width="426" height="640" /></a></p>
 <ol>
 <li>Who are you?<br />
-Lionello Lunesu, but please call me Lio.<&#47;li></p>
+Lionello Lunesu, but please call me Lio.</li></p>
 <li>What do you do?<br />
-I'm a Tech Lead at Microsoft China.<&#47;li></p>
+I'm a Tech Lead at Microsoft China.</li></p>
 <li>What inspires you?<br />
-People making stuff.<&#47;li></p>
-<li>What attracts you to the space&#47;what do you like about the space?<br />
-Everything you could possibly need to realize your idea is there, no more excuses.<&#47;li></p>
-<li>What do you want to do&#47;accomplish&#47;learn&#47;share&#47;experience?<br />
-Being a programmer I'm making stuff all day, but nothing beats working with real materials.<&#47;li></p>
+People making stuff.</li></p>
+<li>What attracts you to the space/what do you like about the space?<br />
+Everything you could possibly need to realize your idea is there, no more excuses.</li></p>
+<li>What do you want to do/accomplish/learn/share/experience?<br />
+Being a programmer I'm making stuff all day, but nothing beats working with real materials.</li></p>
 <li>If there is only one thing you could share with people, what would it be?<br />
-I'd like everyone to know that finishing a project, no matter how insignificant it seems, results in a high, and it will make you go back for more.<&#47;li></p>
+I'd like everyone to know that finishing a project, no matter how insignificant it seems, results in a high, and it will make you go back for more.</li></p>
 <li>Tell us a secret.. one you haven&rsquo;t told anyone else?<br />
-Uh, see the answer to the next question:<&#47;li></p>
+Uh, see the answer to the next question:</li></p>
 <li>Who&rsquo;s your idol?<br />
-I'm going to sound like a nerd, but Bill Gates inspires me. He's a geek with business skills and his heart is in the right place.<&#47;li></p>
+I'm going to sound like a nerd, but Bill Gates inspires me. He's a geek with business skills and his heart is in the right place.</li></p>
 <li>Where would you rate yourself on a geeky slider? (or nerdy if you are that way)<br />
-From 0 (Queen Elizabeth) to 10 (&uuml;bergeek), I'm probably around an 8: pretty geeky yet not unsociable (.. I hope!)<&#47;li><br />
-<&#47;ol><!--:--><!--:zh--><br />
-<h1>Lio 李欧<&#47;h1><br />
-<a title="Portraits of Makers by xinchejian, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;76398697@N08&#47;6854417278&#47;"><img src="http:&#47;&#47;farm7.staticflickr.com&#47;6213&#47;6854417278_faf311f9a4_z.jpg" alt="Portraits of Makers" width="426" height="640" &#47;><&#47;a></p>
+From 0 (Queen Elizabeth) to 10 (&uuml;bergeek), I'm probably around an 8: pretty geeky yet not unsociable (.. I hope!)</li><br />
+</ol><!--:--><!--:zh--><br />
+<h1>Lio 李欧</h1><br />
+<a title="Portraits of Makers by xinchejian, on Flickr" href="http://www.flickr.com/photos/76398697@N08/6854417278/"><img src="http://farm7.staticflickr.com/6213/6854417278_faf311f9a4_z.jpg" alt="Portraits of Makers" width="426" height="640" /></a></p>
 <p>1）你是谁？<br />
 我是Lionello Lunesu，请叫我Lio。</p>
 <p>2)你是从事什么的？<br />
 我是微软中国的技术带头人。</p>
 <p>3)什么激励了你？<br />
 人们正在展示自己的本领。</p>
-<p>4)什么吸引你来到新车间&#47;你喜欢新车间哪个方面？<br />
+<p>4)什么吸引你来到新车间/你喜欢新车间哪个方面？<br />
 别找接口，在这里每件事你可以尽可能需要考虑到你自己的创意。</p>
-<p>5)你想要做些什么&#47;完成&#47;学习&#47;分享一些什么经验？<br />
+<p>5)你想要做些什么/完成/学习/分享一些什么经验？<br />
 开始一个项目的时候，我将全天展示我的本领，没有任何东西能超越与真正材料的工作。</p>
 <p>6)假如你只能分享一件事情给大家，你想分享什么？<br />
 我希望每一个人清楚正在完成的一个项目，无论它看起来有多么的无足轻重，结果很夸张，而且它将让你退却更多。</p>

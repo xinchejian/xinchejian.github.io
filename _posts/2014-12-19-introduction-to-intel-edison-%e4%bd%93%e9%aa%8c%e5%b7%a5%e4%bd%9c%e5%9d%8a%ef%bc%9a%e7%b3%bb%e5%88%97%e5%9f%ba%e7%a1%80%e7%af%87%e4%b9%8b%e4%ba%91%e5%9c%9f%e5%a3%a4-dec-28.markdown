@@ -26,26 +26,26 @@ comments:
   author_url: https://facebook.com/profile.php?id=100000004081678
   date: '2014-12-19 17:06:41 +0800'
   date_gmt: '2014-12-19 09:06:41 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100000004081678"
-    target="_blank">Linna Wenchang Zhou<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100000004081678"
+    target="_blank">Linna Wenchang Zhou</a> liked this on Facebook.
 - id: 29337
   author: Ria Lunesu
   author_email: facebook.100001797015109@example.com
   author_url: https://facebook.com/profile.php?id=100001797015109
   date: '2014-12-19 21:21:32 +0800'
   date_gmt: '2014-12-19 13:21:32 +0800'
-  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100001797015109"
-    target="_blank">Ria Lunesu<&#47;a> liked this on Facebook.
+  content: <a href="https://facebook.com/profile.php?id=100001797015109"
+    target="_blank">Ria Lunesu</a> liked this on Facebook.
 ---
-<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
-<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;12&#47;18.pic_hd.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;12&#47;18.pic_hd-290x290.jpg" alt="18.pic_hd" width="290" height="290" class="aligncenter size-thumbnail wp-image-7060" &#47;><&#47;a><br />
-<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;4261164941700" target="_blank" title="立即报名">Register 报名参加<&#47;a></p>
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
+<a href="http://xinchejian.com/wp-content/uploads/2014/12/18.pic_hd.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/12/18.pic_hd-290x290.jpg" alt="18.pic_hd" width="290" height="290" class="aligncenter size-thumbnail wp-image-7060" /></a><br />
+<a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/4261164941700" target="_blank" title="立即报名">Register 报名参加</a></p>
 <p><!--:en--><br />
 Time: Dec. 28 Sunday, 1:30pm - 3:30pm.<br />
 Location: XinCheJian<br />
 Please bring your computer, and a plant if you have one.</p>
 <p>Due to limited supply, each Edison board will be shared by two people!</p>
-<p>The Intel Edison development platform is the first in a series of low-cost, product-ready, general purpose compute platforms that help lower the barriers to entry for entrepreneurs of all sizes&mdash;from pro makers to consumer electronics and companies working in the Internet of Things (IoT). The Intel Edison development platform packs a robust set of features into its small size, delivering great performance, durability, and a broad spectrum of I&#47;O and software support. Those versatile features help meet the needs of a wide range of customers.<br />
+<p>The Intel Edison development platform is the first in a series of low-cost, product-ready, general purpose compute platforms that help lower the barriers to entry for entrepreneurs of all sizes&mdash;from pro makers to consumer electronics and companies working in the Internet of Things (IoT). The Intel Edison development platform packs a robust set of features into its small size, delivering great performance, durability, and a broad spectrum of I/O and software support. Those versatile features help meet the needs of a wide range of customers.<br />
 Angelo, engineer from DFrobot, is greatly inspired by this new development board and would like to share the experience with more makers at XinCheJian hackerspace.<br />
 The 'cloud' soil project that will be shared at the workshop will use temperature and humidity sensors, LCD modules, and sensor extension boards.<br />
 This workshop is for those with Arduino or raspberry pi programming experience, having knowledge of C language or any software development experience, or just interested in Intel Edison.<br />

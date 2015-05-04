@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: 四周飞行器上天了 http:&#47;&#47;t.co&#47;iN5O6UA'
+title: '#xinchejian: 四周飞行器上天了 http://t.co/iN5O6UA'
 author:
   display_name: Lio李欧
   login: lionello
@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: 四周飞行器上天了 http:&#47;&#47;t.co&#47;iN5O6UA</p>
+<p>#xinchejian: 四周飞行器上天了 http://t.co/iN5O6UA</p>

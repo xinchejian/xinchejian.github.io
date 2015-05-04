@@ -20,4 +20,4 @@ tags: []
 comments: []
 ---
 <p>Xinchejian has been officially added to the list of Hackerspaces in the world!</p>
-<p><a href="http:&#47;&#47;hackerspaces.org&#47;wiki&#47;Xinchejian">http:&#47;&#47;hackerspaces.org&#47;wiki&#47;Xinchejian<&#47;a></p>
+<p><a href="http://hackerspaces.org/wiki/Xinchejian">http://hackerspaces.org/wiki/Xinchejian</a></p>

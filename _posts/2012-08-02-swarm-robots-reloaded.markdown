@@ -33,5 +33,5 @@ We did some progress making a couple of test boards and wiorking robot base incc
 Now it's the perfect time to start all over again and bring it to an successful end. Our plan is to send this to maybe two competitions (more about this later)<br />
 If you are interested to join the team then become a member. Members don't have to pay additional for working in a team like this.</p>
 <p>You are afraid that you are not smart enough? Well, nobody in our team is an expert for swarm robots yet, so please just bring in whatever you can.</p>
-<p>Please also have a look at the Wiki to see the progress we already made: <a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Swarm_robots">http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Swarm_robots<&#47;a><!--:--><!--:zh--><br &#47;><br />
+<p>Please also have a look at the Wiki to see the progress we already made: <a href="http://wiki.xinchejian.com/wiki/Swarm_robots">http://wiki.xinchejian.com/wiki/Swarm_robots</a><!--:--><!--:zh--><br /><br />
 <!--:--></p>
