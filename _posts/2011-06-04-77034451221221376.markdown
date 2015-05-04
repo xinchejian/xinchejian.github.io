@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: XinCheJian and the 100 YEAR STARSHIP...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6751
+wordpress_url: http://twitter-77034451221221376
+date: '2011-06-04 23:30:19 +0800'
+date_gmt: '2011-06-04 15:30:19 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: XinCheJian and the 100 YEAR STARSHIP STUDY http:&#47;&#47;xinchejian.com&#47;2011&#47;06&#47;04&#47;xinchejian-and-the-100-year-starship-study&#47;</p>

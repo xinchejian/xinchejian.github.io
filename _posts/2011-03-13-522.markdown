@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Manifesto | 宣言
+author:
+  display_name: Min Lin Hsieh
+  login: mlhsieh
+  email: mlhsie@gmail.com
+  url: ''
+author_login: mlhsieh
+author_email: mlhsie@gmail.com
+wordpress_id: 522
+wordpress_url: http://xinchejian.com/?p=522
+date: '2011-03-13 17:15:47 +0800'
+date_gmt: '2011-03-13 09:15:47 +0800'
+categories: []
+tags: []
+comments: []
+---
+

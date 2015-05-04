@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Android & Robots http:&#47;&#47;xinchejian.co...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6752
+wordpress_url: http://twitter-78292828769370112
+date: '2011-06-08 10:50:39 +0800'
+date_gmt: '2011-06-08 02:50:39 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Android & Robots http:&#47;&#47;xinchejian.com&#47;2011&#47;06&#47;08&#47;android-robots&#47;</p>

@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: New Home of Xin Che Jian http:&#47;&#47;xinch...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6731
+wordpress_url: http://twitter-47106178869768192
+date: '2011-03-14 09:26:02 +0800'
+date_gmt: '2011-03-14 01:26:02 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: New Home of Xin Che Jian http:&#47;&#47;xinchejian.com&#47;2011&#47;03&#47;14&#47;new-home-of-xin-che-jian&#47;</p>

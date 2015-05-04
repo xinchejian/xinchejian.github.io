@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Tilapia from Guangxi http:&#47;&#47;t.co&#47;Ntmq...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6929
+wordpress_url: http://twitter-229934717506576384
+date: '2012-07-30 21:41:23 +0800'
+date_gmt: '2012-07-30 13:41:23 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Tilapia from Guangxi http:&#47;&#47;t.co&#47;NtmqVc2F</p>

@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Photos from RoboRace http:&#47;&#47;t.co&#47;ebRJ...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6779
+wordpress_url: http://twitter-118271450586161152
+date: '2011-09-26 18:31:25 +0800'
+date_gmt: '2011-09-26 10:31:25 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Photos from RoboRace http:&#47;&#47;t.co&#47;ebRJx3It</p>

@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:zh-->如何打领结<!--:--> &...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6764
+wordpress_url: http://twitter-101119815099490304
+date: '2011-08-10 10:36:57 +0800'
+date_gmt: '2011-08-10 02:36:57 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:zh-->如何打领结<!--:--> <!--:en-->How to tie a bowtie<!--:--> http:&#47;&#47;xinchejian.com&#47;2011&#47;08&#47;10&#47;how-to-tie-a-bowtie&#47;</p>

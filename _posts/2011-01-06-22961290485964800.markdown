@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: A.R.T. Glamour  http:&#47;&#47;xinchejian.com...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6712
+wordpress_url: http://twitter-22961290485964800
+date: '2011-01-06 18:22:52 +0800'
+date_gmt: '2011-01-06 10:22:52 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: A.R.T. Glamour  http:&#47;&#47;xinchejian.com&#47;?p=322</p>

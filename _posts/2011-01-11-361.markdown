@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: David Li
+  login: david
+  email: david@xinchejian.com
+  url: ''
+author_login: david
+author_email: david@xinchejian.com
+wordpress_id: 361
+wordpress_url: http://xinchejian.com/?p=361
+date: '2011-01-11 00:56:47 +0800'
+date_gmt: '2011-01-10 16:56:47 +0800'
+categories: []
+tags: []
+comments: []
+---
+

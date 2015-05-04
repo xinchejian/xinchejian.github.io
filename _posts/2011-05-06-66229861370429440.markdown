@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Adding servo to RC ca...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6746
+wordpress_url: http://twitter-66229861370429440
+date: '2011-05-06 03:56:44 +0800'
+date_gmt: '2011-05-05 19:56:44 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Adding servo to RC car<!--:--><!--:zh-->遥控小车的改造<!--:--> http:&#47;&#47;xinchejian.com&#47;2011&#47;05&#47;06&#47;adding-servo-to-rc-car&#47;</p>

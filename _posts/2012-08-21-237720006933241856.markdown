@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Hydroponic Planter Updated http:&#47;&#47;t.c...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6939
+wordpress_url: http://twitter-237720006933241856
+date: '2012-08-21 09:17:20 +0800'
+date_gmt: '2012-08-21 01:17:20 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Hydroponic Planter Updated http:&#47;&#47;t.co&#47;m8Tq3rC8</p>

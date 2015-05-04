@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Portraits of Makers: Edward Jiang htt...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6899
+wordpress_url: http://twitter-184454545655595011
+date: '2012-03-27 09:39:25 +0800'
+date_gmt: '2012-03-27 01:39:25 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Portraits of Makers: Edward Jiang http:&#47;&#47;t.co&#47;x3LAoniG</p>

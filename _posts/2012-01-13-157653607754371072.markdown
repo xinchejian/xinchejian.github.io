@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:zh-->3D打印机和塑料<!--:--&gt...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6857
+wordpress_url: http://twitter-157653607754371072
+date: '2012-01-13 10:42:03 +0800'
+date_gmt: '2012-01-13 02:42:03 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:zh-->3D打印机和塑料<!--:--> http:&#47;&#47;t.co&#47;SOt29mOB</p>

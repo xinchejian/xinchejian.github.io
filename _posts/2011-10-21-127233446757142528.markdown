@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Whacking Wednesday - Show your Junk (...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6794
+wordpress_url: http://twitter-127233446757142528
+date: '2011-10-21 12:03:12 +0800'
+date_gmt: '2011-10-21 04:03:12 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Whacking Wednesday - Show your Junk (Oct 19, 2011) http:&#47;&#47;t.co&#47;UGMzsL9G</p>

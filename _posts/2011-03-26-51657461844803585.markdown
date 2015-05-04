@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Blessing from Xindanw...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6733
+wordpress_url: http://twitter-51657461844803585
+date: '2011-03-26 22:51:13 +0800'
+date_gmt: '2011-03-26 14:51:13 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Blessing from Xindanwei<!--:--><!--:zh-->来之新单位的祝福<!--:--> http:&#47;&#47;xinchejian.com&#47;2011&#47;03&#47;26&#47;blessing-from-xindanwei&#47;</p>

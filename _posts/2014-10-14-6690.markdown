@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: nihaopaul
+  login: nihaopaul
+  email: nihaopaul@gmail.com
+  url: ''
+author_login: nihaopaul
+author_email: nihaopaul@gmail.com
+wordpress_id: 6690
+wordpress_url: http://xinchejian.com/2014/10/14/6690/
+date: '2014-10-14 21:01:27 +0800'
+date_gmt: '2014-10-14 13:01:27 +0800'
+categories: []
+tags: []
+comments: []
+---
+

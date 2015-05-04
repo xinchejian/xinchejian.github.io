@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: TX-2&#47;RX-2: Heart of the cheap RC Toys...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6714
+wordpress_url: http://twitter-24063327458033664
+date: '2011-01-09 19:21:58 +0800'
+date_gmt: '2011-01-09 11:21:58 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: TX-2&#47;RX-2: Heart of the cheap RC Toys from China http:&#47;&#47;xinchejian.com&#47;?p=350</p>

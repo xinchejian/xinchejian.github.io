@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: 新车间3D创客小组 3D Printing Meetup
+author:
+  display_name: Amanda.Maxy
+  login: Amanda.Maxy
+  email: amanda0310@me.com
+  url: ''
+author_login: Amanda.Maxy
+author_email: amanda0310@me.com
+wordpress_id: 6683
+wordpress_url: http://xinchejian.com/?p=6683
+date: '2014-10-13 13:46:12 +0800'
+date_gmt: '2014-10-13 05:46:12 +0800'
+categories:
+- 3d printing
+tags: []
+comments:
+- id: 28152
+  author: 季晓晖
+  author_email: 1005746768@qq.com
+  author_url: ''
+  date: '2014-10-20 09:15:35 +0800'
+  date_gmt: '2014-10-20 01:15:35 +0800'
+  content: I'm a college student , I want to be a GEEK.Could you teach me?
+- id: 28153
+  author: Amanda.Maxy
+  author_email: amanda0310@me.com
+  author_url: ''
+  date: '2014-10-20 12:14:54 +0800'
+  date_gmt: '2014-10-20 04:14:54 +0800'
+  content: 你可以参加新车间组织的入门工作坊，会有人教一些基础的技能。加入会员也可以参加一些会员活动自己慢慢学习。
+---
+<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
+<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;BASICS-1-d-popup.jpeg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;10&#47;BASICS-1-d-popup-290x290.jpeg" alt="BASICS-1-d-popup" width="290" height="290" class="aligncenter size-thumbnail wp-image-6684" &#47;><&#47;a><br />
+<a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http:&#47;&#47;www.huodongxing.com&#47;go&#47;3D-meetup" target="_blank" title="立即报名">报名参加 Register<&#47;a><br />
+<!--:en--><br />
+<strong>Every Thursday at 7:30pm. Free for XCJ members; 100RMB for non members.<&#47;strong><br />
+XinCheJian's officially launching Meetup groups for makers! Each day of the week, there will be a different meetup, including Robotics, 3D printing, interactive media, drone, rasperry pi, etc.<br />
+3D Makers Meetup will be hosted at XinCheJian on Thursday, starting at 7:30pm. Wanna learn all about 3D printing? Join 3D Makers Meetup!<br />
+<!--:--><br />
+<!--:zh--><br />
+<strong>每周四晚7:30. 新车间会员免费，非会员100RMB块。<&#47;strong><br />
+新车间推出兴趣小组活动，每天一个花样不重复哦。<br />
+本周四，3D打印创客小组活动正式举办啦。童鞋们可以好好玩一下3D。不要玩坏了就好。;)<br />
+主讲人会带领大家从3D打印科普开始，学习3D打印机的工作原理，组装使用，以及建模打印等。现场提供打印机和材料供大家学习。<br />
+玩转3D打印，就来3D打印创客小组吧！<br />
+<!--:--></p>

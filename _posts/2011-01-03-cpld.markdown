@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: CPLD
+author:
+  display_name: rngadam
+  login: rngadam
+  email: rngadam@gmail.com
+  url: ''
+author_login: rngadam
+author_email: rngadam@gmail.com
+wordpress_id: 315
+wordpress_url: http://xinchejian.com/?p=315
+date: '2011-01-03 23:13:43 +0800'
+date_gmt: '2011-01-03 15:13:43 +0800'
+categories:
+- Uncategorized
+tags:
+- A.R.T.
+comments: []
+---
+<p>As I've mentioned in the previous blog post talking <a href="http:&#47;&#47;xinchejian.com&#47;?p=305">about adding more ultrasonic sensors connected to the Arduino<&#47;a> , I'm looking at implementing some of the logic in digital logic gates external to the Arduino... After researching this for a while, I've stumbled on something half-remembered from university: FPGA and CPLD.</p>
+<p>CPLD seems particularly well suited and although  my first few applications would be very simple, I'm thinking many of the real-time stuff needed by robotics (sensor processing, PWM control) would be well served by CPLD hardware designs.</p>
+<p>So I'm thinking about buying these two things:</p>
+<p><a href="http:&#47;&#47;item.taobao.com&#47;item.htm?id=7632619729&amp;ali_refid=a3_420434_1006:1102526646:6:xilinx:216dcf9ee9bbd093f948aeb818bba62c&amp;ali_trackid=1_216dcf9ee9bbd093f948aeb818bba62c">Xilinx Platform Cable USB (programs Xilinx CPLD&#47;FPGA) 228.00元<&#47;a><br />
+Expensive but can be used to program very many CPLD</p>
+<p><a href="http:&#47;&#47;item.taobao.com&#47;item.htm?id=5859127056">XILINX XC9572XL in a DIP40 package: 42.00元<&#47;a><br />
+Very convenient packaging that will work with the breadboard in addition to having, from the datasheet, "1,600 usable gate" (about 100 times what I need right now for the ultrasonic sensor selector....)</p>
+<p>These are some useful links about CPLD:</p>
+<p><a href="http:&#47;&#47;bitcycle.org&#47;electronics&#47;1st_CPLD_project&#47;">http:&#47;&#47;bitcycle.org&#47;electronics&#47;1st_CPLD_project&#47;<&#47;a><br />
+<em>CPLD's have a number of useful properties:<&#47;em></p>
+<p><em> <&#47;em></p>
+<p><em>A small CPLD can replace the function of a handful standard logic IC's (74xxx etc), a large CPLD can replace the function of hundreds of these. The result is a drastic reduction in circuit board space, and power consumption.<br />
+The logic function performed by a CPLD is user-programmable. Normally it can be erased, and re-programmed many times. That is: can be changed on-the-fly. What used to be hardware (wires &#47; connections), becomes software (hardware description language).<br />
+Which input or output pin is used for what signal, can be chosen by the user. This helps to simplify circuit board layout.<br />
+Many CPLD's (not all) are in-system programmable. That is: the function of a circuit can be changed after it has been built, without re-wiring or replacing components.<br />
+The price of CPLD's (and other programmable logic devices) has come down enough to make their use feasible in many designs.<br />
+These advantages come at a cost: complexity. While it is simple to connect a few logic gates using 74xxx IC's, a significant barrier has to be overcome to do the same with a CPLD. This barrier consists of required hardware, software &amp; knowledge. However: once this barrier has been overcome, it becomes easier to modify a design. Also one can tackle more complex designs, that would be (near) impossible using standard logic.<&#47;em></p>
+<p><a href="http:&#47;&#47;www.mouldy.org&#47;using-cplds-and-fpgas-in-hobby-electronics">http:&#47;&#47;www.mouldy.org&#47;using-cplds-and-fpgas-in-hobby-electronics<&#47;a><br />
+<em>As an example, my recent H-bridge controller was implemented on a PIC microcontroller. This worked well enough, but performance was suboptimal, and some nasty hacks were required because the I&#47;O lines couldn't do exactly what I wanted. With a CPLD, I have dedicated hardware to implement things like the PWM controller, H-bridge logic and I2C interface; these subsystems would have operating frequencies in the hundreds of megahertz, instead of kilohertz.<&#47;em></p>
+<p><em> <&#47;em></p>
+<p><em>A few years back, there were crippling problems that prevented hobbyists from making use of CPLDs and FPGAs. Just about all of these have been remedied.<&#47;em></p>
+<p><a href="http:&#47;&#47;www.triplespark.net&#47;elec&#47;pdev&#47;cpld&#47;">http:&#47;&#47;www.triplespark.net&#47;elec&#47;pdev&#47;cpld&#47;<&#47;a><br />
+<em>CPLDs don't replace microcontrollers and vice versa; in fact, they complement one another very well: CPLDs are good if you need speed as long as the complexity of the task is limited. In contrast, microcontrollers can do lots of fancy things but at slower speed.<&#47;em></p>
+<p><a href="http:&#47;&#47;www.seattlerobotics.org&#47;encoder&#47;200006&#47;cpld.htm">http:&#47;&#47;www.seattlerobotics.org&#47;encoder&#47;200006&#47;cpld.htm<&#47;a><br />
+<em>PLDs or Complex Programmable Logic Devices are the next extension to the PLD market. They are today's technological stepping stone between a handful of discrete gates and a full custom design. What's more, the silicon manufacturers are so interested in beginning engineers down the path of brand loyalty, that one &amp; two quantity pricing is around five dollars for surprisingly powerful devices. At the same time, entry level software development tools have evolved from multi-thousand dollar price tags to free (Public Domain) Inter Net downloads while at the same time, continuing to gain in power.<&#47;em></p>
+<p><a href="https:&#47;&#47;www.seas.upenn.edu&#47;~ese201&#47;vhdl&#47;vhdl_primer.html">https:&#47;&#47;www.seas.upenn.edu&#47;~ese201&#47;vhdl&#47;vhdl_primer.html<&#47;a><br />
+<em>The highest level of abstraction is the behavioral level that describes a system in terms of what it does (or how it behaves) rather than in terms of its components and interconnection between them. A behavioral description specifies the relationship between the input and output signals. This could be a Boolean expression or a more abstract description such as the Register Transfer or Algorithmic level. As an example, let us consider a simple circuit that warns car passengers when the door is open or the seatbelt is not used whenever the car key is inserted in the ignition lock At the behavioral level this could be expressed as,<&#47;em></p>
+<p><em> <&#47;em></p>
+<p><em> Warning = Ignition_on AND ( Door_open  OR Seatbelt_off)<&#47;em></p>
+<p><em>The structural level, on the other hand, describes a system as a collection of gates and components that are interconnected to perform a desired function. A structural description could be compared to a schematic of interconnected logic gates. It is a representation that is usually closer to the physical realization of a system. <&#47;em></p>

@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: '&ldquo;VR部落&新车间&rdquo;虚拟现实分享会 － March 20'
+author:
+  display_name: Amanda.Maxy
+  login: Amanda.Maxy
+  email: amanda0310@me.com
+  url: ''
+author_login: Amanda.Maxy
+author_email: amanda0310@me.com
+wordpress_id: 7147
+wordpress_url: http://xinchejian.com/?p=7147
+date: '2015-03-14 01:00:34 +0800'
+date_gmt: '2015-03-13 17:00:34 +0800'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 30584
+  author: 方中坚
+  author_email: shilyvip@sina.com
+  author_url: ''
+  date: '2015-03-15 22:27:17 +0800'
+  date_gmt: '2015-03-15 14:27:17 +0800'
+  content: 报名
+---
+<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
+<a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;03&#47;30181896537918798.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;03&#47;30181896537918798-290x290.jpg" alt="30181896537918798" width="290" height="290" class="aligncenter size-thumbnail wp-image-7149" &#47;><&#47;a><br />
+活动时间<br />
+2015年3月20日上午17:30-19:30（周五下午）<br />
+活动地点<br />
+上海新车间上海市静安区愚园东路28号三号楼一楼<br />
+主题内容<br />
+邀请了上海周边VR领域的开发团队介绍市场趋势以及分享技术干货；<br />
+光学位置追踪技术解析<br />
+虚拟现实游戏开发<br />
+全景拍摄<br />
+虚拟现实头盔开发分享<br />
+虚拟现实体验<br />
+Oculus Rift  DK2 、GearVR、单相机追踪等虚拟现实头戴显示设备体验交流<br />
+最新3D虚拟现实游戏体验</p>

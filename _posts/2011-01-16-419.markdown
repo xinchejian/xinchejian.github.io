@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Workshop | 工作坊
+author:
+  display_name: Min Lin Hsieh
+  login: mlhsieh
+  email: mlhsie@gmail.com
+  url: ''
+author_login: mlhsieh
+author_email: mlhsie@gmail.com
+wordpress_id: 419
+wordpress_url: http://xinchejian.com/?p=419
+date: '2011-01-16 22:06:25 +0800'
+date_gmt: '2011-01-16 14:06:25 +0800'
+categories: []
+tags: []
+comments: []
+---
+

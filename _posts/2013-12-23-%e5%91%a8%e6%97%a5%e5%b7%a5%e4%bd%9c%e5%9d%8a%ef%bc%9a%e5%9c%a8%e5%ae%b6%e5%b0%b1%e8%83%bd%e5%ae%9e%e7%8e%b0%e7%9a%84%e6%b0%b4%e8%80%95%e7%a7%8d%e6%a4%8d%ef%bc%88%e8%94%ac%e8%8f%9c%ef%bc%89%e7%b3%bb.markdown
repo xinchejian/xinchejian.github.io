@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: 周日工作坊：在家就能实现的水耕种植（蔬菜）系统101 (中英文双语)Hydroponics 101 Weekend Workshop (Chinese
+  & English)
+author:
+  display_name: Aaron
+  login: Aaron
+  email: hjs52021@163.com
+  url: ''
+author_login: Aaron
+author_email: hjs52021@163.com
+wordpress_id: 6168
+wordpress_url: http://xinchejian.com/?p=6168
+date: '2013-12-23 19:50:47 +0800'
+date_gmt: '2013-12-23 11:50:47 +0800'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" alt="IMG_20131222_160910" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2013&#47;12&#47;IMG_20131222_160910-225x300.jpg" width="225" height="300" &#47;><&#47;a><br />
+主题：学习种子培养、植物活体克隆和窗台水耕种植系统的建立<br />
+如果对以下任一课题有兴趣，你可不能错过本周日下午的水培工作坊：<br />
+ 同传统种植方式相比，水耕有什么不同和其特点？<br />
+ 想知道如何从种子开始植物种植和栽培<br />
+ 希望在家建立小型的窗台水耕种植系统</p>
+<p>12月29号，本周日下午2点开始，将在新车间举办有史以来信息量最大，系统最完善的水耕种植工作坊，由Roger主持。除了和大家分享同传统土培截然不同的水耕种植方式，以及其诸多好处，还会介绍全球水耕种植领域较为流行的不同系统，从中挑选出适合自家的解决方案。<br />
+同时，工作坊将提供材料，让你学习如何从种子开始植物栽培，并且实现植物活体的克隆种植。<br />
+最后，将会动手做一套适用于家庭种植生菜，草本植物或是樱桃小番茄的窗台水耕种植系统，</p>
+<p>时间：12月29日，本周日；下午2点开始<br />
+地点：新车间2楼（长乐路1035号，乌鲁木齐路口）<br />
+费用：本周三晚之前预约的，可享受人民币300元每人的优惠价格；周四及之后，为每人375元。(线上预约，工作坊当日以现金支付；活动预约页面：http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=206)<br />
+费用包括：种培育苗盒、窗台水培系统所需材料、水培营养液 (可持续6-8个月植物所需)。<br />
+本次工作坊向新车间会员及公众开放。如有任何疑问，欢迎在微博，微信中留言，或邮件联系：info@xinchejian.com</p>
+<p>Subject: Seed Starting, Cloning and Windowsill System Construction<br />
+Description: Ever wanted to know what hydroponic gardening is and how it is different from regular gardening? Ever wanted to know how to start a plant from seed? Ever wanted to build your own urban gardening system? If you answered yes to any of these questions, then you should sign up for the Hydroponics 101 workshop on Sunday, December 29th 2013!</p>
+<p>In this workshop you will learn the basics of hydroponics and what makes it substantially different from soil gardening. You will learn about the various hydroponic system types found in the world today and learn about how you can grow your own plants in a variety of urban environments, regardless of access to sunlight or soil. The second part of this workshop will be learning how to start plants from seeds and how to create clones of plants from existing mature plants. Finally, you will learn how to construct a basic deep water culture (DWC) system that you can place next to a windowsill to grow your own lettuce, herbs and cherry tomato plants.</p>
+<p>At the end of this workshop, you will have both the knowledge, the equipment and the supplies to start and maintain your very own urban garden, using a system that takes up about as much space as a desktop computer case. The first 6 people that sign up will receive a bonus: live plants and seedlings to take home in your system, so that they can start growing with their system right away! (xinchejian event registration: http:&#47;&#47;xinchejian.com&#47;event2&#47;upcoming-workshop&#47;?ee=206)</p>
+<p>Date: Sunday, December 29<br />
+Time: 14:00 ~ @ 2F, XinCheJian (No. 1035 ChangLe Road, cross WuLuMuQi Road)<br />
+Fee: RMB 300 (register by Wednesday) and RMB 375 (after Wednesday), including: seed starting equipment, parts for windowsill system and enough nutrients to refill the system for 6-8 months.</p>
+<p>The workshop is welcome both XCJ members and non-members. Feel free to contact us via weibo, wechat or email: info@xinchejian.com</p>
+<p>Date: 2013&#47;12&#47;29</p>

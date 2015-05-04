@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 新车间在上海科普开放日
+author:
+  display_name: David Li
+  login: david
+  email: david@xinchejian.com
+  url: ''
+author_login: david
+author_email: david@xinchejian.com
+wordpress_id: 1547
+wordpress_url: http://xinchejian.com/?p=1547
+date: '2011-09-26 18:51:00 +0800'
+date_gmt: '2011-09-26 10:51:00 +0800'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>感谢上海科技报的邀请，9／17日新车间参加了在复兴公园的上海科普日活动。<&#47;p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0" width="440" height="328" &#47;><&#47;p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0" width="440" height="328" &#47;><&#47;p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0" width="440" height="589" &#47;><&#47;p></p>

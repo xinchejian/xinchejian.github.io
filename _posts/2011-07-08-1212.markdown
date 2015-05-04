@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Roboracing | 机器车竞赛
+author:
+  display_name: Min Lin Hsieh
+  login: mlhsieh
+  email: mlhsie@gmail.com
+  url: ''
+author_login: mlhsieh
+author_email: mlhsie@gmail.com
+wordpress_id: 1212
+wordpress_url: http://xinchejian.com/2011/07/08/1212/
+date: '2011-07-08 12:57:38 +0800'
+date_gmt: '2011-07-08 04:57:38 +0800'
+categories: []
+tags: []
+comments: []
+---
+

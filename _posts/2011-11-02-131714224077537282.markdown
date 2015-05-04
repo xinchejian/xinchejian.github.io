@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Robot and Makerbot repairing http:&#47;&#47;t...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6806
+wordpress_url: http://twitter-131714224077537282
+date: '2011-11-02 20:48:13 +0800'
+date_gmt: '2011-11-02 12:48:13 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Robot and Makerbot repairing http:&#47;&#47;t.co&#47;gRUIro8E</p>

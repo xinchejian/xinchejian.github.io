@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Rudy Bike @ XinCheJian http:&#47;&#47;xinchej...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6753
+wordpress_url: http://twitter-81926029089837056
+date: '2011-06-18 11:27:42 +0800'
+date_gmt: '2011-06-18 03:27:42 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Rudy Bike @ XinCheJian http:&#47;&#47;xinchejian.com&#47;2011&#47;06&#47;18&#47;rudy-bike-xinchejian&#47;</p>

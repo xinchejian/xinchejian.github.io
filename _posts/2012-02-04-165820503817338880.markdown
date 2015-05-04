@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Squishy circuit<!-...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6866
+wordpress_url: http://twitter-165820503817338880
+date: '2012-02-04 23:34:23 +0800'
+date_gmt: '2012-02-04 15:34:23 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Squishy circuit<!--:--><!--:zh-->面团也疯狂<!--:--> http:&#47;&#47;t.co&#47;ul5CbhTm</p>

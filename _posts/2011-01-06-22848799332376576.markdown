@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: 山寨与创新---从刚果河的鱼&韶山的灶房&创新的梦工厂谈起 http:&#47;&#47;...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6711
+wordpress_url: http://twitter-22848799332376576
+date: '2011-01-06 10:55:52 +0800'
+date_gmt: '2011-01-06 02:55:52 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: 山寨与创新---从刚果河的鱼&韶山的灶房&创新的梦工厂谈起 http:&#47;&#47;xinchejian.com&#47;?p=320</p>

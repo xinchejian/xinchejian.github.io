@@ -1,0 +1,90 @@
+---
+layout: post
+status: publish
+published: true
+title: Introduction to PCB Design - PCB电路板设计入门 June 8th
+author:
+  display_name: Amanda.Maxy
+  login: Amanda.Maxy
+  email: amanda0310@me.com
+  url: ''
+author_login: Amanda.Maxy
+author_email: amanda0310@me.com
+wordpress_id: 6421
+wordpress_url: http://xinchejian.com/?p=6421
+date: '2014-06-01 15:44:02 +0800'
+date_gmt: '2014-06-01 07:44:02 +0800'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 26025
+  author: Richard Brown
+  author_email: facebook.564797661@example.com
+  author_url: https://facebook.com/profile.php?id=564797661
+  date: '2014-06-01 17:55:22 +0800'
+  date_gmt: '2014-06-01 09:55:22 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=564797661" target="_blank">Richard
+    Brown<&#47;a> liked this on Facebook.
+- id: 26026
+  author: William Lue
+  author_email: facebook.1051771888@example.com
+  author_url: https://facebook.com/profile.php?id=1051771888
+  date: '2014-06-01 18:53:48 +0800'
+  date_gmt: '2014-06-01 10:53:48 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=1051771888" target="_blank">William
+    Lue<&#47;a> liked this on Facebook.
+- id: 26031
+  author: Kada Liao
+  author_email: facebook.100002322129447@example.com
+  author_url: https://facebook.com/profile.php?id=100002322129447
+  date: '2014-06-01 23:24:49 +0800'
+  date_gmt: '2014-06-01 15:24:49 +0800'
+  content: 如果能出电子档或者视频教程，造福不在上海的爱好者，就更好了。
+- id: 26032
+  author: Kada Liao
+  author_email: facebook.100002322129447@example.com
+  author_url: https://facebook.com/profile.php?id=100002322129447
+  date: '2014-06-02 02:36:26 +0800'
+  date_gmt: '2014-06-01 18:36:26 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002322129447"
+    target="_blank">Kada Liao<&#47;a> liked this on Facebook.
+- id: 26033
+  author: Ted Hung
+  author_email: facebook.707880286@example.com
+  author_url: https://facebook.com/profile.php?id=707880286
+  date: '2014-06-02 02:36:28 +0800'
+  date_gmt: '2014-06-01 18:36:28 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=707880286" target="_blank">Ted
+    Hung<&#47;a> liked this on Facebook.
+- id: 26059
+  author: Jerry Liang
+  author_email: facebook.100002313386916@example.com
+  author_url: https://facebook.com/profile.php?id=100002313386916
+  date: '2014-06-02 22:55:15 +0800'
+  date_gmt: '2014-06-02 14:55:15 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=100002313386916"
+    target="_blank">Jerry Liang<&#47;a> liked this on Facebook.
+---
+<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;pcb.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;06&#47;pcb-290x225.jpg" alt="pcb" width="290" height="225" class="aligncenter size-thumbnail wp-image-6422" &#47;><&#47;a><br />
+=Introduction to PCB Design=<br />
+PCB电路板设计入门</p>
+<p>June 8th 1pm - 4pm 6月8号下午1:00 - 4:00<br />
+Online payment: 300RMB; Pay at door: 350RMB 网上支付300元；现场支付350元；<br />
+***Members enjoy 100RMB reduction!!! 新车间会员减免100块！！！*** </p>
+<p>Learn the basics of designing your own PCB, you can use free tools such as EagleCAD (freemium) or kicad (opensource). For this we'll use EagleCAD first learn how to layout the schemetrics and then move into the layout tool and layout your very first PCB.<br />
+学习电路板基础知识，可以使用一些免费软件，如EagleCAD 或者 kicad。这次我们会使用EagleCAD 软件学习电路布局，布局工具，然后开始设计你的第一块电路板。</p>
+<p>We will design and Layout our very own Micro controller called "Annoying ATTron" using the ATTiny85 which is compatible with Arduino Core with a few addons but just 6 pins to play with and no external crystal needed. we'll also use autoroute for the routing quickly, and you dont like it, no problem, on your own time after the workshop you'll be able to handroute.<br />
+我们将使用 ATTiny85设计与布局你的第一块&ldquo;烦人的ATTron&rdquo;单片机。这块单片机与Arduino核心兼容，添加了其他功能，但是只有6个引脚，而且无外部晶振。我们会使用自动切换器进行快速切换。如果想要学习手动切换，可以在工作坊后向主讲人学习。</p>
+<p>We'll use 0805 SMD components as much as possible because drilling holes just suck!<br />
+我们将尽可能多地使用0805 SMD元件，尽可能少打孔。</p>
+<p>=What you must prepare= 请务必</p>
+<p>1. Download EagleCAD and activate the freemium version: www.cadsoft.de&#47;freeware.htm<br />
+下载好EagleCAD 软件并激活免费版。www.cadsoft.de&#47;freeware.htm<br />
+2. bring your computer, yourself to the workshop<br />
+携带安装好软件的电脑。</p>
+<p>=The Workshop= 工作坊<br />
+The workshop will be a guided tutorial for 3 hours, it's ideal for both kids and adults without programming or electrical knowledge. The workshop will be in English only given by Paul.<br />
+本次工作坊共计3个小时，适合成人及10岁以上孩子参加并学习编程和电子知识。<br />
+工作坊语言为英语，主讲人为Paul Adams.</p>
+<p><a style="background-color: rgb(51, 153, 102); color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 6px 30px; text-decoration: none; background-position: initial initial; background-repeat: initial initial;" href="http:&#47;&#47;www.vasee.com&#47;event&#47;view.jsp?inid=ff80808145f542f00146565697de2d70" target="_blank" id="ied_button_show" alt="报名参加PCB电路板设计入门" title="报名参加">Register 报名参加<&#47;a></p>

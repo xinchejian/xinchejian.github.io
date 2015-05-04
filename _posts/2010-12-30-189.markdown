@@ -1,0 +1,106 @@
+---
+layout: post
+status: publish
+published: true
+title: 四轴飞行器进展
+author:
+  display_name: heqichen
+  login: heqichen
+  email: heqichen@yahoo.com.cn
+  url: ''
+author_login: heqichen
+author_email: heqichen@yahoo.com.cn
+wordpress_id: 189
+wordpress_url: http://xinchejian.com/?p=189
+date: '2010-12-30 01:22:24 +0800'
+date_gmt: '2010-12-29 17:22:24 +0800'
+categories:
+- quadcopter
+- arduino
+tags: []
+comments:
+- id: 111
+  author: Building Quadcopter | 新车间 [Xinchejian]
+  author_email: ''
+  author_url: http://xinchejian.com/2011/03/22/building-quadcopter/
+  date: '2011-03-22 11:18:38 +0800'
+  date_gmt: '2011-03-22 03:18:38 +0800'
+  content: '[...] the motors and propellers are easy. We can always count on Taobao
+    for that. It took a while to get Arduino working with the motors [...]'
+- id: 188
+  author: vincent
+  author_email: google2048@aol.com
+  author_url: ''
+  date: '2011-04-22 23:53:09 +0800'
+  date_gmt: '2011-04-22 15:53:09 +0800'
+  content: "我在網上找舵機PWM轉電調PWM資料的時候發現這裡的.... \r\n我希望用UART 接 那些舵機控制器, 來控制大電流電機.... \r\n就想到用電調,
+    但這兩個週期好像不同, 我沒這方面的實際經驗, 希望多多指教~ \r\nwww.facebook.com&#47;vincent2009"
+- id: 189
+  author: HE Qichen
+  author_email: heqichen@yahoo.com.cn
+  author_url: http://gaishi.vicp.net
+  date: '2011-04-23 09:29:33 +0800'
+  date_gmt: '2011-04-23 01:29:33 +0800'
+  content: 你准别用多机控制大电流电机是机械方式控制还是直接用pwm转成大电流控制?
+---
+<p>经过了几个星期的折腾，四轴飞行器电机控制方式终于有所突破，先上图 哈哈<br />
+<a rel="attachment wp-att-242" href="http:&#47;&#47;xinchejian.com&#47;?attachment_id=242"><img class="alignnone size-medium wp-image-242" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2010&#47;12&#47;图像123-300x240.jpg" alt="" width="300" height="240" &#47;><&#47;a><br />
+其实这个电路十分简单，就是两个按钮接入Arduino，然后Arduino输出PWM信号到电调，电调再输出电流到电机，从而就行成了按钮控制电机的一个装置。<br />
+不过，在完成这样一个小小的系统也经历了很多挫折。</p>
+<p>首先，舵机还是电调都是通过PWM波进行控制的，比如下面这张图当中<br />
+<a rel="attachment wp-att-243" href="http:&#47;&#47;xinchejian.com&#47;?attachment_id=243"><img class="alignnone size-medium wp-image-243" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2010&#47;12&#47;cff7d84389e3ab0f4cc7eb46a7cd085e-300x225.jpg" alt="" width="300" height="225" &#47;><&#47;a><br />
+这个就是一般航模用的遥控器，接收机接收到射频信号后，将信号解调成PWM输出到舵机或者是电调中。所以电调和舵机都能够接收PWM信号，且信号格式是统一的。</p>
+<p>但是，PWM信号到底是什么格式，频率多少，占空比多少，在网上查了查，却没有一个确切的数据。有个数据比就是futata的标准，pwm频率是50Hz, 脉冲宽度为920usec到2120usec，这样对应了舵机的0度到180度。<br />
+对于这个数值，我用51做了一个PWM的发生器，通过在电脑上输入角度（0到180度），然后产生一个特定的PWM波输出到舵机，就是下面这张图中的。<br />
+<a rel="attachment wp-att-244" href="http:&#47;&#47;xinchejian.com&#47;?attachment_id=244"><img class="alignnone size-medium wp-image-244" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2010&#47;12&#47;112-240x300.jpg" alt="" width="240" height="300" &#47;><&#47;a><br />
+可是结果发现，舵机行程明显不足180度，只能勉强算是90左右，看来920usec-2120usec并不是对于舵机确切的控制数据，或者说对于除futaba以外的舵机的控制格式。<br />
+经过调试，发现要使舵机达到0度到180度的行程，PWM波的脉冲宽度要在800usec到2800usec之间。同时也有个有趣的现象。如果给舵机的信号线一个脉冲信号，宽度在800usec到2800usec之间，然后持续低电位，舵机会保持在该脉冲所对应角度不变，也就是说，PWM的频率是可以低于50Hz的。</p>
+<p>回到Arduino上，Arduino自带Servo的库，可以编程实现从特定的角度输出特定的PWM波。就可以是用这样的PWM信号来控制电调，从而控制电机。这里有必须介绍一下电调的特点。我们是用的电调是比较廉价的新西达电调，但是它也带模式设定的功能，可以根据不同的场合来设定电调的工作模式。设定的过程就是，PWM信号为最高时，给电调上电。具体的设定过程可以在网上查到。经过实验发现Arduino输出角度为0的PWM信号根本不会对电调有任何影响，电调完全无视这个信号的存在-_-b。经过仔细思考后发现，会不会是因为电调是用的是futaba的PWM格式，而800usec或者Arduino最低的pwm信号对于电调来说过低，导致电调不能够辨认。</p>
+<p>以下就是能够控制电机速度的程序代码</p>
+<pre>#include <Servo.h></p>
+<p>Servo myservo;<br />
+int pos = 0;<br />
+int buttonState = 0;<br />
+int lastButtonState = 0;</p>
+<p>int currentAngle;<br />
+int MAX_ANGLE = 140;<br />
+int MIN_ANGLE = 100;<br />
+void setup()<br />
+{<br />
+ myservo.attach(9);<br />
+ pinMode(13, OUTPUT);<br />
+ pinMode(2, INPUT);<br />
+ pinMode(3, INPUT);<br />
+ currentAngle = 100;<br />
+}</p>
+<p>void loop()<br />
+{<br />
+ buttonState = digitalRead(2);<br />
+ if (buttonState == HIGH)<br />
+ {<br />
+ digitalWrite(13, HIGH);<br />
+ if (currentAngle < MAX_ANGLE)<br />
+ {<br />
+ currentAngle = currentAngle + 1;<br />
+ }<br />
+ }<br />
+ else<br />
+ {<br />
+ buttonState = digitalRead(3);<br />
+ if (buttonState == HIGH)<br />
+ {<br />
+ digitalWrite(13, HIGH);<br />
+ if (currentAngle > MIN_ANGLE)<br />
+ {<br />
+ currentAngle = currentAngle - 1;<br />
+ }<br />
+ }<br />
+ }<br />
+ if (buttonState == LOW)<br />
+ {<br />
+ digitalWrite(13, LOW);<br />
+ }<br />
+ myservo.write(currentAngle);<br />
+ delay(30);</p>
+<p>}<br />
+<&#47;pre></p>

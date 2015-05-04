@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: EmbeDream YM4 and Arduino Uno http:&#47;&#47;...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6728
+wordpress_url: http://twitter-44030506303631360
+date: '2011-03-05 21:44:25 +0800'
+date_gmt: '2011-03-05 13:44:25 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: EmbeDream YM4 and Arduino Uno http:&#47;&#47;xinchejian.com&#47;?p=511</p>

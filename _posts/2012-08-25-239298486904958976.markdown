@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Campus Party Berlin&l...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6940
+wordpress_url: http://twitter-239298486904958976
+date: '2012-08-25 17:49:39 +0800'
+date_gmt: '2012-08-25 09:49:39 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Campus Party Berlin<!--:--> http:&#47;&#47;t.co&#47;L0kbRtKM</p>

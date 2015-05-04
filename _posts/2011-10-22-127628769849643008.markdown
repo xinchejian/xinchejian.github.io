@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: 烙铁的部件 - The internals of a soldering...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6796
+wordpress_url: http://twitter-127628769849643008
+date: '2011-10-22 14:14:04 +0800'
+date_gmt: '2011-10-22 06:14:04 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: 烙铁的部件 - The internals of a soldering iron http:&#47;&#47;t.co&#47;gfsod5eD</p>

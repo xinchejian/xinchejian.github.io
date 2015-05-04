@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: Ultrasound fogger works! http:&#47;&#47;t.co&#47;...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6774
+wordpress_url: http://twitter-115725565083926528
+date: '2011-09-19 17:54:59 +0800'
+date_gmt: '2011-09-19 09:54:59 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: Ultrasound fogger works! http:&#47;&#47;t.co&#47;W42CaUI7</p>

@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: About Us | 有关我们
+author:
+  display_name: David Li
+  login: david
+  email: david@xinchejian.com
+  url: ''
+author_login: david
+author_email: david@xinchejian.com
+wordpress_id: 267
+wordpress_url: http://xinchejian.com/?p=267
+date: '2010-12-30 19:30:39 +0800'
+date_gmt: '2010-12-30 11:30:39 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>XinCheJian is a Xindanwei project that provides a community environment with open hardware setup for hardware tinkers, digital artists, designers, DIY hobbyists and everyone interested in figuring out how things work and are happy to get their hand dirty to build some fun stuffs with some like-minded people. XinCheJian will provide workspace for people to work on projects, organize workshop and courses on various subjects ranging from electronics, embedded system, and programming and host speakers and workshop session. Also, XinCheJian&nbsp;will act as fund raising and supporting platform for people interested in prototyping their ideas and launching new projects. 新车间项目向硬件高手，电子艺术家，设计师，DIY爱好者和所有喜欢自己动手捣鼓各种东西的人提供了一个开放式社区，实验空间和基础设备。在这里，大家不仅可以和兴趣相投的人一起拆拆装装各种电子和物理产品，而且还可以共同实施一些好的设计和想法。 新车间将工作空间提供给人们来实施自己项目，举办包括电子，嵌入式系统，编程和机器人等不同主题的研讨会和培训班。此外，&ldquo;新车间&rdquo;也将成为一个融资和管理平台，来支持人们实施自己的作品和项目。</p>

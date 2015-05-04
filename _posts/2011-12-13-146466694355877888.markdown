@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->"Cooking" a product:...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6849
+wordpress_url: http://twitter-146466694355877888
+date: '2011-12-13 13:49:15 +0800'
+date_gmt: '2011-12-13 05:49:15 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->"Cooking" a product: 3 hungry hackers needed!<!--:--><!--:zh-->&ldquo;烹饪&rdquo;一个产品: 招募3位饥肠辘辘的硬件高手！<!--:--> http:&#47;&#47;t.co&#47;AUxRbWq0</p>

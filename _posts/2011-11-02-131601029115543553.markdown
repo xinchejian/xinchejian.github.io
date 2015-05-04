@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Quadcopter project on...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6804
+wordpress_url: http://twitter-131601029115543553
+date: '2011-11-02 13:18:25 +0800'
+date_gmt: '2011-11-02 05:18:25 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Quadcopter project on DemoHour<!--:--><!--:zh-->四轴飞行器上了点名时间<!--:--> http:&#47;&#47;t.co&#47;yNwBOZ96</p>

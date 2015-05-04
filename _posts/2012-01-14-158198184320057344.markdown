@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Dorkbot: JUE + XinChe...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6859
+wordpress_url: http://twitter-158198184320057344
+date: '2012-01-14 22:46:00 +0800'
+date_gmt: '2012-01-14 14:46:00 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Dorkbot: JUE + XinCheJian = Art + Technology<!--:--><!--:zh-->《觉》与新车间之Dorkbot&mdash;艺术与技术的碰撞<!--:--> http:&#47;&#47;t.co&#47;rS3GuMDh</p>

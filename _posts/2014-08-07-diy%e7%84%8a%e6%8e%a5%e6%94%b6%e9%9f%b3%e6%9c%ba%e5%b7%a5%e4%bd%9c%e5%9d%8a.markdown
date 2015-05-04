@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: DIY焊接收音机工作坊
+author:
+  display_name: Amanda.Maxy
+  login: Amanda.Maxy
+  email: amanda0310@me.com
+  url: ''
+author_login: Amanda.Maxy
+author_email: amanda0310@me.com
+wordpress_id: 6595
+wordpress_url: http://xinchejian.com/?p=6595
+date: '2014-08-07 23:00:24 +0800'
+date_gmt: '2014-08-07 15:00:24 +0800'
+categories:
+- workshop
+tags: []
+comments:
+- id: 26701
+  author: Rex Tsai
+  author_email: facebook.650797914@example.com
+  author_url: https://facebook.com/profile.php?id=650797914
+  date: '2014-08-07 23:21:16 +0800'
+  date_gmt: '2014-08-07 15:21:16 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=650797914" target="_blank">Rex
+    Tsai<&#47;a> liked this on Facebook.
+- id: 26702
+  author: Jia-yuan Tsai
+  author_email: facebook.741304375@example.com
+  author_url: https://facebook.com/profile.php?id=741304375
+  date: '2014-08-07 23:21:27 +0800'
+  date_gmt: '2014-08-07 15:21:27 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=741304375" target="_blank">Jia-yuan
+    Tsai<&#47;a> liked this on Facebook.
+- id: 26703
+  author: Silvia Lindtner
+  author_email: facebook.6028935@example.com
+  author_url: https://facebook.com/profile.php?id=6028935
+  date: '2014-08-07 23:51:17 +0800'
+  date_gmt: '2014-08-07 15:51:17 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=6028935" target="_blank">Silvia
+    Lindtner<&#47;a> liked this on Facebook.
+- id: 26704
+  author: Min Chi
+  author_email: facebook.633713884@example.com
+  author_url: https://facebook.com/profile.php?id=633713884
+  date: '2014-08-08 00:39:19 +0800'
+  date_gmt: '2014-08-07 16:39:19 +0800'
+  content: <a href="https:&#47;&#47;facebook.com&#47;profile.php?id=633713884" target="_blank">Min
+    Chi<&#47;a> liked this on Facebook.
+---
+<p><a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;webwxgetmsgimg.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2014&#47;08&#47;webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6596" &#47;><&#47;a><br />
+报名链接：https:&#47;&#47;rexchen80.wufoo.com&#47;forms&#47;diyeec&#47;<br />
+活动费用:200元<br />
+活动日期:8月10日(星期日) 下午2点<br />
+活动地点:新车间</p>
+<p>还记得那年中学时晚上听着收音机写作业的那个夏天么?小时候我们都曾想过自己DIY一台收⾳音机,但是由于条件限制和信息不发达.很多人未能圆梦.如今网络非常发达.但一旦发生灾难,短波收音机还是最可靠的接收信息的通讯方式.周末在家看一下午美剧.不如来新车间学习一下如何DIY一台收音机.<br />
+不需要任何基础.不需要编程.<br />
+现场提供所有的电子元器件和工具.工作坊结束后每个人都可以带一台自己一个下午制作的收⾳音机回去.同时欢迎带小朋友来,适合6岁以上的小朋友.一个下午可以掌握一些DIY工具的基本使用.电子焊接技巧.增强动手能力.并且一台可以工作的收音机可以极大的提高孩子对科技的兴趣.(同时也是很好的亲子活动)</p>

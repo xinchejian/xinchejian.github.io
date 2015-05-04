@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Sound synthesizer OSC...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6886
+wordpress_url: http://twitter-181032384328769536
+date: '2012-03-17 23:00:58 +0800'
+date_gmt: '2012-03-17 15:00:58 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Sound synthesizer OSC6 workshop pictures<!--:--><!--:zh-->DIY声音合成器OSC6工作坊花絮<!--:--> http:&#47;&#47;t.co&#47;CldznZap</p>

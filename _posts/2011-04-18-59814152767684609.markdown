@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Insect Robot Workshop...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6739
+wordpress_url: http://twitter-59814152767684609
+date: '2011-04-18 11:02:59 +0800'
+date_gmt: '2011-04-18 03:02:59 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Insect Robot Workshop<!--:--><!--:zh-->虫虫机器人工作坊<!--:--> http:&#47;&#47;xinchejian.com&#47;2011&#47;04&#47;18&#47;insect-robot-workshop&#47;</p>

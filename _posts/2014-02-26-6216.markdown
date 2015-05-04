@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Amanda.Maxy
+  login: Amanda.Maxy
+  email: amanda0310@me.com
+  url: ''
+author_login: Amanda.Maxy
+author_email: amanda0310@me.com
+wordpress_id: 6216
+wordpress_url: http://xinchejian.com/?p=6216
+date: '2014-02-26 17:22:25 +0800'
+date_gmt: '2014-02-26 09:22:25 +0800'
+categories: []
+tags: []
+comments: []
+---
+

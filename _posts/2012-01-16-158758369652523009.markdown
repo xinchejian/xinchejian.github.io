@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->XinCheJian closes dur...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6861
+wordpress_url: http://twitter-158758369652523009
+date: '2012-01-16 11:51:59 +0800'
+date_gmt: '2012-01-16 03:51:59 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->XinCheJian closes during Chinese New Year<!--:--><!--:zh-->新车间春节期间关闭<!--:--> http:&#47;&#47;t.co&#47;wDL1e4nL</p>

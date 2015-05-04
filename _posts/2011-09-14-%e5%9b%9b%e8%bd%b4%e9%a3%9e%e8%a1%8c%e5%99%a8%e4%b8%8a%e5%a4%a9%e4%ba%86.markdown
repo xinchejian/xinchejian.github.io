@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 四轴飞行器上天了
+author:
+  display_name: heqichen
+  login: heqichen
+  email: heqichen@yahoo.com.cn
+  url: ''
+author_login: heqichen
+author_email: heqichen@yahoo.com.cn
+wordpress_id: 1419
+wordpress_url: http://xinchejian.com/?p=1419
+date: '2011-09-14 02:44:48 +0800'
+date_gmt: '2011-09-13 18:44:48 +0800'
+categories:
+- quadcopter
+tags: []
+comments: []
+---
+<p>细细想来，为了仍这个东西上天已经折腾了一年的时间了，试了无数的方案，也受到了无数人的帮助。终于是上天了，下面就是整机的照片。样子有点丑，各位hold住。<&#47;p><br />
+<a rel="attachment wp-att-1420" href="http:&#47;&#47;xinchejian.com&#47;2011&#47;09&#47;14&#47;%e5%9b%9b%e8%bd%b4%e9%a3%9e%e8%a1%8c%e5%99%a8%e4%b8%8a%e5%a4%a9%e4%ba%86&#47;dscf7109&#47;"><img class="alignnone size-medium wp-image-1420" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;DSCF7109-300x225.jpg" alt="" width="300" height="225" &#47;><&#47;a></p>
+<p>这个飞行器是以上天为目标，所以机架什么都是最低成本制作。用两块钱买来的PVC管子加上一个捡来的饮用水桶就成了四轴的机架。<&#47;p></p>
+<p>用了两块电池，kk飞控，四个新西达1000kv电机，四个新西达30A电调。下面是控制部分的特写。<&#47;p><br />
+<a rel="attachment wp-att-1421" href="http:&#47;&#47;xinchejian.com&#47;2011&#47;09&#47;14&#47;%e5%9b%9b%e8%bd%b4%e9%a3%9e%e8%a1%8c%e5%99%a8%e4%b8%8a%e5%a4%a9%e4%ba%86&#47;dscf7111&#47;"><img class="alignnone size-medium wp-image-1421" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;09&#47;DSCF7111-300x225.jpg" alt="" width="300" height="225" &#47;><&#47;a></p>
+<p>下面是第一次飞行视频。<&#47;p></p>
+<p class="video"><a href="http:&#47;&#47;v.youku.com&#47;v_show&#47;id_XMzA0NDI3MjYw.html">http:&#47;&#47;v.youku.com&#47;v_show&#47;id_XMzA0NDI3MjYw.html<&#47;a><br />
+<&#47;p></p>

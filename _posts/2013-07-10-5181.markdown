@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Makers | 创客
+author:
+  display_name: kevin
+  login: kevin
+  email: kevin@xinchejian.com
+  url: ''
+author_login: kevin
+author_email: kevin@xinchejian.com
+wordpress_id: 5181
+wordpress_url: http://xinchejian.com/?p=5181
+date: '2013-07-10 23:52:36 +0800'
+date_gmt: '2013-07-10 15:52:36 +0800'
+categories: []
+tags: []
+comments: []
+---
+

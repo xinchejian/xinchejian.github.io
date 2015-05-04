@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->wednesday meeting<...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6901
+wordpress_url: http://twitter-185221876702916608
+date: '2012-03-29 12:28:31 +0800'
+date_gmt: '2012-03-29 04:28:31 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->wednesday meeting<!--:--><!--:zh-->周三聚会汇总<!--:--> http:&#47;&#47;t.co&#47;FD8WfOnm</p>

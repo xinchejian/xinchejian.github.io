@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: <!--:en-->Spaghetti bridge test...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6850
+wordpress_url: http://twitter-148699834612846592
+date: '2011-12-19 17:42:57 +0800'
+date_gmt: '2011-12-19 09:42:57 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: <!--:en-->Spaghetti bridge test run<!--:--><!--:zh-->意面桥试赛<!--:--> http:&#47;&#47;t.co&#47;wsxnB4kO</p>

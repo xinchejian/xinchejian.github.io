@@ -1,0 +1,22 @@
+---
+layout: aktt_tweet
+status: publish
+published: true
+title: '#xinchejian: 木有用的盒子工作坊 Useless machine workshop ht...'
+author:
+  display_name: Lio李欧
+  login: lionello
+  email: lio@lunesu.com
+  url: http://lunesu.com/
+author_login: lionello
+author_email: lio@lunesu.com
+author_url: http://lunesu.com/
+wordpress_id: 6842
+wordpress_url: http://twitter-143289384366649344
+date: '2011-12-04 19:23:46 +0800'
+date_gmt: '2011-12-04 11:23:46 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>#xinchejian: 木有用的盒子工作坊 Useless machine workshop http:&#47;&#47;t.co&#47;xhy7tvTD</p>

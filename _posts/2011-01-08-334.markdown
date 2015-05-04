@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: rngadam
+  login: rngadam
+  email: rngadam@gmail.com
+  url: ''
+author_login: rngadam
+author_email: rngadam@gmail.com
+wordpress_id: 334
+wordpress_url: http://xinchejian.com/?p=334
+date: '2011-01-08 22:49:23 +0800'
+date_gmt: '2011-01-08 14:49:23 +0800'
+categories: []
+tags: []
+comments: []
+---
+
