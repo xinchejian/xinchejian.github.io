@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian and The Great Global Hackerspace Challenge!<!--:--><!--:zh-->新车间与全球黑客空间大赛!<!--:-->
+title: XinCheJian and The Great Global Hackerspace Challenge! | 新车间与全球黑客空间大赛!
 author:
   display_name: rngadam
   login: rngadam

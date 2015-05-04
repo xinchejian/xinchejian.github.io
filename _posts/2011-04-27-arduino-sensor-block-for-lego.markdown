@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Arduino Sensor Block for Lego<!--:--><!--:zh-->和乐高积木相容的Arduino传感器模块积木<!--:-->
+title: Arduino Sensor Block for Lego | 和乐高积木相容的Arduino传感器模块积木
 author:
   display_name: David Li
   login: david

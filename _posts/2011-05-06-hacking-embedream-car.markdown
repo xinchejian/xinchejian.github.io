@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Hacking Embedream Car<!--:--><!--:zh-->嵌入之梦-圆梦小车开发<!--:-->
+title: Hacking Embedream Car | 嵌入之梦-圆梦小车开发
 author:
   display_name: heqichen
   login: heqichen

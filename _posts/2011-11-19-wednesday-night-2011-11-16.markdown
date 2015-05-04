@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday night 2011-11-16<!--:--><!--:zh-->周三例会记录 2011-11-16<!--:-->
+title: Wednesday night 2011-11-16 | 周三例会记录 2011-11-16
 author:
   display_name: rockets
   login: rockets

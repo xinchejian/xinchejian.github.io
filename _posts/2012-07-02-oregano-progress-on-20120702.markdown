@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->oregano progress on 20120702<!--:--><!--:zh-->牛至生长日记 20120702<!--:-->
+title: oregano progress on 20120702 | 牛至生长日记 20120702
 author:
   display_name: Jia Qi
   login: gg24gg24

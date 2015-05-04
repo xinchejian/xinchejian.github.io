@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Simple analog line follower workshop<!--:--><!--:zh-->轻巧寻迹小车工作坊<!--:-->
+title: Simple analog line follower workshop | 轻巧寻迹小车工作坊
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

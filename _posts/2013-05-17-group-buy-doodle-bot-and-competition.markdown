@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Group Buy - Doodle bot and competition<!--:--><!--:en-->Group Buy
+title: Group Buy - Doodle bot and competition | Group Buy
   - Doodle bot and competition<!--:-->
 author:
   display_name: nihaopaul

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Make+1st stop<!--:--><!--:en-->Make+第一站<!--:-->
+title: Make+1st stop | Make+第一站
 author:
   display_name: Sophia Lin
   login: coccet

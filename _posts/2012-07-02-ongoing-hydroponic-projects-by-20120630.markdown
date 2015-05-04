@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->ongoing hydroponic projects by 20120630<!--:--><!--:zh-->新车间农耕队正在开展的项目20120630<!--:-->
+title: ongoing hydroponic projects by 20120630 | 新车间农耕队正在开展的项目20120630
 author:
   display_name: Jia Qi
   login: gg24gg24

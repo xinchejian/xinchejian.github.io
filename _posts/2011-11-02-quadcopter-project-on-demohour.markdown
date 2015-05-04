@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Quadcopter project on DemoHour<!--:--><!--:zh-->四轴飞行器上了点名时间<!--:-->
+title: Quadcopter project on DemoHour | 四轴飞行器上了点名时间
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

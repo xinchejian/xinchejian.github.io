@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Hacking an EBIKE and Making it a community bike<!--:--><!--:en-->Hacking
+title: Hacking an EBIKE and Making it a community bike | Hacking
   an EBIKE and Making it a community bike<!--:-->
 author:
   display_name: nihaopaul

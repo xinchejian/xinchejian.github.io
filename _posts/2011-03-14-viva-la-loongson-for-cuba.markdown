@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Viva la Loongson for Cuba<!--:--><!--:zh-->Viva la Loongson for Cuba<!--:-->
+title: Viva la Loongson for Cuba | Viva la Loongson for Cuba
 author:
   display_name: David Li
   login: david

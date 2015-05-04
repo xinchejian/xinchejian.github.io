@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->"Cooking" a product: 3 hungry hackers needed! (Chinese event)<!--:--><!--:zh-->&ldquo;烹饪&rdquo;一个产品:
+title: '"Cooking" a product: 3 hungry hackers needed! (Chinese event) | &ldquo;烹饪&rdquo;一个产品:
   招募3位饥肠辘辘的硬件高手！（中文活动）<!--:-->'
 author:
   display_name: rngadam

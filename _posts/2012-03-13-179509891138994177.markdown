@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->3D Printing Salon<...'
+title: '#xinchejian: 3D Printing Salon<...'
 author:
   display_name: Lio李欧
   login: lionello

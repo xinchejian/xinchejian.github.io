@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->RoboRacing - Final Races for Bragging rights<!--:--><!--:zh-->机器人大赛－－世界末日前最后的比赛！<!--:-->
+title: RoboRacing - Final Races for Bragging rights | 机器人大赛－－世界末日前最后的比赛！
 author:
   display_name: nihaopaul
   login: nihaopaul

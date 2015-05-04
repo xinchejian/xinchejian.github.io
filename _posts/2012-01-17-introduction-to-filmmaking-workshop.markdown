@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Introduction to Filmmaking | Workshop<!--:--><!--:zh-->电影制作入门 | 工作坊<!--:-->
+title: Introduction to Filmmaking | Workshop | 电影制作入门 | 工作坊
 author:
   display_name: yi
   login: yi

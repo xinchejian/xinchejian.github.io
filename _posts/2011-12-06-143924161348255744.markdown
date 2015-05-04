@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Dec. 8th: Embedded En...'
+title: '#xinchejian: Dec. 8th: Embedded En...'
 author:
   display_name: Lio李欧
   login: lionello

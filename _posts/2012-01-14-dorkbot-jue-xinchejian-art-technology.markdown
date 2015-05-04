@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Dorkbot: JUE + XinCheJian = Art + Technology<!--:--><!--:zh-->《觉》与新车间之Dorkbot&mdash;艺术与技术的碰撞<!--:-->'
+title: 'Dorkbot: JUE + XinCheJian = Art + Technology | 《觉》与新车间之Dorkbot&mdash;艺术与技术的碰撞'
 author:
   display_name: yi
   login: yi

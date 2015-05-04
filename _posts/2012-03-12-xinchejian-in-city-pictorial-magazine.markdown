@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian in City Pictorial magazine<!--:--><!--:zh-->城市画报有关新车间的报导<!--:-->
+title: XinCheJian in City Pictorial magazine | 城市画报有关新车间的报导
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

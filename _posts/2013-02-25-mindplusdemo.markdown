@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Mind+首次现场演示<!--:--><!--:en-->Mind+ Demo<!--:-->
+title: Mind+首次现场演示 | Mind+ Demo
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

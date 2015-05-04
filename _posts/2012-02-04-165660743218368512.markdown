@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Filmmaking workshop B...'
+title: '#xinchejian: Filmmaking workshop B...'
 author:
   display_name: Lio李欧
   login: lionello

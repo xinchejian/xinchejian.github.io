@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Intro to Arduino Workshop by Habib - April 17th<!--:-->
+title: Intro to Arduino Workshop by Habib - April 17th
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy

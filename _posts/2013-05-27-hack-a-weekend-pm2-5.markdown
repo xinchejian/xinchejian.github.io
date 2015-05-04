@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Hack-a-weekend PM2.5<!--:--><!--:en-->Hack-a-weekend PM2.5<!--:-->
+title: Hack-a-weekend PM2.5 | Hack-a-weekend PM2.5
 author:
   display_name: nihaopaul
   login: nihaopaul

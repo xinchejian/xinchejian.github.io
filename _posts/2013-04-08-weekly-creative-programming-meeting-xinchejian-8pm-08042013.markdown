@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Weekly Creative Programming Meeting @ XinCheJian &ndash; 8pm &ndash;
+title: Weekly Creative Programming Meeting @ XinCheJian &ndash; 8pm &ndash;
   08/04/2013<!--:--><!--:en-->Weekly Creative Programming Meeting @ XinCheJian
   &ndash; 8pm &ndash; 08/04/2013<!--:-->
 author:

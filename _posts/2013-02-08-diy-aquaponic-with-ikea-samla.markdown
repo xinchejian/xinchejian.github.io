@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->用宜家Samla做的鱼菜共生箱子<!--:--><!--:en-->DIY Aquaponic with Ikea Samla<!--:-->
+title: 用宜家Samla做的鱼菜共生箱子 | DIY Aquaponic with Ikea Samla
 author:
   display_name: David Li
   login: david

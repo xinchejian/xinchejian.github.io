@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ the OLD XinCheJian - 7-9pm<!--:--><!--:zh-->新车间发特急[2012]1号文件<!--:-->
+title: Wednesday Meetup - Free - @ the OLD XinCheJian - 7-9pm | 新车间发特急[2012]1号文件
 author:
   display_name: nihaopaul
   login: nihaopaul

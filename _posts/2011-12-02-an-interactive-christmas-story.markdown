@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->An interactive Christmas story<!--:--><!--:zh-->An interactive Christmas
+title: An interactive Christmas story | An interactive Christmas
   story<!--:-->
 author:
   display_name: nihaopaul

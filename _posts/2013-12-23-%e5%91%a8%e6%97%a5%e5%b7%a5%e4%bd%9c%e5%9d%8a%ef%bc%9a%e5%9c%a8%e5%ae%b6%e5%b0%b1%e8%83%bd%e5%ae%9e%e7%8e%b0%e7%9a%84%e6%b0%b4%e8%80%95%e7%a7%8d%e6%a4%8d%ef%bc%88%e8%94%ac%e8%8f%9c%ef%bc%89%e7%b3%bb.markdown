@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: 周日工作坊：在家就能实现的水耕种植（蔬菜）系统101 (中英文双语)Hydroponics 101 Weekend Workshop (Chinese
-  & English)
+  &amp; English)
 author:
   display_name: Aaron
   login: Aaron

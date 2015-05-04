@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian opening hours<!--:--><!--:zh-->新车间开门时间<!--:-->
+title: XinCheJian opening hours | 新车间开门时间
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

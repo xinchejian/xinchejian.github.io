@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->鱼菜共生【Aquaponics Workshop】1pm-3pm Dec1 in Xinchejian<!--:--><!--:en-->Aquaponics
+title: 鱼菜共生【Aquaponics Workshop】1pm-3pm Dec1 in Xinchejian | Aquaponics
   workshop<!--:-->
 author:
   display_name: zhezi

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Cooling for aeroponic<!--:--><!--:zh-->水植箱的冷却系统<!--:-->
+title: Cooling for aeroponic | 水植箱的冷却系统
 author:
   display_name: David Li
   login: david

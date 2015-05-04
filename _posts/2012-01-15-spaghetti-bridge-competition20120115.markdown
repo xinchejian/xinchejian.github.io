@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->First 3 winners of spaghetti bridge competition<!--:--><!--:zh-->意面桥比赛前三名<!--:-->
+title: First 3 winners of spaghetti bridge competition | 意面桥比赛前三名
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

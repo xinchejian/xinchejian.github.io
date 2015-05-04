@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->DIY Motors/Sensors Shield for Arduino<!--:--><!--:zh-->DIY Arduino兼容电机驱动/传感器扩展板<!--:-->
+title: DIY Motors/Sensors Shield for Arduino | DIY Arduino兼容电机驱动/传感器扩展板
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

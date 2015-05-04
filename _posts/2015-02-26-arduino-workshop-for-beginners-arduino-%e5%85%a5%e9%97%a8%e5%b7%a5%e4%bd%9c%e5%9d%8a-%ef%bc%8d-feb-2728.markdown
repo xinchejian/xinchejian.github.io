@@ -24,7 +24,7 @@ comments: []
 <a href="http://xinchejian.com/wp-content/uploads/2014/11/600_431999265.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/11/600_431999265-290x290.jpeg" alt="600_431999265" width="290" height="290" class="aligncenter size-thumbnail wp-image-7115" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/4271103685100" target="_blank" title="立即报名">报名参加 Register</a><br />
 <!--:en--><br />
-Time: Feb. 27 & 28 Friday&Saturday 10:00am - 12:00pm.<br />
+Time: Feb. 27 &amp; 28 Friday&Saturday 10:00am - 12:00pm.<br />
 Fee: RMB150 for XinCheJian members; RMB200 for non XinCheJian members.<br />
 The Arduino workshop is great for those looking to get started with micro-controller programming and need a kickstart in the right direction. This is one of the most Popular workshops at xinchejian, Designed to not overwhelm people but provide the right balance of theoretical and hands on experience. Please do not sign up if you are not going to show up as you&rsquo;ll be taking a seat from someone that wants to do it. This workshop will run in English.<br />
 You will need to have your own Arduino kit, we have kits in XinCheJian for sale at RMB 210.00 &ndash; order online from DFRobot or Buy from us and help support the space.</p>

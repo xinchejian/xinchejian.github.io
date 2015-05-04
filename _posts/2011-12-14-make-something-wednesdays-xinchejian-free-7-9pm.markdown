@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Make-something-Wednesdays @ XinCheJian - FREE - 7-9pm<!--:--><!--:zh-->Make-something-Wednesdays
+title: Make-something-Wednesdays @ XinCheJian - FREE - 7-9pm | Make-something-Wednesdays
   @ XinCheJian - FREE - 7-9pm<!--:-->
 author:
   display_name: nihaopaul

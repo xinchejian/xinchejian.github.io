@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Seedlings from first Mini Urban Farming workshop<!--:--><!--:zh-->第一个农耕迷你工作坊的菜苗<!--:-->
+title: Seedlings from first Mini Urban Farming workshop | 第一个农耕迷你工作坊的菜苗
 author:
   display_name: David Li
   login: david

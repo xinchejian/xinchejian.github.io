@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->BioPrinting, a new wave?  <!--:--><!--:en-->BioPrinting, a new wave?  <!--:-->
+title: BioPrinting, a new wave?   | BioPrinting, a new wave?
 author:
   display_name: Sophia Lin
   login: coccet

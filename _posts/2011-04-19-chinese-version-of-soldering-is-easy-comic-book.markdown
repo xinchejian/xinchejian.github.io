@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Chinese version of "Soldering is easy" comic book<!--:--><!--:zh-->"Soldering
+title: Chinese version of "Soldering is easy" comic book | "Soldering
   is easy" (&ldquo;焊接是容易的&rdquo;) 漫画书中文版<!--:-->
 author:
   display_name: Min Lin Hsieh

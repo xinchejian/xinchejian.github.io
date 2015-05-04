@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 26/12/2012<!--:--><!--:zh-->Wednesday
+title: Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 26/12/2012 | Wednesday
   Meetup - Free - @ XinCheJian - 7-9pm - 26/12/2012<!--:-->
 author:
   display_name: nihaopaul
@@ -36,15 +36,15 @@ comments:
 <p><!--:en--><br />
 <h1>Summary for Wednesday/本周三开放日综述 </h1></p>
 <ul>
-<li>IKEA lamps: by Mika & Edward </li>
-<li>Fast & furious robot car: Edward</li>
+<li>IKEA lamps: by Mika &amp; Edward </li>
+<li>Fast &amp; furious robot car: Edward</li>
 <li>Swarmbot update: Leo</li><br />
 <h1>Wednesday Presenters/本周演讲者介绍</h1></p>
 <p>This evening Mika and Edward will present dot dot dot the 64bit ikea lights, Edward will be show off his fastest robo racing car and Leo will show us swarm robots, he even has a an island variant - very cool!</p><!--:--><!--:zh--><br />
 <h1>Summary for Wednesday/本周三开放日综述 </h1></p>
 <ul>
-<li>IKEA lamps: by Mika & Edward </li>
-<li>Fast & furious robot car: Edward</li>
+<li>IKEA lamps: by Mika &amp; Edward </li>
+<li>Fast &amp; furious robot car: Edward</li>
 <li>Swarmbot update: Leo</li><br />
 <h1>Wednesday Presenters/本周演讲者介绍</h1></p>
 <p>This evening Mika and Edward will present dot dot dot the 64bit ikea lights, Edward will be show off his fastest robo racing car and Leo will show us swarm robots, he even has a an island variant - very cool!</p><!--:--></p>

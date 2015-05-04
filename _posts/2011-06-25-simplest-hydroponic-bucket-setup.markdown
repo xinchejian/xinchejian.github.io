@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Simplest hydroponic bucket setup<!--:--><!--:zh-->如何从家里附近能找到的材料做水耕桶<!--:-->
+title: Simplest hydroponic bucket setup | 如何从家里附近能找到的材料做水耕桶
 author:
   display_name: David Li
   login: david

@@ -92,11 +92,11 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
+    &amp;:visited {
         color: darken($brand-color, 15%);
     }
 
-    &:hover {
+    &amp;:hover {
         color: $text-color;
         text-decoration: underline;
     }
@@ -177,7 +177,7 @@ pre {
  */
 %clearfix {
 
-    &:after {
+    &amp;:after {
         content: "";
         display: table;
         clear: both;

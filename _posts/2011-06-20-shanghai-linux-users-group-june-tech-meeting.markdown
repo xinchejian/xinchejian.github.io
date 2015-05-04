@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Shanghai Linux Users Group June Tech Meeting<!--:--><!--:zh-->上海Linux爱好者六月技术聚会<!--:-->
+title: Shanghai Linux Users Group June Tech Meeting | 上海Linux爱好者六月技术聚会
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

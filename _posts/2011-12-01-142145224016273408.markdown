@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->The Mendel 3d printer...'
+title: '#xinchejian: The Mendel 3d printer...'
 author:
   display_name: Lio李欧
   login: lionello

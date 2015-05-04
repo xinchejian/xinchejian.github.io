@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->3D Printer and plastic<!--:--><!--:zh-->3D打印机和塑料<!--:-->
+title: 3D Printer and plastic | 3D打印机和塑料
 author:
   display_name: rngadam
   login: rngadam

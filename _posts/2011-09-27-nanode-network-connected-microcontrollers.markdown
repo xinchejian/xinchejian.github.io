@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Nanode: network connected microcontrollers<!--:--><!--:zh-->Nanode：带有网络接口的Arduino兼容的硬件<!--:-->'
+title: 'Nanode: network connected microcontrollers | Nanode：带有网络接口的Arduino兼容的硬件'
 author:
   display_name: rngadam
   login: rngadam

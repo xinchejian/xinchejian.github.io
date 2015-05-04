@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->DIY 光学泰勒明<!--:--><!--:en-->DIY optical theremin<!--:-->
+title: DIY 光学泰勒明 | DIY optical theremin
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Milkymist One video s...'
+title: '#xinchejian: Milkymist One video s...'
 author:
   display_name: Lio李欧
   login: lionello

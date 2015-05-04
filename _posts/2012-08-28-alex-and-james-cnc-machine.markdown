@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Alex and James' CNC Machine<!--:-->
+title: Alex and James' CNC Machine
 author:
   display_name: alexcg
   login: alexcg

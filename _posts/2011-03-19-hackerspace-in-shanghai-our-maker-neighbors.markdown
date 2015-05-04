@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Hackerspace in Shanghai: Our Maker Neighbors<!--:--><!--:zh-->黑客空间在上海：我们的邻居<!--:-->'
+title: 'Hackerspace in Shanghai: Our Maker Neighbors | 黑客空间在上海：我们的邻居'
 author:
   display_name: David Li
   login: david

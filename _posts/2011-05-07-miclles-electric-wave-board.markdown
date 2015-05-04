@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Miclle's Electric Wave Board<!--:--><!--:zh-->Miclle的电动滑板<!--:-->
+title: Miclle's Electric Wave Board | Miclle的电动滑板
 author:
   display_name: David Li
   login: david

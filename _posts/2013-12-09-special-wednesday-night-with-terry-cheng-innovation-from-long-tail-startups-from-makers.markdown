@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:zh-->联合iTalk特别周三开放夜：前富士康总裁程天纵先生谈 &ldquo;创新来自长尾 创业源于创客&rdquo;<!--:--><!--:en-->Joint
+title: '联合iTalk特别周三开放夜：前富士康总裁程天纵先生谈 &ldquo;创新来自长尾 创业源于创客&rdquo; | Joint
   Wednesday Night with iTalk: ex-CEO of Foxconn Terry Cheng on &ldquo;Innovation from
   Long Tail, Startups from Makers"<!--:-->'
 author:

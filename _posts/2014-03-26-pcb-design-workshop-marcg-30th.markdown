@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->PCB design workshop<!--:--><!--:en-->PCB design workshop - March
+title: PCB design workshop | PCB design workshop - March
   30th<!--:-->
 author:
   display_name: Amanda.Maxy

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Opening Speaker profiles: RoboPeak<!--:--><!--:zh-->开幕演讲者介绍：RoboPeak<!--:-->'
+title: 'Opening Speaker profiles: RoboPeak | 开幕演讲者介绍：RoboPeak'
 author:
   display_name: David Li
   login: david
@@ -33,7 +33,7 @@ comments: []
 <p>We are so glad that <a href="http://www.robopeak.com/" target="_blank">RoboPeak</a>, a robotic R&D team has agreed to be one of the speaking at our <a href="http://xinchejian.com/event/?regevent_action=register&event_id=2&name_of_event=XinCheJianGrandOpening" target="_blank">reopening event on March 26</a>. We ran into this team founded in 2009 on Sina Weibo and are very impressed by what they are doing. We look forward to seeing their presentation.</p></p>
 <p>Quoting from their web site:</p>
 <blockquote><p>
-RoboPeak is a research & development team in robotics platforms and applications, founded in 2009. Our team members are Software Engineers, Electronics Engineers and New Media Artists that all come from China.</p>
+RoboPeak is a research &amp; development team in robotics platforms and applications, founded in 2009. Our team members are Software Engineers, Electronics Engineers and New Media Artists that all come from China.</p>
 <p>RoboPeak develops both software and hardware, which include personal robotic platforms, Robot Operating System and related devices.</p>
 <p>Our vision is to enrich people&rsquo;s daily-life with the ever-changing development and innovation in robotic technologies.<br />
 </blockquote></p>

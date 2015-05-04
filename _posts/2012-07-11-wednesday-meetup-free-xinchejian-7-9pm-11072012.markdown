@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 11/07/2012<!--:--><!--:zh-->周三例行创客分享
+title: Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 11/07/2012 | 周三例行创客分享
   - 免费 - @新车间 - 7-9pm - 11/07/2012<!--:-->
 author:
   display_name: Jia Qi

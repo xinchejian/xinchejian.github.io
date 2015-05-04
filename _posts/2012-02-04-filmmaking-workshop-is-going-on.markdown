@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Filmmaking workshop is going on<!--:--><!--:zh-->电影制作入门工作坊正在进行<!--:-->
+title: Filmmaking workshop is going on | 电影制作入门工作坊正在进行
 author:
   display_name: rockets
   login: rockets

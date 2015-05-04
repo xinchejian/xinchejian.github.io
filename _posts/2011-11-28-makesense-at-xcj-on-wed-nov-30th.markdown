@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->MakeSense at XCJ on Wed Nov. 30th<!--:--><!--:zh-->十一月三十日：MakeSense在新车间<!--:-->
+title: MakeSense at XCJ on Wed Nov. 30th | 十一月三十日：MakeSense在新车间
 author:
   display_name: rngadam
   login: rngadam

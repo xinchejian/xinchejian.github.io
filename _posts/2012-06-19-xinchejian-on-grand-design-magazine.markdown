@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian on Grand Design magazine<!--:--><!--:zh-->创诣杂志2012第六期
+title: XinCheJian on Grand Design magazine | 创诣杂志2012第六期
   － 创客报导<!--:-->
 author:
   display_name: Min Lin Hsieh

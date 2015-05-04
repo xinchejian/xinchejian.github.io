@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Adding servo to RC car<!--:--><!--:zh-->遥控小车的改造<!--:-->
+title: Adding servo to RC car | 遥控小车的改造
 author:
   display_name: heqichen
   login: heqichen

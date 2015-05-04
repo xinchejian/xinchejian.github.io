@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->新车间明天（3月3日）不开门<!--...'
+title: '#xinchejian: 新车间明天（3月3日）不开门<!--...'
 author:
   display_name: Lio李欧
   login: lionello

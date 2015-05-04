@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Shyu Lee and XinCheJi...'
+title: '#xinchejian: Shyu Lee and XinCheJi...'
 author:
   display_name: Lio李欧
   login: lionello

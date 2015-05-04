@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Got new toys thanks to DFRobot<!--:--><!--:zh-->感谢DFRobot给新车间的新玩具<!--:-->
+title: Got new toys thanks to DFRobot | 感谢DFRobot给新车间的新玩具
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

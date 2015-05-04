@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Ultrasonic Fogger Aeroponics<!--:--><!--:zh-->超声波雾化器的气耕箱<!--:-->
+title: Ultrasonic Fogger Aeroponics | 超声波雾化器的气耕箱
 author:
   display_name: David Li
   login: david

@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Kits from Mitch Altma...'
+title: '#xinchejian: Kits from Mitch Altma...'
 author:
   display_name: Lio李欧
   login: lionello

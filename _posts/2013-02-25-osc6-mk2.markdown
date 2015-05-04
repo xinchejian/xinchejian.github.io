@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->発震陆二代<!--:--><!--:en-->osc6 mk2<!--:-->
+title: 発震陆二代 | osc6 mk2
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->record of wednesday<!--:--><!--:zh-->周三聚会记录<!--:-->
+title: record of wednesday | 周三聚会记录
 author:
   display_name: rockets
   login: rockets

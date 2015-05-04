@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Swarm Robots Workshop and competition entry<!--:--><!--:zh-->群体智能机器人工作坊花絮<!--:-->
+title: Swarm Robots Workshop and competition entry | 群体智能机器人工作坊花絮
 author:
   display_name: spanner888
   login: spanner888

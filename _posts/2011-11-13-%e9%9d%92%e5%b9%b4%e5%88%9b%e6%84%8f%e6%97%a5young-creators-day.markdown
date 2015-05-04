@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Shanghai's Young Creators Day at Century Park<!--:--><!--:zh-->上海青年创意日在世纪公园<!--:-->
+title: Shanghai's Young Creators Day at Century Park | 上海青年创意日在世纪公园
 author:
   display_name: rngadam
   login: rngadam

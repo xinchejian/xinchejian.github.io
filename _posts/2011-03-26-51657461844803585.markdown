@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Blessing from Xindanw...'
+title: '#xinchejian: Blessing from Xindanw...'
 author:
   display_name: Lio李欧
   login: lionello

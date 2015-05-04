@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Visit to Toyhouse at Ningbo Polytechnic<!--:--><!--:zh-->快乐的宁波职业技术学院之旅
+title: Visit to Toyhouse at Ningbo Polytechnic | 快乐的宁波职业技术学院之旅
   -- Toyhouse<!--:-->
 author:
   display_name: edward

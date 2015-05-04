@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Portraits of Makers: Edward Jiang<!--:--><!--:zh-->姜昊的创客肖像<!--:-->'
+title: 'Portraits of Makers: Edward Jiang | 姜昊的创客肖像'
 author:
   display_name: David Li
   login: david

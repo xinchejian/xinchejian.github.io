@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Use Gyro with Arduino<!--:--><!--:zh-->在Arduino上使用陀螺仪控制舵机<!--:-->
+title: Use Gyro with Arduino | 在Arduino上使用陀螺仪控制舵机
 author:
   display_name: heqichen
   login: heqichen

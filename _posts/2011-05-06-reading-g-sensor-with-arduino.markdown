@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Reading g-sensor with Arduino<!--:--><!--:zh-->Arduino读取g-sensor数据<!--:-->
+title: Reading g-sensor with Arduino | Arduino读取g-sensor数据
 author:
   display_name: heqichen
   login: heqichen

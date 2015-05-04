@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian Open House<!--:--><!--:zh-->新车间开放日<!--:-->
+title: XinCheJian Open House | 新车间开放日
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

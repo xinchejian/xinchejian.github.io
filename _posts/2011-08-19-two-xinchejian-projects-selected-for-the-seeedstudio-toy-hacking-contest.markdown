@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Two XinCheJian projects selected for the Seeedstudio Toy Hacking
+title: Two XinCheJian projects selected for the Seeedstudio Toy Hacking
   contest <!--:--> <!--:zh-->新车间有两个项目入围了Seeed Studio玩具改装大赛<!--:-->
 author:
   display_name: rngadam

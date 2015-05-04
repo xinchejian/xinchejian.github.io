@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->投影都市视频<!--:--><!--:en-->City project new video<!--:-->
+title: 投影都市视频 | City project new video
 author:
   display_name: Lutz
   login: lumi

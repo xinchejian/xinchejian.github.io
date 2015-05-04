@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->XCJ = 30 members (our goal: 70+ members every month) <!--:--><!--:zh-->XCJ
+title: 'XCJ = 30 members (our goal: 70+ members every month)  | XCJ
   = 30 名会员(我们的目标: 每月70+新增会员)  <!--:-->'
 author:
   display_name: rngadam

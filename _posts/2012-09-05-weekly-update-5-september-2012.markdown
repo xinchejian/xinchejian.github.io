@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Weekly Update 5 september 2012<!--:--><!--:zh-->9月5日周三开放日更新 <!--:-->
+title: Weekly Update 5 september 2012 | 9月5日周三开放日更新
 author:
   display_name: nihaopaul
   login: nihaopaul

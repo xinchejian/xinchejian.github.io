@@ -38,5 +38,5 @@ Rhino，中文名称犀牛，是一款超强的三维建模工具，大小才几
 <!--:en--><br />
 Special Treat for Christmas!<br />
 Jan. 3rd Saturday, 14:00 onwards, Introduction workshop to Rhino 3D modeling software. FREE to XinCheJian members!<br />
-Rhinoceros (abbreviated Rhino) is a commercial 3D computer graphics and computer-aided design (CAD) application software developed by Robert McNeel & Associates, a privately held, employee-owned company that was founded in 1980 in the United States. Rhinoceros is based on NURBS mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics as opposed to polygon mesh-based applications).<br />
+Rhinoceros (abbreviated Rhino) is a commercial 3D computer graphics and computer-aided design (CAD) application software developed by Robert McNeel &amp; Associates, a privately held, employee-owned company that was founded in 1980 in the United States. Rhinoceros is based on NURBS mathematical model, which focuses on producing mathematically precise representation of curves and freeform surfaces in computer graphics as opposed to polygon mesh-based applications).<br />
 <!--:--></p>

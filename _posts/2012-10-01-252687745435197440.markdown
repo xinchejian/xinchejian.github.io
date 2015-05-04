@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Barcamp Shanghai Fall...'
+title: '#xinchejian: Barcamp Shanghai Fall...'
 author:
   display_name: Lio李欧
   login: lionello

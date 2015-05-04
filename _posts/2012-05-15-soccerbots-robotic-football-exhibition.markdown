@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Soccerbots: Robotic Football Exhibition<!--:--><!--:zh-->足球机器人展<!--:-->'
+title: 'Soccerbots: Robotic Football Exhibition | 足球机器人展'
 author:
   display_name: rngadam
   login: rngadam

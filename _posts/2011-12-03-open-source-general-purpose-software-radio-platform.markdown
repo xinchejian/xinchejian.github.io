@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Open Source General Purpose Software Radio Platform<!--:-->
+title: Open Source General Purpose Software Radio Platform
 author:
   display_name: rngadam
   login: rngadam

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Dec. 8th: Embedded Engineers Meetup<!--:--><!--:zh-->12月8日: 嵌入式工程师上海线下聚会<!--:-->'
+title: 'Dec. 8th: Embedded Engineers Meetup | 12月8日: 嵌入式工程师上海线下聚会'
 author:
   display_name: rngadam
   login: rngadam

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->August 3rd Weekly Wednesday Meetup!<!--:--><!--:zh-->上周三晚上7点在新车间<!--:-->
+title: August 3rd Weekly Wednesday Meetup! | 上周三晚上7点在新车间
 author:
   display_name: rngadam
   login: rngadam

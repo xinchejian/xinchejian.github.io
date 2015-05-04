@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->This weekend November 26th, 27th<!--:--><!--:zh-->这个周末 （十一月二十六日，二十七日）<!--:-->
+title: This weekend November 26th, 27th | 这个周末 （十一月二十六日，二十七日）
 author:
   display_name: rngadam
   login: rngadam

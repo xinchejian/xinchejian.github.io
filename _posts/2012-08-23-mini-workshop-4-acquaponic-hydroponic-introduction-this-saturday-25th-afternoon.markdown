@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Mini Workshop #4 - Acquaponic & Hydroponic introduction this Saturday
+title: 'Mini Workshop #4 - Acquaponic & Hydroponic introduction this Saturday
   (25th) from 2pm<!--:--><!--:zh-->迷你工作坊第4弹- 本周六下午2点，介绍鱼菜共生和家庭简易水培<!--:-->'
 author:
   display_name: Jia Qi

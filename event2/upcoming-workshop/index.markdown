@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:zh-->Upcoming | 预告<!--:--><!--:en-->Upcoming | 预告<!--:-->
+title: Upcoming | 预告 | Upcoming | 预告
 author:
   display_name: Sophia Lin
   login: coccet

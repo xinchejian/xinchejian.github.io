@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian is closed tomorrow (March 3rd)<!--:--><!--:zh-->新车间明天（3月3日）不开门<!--:-->
+title: XinCheJian is closed tomorrow (March 3rd) | 新车间明天（3月3日）不开门
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Visualize World Bank Data with Kinect<!--:--><!--:zh-->使用Kinect来实现世界银行资料的可视化<!--:-->
+title: Visualize World Bank Data with Kinect | 使用Kinect来实现世界银行资料的可视化
 author:
   display_name: David Li
   login: david

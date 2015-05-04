@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Summary of 3D Printer（movie)<!--:--><!--:zh-->周三聚会（3D打印专场）总结(视频）<!--:-->
+title: Summary of 3D Printer（movie) | 周三聚会（3D打印专场）总结(视频）
 author:
   display_name: rockets
   login: rockets

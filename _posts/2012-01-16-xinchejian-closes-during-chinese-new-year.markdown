@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian closes during Chinese New Year<!--:--><!--:zh-->新车间春节期间关闭<!--:-->
+title: XinCheJian closes during Chinese New Year | 新车间春节期间关闭
 author:
   display_name: yi
   login: yi

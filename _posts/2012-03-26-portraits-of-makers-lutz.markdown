@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Portraits of Makers: Lutz<!--:--><!--:zh-->Lutz的创客肖像<!--:-->'
+title: 'Portraits of Makers: Lutz | Lutz的创客肖像'
 author:
   display_name: freda
   login: freda

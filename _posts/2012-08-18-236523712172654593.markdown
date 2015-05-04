@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Xinchejian Survey, Ne...'
+title: '#xinchejian: Xinchejian Survey, Ne...'
 author:
   display_name: Lio李欧
   login: lionello

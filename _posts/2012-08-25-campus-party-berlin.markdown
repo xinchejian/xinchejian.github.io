@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Campus Party Berlin<!--:-->
+title: Campus Party Berlin
 author:
   display_name: Lutz
   login: lumi

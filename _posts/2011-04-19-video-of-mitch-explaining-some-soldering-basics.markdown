@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Video of Mitch Altman (Soldering Wisdom) explaining some basic soldering
+title: Video of Mitch Altman (Soldering Wisdom) explaining some basic soldering
   techniques<!--:--><!--:zh-->Mitch Altman (焊接智者) 在新车间教导大家焊接技术的视屏<!--:-->
 author:
   display_name: Min Lin Hsieh

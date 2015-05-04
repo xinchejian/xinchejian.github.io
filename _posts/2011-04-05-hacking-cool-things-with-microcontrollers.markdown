@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Hacking Cool Things with Microcontrollers!<!--:--><!--:zh-->如何用微控制器做出很酷的项目!<!--:-->
+title: Hacking Cool Things with Microcontrollers! | 如何用微控制器做出很酷的项目!
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

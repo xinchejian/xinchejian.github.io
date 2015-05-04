@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Ricky reports on Maker Carnival talks<!--:--><!--:zh-->Ricky在创客嘉年华分享会的报导<!--:-->
+title: Ricky reports on Maker Carnival talks | Ricky在创客嘉年华分享会的报导
 author:
   display_name: rngadam
   login: rngadam

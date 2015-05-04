@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Kits from Mitch Altman<!--:--><!--:zh-->米奇奥特曼好玩的套件<!--:-->
+title: Kits from Mitch Altman | 米奇奥特曼好玩的套件
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

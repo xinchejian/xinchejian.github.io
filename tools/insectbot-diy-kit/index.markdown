@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->InsectBot DIY Kit<!--:--><!--:zh-->DIY 虫虫机器人套件<!--:-->
+title: InsectBot DIY Kit | DIY 虫虫机器人套件
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

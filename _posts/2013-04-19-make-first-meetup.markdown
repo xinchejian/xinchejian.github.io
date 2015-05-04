@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->智造家首次见面会<!--:--><!--:en-->Make+ First Meetup<!--:-->
+title: 智造家首次见面会 | Make+ First Meetup
 author:
   display_name: Sophia Lin
   login: coccet

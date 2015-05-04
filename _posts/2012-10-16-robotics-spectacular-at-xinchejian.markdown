@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Robotics Spectacular at XinCheJian!<!--:--><!--:zh-->新车间精彩绝伦机器人!<!--:-->
+title: Robotics Spectacular at XinCheJian! | 新车间精彩绝伦机器人!
 author:
   display_name: rngadam
   login: rngadam

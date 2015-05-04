@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Insectbot workshop yesterday<!--:--><!--:zh-->昨天好多人来做虫虫机器人<!--:-->
+title: Insectbot workshop yesterday | 昨天好多人来做虫虫机器人
 author:
   display_name: rngadam
   login: rngadam

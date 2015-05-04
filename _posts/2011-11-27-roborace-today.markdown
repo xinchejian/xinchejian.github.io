@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Roborace today<!--:--><!--:zh-->今天的机器人比赛<!--:-->
+title: Roborace today | 今天的机器人比赛
 author:
   display_name: rockets
   login: rockets

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian on Usable Devices<!--:-->
+title: XinCheJian on Usable Devices
 author:
   display_name: rngadam
   login: rngadam

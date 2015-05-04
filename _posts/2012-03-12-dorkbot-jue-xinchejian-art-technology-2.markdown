@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Dorkbot: JUE + XinCheJian = Art + Technology<!--:--><!--:zh-->Dorkbot:《觉》+  新车间
+title: 'Dorkbot: JUE + XinCheJian = Art + Technology | Dorkbot:《觉》+  新车间
   = 艺术 + 技术<!--:-->'
 author:
   display_name: Min Lin Hsieh

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Roboracing Competition - 2011/07/10<!--:--><!--:zh-->机器车竞赛
+title: Roboracing Competition - 2011/07/10 | 机器车竞赛
   - 2011/07/10<!--:-->
 author:
   display_name: Min Lin Hsieh

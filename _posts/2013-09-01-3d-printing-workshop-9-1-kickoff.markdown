@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->3D打印工作营 - 9月1日启动<!--:--><!--:en-->3D Printing Workshop - 9.1.kickoff<!--:-->
+title: 3D打印工作营 - 9月1日启动 | 3D Printing Workshop - 9.1.kickoff
 author:
   display_name: Sophia Lin
   login: coccet

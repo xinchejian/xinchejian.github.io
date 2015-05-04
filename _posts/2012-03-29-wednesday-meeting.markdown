@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->wednesday meeting<!--:--><!--:zh-->周三聚会汇总<!--:-->
+title: wednesday meeting | 周三聚会汇总
 author:
   display_name: rockets
   login: rockets

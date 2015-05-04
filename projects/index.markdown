@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->Projects | 项目<!--:--><!--:zh-->Projects | 项目<!--:-->
+title: Projects | 项目 | Projects | 项目
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->3D printing in time lapse<!--:-->
+title: 3D printing in time lapse
 author:
   display_name: Lutz
   login: lumi

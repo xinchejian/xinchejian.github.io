@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Skyfarms - Grow your own vegetables in Shanghai<!--:--><!--:zh-->Skyfarms
+title: Skyfarms - Grow your own vegetables in Shanghai | Skyfarms
   - Grow your own vegetables in Shanghai<!--:-->
 author:
   display_name: nihaopaul

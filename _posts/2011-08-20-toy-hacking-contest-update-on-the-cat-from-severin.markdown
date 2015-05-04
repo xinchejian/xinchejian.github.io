@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Toy Hacking Contest: Update on the cat from Severin!<!--:--><!--:zh-->玩具改装大赛：Severin招财猫改装的更新！<!--:-->'
+title: 'Toy Hacking Contest: Update on the cat from Severin! | 玩具改装大赛：Severin招财猫改装的更新！'
 author:
   display_name: rngadam
   login: rngadam

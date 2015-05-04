@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian and Xilinx<!--:--><!--:zh-->XinCheJian and Xilinx<!--:-->
+title: XinCheJian and Xilinx | XinCheJian and Xilinx
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

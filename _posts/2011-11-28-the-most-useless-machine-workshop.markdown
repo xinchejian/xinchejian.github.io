@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->The Most Useless Machine Workshop<!--:--><!--:zh-->木有用之破盒子工作坊<!--:-->
+title: The Most Useless Machine Workshop | 木有用之破盒子工作坊
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: boxes
 status: publish
 published: true
-title: Drag&amp;Drop Design
+title: Drag&Drop Design
 author:
   display_name: David Li
   login: david

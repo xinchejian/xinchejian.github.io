@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Insect Robot Workshop<!--:--><!--:zh-->虫虫机器人工作坊<!--:-->
+title: Insect Robot Workshop | 虫虫机器人工作坊
 author:
   display_name: David Li
   login: david

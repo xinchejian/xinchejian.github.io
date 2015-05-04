@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Introduction to Filmmaking - Showtime<!--:--><!--:zh-->电影制作入门 － 放映自己的作品<!--:-->
+title: Introduction to Filmmaking - Showtime | 电影制作入门 － 放映自己的作品
 author:
   display_name: yi
   login: yi

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Quadcopter Team<!--:--><!--:zh-->搞飞机(4旋翼)小组<!--:-->
+title: Quadcopter Team | 搞飞机(4旋翼)小组
 author:
   display_name: David Li
   login: david

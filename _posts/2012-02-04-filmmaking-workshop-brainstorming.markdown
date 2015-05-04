@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Filmmaking workshop Brainstorming<!--:--><!--:zh-->电影制作头脑风暴进行中<!--:-->
+title: Filmmaking workshop Brainstorming | 电影制作头脑风暴进行中
 author:
   display_name: rockets
   login: rockets

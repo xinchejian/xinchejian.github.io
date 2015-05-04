@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Arduino新手工作坊<!--:--><!--:en-->Arduino Workshop for beginners<!--:-->
+title: Arduino新手工作坊 | Arduino Workshop for beginners
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy

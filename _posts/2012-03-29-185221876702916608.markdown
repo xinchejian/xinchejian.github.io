@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->wednesday meeting<...'
+title: '#xinchejian: wednesday meeting<...'
 author:
   display_name: Lio李欧
   login: lionello

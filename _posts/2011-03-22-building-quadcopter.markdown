@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Building Quadcopter<!--:--><!--:zh-->"山寨&ldquo;四旋翼<!--:-->
+title: Building Quadcopter | "山寨&ldquo;四旋翼
 author:
   display_name: David Li
   login: david

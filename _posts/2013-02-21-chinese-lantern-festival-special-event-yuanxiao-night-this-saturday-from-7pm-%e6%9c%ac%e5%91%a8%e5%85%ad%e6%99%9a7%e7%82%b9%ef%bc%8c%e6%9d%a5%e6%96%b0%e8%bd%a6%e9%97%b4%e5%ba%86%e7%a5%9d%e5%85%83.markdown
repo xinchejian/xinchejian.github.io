@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Chinese Lantern Festival Special Event: YuanXiao Night this Saturday
+title: 'Chinese Lantern Festival Special Event: YuanXiao Night this Saturday
   from 7pm.本周六晚7点，来新车间庆祝元宵吃汤团<!--:-->'
 author:
   display_name: Jia Qi

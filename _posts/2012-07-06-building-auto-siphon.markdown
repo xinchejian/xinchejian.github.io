@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Building Auto Siphon<!--:--><!--:zh-->虹吸管水自动水循环设备<!--:-->
+title: Building Auto Siphon | 虹吸管水自动水循环设备
 author:
   display_name: David Li
   login: david

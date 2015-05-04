@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Hairless crab Tron style<!--:--><!--:zh-->创战纪风格的机器人<!--:-->
+title: Hairless crab Tron style | 创战纪风格的机器人
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

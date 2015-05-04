@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Weekly Update<!--:-->
+title: Weekly Update
 author:
   display_name: Andrew
   login: drafski89

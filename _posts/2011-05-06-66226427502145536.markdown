@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Hacking Embedream Car...'
+title: '#xinchejian: Hacking Embedream Car...'
 author:
   display_name: Lio李欧
   login: lionello

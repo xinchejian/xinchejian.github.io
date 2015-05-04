@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->First Shanghai Maker Carnival<!--:-->
+title: First Shanghai Maker Carnival
 author:
   display_name: spanner888
   login: spanner888

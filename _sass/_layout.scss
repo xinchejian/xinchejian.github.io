@@ -17,8 +17,8 @@
     margin-bottom: 0;
     float: left;
 
-    &,
-    &:visited {
+    &amp;,
+    &amp;:visited {
         color: $grey-color-dark;
     }
 }
@@ -36,7 +36,7 @@
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
+        &amp;:not(:first-child) {
             margin-left: 20px;
         }
     }
@@ -74,7 +74,7 @@
             display: none;
         }
 
-        &:hover .trigger {
+        &amp;:hover .trigger {
             display: block;
             padding-bottom: 5px;
         }

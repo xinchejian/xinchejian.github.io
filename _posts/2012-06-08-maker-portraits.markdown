@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Maker Portraits<!--:--><!--:zh-->创客肖像<!--:-->
+title: Maker Portraits | 创客肖像
 author:
   display_name: David Li
   login: david

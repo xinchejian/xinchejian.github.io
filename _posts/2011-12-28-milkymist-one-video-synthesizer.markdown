@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Milkymist One video synthesizer<!--:--><!--:zh-->Milkymist One (视频合成器)<!--:-->
+title: Milkymist One video synthesizer | Milkymist One (视频合成器)
 author:
   display_name: rngadam
   login: rngadam

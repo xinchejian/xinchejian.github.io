@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Mitch Alman, inventor of TV-B-Gone<!--:--><!--:zh-->Mitch Alman,
+title: Mitch Alman, inventor of TV-B-Gone | Mitch Alman,
   美国著名的TV-B-Gone的发明者<!--:-->
 author:
   display_name: Min Lin Hsieh

@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Portraits of Makers:S...'
+title: '#xinchejian: Portraits of Makers:S...'
 author:
   display_name: Lio李欧
   login: lionello

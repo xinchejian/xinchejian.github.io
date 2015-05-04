@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->Past Workshops | 工作坊回顾<!--:--><!--:zh-->Past Workshops | 工作坊回顾<!--:-->
+title: Past Workshops | 工作坊回顾 | Past Workshops | 工作坊回顾
 author:
   display_name: euccas
   login: euccas

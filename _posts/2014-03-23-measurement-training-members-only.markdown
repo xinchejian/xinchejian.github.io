@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->示波器培训 - 会员专享<!--:--><!--:en-->Oscilloscope Training - members only<!--:-->
+title: 示波器培训 - 会员专享 | Oscilloscope Training - members only
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy

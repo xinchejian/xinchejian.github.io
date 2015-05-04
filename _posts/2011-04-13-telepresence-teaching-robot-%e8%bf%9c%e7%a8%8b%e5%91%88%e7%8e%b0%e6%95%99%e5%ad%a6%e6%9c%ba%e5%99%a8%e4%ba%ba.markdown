@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Telepresence teaching robot<!--:--><!--:zh-->远程呈现教学机器人<!--:-->
+title: Telepresence teaching robot | 远程呈现教学机器人
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

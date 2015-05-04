@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Adding servo to RC ca...'
+title: '#xinchejian: Adding servo to RC ca...'
 author:
   display_name: Lio李欧
   login: lionello

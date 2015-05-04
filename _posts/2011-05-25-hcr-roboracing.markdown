@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->HCR Roboracing<!--:--><!--:zh-->HCR内部赛<!--:-->
+title: HCR Roboracing | HCR内部赛
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

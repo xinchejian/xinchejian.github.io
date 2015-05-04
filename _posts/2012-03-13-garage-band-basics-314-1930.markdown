@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Garage Band Basics 3/14 19:30<!--:--><!--:zh-->车库乐队基础知识 三月十四日
+title: Garage Band Basics 3/14 19:30 | 车库乐队基础知识 三月十四日
   19:30<!--:-->
 author:
   display_name: Jrosen

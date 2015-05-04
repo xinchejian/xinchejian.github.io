@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Wednesday Meetup - Free as in beer - or 5rmb - @ XinCheJian - 7-9pm
+title: Wednesday Meetup - Free as in beer - or 5rmb - @ XinCheJian - 7-9pm
   - 03/04/2013<!--:--><!--:en-->Wednesday Meetup - Free as in beer - or 5rmb
   - @ XinCheJian - 7-9pm - 03/04/2013<!--:-->
 author:

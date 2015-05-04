@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Shyu Lee and XinCheJian<!--:--><!--:zh-->李旭和新车间<!--:-->
+title: Shyu Lee and XinCheJian | 李旭和新车间
 author:
   display_name: rngadam
   login: rngadam

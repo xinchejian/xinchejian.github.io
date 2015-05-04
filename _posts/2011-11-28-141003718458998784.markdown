@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->The Most Useless Mach...'
+title: '#xinchejian: The Most Useless Mach...'
 author:
   display_name: Lio李欧
   login: lionello

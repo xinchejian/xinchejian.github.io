@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Garage Band Basics 3/...'
+title: '#xinchejian: Garage Band Basics 3/...'
 author:
   display_name: Lio李欧
   login: lionello

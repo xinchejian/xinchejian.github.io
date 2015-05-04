@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->如何打领结<!--:--> <!--:en-->How to tie a bowtie<!--:-->
+title: 如何打领结 How to tie a bowtie
 author:
   display_name: rngadam
   login: rngadam

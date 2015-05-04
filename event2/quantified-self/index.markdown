@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:zh-->Quantified Self<!--:--><!--:en-->Quantified Self<!--:-->
+title: Quantified Self | Quantified Self
 author:
   display_name: Abe
   login: Abe
@@ -22,7 +22,7 @@ comments: []
 <h2><strong>Quantified Self Working Group</strong></h2></p>
 <h2>Upcoming Events</h2></p>
 <div id="event_espresso_registration_form">
-<h3 id="event_title-170">Quantified Self Show & Tell Event</h3></p>
+<h3 id="event_title-170">Quantified Self Show &amp; Tell Event</h3></p>
 <div>
 <p>Please register at the bottom of this page: http://xinchejian.com/event2/?ee=170</p>
 <p><span style="font-size: 13px;">Xinchejian, Thursday @ 7PM</span></p>
@@ -31,7 +31,7 @@ comments: []
 <div></div></p>
 <div>The goal of the Quantified Self group at Xinchejian is to develop new projects and continue working on existing QS projects. This can include self-tracking, biosensors, hacking existing devices or building new ones! Please feel free to join even if you don't have a project idea but are a user of self-tracking devices and you would like to share your experiences.&nbsp;All participants will have an opportunity to give a brief description and/or demo of their project, idea, or self-tracking experience, and we will then breakout into smaller groups based on shared interests.</div></p>
 <div></div></p>
-<div>This event is a co-creation of Xinchejian & Transist.</div></p>
+<div>This event is a co-creation of Xinchejian &amp; Transist.</div></p>
 <div>
 <div></div></p>
 <div><b>Time:</b>&nbsp;Thursday, March 14 at 7PM</div><br />

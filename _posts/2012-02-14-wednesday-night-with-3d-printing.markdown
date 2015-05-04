@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday night with 3D Printing<!--:--><!--:zh-->周三晚3D打印解密<!--:-->
+title: Wednesday night with 3D Printing | 周三晚3D打印解密
 author:
   display_name: David Li
   login: david

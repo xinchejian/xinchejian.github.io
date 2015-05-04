@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Barcamp Shanghai Fall 2012<!--:--><!--:zh-->Barcamp 上海 秋天 2012<!--:-->
+title: Barcamp Shanghai Fall 2012 | Barcamp 上海 秋天 2012
 author:
   display_name: kevin
   login: kevin

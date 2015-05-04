@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->新车间2周年庆<!--:--><!--:en-->XinCheJian Birthday 2013<!--:-->
+title: 新车间2周年庆 | XinCheJian Birthday 2013
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Laser pointer microscope<!--:--><!--:zh-->激光笔DIY显微镜<!--:-->
+title: Laser pointer microscope | 激光笔DIY显微镜
 author:
   display_name: David Li
   login: david

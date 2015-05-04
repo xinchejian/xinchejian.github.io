@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->工具间培训 - 3月15号<!--:--><!--:en-->Machine Room Training - March 15th<!--:-->
+title: 工具间培训 - 3月15号 | Machine Room Training - March 15th
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy

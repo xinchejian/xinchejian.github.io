@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Article about XinCheJian on 3ders<!--:--><!--:zh-->3D吧的文章<!--:-->
+title: Article about XinCheJian on 3ders | 3D吧的文章
 author:
   display_name: rngadam
   login: rngadam

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->沪JS 2012, International JavaScript event in Shanghai from September
+title: 沪JS 2012, International JavaScript event in Shanghai from September
   14th to 16th.<!--:--><!--:zh-->沪JS 2012, 国际JavaScript议会在上海，9月14日到16日<!--:-->
 author:
   display_name: Lio李欧

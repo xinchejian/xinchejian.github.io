@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Portraits of Makers:Sunny Sun<!--:--><!--:zh-->sunny 孙的创客肖像<!--:-->
+title: Portraits of Makers:Sunny Sun | sunny 孙的创客肖像
 author:
   display_name: freda
   login: freda

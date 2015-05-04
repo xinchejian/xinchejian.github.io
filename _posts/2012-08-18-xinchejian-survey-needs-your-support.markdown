@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Xinchejian Survey, Needs Your Support<!--:--><!--:zh-->新车间问卷调查，需要您的支持<!--:-->
+title: Xinchejian Survey, Needs Your Support | 新车间问卷调查，需要您的支持
 author:
   display_name: Jia Qi
   login: gg24gg24

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Robot RQ-5: paper robot<!--:--><!--:zh-->RQ-5：纸张机器人<!--:-->'
+title: 'Robot RQ-5: paper robot | RQ-5：纸张机器人'
 author:
   display_name: rngadam
   login: rngadam

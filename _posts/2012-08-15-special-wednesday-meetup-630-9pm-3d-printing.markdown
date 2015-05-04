@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->New Member Orientation This Friday from 7:00pm<!--:--><!--:zh-->新会员派对，欢迎新老会员参加；本周五晚7点，就在新车间<!--:-->
+title: New Member Orientation This Friday from 7:00pm | 新会员派对，欢迎新老会员参加；本周五晚7点，就在新车间
 author:
   display_name: nihaopaul
   login: nihaopaul

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Insect Robot Body<!--:--><!--:zh-->虫虫机器人的身体<!--:-->
+title: Insect Robot Body | 虫虫机器人的身体
 author:
   display_name: David Li
   login: david

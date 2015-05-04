@@ -2,7 +2,7 @@
 layout: feature
 status: publish
 published: true
-title: Drag &amp; Drop Design
+title: Drag & Drop Design
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy

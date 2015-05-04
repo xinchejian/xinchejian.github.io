@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Sound synthesizer OSC6 workshop pictures<!--:--><!--:zh-->DIY声音合成器OSC6工作坊花絮<!--:-->
+title: Sound synthesizer OSC6 workshop pictures | DIY声音合成器OSC6工作坊花絮
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh
@@ -21,7 +21,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en-->【2012《JUE》Music + Art】2012.3.11 XinCheJian &《JUE》Workshop #1：DIY Sound synthesizer OSC6 workshop（pictures：YU）</p>
+<p><!--:en-->【2012《JUE》Music + Art】2012.3.11 XinCheJian &amp;《JUE》Workshop #1：DIY Sound synthesizer OSC6 workshop（pictures：YU）</p>
 <p><a href="http://xinchejian.com/wp-content/uploads/2012/03/1-p1462267050.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/03/1-p1462267050-300x199.jpg" alt="" title="1-p1462267050" width="300" height="199" class="alignnone size-medium wp-image-2732" /></a></p>
 <p><a href="http://xinchejian.com/wp-content/uploads/2012/03/2-p1462266147.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/03/2-p1462266147-300x199.jpg" alt="" title="2-p1462266147" width="300" height="199" class="alignnone size-medium wp-image-2736" /></a></p>
 <p><a href="http://xinchejian.com/wp-content/uploads/2012/03/3-p1462267282.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/03/3-p1462267282-300x199.jpg" alt="" title="3-p1462267282" width="300" height="199" class="alignnone size-medium wp-image-2733" /></a></p>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Swarm Robots<!--:--><!--:zh-->群体智能机器人<!--:-->
+title: Swarm Robots | 群体智能机器人
 author:
   display_name: spanner888
   login: spanner888

@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->Arduino Starter Kit<!--:--><!--:zh-->Arduino入门套件<!--:-->
+title: Arduino Starter Kit | Arduino入门套件
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

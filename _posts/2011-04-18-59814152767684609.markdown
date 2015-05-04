@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Insect Robot Workshop...'
+title: '#xinchejian: Insect Robot Workshop...'
 author:
   display_name: Lio李欧
   login: lionello

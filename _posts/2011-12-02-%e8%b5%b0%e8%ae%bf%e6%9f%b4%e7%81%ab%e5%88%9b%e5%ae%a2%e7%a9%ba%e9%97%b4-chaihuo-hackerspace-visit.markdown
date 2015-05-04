@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Chaihuo hackerspace visit<!--:--><!--:zh-->走访柴火创客空间 <!--:-->
+title: Chaihuo hackerspace visit | 走访柴火创客空间
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

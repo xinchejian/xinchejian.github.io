@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->每周六上午10点 Freda绘画工坊<!--:--><!--:en-->Every saturday at 10am - Freda's
+title: 每周六上午10点 Freda绘画工坊 | Every saturday at 10am - Freda's
   Paiting workshop at XCJ<!--:-->
 author:
   display_name: Amanda.Maxy

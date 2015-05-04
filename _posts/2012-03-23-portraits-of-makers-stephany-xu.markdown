@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Portraits of Makers: Stephany Xu<!--:--><!--:zh-->Stephany Xu的创客肖像<!--:-->'
+title: 'Portraits of Makers: Stephany Xu | Stephany Xu的创客肖像'
 author:
   display_name: David Li
   login: david

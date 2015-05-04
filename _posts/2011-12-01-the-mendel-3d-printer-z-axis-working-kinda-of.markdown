@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->The Mendel 3d printer Z axis working (kinda of)!<!--:-->
+title: The Mendel 3d printer Z axis working (kinda of)!
 author:
   display_name: rngadam
   login: rngadam

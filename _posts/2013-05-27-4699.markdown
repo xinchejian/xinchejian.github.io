@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Andrew Brandt's Intern Bio<!--:-->
+title: Andrew Brandt's Intern Bio
 author:
   display_name: Andrew
   login: drafski89

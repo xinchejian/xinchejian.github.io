@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->3D Printing Salon<!--:--><!--:zh-->3D打印大会<!--:-->
+title: 3D Printing Salon | 3D打印大会
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

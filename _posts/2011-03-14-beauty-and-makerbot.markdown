@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Beauty and Makerbot<!--:--><!--:zh-->Beauty and Makerbot<!--:-->
+title: Beauty and Makerbot | Beauty and Makerbot
 author:
   display_name: David Li
   login: david

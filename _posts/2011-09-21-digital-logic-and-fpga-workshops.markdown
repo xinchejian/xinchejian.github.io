@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Digital logic and FPGA workshops<!--:--> <!--:zh-->理解和掌握数字逻辑<!--:--> '
+title: 'Digital logic and FPGA workshops 理解和掌握数字逻辑 '
 author:
   display_name: rngadam
   login: rngadam

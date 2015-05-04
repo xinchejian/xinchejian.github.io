@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Android Basic Program...'
+title: '#xinchejian: Android Basic Program...'
 author:
   display_name: Lio李欧
   login: lionello

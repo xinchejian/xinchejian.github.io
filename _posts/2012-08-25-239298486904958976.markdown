@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Campus Party Berlin&l...'
+title: '#xinchejian: Campus Party Berlin&l...'
 author:
   display_name: Lio李欧
   login: lionello

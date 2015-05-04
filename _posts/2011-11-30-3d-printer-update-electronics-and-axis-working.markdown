@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->3d printer update: electronics and axis working<!--:-->'
+title: '3d printer update: electronics and axis working'
 author:
   display_name: rngadam
   login: rngadam

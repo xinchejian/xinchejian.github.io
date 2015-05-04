@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->3D Printing Wednesday Night<!--:--><!--:zh-->3D打印周三聚会总结<!--:-->
+title: 3D Printing Wednesday Night | 3D打印周三聚会总结
 author:
   display_name: rockets
   login: rockets

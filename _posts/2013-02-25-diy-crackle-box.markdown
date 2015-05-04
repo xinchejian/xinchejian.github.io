@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->摸摸摸, 六触摸点噪音电路<!--:--><!--:en-->DIY Crackle Box<!--:-->
+title: 摸摸摸, 六触摸点噪音电路 | DIY Crackle Box
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

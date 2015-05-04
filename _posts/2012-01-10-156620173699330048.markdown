@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Visit to Toyhouse at...'
+title: '#xinchejian: Visit to Toyhouse at...'
 author:
   display_name: Lio李欧
   login: lionello

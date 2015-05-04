@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Xin Che Jian Opening Special<!--:--><!--:zh-->新车间开幕优惠<!--:-->
+title: Xin Che Jian Opening Special | 新车间开幕优惠
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

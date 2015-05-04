@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->RoboRacing - Bragging rights<!--:--><!--:zh-->RoboRacing - Bragging
+title: RoboRacing - Bragging rights | RoboRacing - Bragging
   rights<!--:-->
 author:
   display_name: nihaopaul

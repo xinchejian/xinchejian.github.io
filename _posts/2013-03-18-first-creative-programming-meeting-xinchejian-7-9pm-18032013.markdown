@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->(第一创造性的程序设计会)<!--:--><!--:en-->First Creative Programming Meeting
+title: (第一创造性的程序设计会) | First Creative Programming Meeting
   @ XinCheJian &ndash; 7-9pm &ndash; 18/03/2013<!--:-->
 author:
   display_name: olaf

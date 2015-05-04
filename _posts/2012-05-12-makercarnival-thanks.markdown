@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Makercarnival: Thanks!<!--:--><!--:zh-->创客嘉年华: 感谢！<!--:-->'
+title: 'Makercarnival: Thanks! | 创客嘉年华: 感谢！'
 author:
   display_name: rngadam
   login: rngadam

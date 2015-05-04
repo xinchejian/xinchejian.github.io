@@ -19,4 +19,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>#xinchejian: Android & Robots http://xinchejian.com/2011/06/08/android-robots/</p>
+<p>#xinchejian: Android &amp; Robots http://xinchejian.com/2011/06/08/android-robots/</p>

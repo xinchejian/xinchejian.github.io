@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Weekly Creative Programming Meeting @ XinCheJian &ndash; 7-9pm &ndash;
+title: Weekly Creative Programming Meeting @ XinCheJian &ndash; 7-9pm &ndash;
   25/03/2013<!--:-->
 author:
   display_name: olaf

@@ -2,8 +2,8 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->工作坊预告-Processing & Grasshopper<!--:--><!--:en-->Upcoming Workshop-Processing
-  & Grasshopper<!--:-->
+title: 工作坊预告-Processing & Grasshopper | Upcoming Workshop-Processing
+  &amp; Grasshopper<!--:-->
 author:
   display_name: Sophia Lin
   login: coccet

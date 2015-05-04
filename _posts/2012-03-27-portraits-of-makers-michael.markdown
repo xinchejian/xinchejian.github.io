@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Portraits of Makers: Michael<!--:--><!--:zh-->廖俊彦的创客肖像<!--:-->'
+title: 'Portraits of Makers: Michael | 廖俊彦的创客肖像'
 author:
   display_name: freda
   login: freda

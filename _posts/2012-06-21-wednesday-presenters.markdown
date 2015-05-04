@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Presenters<!--:--><!--:zh-->周三项目演示<!--:-->
+title: Wednesday Presenters | 周三项目演示
 author:
   display_name: rockets
   login: rockets

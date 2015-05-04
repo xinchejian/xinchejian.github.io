@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Young Makers Open Day pictures<!--:--><!--:zh-->小小创客游乐会花絮<!--:-->
+title: Young Makers Open Day pictures | 小小创客游乐会花絮
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

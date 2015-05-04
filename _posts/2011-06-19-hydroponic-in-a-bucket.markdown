@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Hydroponic in a bucket<!--:--><!--:zh-->水培蔬菜<!--:-->
+title: Hydroponic in a bucket | 水培蔬菜
 author:
   display_name: David Li
   login: david

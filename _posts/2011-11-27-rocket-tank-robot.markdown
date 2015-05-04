@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Source to Rocket's tank robot<!--:--><!--:zh-->rockets的坦克机器人的程序及策略<!--:-->
+title: Source to Rocket's tank robot | rockets的坦克机器人的程序及策略
 author:
   display_name: rockets
   login: rockets
@@ -75,14 +75,14 @@ if (digitalRead(9)==1)//策略为如果右中部如果一直保持触发即贴�
   rightgo();<br />
 delay(600);<br />
 }<br />
-  if (digitalRead(8)==1&&digitalRead(10)==1)<br />
+  if (digitalRead(8)==1&amp;&digitalRead(10)==1)<br />
 {  foward();<br />
 delay(500);<br />
 }<br />
- else if(digitalRead(8)==0&&digitalRead(10)==1)<br />
+ else if(digitalRead(8)==0&amp;&digitalRead(10)==1)<br />
 {leftgo();<br />
 delay(500);}</p>
-<p>else if (digitalRead(10)==0&&digitalRead(10)==1)<br />
+<p>else if (digitalRead(10)==0&amp;&digitalRead(10)==1)<br />
 {<br />
 rightgo();<br />
 delay(100);<br />

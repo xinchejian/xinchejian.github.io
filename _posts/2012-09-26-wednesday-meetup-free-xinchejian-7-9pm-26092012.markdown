@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 26/09/2012<!--:--><!--:zh-->9月26日周三开放日更新
+title: Wednesday Meetup - Free - @ XinCheJian - 7-9pm - 26/09/2012 | 9月26日周三开放日更新
   - Free - @ XinCheJian - 7-9pm<!--:-->
 author:
   display_name: nihaopaul

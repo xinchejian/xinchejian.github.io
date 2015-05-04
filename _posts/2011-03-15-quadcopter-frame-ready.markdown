@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Quadcopter Frame ready!<!--:--><!--:zh-->四旋翼骨架好了！<!--:-->
+title: Quadcopter Frame ready! | 四旋翼骨架好了！
 author:
   display_name: David Li
   login: david

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Arduino入门工作坊开班啦！<!--:--><!--:en-->Arduino for beginners Workshop
+title: Arduino入门工作坊开班啦！ | Arduino for beginners Workshop
   - May 10th<!--:-->
 author:
   display_name: Amanda.Maxy

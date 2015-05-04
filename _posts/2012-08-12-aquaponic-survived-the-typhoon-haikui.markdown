@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Aquaponic: Survived The Typhoon Haikui<!--:--><!--:zh-->鱼菜共生：海葵过后<!--:-->'
+title: 'Aquaponic: Survived The Typhoon Haikui | 鱼菜共生：海葵过后'
 author:
   display_name: David Li
   login: david

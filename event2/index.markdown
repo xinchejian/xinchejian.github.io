@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:zh-->Events | 活动<!--:--><!--:en-->Events | 活动<!--:-->
+title: Events | 活动 | Events | 活动
 author:
   display_name: euccas
   login: euccas

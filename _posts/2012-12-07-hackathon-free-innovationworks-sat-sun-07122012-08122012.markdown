@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Hackathon -- Free -- @InnovationWorks - Sat, Sun - 07/12/2012,
+title: Hackathon -- Free -- @InnovationWorks - Sat, Sun - 07/12/2012,
   08/12/2012<!--:--><!--:zh-->Hackathon -- 免费 -- @创新 - Sat, Sun - 07/12/2012,
   08/12/2012<!--:-->
 author:

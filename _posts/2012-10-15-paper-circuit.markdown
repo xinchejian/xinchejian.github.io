@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Paper Circuit<!--:--><!--:zh-->神奇的纸电路<!--:-->
+title: Paper Circuit | 神奇的纸电路
 author:
   display_name: haixiao.sun
   login: haixiao.sun

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Beautiful root growth!<!--:--><!--:zh-->很健康的根系<!--:-->
+title: Beautiful root growth! | 很健康的根系
 author:
   display_name: David Li
   login: david

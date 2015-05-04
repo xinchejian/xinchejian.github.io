@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->New Home of Xin Che Jian<!--:--><!--:zh-->新车间搬家了哦！<!--:-->
+title: New Home of Xin Che Jian | 新车间搬家了哦！
 author:
   display_name: David Li
   login: david

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->MITERS (MIT Electronics Research Society) at XCJ<!--:--><!--:zh-->MITERS
+title: MITERS (MIT Electronics Research Society) at XCJ | MITERS
   (MIT Electronics Research Society)在新车间<!--:-->
 author:
   display_name: rngadam

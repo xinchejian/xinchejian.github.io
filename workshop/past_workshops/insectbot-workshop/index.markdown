@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->InsectBot workshop<!--:--><!--:zh-->虫虫机器人工作坊<!--:-->
+title: InsectBot workshop | 虫虫机器人工作坊
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

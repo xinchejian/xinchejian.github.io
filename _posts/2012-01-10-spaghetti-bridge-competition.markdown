@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->SPAGHETTI BRIDGE COMPETITION<!--:--><!--:zh-->意大利面桥梁设计比赛<!--:-->
+title: SPAGHETTI BRIDGE COMPETITION | 意大利面桥梁设计比赛
 author:
   display_name: edward
   login: edward

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Insect Bug in a Cup<!--:--><!--:zh-->杯具的虫虫机器人<!--:-->
+title: Insect Bug in a Cup | 杯具的虫虫机器人
 author:
   display_name: David Li
   login: david

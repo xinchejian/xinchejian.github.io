@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->在滨江的特别周三开放夜<!--:--><!--:en-->Special Wednesday Open Night on the
+title: 在滨江的特别周三开放夜 | Special Wednesday Open Night on the
   Bund<!--:-->
 author:
   display_name: David Li

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Portraits of Makers: Infy Zhang<!--:--><!--:zh-->Infy Zhang的创客肖像<!--:-->'
+title: 'Portraits of Makers: Infy Zhang | Infy Zhang的创客肖像'
 author:
   display_name: David Li
   login: david

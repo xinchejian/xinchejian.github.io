@@ -54,7 +54,7 @@ comments:
     June 5, Hackerspace Shanghai, Xinchejian http://t.co/TUw7CkS2lC'
 ---
 <p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://blog.shanghaiaquaponics.com/wp-content/uploads/2013/05/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p>There will be <a href="http://theinternetofthings.eu/internet-things-china-2013-conference-exhibition-shanghai-june-4-and-5">Internet of Things China 2013 Conference & Exhibition</a>in Shanghai from June 4 to 5. More information about the conference <a href="http://theinternetofthings.eu/sites/default/files/%5Buser-name%5D/IOT%202013%20Brochure%20%28EN%29%2820121019%29xie.pdf">here</a>.</p></p>
+<p>There will be <a href="http://theinternetofthings.eu/internet-things-china-2013-conference-exhibition-shanghai-june-4-and-5">Internet of Things China 2013 Conference &amp; Exhibition</a>in Shanghai from June 4 to 5. More information about the conference <a href="http://theinternetofthings.eu/sites/default/files/%5Buser-name%5D/IOT%202013%20Brochure%20%28EN%29%2820121019%29xie.pdf">here</a>.</p></p>
 <p>Rob van Kranenburg founded Council, a think tank for the Internet of Things, to bring this latter perspective into the heart of the debates. He is Chair of the Working Group Societal of the IOT Forum, member of the Expert Group on IOT for the European Commission, and Stakeholder Coordinator for IoT-A. Mr. van Kranenburg will travel to Shanghai for IOT 2013 China.</p></p>
 <p>Rob is good friends of both XinCheJian and Xindanwei and we are happy to have him coming to XinCheJian for a night of Internet of Things on June 5th. The event will start at 7pm in XinCheJian (1035 Changle Lu, 2F) featuring these speakers:</p></p>
 <ul>

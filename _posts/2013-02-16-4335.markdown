@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Xinchejian in TV<!--:-->
+title: Xinchejian in TV
 author:
   display_name: Lutz
   login: lumi

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Digital Logic with Logisim<!--:--><!--:zh-->数字逻辑跟Logisim<!--:-->
+title: Digital Logic with Logisim | 数字逻辑跟Logisim
 author:
   display_name: rngadam
   login: rngadam

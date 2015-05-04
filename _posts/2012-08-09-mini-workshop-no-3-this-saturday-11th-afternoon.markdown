@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->mini workshop No. 3 this Saturday (11th) afternoon<!--:--><!--:zh-->本周六(8/11)迷你工作坊第三弹<!--:-->
+title: mini workshop No. 3 this Saturday (11th) afternoon | 本周六(8/11)迷你工作坊第三弹
 author:
   display_name: Jia Qi
   login: gg24gg24

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->Portraits of Makers: Lio<!--:--><!--:zh-->Lio的创客肖像<!--:-->'
+title: 'Portraits of Makers: Lio | Lio的创客肖像'
 author:
   display_name: Lio李欧
   login: lionello

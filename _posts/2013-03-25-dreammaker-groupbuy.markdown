@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:zh-->《团购》新车间2周年活动: DreamMaker 3D打印机<!--:--><!--:en-->《Group Buy》XinCheJian
+title: '《团购》新车间2周年活动: DreamMaker 3D打印机 | 《Group Buy》XinCheJian
   Anniversary Celebration: DreamMaker 3D Printer<!--:-->'
 author:
   display_name: Min Lin Hsieh

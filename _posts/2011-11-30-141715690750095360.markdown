@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->3d printer update: el...'
+title: '#xinchejian: 3d printer update: el...'
 author:
   display_name: Lio李欧
   login: lionello

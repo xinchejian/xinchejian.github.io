@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->Processing Class<!--:--><!--:zh-->Processing课程<!--:-->
+title: Processing Class | Processing课程
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

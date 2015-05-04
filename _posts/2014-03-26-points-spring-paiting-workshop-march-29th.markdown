@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->点春 - 工作坊 - 03/29<!--:--><!--:en-->Points spring painting workshop
+title: 点春 - 工作坊 - 03/29 | Points spring painting workshop
   - March 29th<!--:-->
 author:
   display_name: Amanda.Maxy

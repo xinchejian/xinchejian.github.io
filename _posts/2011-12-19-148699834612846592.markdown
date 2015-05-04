@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Spaghetti bridge test...'
+title: '#xinchejian: Spaghetti bridge test...'
 author:
   display_name: Lio李欧
   login: lionello

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->This Wednesday November 23rd at XinCheJian<!--:--><!--:zh-->这个十一月二十三日星期三在新车间<!--:-->
+title: This Wednesday November 23rd at XinCheJian | 这个十一月二十三日星期三在新车间
 author:
   display_name: rngadam
   login: rngadam

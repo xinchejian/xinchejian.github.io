@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Autonomous RC Car<!--:--><!--:zh-->自主机器人项目<!--:-->
+title: Autonomous RC Car | 自主机器人项目
 author:
   display_name: heqichen
   login: heqichen

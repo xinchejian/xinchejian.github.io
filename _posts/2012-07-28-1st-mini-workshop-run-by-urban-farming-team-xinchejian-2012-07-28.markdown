@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->1st mini workshop run by Urban Farming Team @ XinCheJian (2012-07-28)
+title: '1st mini workshop run by Urban Farming Team @ XinCheJian (2012-07-28)
   <!--:--><!--:zh--> 第一个迷你工作坊: 如何为无土栽培的环境发苗 (2012-07-28) <!--:-->'
 author:
   display_name: Jia Qi

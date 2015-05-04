@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->RoboPeak Team<!--:--><!--:zh-->RoboPeak小组<!--:-->
+title: RoboPeak Team | RoboPeak小组
 author:
   display_name: David Li
   login: david

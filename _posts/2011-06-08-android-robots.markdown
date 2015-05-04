@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Android & Robots<!--:--><!--:zh-->Android与机器人<!--:-->
+title: Android & Robots | Android与机器人
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh
@@ -43,7 +43,7 @@ comments:
 <p>Workshops are weekly and will explore both the development on the Android-side and the micro-controllers side - touching on all aspects of mechanical, electrical and software engineering of a robot. </p>
 <p>In particular, we will look together at the use of ADK-compatible hardware boards, such as the <a href="http://www.sparkfun.com/products/10585"><em>Google IOIO board</em></a> or new hardware offerings from <a href="http://www.seeedstudio.com/"><em>Seeedstudio</em></a>.</p>
 <p>Participation for XinCheJian members who've paid their dues is free. For the non-members, the fee is 50 RMB per workshop.</p>
-<p>For more information, look at the <a href="https://github.com/xinchejian/XinCheJian-Workshops/wiki/Android-and-Robots-Workshops"><em>"Android & Robots" wiki</em></a>.  <strong>Don't forget to fulfill the necessary pre-requisites and join the android-robots+subscribe@googlegroups.com mailing list!</strong>  Note that this is a collaborative workshop, so we expect everyone to contribute and participate actively.</p>
+<p>For more information, look at the <a href="https://github.com/xinchejian/XinCheJian-Workshops/wiki/Android-and-Robots-Workshops"><em>"Android &amp; Robots" wiki</em></a>.  <strong>Don't forget to fulfill the necessary pre-requisites and join the android-robots+subscribe@googlegroups.com mailing list!</strong>  Note that this is a collaborative workshop, so we expect everyone to contribute and participate actively.</p>
 <p><a href="http://xinchejian.com/?attachment_id=1117"><img src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_20110605_143933-533x400.jpg" alt="" title="Android &amp; Robots workshop" width="470" height="352" class="alignnone size-large wp-image-1117" /></a></p></p>
 <p><a href="http://xinchejian.com/?attachment_id=1119"><img src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_20110605_144139-533x400.jpg" alt="" title="Android &amp; Robots workshop" width="470" height="352" class="alignnone size-large wp-image-1119" /></a></p><!--:--><!--:zh--><br />
 新一代的智能手机拥有一系列的感应器（全球定位系统，加速度传感器，指南针，等等）以及一个足够强大的中央处理器，可以胜任高端决策和像图像处理这样的任务所带来的高强度运算。</p>
@@ -55,6 +55,6 @@ comments:
 <p>工作坊是每周举行的（目前是英语教学）。我们将探索包括开发Android软件部分和单片机部分，涉及到的方面包括机器人的机械，电子以及软件工程学。</p>
 <p>特别的，我们将一起研究那些兼容ADK的硬件开发板，比如<a href="http://www.sparkfun.com/products/10585"><em>Google IOIO board</em></a>和<a href="http://www.seeedstudio.com/"><em>Seeedstudio</em></a>提供的新硬件。</p>
 <p>付费的新车间会员可以免费参加。非会员需要支付50元/次。</p>
-<p>更多的信息请查看<a href="https://github.com/xinchejian/XinCheJian-Workshops/wiki/Android-and-Robots-Workshops"><em>&ldquo;Android & Robots&rdquo; wiki</em></a>. <strong>不要忘了做好准备工作以及加入我们的android-robots+subscribe@googlegroups.com mailing list！</strong>注意，这是一个需要大家合作的讨论会，我们希望每个人都能积极的参与和贡献自己的力量。</p>
+<p>更多的信息请查看<a href="https://github.com/xinchejian/XinCheJian-Workshops/wiki/Android-and-Robots-Workshops"><em>&ldquo;Android &amp; Robots&rdquo; wiki</em></a>. <strong>不要忘了做好准备工作以及加入我们的android-robots+subscribe@googlegroups.com mailing list！</strong>注意，这是一个需要大家合作的讨论会，我们希望每个人都能积极的参与和贡献自己的力量。</p>
 <p><a href="http://xinchejian.com/?attachment_id=1117"><img src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_20110605_143933-533x400.jpg" alt="" title="Android &amp; Robots workshop" width="470" height="352" class="alignnone size-large wp-image-1117" /></a></p></p>
 <p><a href="http://xinchejian.com/?attachment_id=1119"><img src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_20110605_144139-533x400.jpg" alt="" title="Android &amp; Robots workshop" width="470" height="352" class="alignnone size-large wp-image-1119" /></a></p><!--:--></p>

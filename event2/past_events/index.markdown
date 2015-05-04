@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->Past Events | 活动回顾<!--:--><!--:zh-->Past Events | 活动回顾<!--:-->
+title: Past Events | 活动回顾 | Past Events | 活动回顾
 author:
   display_name: euccas
   login: euccas

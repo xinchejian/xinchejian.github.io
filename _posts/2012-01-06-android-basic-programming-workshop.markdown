@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Android Basic Programming Workshop<!--:--><!--:zh-->Android编程入门工作坊<!--:-->
+title: Android Basic Programming Workshop | Android编程入门工作坊
 author:
   display_name: yi
   login: yi

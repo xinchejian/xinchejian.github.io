@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Events on March 29 - 30 at XinCheJian<!--:-->
+title: Events on March 29 - 30 at XinCheJian
 author:
   display_name: Amanda.Maxy
   login: Amanda.Maxy

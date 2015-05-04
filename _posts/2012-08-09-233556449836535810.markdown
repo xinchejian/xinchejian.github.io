@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->mini workshop No. 3 t...'
+title: '#xinchejian: mini workshop No. 3 t...'
 author:
   display_name: Lio李欧
   login: lionello

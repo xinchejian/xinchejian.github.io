@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian on Hack A Day<!--:--><!--:zh-->Hack A Day 报导新车间<!--:-->
+title: XinCheJian on Hack A Day | Hack A Day 报导新车间
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

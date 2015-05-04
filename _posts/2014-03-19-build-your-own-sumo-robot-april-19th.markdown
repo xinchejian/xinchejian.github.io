@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->相扑机器人工作坊 - 4月13号<!--:--><!--:en-->Build your own sumo robot - April
+title: 相扑机器人工作坊 - 4月13号 | Build your own sumo robot - April
   13th (10am - 5pm) <!--:-->
 author:
   display_name: Amanda.Maxy

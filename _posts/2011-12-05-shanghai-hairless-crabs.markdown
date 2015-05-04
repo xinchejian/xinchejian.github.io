@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Shanghai Hairless Crabs<!--:--><!--:zh-->Shanghai Hairless Crabs<!--:-->
+title: Shanghai Hairless Crabs | Shanghai Hairless Crabs
 author:
   display_name: nihaopaul
   login: nihaopaul

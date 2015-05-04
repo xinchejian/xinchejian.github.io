@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->I'm a brave robot - Workshop @ XinCheJian - 1/20/2013<!--:--><!--:zh-->我是一个勇敢的机器人
+title: I'm a brave robot - Workshop @ XinCheJian - 1/20/2013 | 我是一个勇敢的机器人
   - 新车间 工作坊 - 1/20/2013<!--:-->
 author:
   display_name: euccas

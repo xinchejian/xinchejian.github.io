@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Got new toys thanks t...'
+title: '#xinchejian: Got new toys thanks t...'
 author:
   display_name: Lio李欧
   login: lionello

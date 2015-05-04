@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Russian Invasion of Shanghai on December 17th<!--:-->
+title: Russian Invasion of Shanghai on December 17th
 author:
   display_name: rngadam
   login: rngadam

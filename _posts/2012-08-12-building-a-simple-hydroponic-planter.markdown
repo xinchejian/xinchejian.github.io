@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Building a simple Hydroponic Planter<!--:--><!--:zh-->制作简易的水耕菜盆<!--:-->
+title: Building a simple Hydroponic Planter | 制作简易的水耕菜盆
 author:
   display_name: David Li
   login: david

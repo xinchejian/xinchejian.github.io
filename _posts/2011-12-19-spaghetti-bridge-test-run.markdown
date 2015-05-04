@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Spaghetti bridge test run<!--:--><!--:zh-->意面桥试赛<!--:-->
+title: Spaghetti bridge test run | 意面桥试赛
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

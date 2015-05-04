@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->新车间搬家啦!<!--:--><!--:en-->We have moved!<!--:-->
+title: 新车间搬家啦! | We have moved!
 author:
   display_name: Lio李欧
   login: lionello

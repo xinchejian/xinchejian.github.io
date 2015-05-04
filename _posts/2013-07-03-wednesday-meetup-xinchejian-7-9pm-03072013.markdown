@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Wednesday Meetup @ XinCheJian - 7-9pm - 03/07/2013<!--:--><!--:en-->Wednesday
+title: Wednesday Meetup @ XinCheJian - 7-9pm - 03/07/2013 | Wednesday
   Meetup @ XinCheJian - 7-9pm - 03/07/2013<!--:-->
 author:
   display_name: nihaopaul

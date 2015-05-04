@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Blessing from Xindanwei<!--:--><!--:zh-->来之新单位的祝福<!--:-->
+title: Blessing from Xindanwei | 来之新单位的祝福
 author:
   display_name: David Li
   login: david

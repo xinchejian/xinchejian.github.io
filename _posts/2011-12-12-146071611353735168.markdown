@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Robot RQ-5: paper rob...'
+title: '#xinchejian: Robot RQ-5: paper rob...'
 author:
   display_name: Lio李欧
   login: lionello

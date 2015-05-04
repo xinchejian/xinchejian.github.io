@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Helper sessions at Xinchejian<!--:--><!--:en-->Helper sessions at
+title: Helper sessions at Xinchejian | Helper sessions at
   Xinchejian<!--:-->
 author:
   display_name: spanner888

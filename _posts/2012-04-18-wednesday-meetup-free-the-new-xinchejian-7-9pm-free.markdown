@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday Meetup - Free - @ the NEW XinCheJian - 7-9pm - FREE<!--:--><!--:zh-->Wednesday
+title: Wednesday Meetup - Free - @ the NEW XinCheJian - 7-9pm - FREE | Wednesday
   Meetup - Free - @ the NEW XinCheJian - 7-9pm - FREE<!--:-->
 author:
   display_name: nihaopaul

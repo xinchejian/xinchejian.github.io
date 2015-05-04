@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Happy birthday Xinchejian<!--:--><!--:zh-->新车间生日快乐<!--:-->
+title: Happy birthday Xinchejian | 新车间生日快乐
 author:
   display_name: rockets
   login: rockets

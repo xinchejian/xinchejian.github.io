@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->AFRON $10 robot challenge winners announced at World Maker Faire
+title: AFRON $10 robot challenge winners announced at World Maker Faire
   New York 2012<!--:-->
 author:
   display_name: spanner888

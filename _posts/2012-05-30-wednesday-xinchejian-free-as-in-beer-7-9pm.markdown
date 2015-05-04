@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Wednesday @ XinCheJian - Free as in beer! 7-9pm<!--:--><!--:zh-->Wednesday
+title: Wednesday @ XinCheJian - Free as in beer! 7-9pm | Wednesday
   @ XinCheJian - Free as in beer! 7-9pm<!--:-->
 author:
   display_name: nihaopaul

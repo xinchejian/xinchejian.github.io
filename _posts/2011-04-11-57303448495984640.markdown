@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->XinCheJian opening ho...'
+title: '#xinchejian: XinCheJian opening ho...'
 author:
   display_name: Lio李欧
   login: lionello

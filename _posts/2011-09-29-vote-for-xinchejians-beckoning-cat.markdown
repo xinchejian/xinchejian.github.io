@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Vote for XinCheJian's Beckoning Cat<!--:--><!--:zh-->请投票给新车间的玩具招财猫<!--:-->
+title: Vote for XinCheJian's Beckoning Cat | 请投票给新车间的玩具招财猫
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

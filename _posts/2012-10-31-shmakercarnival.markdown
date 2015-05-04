@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: '<!--:en-->This weekend: Shanghai Maker Carnival<!--:--><!--:zh-->本周五～周日: 上海创客嘉年华<!--:-->'
+title: 'This weekend: Shanghai Maker Carnival | 本周五～周日: 上海创客嘉年华'
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Swarm Robots reloaded<!--:-->
+title: Swarm Robots reloaded
 author:
   display_name: Lutz
   login: lumi

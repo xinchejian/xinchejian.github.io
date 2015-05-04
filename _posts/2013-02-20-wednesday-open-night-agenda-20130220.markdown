@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->2月20日周三开放日更新<!--:--><!--:en-->Wednesday Open Night 7-9pm FREE! /
+title: 2月20日周三开放日更新 | Wednesday Open Night 7-9pm FREE! /
   周三开放日更新 晚7点-9点 免费向公众开放 2013/02/20<!--:-->
 author:
   display_name: Jia Qi

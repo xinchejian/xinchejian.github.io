@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Squishy circuit<!--:--><!--:zh-->面团也疯狂<!--:-->
+title: Squishy circuit | 面团也疯狂
 author:
   display_name: haixiao.sun
   login: haixiao.sun

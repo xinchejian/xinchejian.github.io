@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: <!--:en-->Manifesto<!--:--><!--:zh-->宣言<!--:-->
+title: Manifesto | 宣言
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

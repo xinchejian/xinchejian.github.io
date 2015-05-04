@@ -88,7 +88,7 @@ Topic: Open Source Biohacking<br />
 Just as personal computers opened a new world of creativity by liberating computing from monolithic corporations, there is a movement of citizen scientists creating open source devices to make the well understood techniques of DNA analysis available to everyone, not just to molecular biologists.<br />
 Bio hacking can be used for useful things such as engineering algae for biofuels, bacteria that glows when its in the presence of arsenic, determining if vegetables are contaminated with harmful bacteria such as E. Coli or Listeria, or seeing which neighbors' dog has been<br />
 pooping on your lawn.<br />
-Elizabeth Jane Cole is co founder of the Evil Twin Booking Agency [eviltwinbooking.org], former writer for WIRED magazine and other publications, and producer for Love & Radio. In her spare time she makes mobile biology labs.<br />
+Elizabeth Jane Cole is co founder of the Evil Twin Booking Agency [eviltwinbooking.org], former writer for WIRED magazine and other publications, and producer for Love &amp; Radio. In her spare time she makes mobile biology labs.<br />
 Johannes Schneemann - AKA &rdquo;herr_flupke&rdquo; in hackers circle<br />
 Topic 1:  cjdns - IPv6 based encrypted meshnetworking for the Internet of Things, or<br />
 Topic 2: my hut in the dark net - strategies for running decentralized services<br />

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Techyizu & Xinchejian Spaghetti Bridge Competition Rule<!--:--><!--:zh-->科技蚁族和新车间意大利面桥梁设计比赛规则<!--:-->
+title: Techyizu & Xinchejian Spaghetti Bridge Competition Rule | 科技蚁族和新车间意大利面桥梁设计比赛规则
 author:
   display_name: edward
   login: edward

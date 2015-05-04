@@ -2,7 +2,7 @@
 layout: aktt_tweet
 status: publish
 published: true
-title: '#xinchejian: <!--:en-->Digital Logic with Lo...'
+title: '#xinchejian: Digital Logic with Lo...'
 author:
   display_name: Lio李欧
   login: lionello

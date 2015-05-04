@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->XinCheJian Anniversary Party!<!--:--><!--:zh-->新车间周年派对！<!--:-->
+title: XinCheJian Anniversary Party! | 新车间周年派对！
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

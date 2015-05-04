@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 <p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/11/NewImage4.png" alt="NewImage" title="NewImage.png" border="0" width="500" height="332" /></p>
-<p>Over the weekend, we hosted a "Makerspace & Education Workshop" in collaboration with IMA of NYU Shanghai. Thanks for <a href="http://mariannerpetit.tumblr.com">Marianne Petit</a> for arranging everything. More info and photos can be found <a href="http://mariannerpetit.tumblr.com/post/67910969220/nyush-makerspaces-education-day-1-a">here</a> and <a href="http://mariannerpetit.tumblr.com/post/67944149818/nyush-makerspaces-education-day-2-ima">here</a>.</p></p>
+<p>Over the weekend, we hosted a "Makerspace &amp; Education Workshop" in collaboration with IMA of NYU Shanghai. Thanks for <a href="http://mariannerpetit.tumblr.com">Marianne Petit</a> for arranging everything. More info and photos can be found <a href="http://mariannerpetit.tumblr.com/post/67910969220/nyush-makerspaces-education-day-1-a">here</a> and <a href="http://mariannerpetit.tumblr.com/post/67944149818/nyush-makerspaces-education-day-2-ima">here</a>.</p></p>
 <h2>Opening by Marianne Petit</h2></p>
 <p>Marianne prepared her opening speech in Mandarin and delivered it beautifully!</p><br />
 <img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/11/NewImage5.png" alt="NewImage" title="NewImage.png" border="0" width="600" height="450" /></p>

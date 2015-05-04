@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:zh-->Robo Racing - Sunday 7th - 1pm - 3pm @ Shanghai Library 3rd floor<!--:--><!--:en-->Robo
+title: Robo Racing - Sunday 7th - 1pm - 3pm @ Shanghai Library 3rd floor | Robo
   Racing - Sunday 7th - 1pm - 3pm @ Shanghai Library 3rd floor<!--:-->
 author:
   display_name: nihaopaul

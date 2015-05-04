@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Occupy Barcamp<!--:--><!--:zh-->占领Barcamp活动花絮<!--:-->
+title: Occupy Barcamp | 占领Barcamp活动花絮
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

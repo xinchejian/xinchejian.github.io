@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Rocking with CNC'ed Bamboo Guitar and Vacuum Tube AMP<!--:--><!--:zh-->和数字机床的竹子吉他和真空管的放大器一起摇滚<!--:-->
+title: Rocking with CNC'ed Bamboo Guitar and Vacuum Tube AMP | 和数字机床的竹子吉他和真空管的放大器一起摇滚
 author:
   display_name: David Li
   login: david

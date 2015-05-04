@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Fogger and Bubble bucket framing system online<!--:--><!--:zh-->农耕队又上了两个新的系统：超音波雾化气耕和泡泡水耕桶<!--:-->
+title: Fogger and Bubble bucket framing system online | 农耕队又上了两个新的系统：超音波雾化气耕和泡泡水耕桶
 author:
   display_name: David Li
   login: david

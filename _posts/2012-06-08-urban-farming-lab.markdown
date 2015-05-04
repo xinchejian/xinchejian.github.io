@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: <!--:en-->Urban Farming Lab<!--:--><!--:zh-->都市农耕实验室<!--:-->
+title: Urban Farming Lab | 都市农耕实验室
 author:
   display_name: David Li
   login: david
