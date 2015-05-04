@@ -146,7 +146,7 @@ comments:
   date_gmt: '2015-04-14 13:34:22 +0800'
   content: click the green button to sign up. payment info inside.
 ---
-<p><a style="color: #2578bf;"href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
+<p><a style="color: #2578bf;" href="http:&#47;&#47;xinchejian.huodongxing.com&#47;event&#47;map&#47;5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间<&#47;a><br />
 <a href="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;04&#47;IMG_0027.jpg"><img src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2015&#47;04&#47;IMG_0027-290x290.jpg" alt="IMG_0027" width="290" height="290" class="aligncenter size-thumbnail wp-image-7241" &#47;><&#47;a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http:&#47;&#47;www.huodongxing.com&#47;event&#47;4278169591400" target="_blank" title="立即报名">Sign up 报名参加<&#47;a><br />
 <!--:en--><br />
