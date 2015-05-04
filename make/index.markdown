@@ -24,7 +24,7 @@ comments:
   date: '2013-03-12 20:18:00 +0800'
   date_gmt: '2013-03-12 12:18:00 +0800'
   content: I am a Special Effects artist who makes Hollywood quality costumes for
-    Cosplay&#47; Entertainment purposes from my Shanghai Studio. Please let me know
+    Cosplay/ Entertainment purposes from my Shanghai Studio. Please let me know
     on how to become part of your team. I am based in Shanghai.
 - id: 18508
   author: E.one
@@ -85,13 +85,13 @@ comments:
 <p>智造家（+） 艺术与科技项目由上海的创客，艺术家和策展人发起。我们想邀请你来上海，与我们一起工作，合作，并实现有创意的想法！</p>
 <p>智造家（+）项目的宗旨是鼓励更棒的新媒体艺术。我们要你发挥奇特的想象力。我们要你成功。智造家项目会与社会分享你的作品和制作过程。我们会找专家来帮助你，同时也需要你实时公开更新。</p>
 <p>2013年10月，成功完成的作品会与其他超级棒的作品一起参加视界艺术中心的展览。你的作品也会参加吸引上千观众的，上海迷你创客会。</p>
-<p>智造家项目由新车间和视界艺术中心合作支持。参与详情见官方网站：<a href="http:&#47;&#47;makeplus.org">makeplus.org<&#47;a></p>
-<p>*我们在找实习生和志愿者，有兴趣请联系：<a href="mailto:info@makeplus.org">info@makeplus.org<&#47;a><!--:--><!--:en-->Join us in Make+ first meetup on May 5, 2013. 1400 - 1700 in XinCheJian.</p>
+<p>智造家项目由新车间和视界艺术中心合作支持。参与详情见官方网站：<a href="http://makeplus.org">makeplus.org</a></p>
+<p>*我们在找实习生和志愿者，有兴趣请联系：<a href="mailto:info@makeplus.org">info@makeplus.org</a><!--:--><!--:en-->Join us in Make+ first meetup on May 5, 2013. 1400 - 1700 in XinCheJian.</p>
 <p>Register before April 21, by email [your name, expertise, or simple project proposal] to info@makeplus.org</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Make+ Art &amp; Technology program is initiated in Shanghai by a group of hackers, artists and curators. We want YOU to be here with us in Shanghai, working, collaborating, making crazy ideas come alive!</p>
 <p>Make plus&rsquo;s goal is to encourage great works of New media Art. We want YOUR TEAM to think out of the box! And we want you to succeed. Make+ will share your work and process with our community. We will hold workshops to help you, and you will give us open updates.</p>
 <p>In 2013 October, your team&rsquo;s successful projects will join other great project in an Art Exhibition in Shanghai V Art Center, supported by China Fudan University, and a mini-makerfair, which will attract thousands of audience.</p>
-<p>Make+ is supported by Xinchejian and V Art Center. For more details on How to Enter, please cheack out our website: <a href="http:&#47;&#47;makeplus.org">makeplus.org<&#47;a></p>
-<p>*We are also looking for volunteers and interns. Please&nbsp;contact: <a href="mailto:info@makeplus.org">info@makeplus.org<&#47;a>&nbsp;for more info.<!--:--></p>
+<p>Make+ is supported by Xinchejian and V Art Center. For more details on How to Enter, please cheack out our website: <a href="http://makeplus.org">makeplus.org</a></p>
+<p>*We are also looking for volunteers and interns. Please&nbsp;contact: <a href="mailto:info@makeplus.org">info@makeplus.org</a>&nbsp;for more info.<!--:--></p>

@@ -55,57 +55,57 @@ comments:
   date: '2011-07-29 09:36:27 +0800'
   date_gmt: '2011-07-29 01:36:27 +0800'
   content: "Please come to XinCheJian to meet passionate hackers! We have Hackers
-    Meetup every Wednesday night at 7pm and events on weekends, please check out here:\r\n\r\nhttp:&#47;&#47;xinchejian.com&#47;event&#47;"
+    Meetup every Wednesday night at 7pm and events on weekends, please check out here:\r\n\r\nhttp://xinchejian.com/event/"
 ---
 <p><!--:en--><br />
-<h3>Main tools<&#47;h3></p>
+<h3>Main tools</h3></p>
 <ul>
-<li><a href="http:&#47;&#47;www.arduino.cc&#47;">Arduino<&#47;a>: our microcontroller<&#47;li>
-<li><a href="http:&#47;&#47;fritzing.org&#47;">Fritzing<&#47;a>: great tool for layout electronics<&#47;li><br />
-<&#47;ul></p>
-<h3>Main electronics and hardware equipments<&#47;h3><br />
-See: <a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Equipment">http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Equipment<&#47;a></p>
+<li><a href="http://www.arduino.cc/">Arduino</a>: our microcontroller</li>
+<li><a href="http://fritzing.org/">Fritzing</a>: great tool for layout electronics</li><br />
+</ul></p>
+<h3>Main electronics and hardware equipments</h3><br />
+See: <a href="http://wiki.xinchejian.com/wiki/Equipment">http://wiki.xinchejian.com/wiki/Equipment</a></p>
 <ul>
-<li>Function Generator<&#47;li>
-<li>Oscilloscope<&#47;li>
-<li>Power Supplies<&#47;li>
-<li>Soldering stations and irons<&#47;li>
-<li>SMD Rework Station<&#47;li>
-<li>Drill Press<&#47;li>
-<li>Dremel<&#47;li>
-<li>Jigsaw<&#47;li>
-<li>Makerbot (3D-printer)<&#47;li><br />
-<&#47;ul></p>
-<h3>DIY Kits<&#47;h3></p>
+<li>Function Generator</li>
+<li>Oscilloscope</li>
+<li>Power Supplies</li>
+<li>Soldering stations and irons</li>
+<li>SMD Rework Station</li>
+<li>Drill Press</li>
+<li>Dremel</li>
+<li>Jigsaw</li>
+<li>Makerbot (3D-printer)</li><br />
+</ul></p>
+<h3>DIY Kits</h3></p>
 <ul>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;arduino-starter-kit&#47;">Arduino UNO Starter Kit<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;diy-motorssensors-shield-for-arduino&#47;">DIY Motors&#47;Sensors Shield for Arduino<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;insectbot-diy-kit&#47;">InsectBot DIY Kit<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;diy-kits-from-mitch-altman&#47;">DIY Kits from Mitch Altman<&#47;a><&#47;li><br />
-<&#47;ul><!--:--><!--:zh--><br />
-<h3>主要工具<&#47;h3></p>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/arduino-starter-kit/">Arduino UNO Starter Kit</a></li>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/diy-motorssensors-shield-for-arduino/">DIY Motors/Sensors Shield for Arduino</a></li>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/insectbot-diy-kit/">InsectBot DIY Kit</a></li>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/diy-kits-from-mitch-altman/">DIY Kits from Mitch Altman</a></li><br />
+</ul><!--:--><!--:zh--><br />
+<h3>主要工具</h3></p>
 <ul>
-<li> <a href="http:&#47;&#47;www.arduino.cc&#47;">Arduino<&#47;a>: 学习电子最容易上手的一块板子<&#47;li>
-<li> <a href="http:&#47;&#47;fritzing.org&#47;">Fritzing<&#47;a>: 用来设计电路板<&#47;li><br />
-<&#47;ul></p>
-<p><h3>主要电子和硬件设备<&#47;h3></p>
-<p>请查看：<a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Equipment">http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;Equipment<&#47;a><&#47;br><&#47;p></p>
+<li> <a href="http://www.arduino.cc/">Arduino</a>: 学习电子最容易上手的一块板子</li>
+<li> <a href="http://fritzing.org/">Fritzing</a>: 用来设计电路板</li><br />
+</ul></p>
+<p><h3>主要电子和硬件设备</h3></p>
+<p>请查看：<a href="http://wiki.xinchejian.com/wiki/Equipment">http://wiki.xinchejian.com/wiki/Equipment</a></br></p></p>
 <ul>
-<li>Function Generator<&#47;li>
-<li>Oscilloscope<&#47;li>
-<li>Power Supplies<&#47;li>
-<li>Soldering stations and irons<&#47;li>
-<li>SMD Rework Station<&#47;li>
-<li>Drill Press<&#47;li>
-<li>Dremel<&#47;li>
-<li>Jigsaw<&#47;li>
-<li>Makerbot (3D-printer)<&#47;li><br />
-<&#47;ul></p>
-<p><h3>DIY 套件<&#47;h3></p>
+<li>Function Generator</li>
+<li>Oscilloscope</li>
+<li>Power Supplies</li>
+<li>Soldering stations and irons</li>
+<li>SMD Rework Station</li>
+<li>Drill Press</li>
+<li>Dremel</li>
+<li>Jigsaw</li>
+<li>Makerbot (3D-printer)</li><br />
+</ul></p>
+<p><h3>DIY 套件</h3></p>
 <ul>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;arduino-starter-kit&#47;?lang=zh">Arduino UNO 入门套件<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;diy-motorssensors-shield-for-arduino&#47;?lang=zh">DIY Arduino兼容电机驱动&#47;传感器扩展板<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;insectbot-diy-kit&#47;?lang=zh">虫虫机器人套件<&#47;a><&#47;li>
-<li><a href="http:&#47;&#47;xinchejian.com&#47;tools-%e5%b7%a5%e5%85%b7&#47;diy-kits-from-mitch-altman&#47;?lang=zh">大牛创客米奇奥特曼 (Mitch Altman) 好玩的套件<&#47;a><&#47;li><br />
-<&#47;ul><br />
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/arduino-starter-kit/?lang=zh">Arduino UNO 入门套件</a></li>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/diy-motorssensors-shield-for-arduino/?lang=zh">DIY Arduino兼容电机驱动/传感器扩展板</a></li>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/insectbot-diy-kit/?lang=zh">虫虫机器人套件</a></li>
+<li><a href="http://xinchejian.com/tools-%e5%b7%a5%e5%85%b7/diy-kits-from-mitch-altman/?lang=zh">大牛创客米奇奥特曼 (Mitch Altman) 好玩的套件</a></li><br />
+</ul><br />
 <!--:--></p>

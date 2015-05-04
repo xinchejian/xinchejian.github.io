@@ -61,7 +61,7 @@ comments:
   date: '2011-12-05 16:59:01 +0800'
   date_gmt: '2011-12-05 08:59:01 +0800'
   content: |-
-    吴先生您好，12岁可以参加的，费用是280元（包含材料费），有兴趣参加的话请先在网站上报名：http:&#47;&#47;xinchejian.com&#47;event&#47;?ee=75
+    吴先生您好，12岁可以参加的，费用是280元（包含材料费），有兴趣参加的话请先在网站上报名：http://xinchejian.com/event/?ee=75
 
     费用请在工作坊当天支付现金。感谢支持！
 - id: 5616
@@ -132,7 +132,7 @@ comments:
   content: 11月中旬吧。
 ---
 <p><!--:en--><br />
-<h2>虫虫机器人工作坊<&#47;h2><br />
+<h2>虫虫机器人工作坊</h2><br />
 参加人员：5岁到99岁对机器人有兴趣的小朋友！;-)<br />
 需要自己准备笔记本<br />
 包含下列材料：<br />
@@ -140,7 +140,7 @@ comments:
 － 舵机2个<br />
 － 超音波距离传感器1个<br />
 － 其他机器人结构材料</p>
-<h2>Insect Robot Workshop<&#47;h2><br />
+<h2>Insect Robot Workshop</h2><br />
 Audience: any person aged from 5 ~ 99 interested in robotics ;-)<br />
 Bring your own notebook<br />
 The kit includes the following:<br />
@@ -148,10 +148,10 @@ The kit includes the following:<br />
 － 2 Servo<br />
 － 1 Ultrasound distance sensor<br />
 － Other material for the robot structures</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_8260.JPG" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8260.jpg" alt="DSC 8260" border="0" &#47;></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_8262.JPG" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8262.jpg" alt="DSC 8262" border="0" &#47;></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_8264.JPG" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8264.jpg" alt="DSC 8264" border="0" &#47;><!--:--><!--:zh--><br />
-<h2>虫虫机器人工作坊<&#47;h2><br />
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_8260.JPG" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_8262.JPG" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_8264.JPG" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" border="0" /><!--:--><!--:zh--><br />
+<h2>虫虫机器人工作坊</h2><br />
 参加人员：5岁到99岁对机器人有兴趣的小朋友！;-)<br />
 需要自己准备笔记本<br />
 包含下列材料：<br />
@@ -159,7 +159,7 @@ The kit includes the following:<br />
 － 舵机2个<br />
 － 超音波距离传感器1个<br />
 － 其他机器人结构材料</p>
-<h2>Insect Robot Workshop<&#47;h2><br />
+<h2>Insect Robot Workshop</h2><br />
 Audience: any person aged from 5 ~ 99 interested in robotics ;-)<br />
 Bring your own notebook<br />
 The kit includes the following:<br />
@@ -167,6 +167,6 @@ The kit includes the following:<br />
 － 2 Servo<br />
 － 1 Ultrasound distance sensor<br />
 － Other material for the robot structures</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"&#47;><&#47;p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"&#47;><&#47;p><!--:--></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p><!--:--></p>

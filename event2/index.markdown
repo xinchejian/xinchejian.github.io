@@ -94,7 +94,7 @@ comments:
   author_url: http://xinchejian.com/2013/03/25/xinchejian-birthday-2013/
   date: '2013-03-25 19:12:49 +0800'
   date_gmt: '2013-03-25 11:12:49 +0800'
-  content: '[...] Register here：http:&#47;&#47;xinchejian.com&#47;event2&#47;?ee=171
+  content: '[...] Register here：http://xinchejian.com/event2/?ee=171
     [...]'
 - id: 16568
   author: 齐天大圣
@@ -147,11 +147,11 @@ comments:
   content: '[...] Registration Link [...]'
 ---
 <p><!--:zh--><br />
-<h2>活动预告<&#47;h2><br />
+<h2>活动预告</h2><br />
 [ESPRESSO_EVENTS]</p>
-<h2>月历<&#47;h2><br />
-<iframe style="border-width: 0pt;" src="https:&#47;&#47;www.google.com&#47;calendar&#47;embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"><&#47;iframe>[ESPRESSO_CANCELLED]<!--:--><!--:en--><br />
-<h2>Upcoming Events<&#47;h2><br />
+<h2>月历</h2><br />
+<iframe style="border-width: 0pt;" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"></iframe>[ESPRESSO_CANCELLED]<!--:--><!--:en--><br />
+<h2>Upcoming Events</h2><br />
 [ESPRESSO_EVENTS]</p>
-<h2>Calendar<&#47;h2><br />
-<iframe style="border-width: 0pt;" src="https:&#47;&#47;www.google.com&#47;calendar&#47;embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"><&#47;iframe>[ESPRESSO_CANCELLED]<!--:--></p>
+<h2>Calendar</h2><br />
+<iframe style="border-width: 0pt;" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"></iframe>[ESPRESSO_CANCELLED]<!--:--></p>

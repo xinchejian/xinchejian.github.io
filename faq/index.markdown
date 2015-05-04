@@ -63,9 +63,9 @@ comments:
   content: yes but small ones
 ---
 <p>Many people have questions about Xinchejian.  </p>
-<p>We have compiled a <strong>frequently asked question list<&#47;strong>:<br />
-* <a href="http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;FAQ">http:&#47;&#47;wiki.xinchejian.com&#47;wiki&#47;FAQ<&#47;a><br />
-<br &#47;>&nbsp;<br &#47;><br />
+<p>We have compiled a <strong>frequently asked question list</strong>:<br />
+* <a href="http://wiki.xinchejian.com/wiki/FAQ">http://wiki.xinchejian.com/wiki/FAQ</a><br />
+<br />&nbsp;<br /><br />
 If you have other questions, please send them to info@xinchejian.com.</p>
-<p><br &#47;>&nbsp;<br &#47;><br />
-<br &#47;>&nbsp;<br &#47;></p>
+<p><br />&nbsp;<br /><br />
+<br />&nbsp;<br /></p>

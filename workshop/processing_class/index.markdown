@@ -51,7 +51,7 @@ comments:
   author_url: http://the-moor.blogbus.com
   date: '2012-01-30 15:44:16 +0800'
   date_gmt: '2012-01-30 07:44:16 +0800'
-  content: "P5 就是Processing 的简称。\r\nhttp:&#47;&#47;processing.org&#47;"
+  content: "P5 就是Processing 的简称。\r\nhttp://processing.org/"
 - id: 3118
   author: niuniuwu
   author_email: wingwu.wu@gmail.com
@@ -82,52 +82,52 @@ comments:
   content: 请问这个课程是随时开的吗？
 ---
 <p><!--:en--><br />
-<h3>Processing Class (Chinese instructions)<&#47;h3><br />
-<strong>Time schedule<&#47;strong>：Saturday or Sunday 9am to 12pm, after lunch, 1pm to 4pm. 3 weeks total (18 hours)</p>
-<p><strong>Class content<&#47;strong>：</p>
-<p>Unit 1 - P5 brief intro and interface intro&#47; Basic 2D drawing + interaction</p>
-<p>Unit 2 - Variable&#47; Conditional</p>
-<p>Unit 3 - Polar coordinates&#47; Perlin noise</p>
-<p>Unit 4 - Loops&#47; Array</p>
-<p>Unit 5 - Bitmap&#47; Webcam</p>
+<h3>Processing Class (Chinese instructions)</h3><br />
+<strong>Time schedule</strong>：Saturday or Sunday 9am to 12pm, after lunch, 1pm to 4pm. 3 weeks total (18 hours)</p>
+<p><strong>Class content</strong>：</p>
+<p>Unit 1 - P5 brief intro and interface intro/ Basic 2D drawing + interaction</p>
+<p>Unit 2 - Variable/ Conditional</p>
+<p>Unit 3 - Polar coordinates/ Perlin noise</p>
+<p>Unit 4 - Loops/ Array</p>
+<p>Unit 5 - Bitmap/ Webcam</p>
 <p>Unit 6 - Some interesting 3rd party libs</p>
-<p><strong>This workshop is mainly for P5 beginners &#47; students majoring in art<br />
-<&#47;strong></p>
-<p><strong>What to bring<&#47;strong>：laptop with Processing software installed</p>
-<p><strong>Fee<&#47;strong>：800rmb for total of 18 hours class, students with valid ID can get 25% off.</p>
-<p><strong>Registration<&#47;strong>：Please send email to：mlhsieh@xinchejian.com，with your name, email, and phone number.</p>
-<p><strong>About the teacher<&#47;strong>：</p>
+<p><strong>This workshop is mainly for P5 beginners / students majoring in art<br />
+</strong></p>
+<p><strong>What to bring</strong>：laptop with Processing software installed</p>
+<p><strong>Fee</strong>：800rmb for total of 18 hours class, students with valid ID can get 25% off.</p>
+<p><strong>Registration</strong>：Please send email to：mlhsieh@xinchejian.com，with your name, email, and phone number.</p>
+<p><strong>About the teacher</strong>：</p>
 <p>Raven Kwok | 郭锐文<br />
 the-moor.blogbus.com<br />
-weibo.com&#47;ravenkwok<br />
-vimeo.com&#47;ravenkwok</p>
+weibo.com/ravenkwok<br />
+vimeo.com/ravenkwok</p>
 <p>Personal Showreel 2007-2011:</p>
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="src" value="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzAxNjUwOTg4&#47;v.swf" &#47;><param name="quality" value="high" &#47;><param name="allowscriptaccess" value="sameDomain" &#47;><embed width="480" height="400" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzAxNjUwOTg4&#47;v.swf" quality="high" allowscriptaccess="sameDomain" &#47;><&#47;object></p>
+<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMzAxNjUwOTg4/v.swf" /><param name="quality" value="high" /><param name="allowscriptaccess" value="sameDomain" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMzAxNjUwOTg4/v.swf" quality="high" allowscriptaccess="sameDomain" /></object></p>
 <p>Colloid Text：</p>
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="src" value="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjk4MjI2NDQ0&#47;v.swf" &#47;><param name="quality" value="high" &#47;><param name="allowscriptaccess" value="sameDomain" &#47;><embed width="480" height="400" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjk4MjI2NDQ0&#47;v.swf" quality="high" allowscriptaccess="sameDomain" &#47;><&#47;object></p>
+<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMjk4MjI2NDQ0/v.swf" /><param name="quality" value="high" /><param name="allowscriptaccess" value="sameDomain" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMjk4MjI2NDQ0/v.swf" quality="high" allowscriptaccess="sameDomain" /></object></p>
 <p>Landscape:</p>
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="src" value="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjcyOTk3OTk2&#47;v.swf" &#47;><param name="quality" value="high" &#47;><param name="allowscriptaccess" value="sameDomain" &#47;><embed width="480" height="400" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjcyOTk3OTk2&#47;v.swf" quality="high" allowscriptaccess="sameDomain" &#47;><&#47;object><!--:--><!--:zh--><br />
-<h2>Processing 课程<&#47;h2><br />
-<strong>时间分布和周期<&#47;strong>：周六或周日早上9点到12点，午饭後继续，下午1点至4点。共3周，18个小时。</p>
-<p><strong>课程内容安排<&#47;strong>：</p>
-<p>Unit 1 &ndash; P5 概况与界面介绍 &#47; 基本的二维绘制与互动</p>
-<p>Unit 2 &ndash; 变量 &#47; 条件句</p>
-<p>Unit 3 &ndash; 极坐标 &#47; 柏林噪点</p>
-<p>Unit 4 &ndash; 循环 &#47; 数组</p>
-<p>Unit 5 &ndash; 位图 &#47; 摄像头</p>
+<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMjcyOTk3OTk2/v.swf" /><param name="quality" value="high" /><param name="allowscriptaccess" value="sameDomain" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMjcyOTk3OTk2/v.swf" quality="high" allowscriptaccess="sameDomain" /></object><!--:--><!--:zh--><br />
+<h2>Processing 课程</h2><br />
+<strong>时间分布和周期</strong>：周六或周日早上9点到12点，午饭後继续，下午1点至4点。共3周，18个小时。</p>
+<p><strong>课程内容安排</strong>：</p>
+<p>Unit 1 &ndash; P5 概况与界面介绍 / 基本的二维绘制与互动</p>
+<p>Unit 2 &ndash; 变量 / 条件句</p>
+<p>Unit 3 &ndash; 极坐标 / 柏林噪点</p>
+<p>Unit 4 &ndash; 循环 / 数组</p>
+<p>Unit 5 &ndash; 位图 / 摄像头</p>
 <p>Unit 6 &ndash; 有趣的第三方类库应用</p>
-<p><strong>针对受众<&#47;strong>：入门级P5互动爱好者 &#47; 艺术类学生，人数控制在15人以上，30人以内。</p>
-<p><strong>备注<&#47;strong>：需自行携带笔记本并备有当日课程需要的文件（在每次课程的前一天共享当日的课件，学生自行下载）</p>
-<p><strong>收费<&#47;strong>：每个人整个课程3周共18个小时的费用为800元，在校学生可以打7.5折。</p>
-<p><strong>报名<&#47;strong>：有兴趣学习的人请联系：mlhsieh@xinchejian.com，请回复姓名、电话和Email。</p>
-<p><strong>教师资料<&#47;strong>：</p>
+<p><strong>针对受众</strong>：入门级P5互动爱好者 / 艺术类学生，人数控制在15人以上，30人以内。</p>
+<p><strong>备注</strong>：需自行携带笔记本并备有当日课程需要的文件（在每次课程的前一天共享当日的课件，学生自行下载）</p>
+<p><strong>收费</strong>：每个人整个课程3周共18个小时的费用为800元，在校学生可以打7.5折。</p>
+<p><strong>报名</strong>：有兴趣学习的人请联系：mlhsieh@xinchejian.com，请回复姓名、电话和Email。</p>
+<p><strong>教师资料</strong>：</p>
 <p>Raven Kwok | 郭锐文</p>
 <p>the-moor.blogbus.com</p>
-<p>weibo.com&#47;ravenkwok</p>
-<p>vimeo.com&#47;ravenkwok</p>
+<p>weibo.com/ravenkwok</p>
+<p>vimeo.com/ravenkwok</p>
 <p>Personal Showreel 2007-2011:</p>
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="src" value="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzAxNjUwOTg4&#47;v.swf" &#47;><param name="quality" value="high" &#47;><param name="allowscriptaccess" value="sameDomain" &#47;><embed width="480" height="400" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMzAxNjUwOTg4&#47;v.swf" quality="high" allowscriptaccess="sameDomain" &#47;><&#47;object></p>
+<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMzAxNjUwOTg4/v.swf" /><param name="quality" value="high" /><param name="allowscriptaccess" value="sameDomain" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMzAxNjUwOTg4/v.swf" quality="high" allowscriptaccess="sameDomain" /></object></p>
 <p>Colloid Text：</p>
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="src" value="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjk4MjI2NDQ0&#47;v.swf" &#47;><param name="quality" value="high" &#47;><param name="allowscriptaccess" value="sameDomain" &#47;><embed width="480" height="400" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjk4MjI2NDQ0&#47;v.swf" quality="high" allowscriptaccess="sameDomain" &#47;><&#47;object></p>
+<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMjk4MjI2NDQ0/v.swf" /><param name="quality" value="high" /><param name="allowscriptaccess" value="sameDomain" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMjk4MjI2NDQ0/v.swf" quality="high" allowscriptaccess="sameDomain" /></object></p>
 <p>Landscape:</p>
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="src" value="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjcyOTk3OTk2&#47;v.swf" &#47;><param name="quality" value="high" &#47;><param name="allowscriptaccess" value="sameDomain" &#47;><embed width="480" height="400" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;player.youku.com&#47;player.php&#47;sid&#47;XMjcyOTk3OTk2&#47;v.swf" quality="high" allowscriptaccess="sameDomain" &#47;><&#47;object><!--:--></p>
+<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMjcyOTk3OTk2/v.swf" /><param name="quality" value="high" /><param name="allowscriptaccess" value="sameDomain" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMjcyOTk3OTk2/v.swf" quality="high" allowscriptaccess="sameDomain" /></object><!--:--></p>

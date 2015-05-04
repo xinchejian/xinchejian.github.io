@@ -18,4 +18,4 @@ categories: []
 tags: []
 comments: []
 ---
-<p>http:&#47;&#47;www.meetup.com&#47;xinchejian-meetup&#47;</p>
+<p>http://www.meetup.com/xinchejian-meetup/</p>

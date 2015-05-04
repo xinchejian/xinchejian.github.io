@@ -34,9 +34,9 @@ comments:
   author_url: ''
   date: '2012-04-16 16:02:50 +0800'
   date_gmt: '2012-04-16 08:02:50 +0800'
-  content: "Hello,\r\nI'm data from Hong Kong. I'm going to visit Shanghai from 18&#47;4
-    - 22&#47;4. I would like to have a visit the hackspace in Shanghai.\r\n\r\nIs
-    still there any regular meeting on the coming wednesday (18&#47;4)? I read the
+  content: "Hello,\r\nI'm data from Hong Kong. I'm going to visit Shanghai from 18/4
+    - 22/4. I would like to have a visit the hackspace in Shanghai.\r\n\r\nIs
+    still there any regular meeting on the coming wednesday (18/4)? I read the
     frontpage that XinCheJian is moving. Please keep me updated about this.\r\n\r\nThanks,\r\ndata"
 - id: 2936
   author: nihaopaul
@@ -137,12 +137,12 @@ comments:
   content: I HOPE MAKE MY CAR FOR UPDATA
 ---
 <p><!--:en--></p>
-<p>每周三晚上7点在新车间：创客聚会，欢迎大家来秀项目，交流指导！免费参加！<&#47;p></p>
-<p>Every Wednesday at 7pm at XinCheJian: Hackers Meetup, come to meet passionate Hackers and show what you've hacked! FREE!<&#47;p></p>
-<p><img width="470" height="352" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;06&#47;Show.jpg"><&#47;p></p>
+<p>每周三晚上7点在新车间：创客聚会，欢迎大家来秀项目，交流指导！免费参加！</p></p>
+<p>Every Wednesday at 7pm at XinCheJian: Hackers Meetup, come to meet passionate Hackers and show what you've hacked! FREE!</p></p>
+<p><img width="470" height="352" src="http://xinchejian.com/wp-content/uploads/2011/06/Show.jpg"></p></p>
 <p><!--::--></p>
 <p><!--:zh--></p>
-<p>每周三晚上7点在新车间：创客聚会，欢迎大家来秀项目，交流指导！免费参加！<&#47;p></p>
-<p>Every Wednesday at 7pm at XinCheJian: Hackers Meetup, come to meet passionate Hackers and show what you've hacked! FREE!<&#47;p></p>
-<p><img width="470" height="352" src="http:&#47;&#47;xinchejian.com&#47;wp-content&#47;uploads&#47;2011&#47;06&#47;Show.jpg"><&#47;p></p>
+<p>每周三晚上7点在新车间：创客聚会，欢迎大家来秀项目，交流指导！免费参加！</p></p>
+<p>Every Wednesday at 7pm at XinCheJian: Hackers Meetup, come to meet passionate Hackers and show what you've hacked! FREE!</p></p>
+<p><img width="470" height="352" src="http://xinchejian.com/wp-content/uploads/2011/06/Show.jpg"></p></p>
 <p><!--::--></p>
