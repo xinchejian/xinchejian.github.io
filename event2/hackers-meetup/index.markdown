@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Hackers Meetup | 创客聚会 | Hackers Meetup | 创客聚会
+title: Hackers Meetup | 创客聚会
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

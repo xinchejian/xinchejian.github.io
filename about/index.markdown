@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: About Us | 有关我们 | About Us | 有关我们
+title: About Us | 有关我们
 author:
   display_name: David Li
   login: david

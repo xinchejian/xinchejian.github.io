@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Quantified Self | Quantified Self
+title: Quantified Self
 author:
   display_name: Abe
   login: Abe
