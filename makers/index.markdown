@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Makers | 创客 | Makers | 创客
+title: Makers | 创客
 author:
   display_name: Min Lin Hsieh
   login: mlhsieh

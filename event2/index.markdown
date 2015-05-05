@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Events | 活动 | Events | 活动
+title: Events | 活动
 author:
   display_name: euccas
   login: euccas
@@ -146,12 +146,5 @@ comments:
   date_gmt: '2013-07-10 15:33:12 +0800'
   content: '[...] Registration Link [...]'
 ---
-<p><!--:zh--><br />
-<h2>活动预告</h2><br />
-[ESPRESSO_EVENTS]</p>
-<h2>月历</h2><br />
-<iframe style="border-width: 0pt;" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"></iframe>[ESPRESSO_CANCELLED]<!--:--><!--:en--><br />
-<h2>Upcoming Events</h2><br />
-[ESPRESSO_EVENTS]</p>
-<h2>Calendar</h2><br />
-<iframe style="border-width: 0pt;" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"></iframe>[ESPRESSO_CANCELLED]<!--:--></p>
+<h2>Calendar | 月历</h2><br />
+<iframe style="border-width: 0pt;" src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=xinchejian.com_loc0h655hhu81r9oaensqt87uc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FShanghai" height="500" width="500" frameborder="0" scrolling="no"></iframe>

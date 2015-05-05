@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Make + | 智造家+ | Make + | 智造家+
+title: Make + | 智造家+
 author:
   display_name: David Li
   login: david
