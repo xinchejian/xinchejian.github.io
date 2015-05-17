@@ -34,8 +34,8 @@ comments:
   content: 'The code for the insect bot can be found here: http://letsmakerobots.com/node/38869'
 ---
 <h2><a href="http://xinchejian.com/event2/upcoming-workshop/?ee=196">Insectbot Workshop (English)</a> on November 16 2:00 PM </h2></p>
-<p><img src="http://xinchejian.com/wp-content/uploads/2013/11/insectbot_workshop_201311.jpg" alt="insectbot_workshop_201311" width="600" height="398" class="alignnone size-full wp-image-6068" /></p>
+<p><img src="/uploads/2013/11/insectbot_workshop_201311.jpg" alt="insectbot_workshop_201311" width="600" height="398" class="alignnone size-full wp-image-6068" /></p>
 <h2>
 <a href="http://xinchejian.com/event2/upcoming-workshop/?ee=23">Introduction to Arduino (English)</a> on November 17 2:00 PM<br />
 </h2></p>
-<p><img src="http://xinchejian.com/wp-content/uploads/2013/11/arduino.jpg" alt="arduino" width="480" height="360" class="aligncenter size-full wp-image-6070" /></p>
+<p><img src="/uploads/2013/11/arduino.jpg" alt="arduino" width="480" height="360" class="aligncenter size-full wp-image-6070" /></p>

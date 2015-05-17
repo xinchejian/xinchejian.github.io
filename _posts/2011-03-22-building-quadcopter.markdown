@@ -38,22 +38,22 @@ comments:
 <a href="http://xinchejian.com/projects/quadcopter/" target="_blank">The first try</a> to get the frame was fun. We Basically went down to the neighbor aluminum window frame maker and bought a few 50 cm aluminum frame and try to shanzhai our way to the frame. It doesn't quite work but it's a fun learning experience.<br />
 </p></p>
 <p style="text-align:center">
-<img src="http://xinchejian.com/wp-content/uploads/2010/12/IMG_0032.jpg"><br/><br />
-<img src="http://xinchejian.com/wp-content/uploads/2010/12/IMG_0034.jpg"><br />
+<img src="/uploads/2010/12/IMG_0032.jpg"><br/><br />
+<img src="/uploads/2010/12/IMG_0034.jpg"><br />
 </p></p>
 <h3>Getting the motors to work with Arduino</h3></p>
 <p>
 Getting the motors and propellers are easy. We can always count on Taobao for that. It took a while to get <a href="http://xinchejian.com/2010/12/30/189/" target="_blank">Arduino working with the motors</a> tho.<br />
 </p></p>
 <p style="text-align:center">
-<img src="http://xinchejian.com/wp-content/uploads/2010/12/图像123-300x240.jpg"><br />
+<img src="/uploads/2010/12/图像123-300x240.jpg"><br />
 </p></p>
 <h3>Prettier frames</h3></p>
 <p>
 Danny got a friend to design an aluminum and carbon fiber frame and have the structure CNCed. This is beautiful! We have come a long way and hopefuly we will get to fly this in the coming month.<br />
 </p></p>
 <p style="text-align:center">
-<img src="http://xinchejian.com/wp-content/uploads/2011/03/SNC18108.jpg"><br />
+<img src="/uploads/2011/03/SNC18108.jpg"><br />
 </p></p>
 <p><!--:--><br />
 <!--:zh--></p>
@@ -64,21 +64,21 @@ Danny got a friend to design an aluminum and carbon fiber frame and have the str
 <a href="http://xinchejian.com/projects/quadcopter/" target="_blank">第一次的尝试</a>是很山寨的，找了一家做窗户的，切了几个50cm的铝条。不是很成功，中间的架子的设计还是蛮有挑战的。<br />
 </p></p>
 <p style="text-align:center">
-<img src="http://xinchejian.com/wp-content/uploads/2010/12/IMG_0032.jpg"><br/><br />
-<img src="http://xinchejian.com/wp-content/uploads/2010/12/IMG_0034.jpg"><br />
+<img src="/uploads/2010/12/IMG_0032.jpg"><br/><br />
+<img src="/uploads/2010/12/IMG_0034.jpg"><br />
 </p></p>
 <h3>电机和Arduino</h3></p>
 <p>
 电机当然就是上淘宝淘了，用一般航模电机。花了一些时间调通<a href="http://xinchejian.com/2010/12/30/189/" target="_blank">Arduino</a>.<br />
 </p></p>
 <p style="text-align:center">
-<img src="http://xinchejian.com/wp-content/uploads/2010/12/图像123-300x240.jpg"><br />
+<img src="/uploads/2010/12/图像123-300x240.jpg"><br />
 </p></p>
 <h3>更好的骨架</h3></p>
 <p>
 东光找了一个朋友设计了一个铝和碳纤的骨架，非常的酷。有了这个骨架和电机，接下来就是剩下的传感的设计，希望在未来几个月内可以飞起来。<br />
 </p></p>
 <p style="text-align:center">
-<img src="http://xinchejian.com/wp-content/uploads/2011/03/SNC18108.jpg"><br />
+<img src="/uploads/2011/03/SNC18108.jpg"><br />
 </p></p>
 <p><!--:--></p>

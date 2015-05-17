@@ -36,7 +36,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=633713884" target="_blank">Min
     Chi</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/08/z1.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/08/z1-245x290.jpg" alt="z1" width="245" height="290" class="aligncenter size-thumbnail wp-image-6582" /></a><br />
+<p><a href="/uploads/2014/08/z1.jpg"><img src="/uploads/2014/08/z1-245x290.jpg" alt="z1" width="245" height="290" class="aligncenter size-thumbnail wp-image-6582" /></a><br />
 ZBrush - 一个强有力的数字艺术创造工具  A powerful digital sculpting tool<br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/xcjzb1" target="_blank" title="立即报名">报名参加 Register</a><br />
 ZBrush 是按照世界领先的特效工作室和全世界范围内的游戏设计者的需要，以一种精密的结合方式开发成功的，它提供了极其优秀的功能和特色，可以极大地增强你的创造力。<br />

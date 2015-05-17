@@ -20,7 +20,7 @@ tags: []
 comments: []
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2015/01/Screen-Shot-2014-06-03-at-6.47.25-am.png"><img src="http://xinchejian.com/wp-content/uploads/2015/01/Screen-Shot-2014-06-03-at-6.47.25-am-290x290.png" alt="Screen-Shot-2014-06-03-at-6.47.25-am" width="290" height="290" class="aligncenter size-thumbnail wp-image-7093" /></a><br />
+<a href="/uploads/2015/01/Screen-Shot-2014-06-03-at-6.47.25-am.png"><img src="/uploads/2015/01/Screen-Shot-2014-06-03-at-6.47.25-am-290x290.png" alt="Screen-Shot-2014-06-03-at-6.47.25-am" width="290" height="290" class="aligncenter size-thumbnail wp-image-7093" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/2263877664400" target="_blank" title="立即报名">Register 报名参加</a></p>
 <p><!--:en--><br />
 Fee: rmb200; for xcj member rmb150.<br />

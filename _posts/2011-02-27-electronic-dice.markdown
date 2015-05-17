@@ -24,13 +24,13 @@ comments: []
 ---
 <p>Got a chance to introduce Arduino to the boy scout at YCIS. It was a fun afternoon working with the boys and the parents. Here are more on the design of the electronic dice. Look forward to seeing the boys completing the system next week. </p></p>
 <p>The tool used to design the dice is <a href="http://fritzing.org" target="_blank">Fritzing</a>. It's an open source design program for interactive electronics. The functionalities of the dice is pretty straight forward: when the button is press, the LEDs start to flash and on the release of the button, one of the LED is randomly picked.</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/02/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/02/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/02/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/02/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/><br />
 </p></p>
 <p><a href="http://arduino.cc" target="_blank">Arduino</a> is used to drive the dice logics. Arduino is a popular open source microcontroller for building interactive electronics. It comes with an easy-to-use IDE that can be downloaded <a href="http://arduino.cc/en/Main/Software" target="_blank">here.</a> </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/02/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/02/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/><br />
 </p></p>
 <p>The complete program of the dice is here. Just connect up the Arduino board to the computer using the USB cable and launch the IDE to upload the program. Would be fun to see some tinkering with the program to provide different behavior of the dice. </p></p>
 <pre><code><br />

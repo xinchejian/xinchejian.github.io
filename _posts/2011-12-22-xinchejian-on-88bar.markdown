@@ -21,4 +21,4 @@ tags:
 - hackerspace
 comments: []
 ---
-<p><a href="http://www.88-bar.com/2011/12/shanghai-government-to-sponsor-hacking-spaces/" target="_blank"><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/12/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0" width="514" height="600" /></a></p>
+<p><a href="http://www.88-bar.com/2011/12/shanghai-government-to-sponsor-hacking-spaces/" target="_blank"><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/12/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0" width="514" height="600" /></a></p>

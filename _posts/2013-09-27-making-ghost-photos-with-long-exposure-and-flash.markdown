@@ -30,9 +30,9 @@ comments: []
 <p>
 The ghost photos are made with long exposure, in this case, f/20 and 5 second shutter, two flashes (one on the floor and one on the top of the container). The subjects ran into the positions, trigger the flash the manually with a remote and ran out of the frame. The flash froze the subject in place against the long exposure background and appear translucent.<br />
 </p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC1185.jpg" alt="DSC1185" title="_DSC1185.jpg" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC1186.jpg" alt="DSC1186" title="_DSC1186.jpg" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC1195.jpg" alt="DSC1195" title="_DSC1195.jpg" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC1219.jpg" alt="DSC1219" title="_DSC1219.jpg" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC1220.jpg" alt="DSC1220" title="_DSC1220.jpg" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC1222.jpg" alt="DSC1222" title="_DSC1222.jpg" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC1185.jpg" alt="DSC1185" title="_DSC1185.jpg" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC1186.jpg" alt="DSC1186" title="_DSC1186.jpg" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC1195.jpg" alt="DSC1195" title="_DSC1195.jpg" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC1219.jpg" alt="DSC1219" title="_DSC1219.jpg" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC1220.jpg" alt="DSC1220" title="_DSC1220.jpg" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC1222.jpg" alt="DSC1222" title="_DSC1222.jpg" border="0" width="600" height="398" /></p></p>

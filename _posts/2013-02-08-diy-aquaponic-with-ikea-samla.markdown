@@ -110,7 +110,7 @@ comments:
 ---
 <p><!--:zh-->
 <p><a href="http://blog.shanghaiaquaponics.com/zh/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank">用宜家Samla做的鱼菜共生箱子</a><br />
-<a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="http://xinchejian.com/wp-content/uploads/2013/01/IMGP8610_2.jpg"/></a></p></p>
+<a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="/uploads/2013/01/IMGP8610_2.jpg"/></a></p></p>
 <p><!--:--><!--:en-->
-<p>Check out the link for the <a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank">step by step to build aquaponic box with Ikea Samla</a>. <a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="http://xinchejian.com/wp-content/uploads/2013/01/IMGP8610_2.jpg"/></a></p></p>
+<p>Check out the link for the <a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank">step by step to build aquaponic box with Ikea Samla</a>. <a href="http://blog.shanghaiaquaponics.com/2013/02/03/desktop-aquaponic-with-ikea-selma-box/" target="_blank"><img class="size-full wp-image-4226" alt="desktop aquaponic system" src="/uploads/2013/01/IMGP8610_2.jpg"/></a></p></p>
 <p><!--:--></p>

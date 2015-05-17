@@ -47,7 +47,7 @@ comments:
 <p><!--:en-->
 <div dir="ltr">
 <div>
-<div><a href="http://xinchejian.com/wp-content/uploads/2014/04/images.jpg"><img class="aligncenter size-full wp-image-6273" alt="images" src="http://xinchejian.com/wp-content/uploads/2014/04/images.jpg" width="243" height="207" /></a></div></p>
+<div><a href="/uploads/2014/04/images.jpg"><img class="aligncenter size-full wp-image-6273" alt="images" src="/uploads/2014/04/images.jpg" width="243" height="207" /></a></div></p>
 <div>Time&nbsp;:&nbsp;7pm-10pm</div></p>
 <div>Venue&nbsp;: XinCheJian, F2 of 1035 Changle Road, Wulumuqi Road corner.</div></p>
 <div>

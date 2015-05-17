@@ -36,7 +36,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=175737115791930"
     target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/10/hydropnics.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/hydropnics-290x290.jpeg" alt="hydropnics" width="290" height="290" class="aligncenter size-thumbnail wp-image-6971" /></a><br />
+<p><a href="/uploads/2014/10/hydropnics.jpeg"><img src="/uploads/2014/10/hydropnics-290x290.jpeg" alt="hydropnics" width="290" height="290" class="aligncenter size-thumbnail wp-image-6971" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/7274992464800" target="_blank" title="立即报名">Sign Up 报名参加</a></p>
 <p><!--:zh--><br />
 活动时间：2015-04-18 14:00 至 2015-04-18 16:00<br />

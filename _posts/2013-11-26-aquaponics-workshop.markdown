@@ -50,10 +50,10 @@ comments:
   date_gmt: '2013-12-01 23:01:30 +0800'
   content: 哈哈，网上的教程有到淘宝的链接 http://blog.shanghaiaquaponics.com
 ---
-<p><!--:zh--><a href="http://xinchejian.com/wp-content/uploads/2013/11/Aquaponics2.jpg"><img alt="Aquaponics2" src="http://xinchejian.com/wp-content/uploads/2013/11/Aquaponics2-293x300.jpg" width="293" height="300" /></a></p>
+<p><!--:zh--><a href="/uploads/2013/11/Aquaponics2.jpg"><img alt="Aquaponics2" src="/uploads/2013/11/Aquaponics2-293x300.jpg" width="293" height="300" /></a></p>
 <div>
 <dl id="attachment_6114">
-<dt><a href="http://xinchejian.com/wp-content/uploads/2013/11/Aquaponics1.jpg"><img alt="home Aquaponics" src="http://xinchejian.com/wp-content/uploads/2013/11/Aquaponics1-300x210.jpg" width="300" height="210" /></a></dt>
+<dt><a href="/uploads/2013/11/Aquaponics1.jpg"><img alt="home Aquaponics" src="/uploads/2013/11/Aquaponics1-300x210.jpg" width="300" height="210" /></a></dt>
 <dd>home Aquaponics</dd></dl></div><br />
 &nbsp;</p>
 <p><strong>The Subject :</strong>&nbsp;How to build a home Aquaponics system By Mr. Song and Mr. Bian</p>
@@ -75,8 +75,8 @@ comments:
 <p>塑料水盆、玻璃鱼缸、管件、2瓦鱼缸泵、定时器、陶粒。</p>
 <p>费用：160元／人</p>
 <p>目的：教你如何做家用鱼菜共生系统，你可以现场做一个带回家！</p>
-<p>&nbsp;<!--:--><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2013/11/Aquaponics2.jpg"><img class="alignnone size-medium wp-image-6115" alt="Aquaponics2" src="http://xinchejian.com/wp-content/uploads/2013/11/Aquaponics2-293x300.jpg" width="293" height="300" /></a></p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/11/10134520293_b09c686126_o.jpg"><img class="alignnone size-medium wp-image-6121" alt="this is similar to what you will create on Sunday" src="http://xinchejian.com/wp-content/uploads/2013/11/10134520293_b09c686126_o-225x300.jpg" width="225" height="300" /></a></p>
+<p>&nbsp;<!--:--><!--:en--><a href="/uploads/2013/11/Aquaponics2.jpg"><img class="alignnone size-medium wp-image-6115" alt="Aquaponics2" src="/uploads/2013/11/Aquaponics2-293x300.jpg" width="293" height="300" /></a></p>
+<p><a href="/uploads/2013/11/10134520293_b09c686126_o.jpg"><img class="alignnone size-medium wp-image-6121" alt="this is similar to what you will create on Sunday" src="/uploads/2013/11/10134520293_b09c686126_o-225x300.jpg" width="225" height="300" /></a></p>
 <p>This is a model Aquaponics system for home, similar to what you will create on Sunday.</p>
 <p><strong>The Subject :</strong>&nbsp;How to build a home Aquaponics system By Mr. Song and Mr. Bian</p>
 <p><strong>The Time：</strong>Dec 1st 1pm-3pm</p>

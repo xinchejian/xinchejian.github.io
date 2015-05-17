@@ -39,7 +39,7 @@ comments:
 <p>Just installed the first version of the ultrasonic fogger based aeroponic.</p><!--:--><br />
 <!--:zh-->
 <p>刚安装了超声波雾化器的气耕箱</p><!--:--></p>
-<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/09/IMG_1384.jpg" alt="IMG 1384" title="IMG_1384.JPG" border="0"/></p></p>
-<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/09/IMG_13861.jpg" alt="IMG 1386" title="IMG_1386.JPG" border="0"/></p></p>
-<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/09/IMG_1390.jpg" alt="IMG 1390" title="IMG_1390.jpg" border="0"/></p></p>
-<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/09/IMG_1395.jpg" alt="IMG 1395" title="IMG_1395.JPG" border="0"/></p></p>
+<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/09/IMG_1384.jpg" alt="IMG 1384" title="IMG_1384.JPG" border="0"/></p></p>
+<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/09/IMG_13861.jpg" alt="IMG 1386" title="IMG_1386.JPG" border="0"/></p></p>
+<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/09/IMG_1390.jpg" alt="IMG 1390" title="IMG_1390.jpg" border="0"/></p></p>
+<p><img width="400" height="300" style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/09/IMG_1395.jpg" alt="IMG 1395" title="IMG_1395.JPG" border="0"/></p></p>

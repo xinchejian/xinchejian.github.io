@@ -89,7 +89,7 @@ comments:
   content: diyer
 ---
 <p><!--:en--></p>
-<div><a href="http://xinchejian.com/wp-content/uploads/2014/03/sumo-xinchejian.jpeg"><img alt="sumo-xinchejian" src="http://xinchejian.com/wp-content/uploads/2014/03/sumo-xinchejian-300x225.jpeg" width="300" height="225" /></a></div></p>
+<div><a href="/uploads/2014/03/sumo-xinchejian.jpeg"><img alt="sumo-xinchejian" src="/uploads/2014/03/sumo-xinchejian-300x225.jpeg" width="300" height="225" /></a></div></p>
 <div></div></p>
 <div>Please<strong> sign up at the link under 'upcoming events'</strong>&nbsp;to the right of the website!!</div></p>
 <div>Price: members RMB300 and nonmembers RMB400,&nbsp;&nbsp;including the kits.</div></p>

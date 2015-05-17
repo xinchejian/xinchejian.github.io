@@ -55,7 +55,7 @@ with Ashley Coulson, British artist and teacher.<br />
 *** 10岁以下孩子需有父母陪伴<br />
 We will also provide some tools, though you should bring their own basic craft tools such as scissors, pencils and pens, paints and glue.<br />
 我们会提供简单工具。请自己携带剪刀，笔，涂料和胶水。<br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/07/upcycling.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/07/upcycling.jpg" alt="upcycling" width="225" height="225" class="aligncenter size-full wp-image-6529" /></a><br />
+<a href="/uploads/2014/07/upcycling.jpg"><img src="/uploads/2014/07/upcycling.jpg" alt="upcycling" width="225" height="225" class="aligncenter size-full wp-image-6529" /></a><br />
 <a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(255, 153, 204);" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f0147159794102489" target="_blank" id="ied_button_show" alt="报名参加旧物改造创新工作坊Upcycling Invention workshop" title="报名参加">报名参加 Register</a><br />
 This creativity workshop will allow you to think innovatively and 'outside the box'; creative and transferrable skills important in many aspects of life and education.<br />
 创新工作坊可以拓展思路，让你不走寻常路。在生活与教育中，创新技能都越来越重要。<br />

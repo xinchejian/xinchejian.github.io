@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a rel="attachment wp-att-1341" href="http://xinchejian.com/2011/08/25/emergency-first-responders-save-a-life-get-trained/efr-bw-3_23_04/"><img class="alignleft size-full wp-image-1341" title="EFR BW 3_23_04" src="http://xinchejian.com/wp-content/uploads/2011/08/EFR_BW_web.jpg" alt="" width="103" height="107"  style="margin-right: 20px; margin-bottom: 20px;" /></a>Knowing what to do in an Emergency could mean the difference of Life or Death. At XinCheJian we use tools on a day to day basis that could inflict serious harm so we want to take steps to be there in the unlikely event of an emergency.</p>
+<p><a rel="attachment wp-att-1341" href="http://xinchejian.com/2011/08/25/emergency-first-responders-save-a-life-get-trained/efr-bw-3_23_04/"><img class="alignleft size-full wp-image-1341" title="EFR BW 3_23_04" src="/uploads/2011/08/EFR_BW_web.jpg" alt="" width="103" height="107"  style="margin-right: 20px; margin-bottom: 20px;" /></a>Knowing what to do in an Emergency could mean the difference of Life or Death. At XinCheJian we use tools on a day to day basis that could inflict serious harm so we want to take steps to be there in the unlikely event of an emergency.</p>
 <p><em>NOTICE: This is not a license to repair a person, it will provide you  the skills and confidence to act as a first responder and when used  prudently can equip you with the necessary life saving skills.</em></p>
 <p>The Course is two courses in one, Primary care and Secondary care developed by Emergency First Response which follows ILCOR standards.</p>
 <p><strong>Date and Times</strong><br />

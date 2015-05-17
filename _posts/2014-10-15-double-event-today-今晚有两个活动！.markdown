@@ -22,4 +22,4 @@ comments: []
 ---
 <p>We'll of course have our famous Open Night at XinCheJian, but from 8pm onwards we'll also be featuring some of our projects at this month's Creative Collective Hangout at DADA bar on Xingfu Rd. 115!</p>
 <p>在新车间有普通的周三开放夜。另外，8点到午夜在幸福路115号DADA酒吧每月一次的《别回家》活动有新车间的项目展览！</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/10/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_0.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_0-212x300.jpg" alt="C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_0" width="212" height="300" class="aligncenter size-medium wp-image-6695" /></a></p>
+<p><a href="/uploads/2014/10/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_0.jpg"><img src="/uploads/2014/10/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_0-212x300.jpg" alt="C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_0" width="212" height="300" class="aligncenter size-medium wp-image-6695" /></a></p>

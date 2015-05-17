@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 <p><a href="http://map.baidu.com/?newmap=1&l=15&tn=B_NORMAL_MAP&c=13519589,3638148&cc=sh&i=0|-1|-1&s=s%26wd%3D%E4%B8%8A%E6%B5%B7%E5%9B%BE%E4%B9%A6%E9%A6%86%26c%3D289%26src%3D0%26wd2%3D%26sug%3D0%26l%3D12%26from%3Dwebmap&sc=0" title="点击查看大地图">地址：上海市淮海中路1555号三楼创新空间，点击查看地图</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/10/Beschlag1.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/Beschlag1-290x290.jpg" alt="Beschlag1" width="290" height="290" class="aligncenter size-thumbnail wp-image-6961" /></a><br />
+<a href="/uploads/2014/10/Beschlag1.jpg"><img src="/uploads/2014/10/Beschlag1-290x290.jpg" alt="Beschlag1" width="290" height="290" class="aligncenter size-thumbnail wp-image-6961" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/sw" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:zh--><br />
 从工具到玩具&mdash;&mdash;三维建模软件的发展及操作实例<br />

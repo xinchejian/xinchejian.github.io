@@ -163,7 +163,7 @@ Host: People Squared and XinCheJian<br />
 计算和知识的未来 The Future of Computation and Knowledge<br />
 活动嘉宾：斯蒂芬&middot;沃尔夫勒姆博士&nbsp;Dr. Stephen Wolfram<br />
 时间：2015年1月4日晚6:30至8:30<br />
-<img class="aligncenter size-full wp-image-7077" src="http://xinchejian.com/wp-content/uploads/2015/01/stephen.wolfram.jpg" alt="stephen.wolfram" width="500" height="335" /></p>
+<img class="aligncenter size-full wp-image-7077" src="/uploads/2015/01/stephen.wolfram.jpg" alt="stephen.wolfram" width="500" height="335" /></p>
 <p>About Speaker: Stephen Wolfram is a distinguished scientist, technologist and entrepreneur. He has devoted his career to the development and application of computational thinking.<br />
 斯蒂芬&bull;沃尔夫勒姆是一位杰出的科学家、技术专家和创业家。他的整个职业生涯都贡献在计算化思维的研发和应用领域中。<br />
 His Mathematica software system launched in 1988 has been central to technical research and education for more than a generation. His work on basic science---summarized in his bestselling book A New Kind of Science---has defined a major new intellectual direction, with applications across the sciences, technology and the arts. In 2009 Wolfram built on his earlier work to launch Wolfram|Alpha to make as much of the world&rsquo;s knowledge as possible computable---and accessible on the web and in intelligent assistants like Apple&rsquo;s Siri.<br />

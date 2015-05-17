@@ -177,4 +177,4 @@ comments:
   date_gmt: '2014-04-30 10:27:20 +0800'
   content: 28 east yuyan road. shortcut from 299 tongren road.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/02/xinchejian-logo1.jpg"> <img alt="xinchejian-logo" src="http://xinchejian.com/wp-content/uploads/2014/02/xinchejian-logo1-212x300.jpg" width="212" height="300" /></a> We'll start moving this weekend to our new space on Yuyuan Road. We need every help you could offer to pack and move everything. Please come and help if you have time and don't mind a bit of heavy lifting. ;-) 新车间这个周末要开始搬家到我们愚园路上的新地址。我们需要大家来帮忙打包和搬运。要是你恰好有时间就来帮忙吧！</p>
+<p><a href="/uploads/2014/02/xinchejian-logo1.jpg"> <img alt="xinchejian-logo" src="/uploads/2014/02/xinchejian-logo1-212x300.jpg" width="212" height="300" /></a> We'll start moving this weekend to our new space on Yuyuan Road. We need every help you could offer to pack and move everything. Please come and help if you have time and don't mind a bit of heavy lifting. ;-) 新车间这个周末要开始搬家到我们愚园路上的新地址。我们需要大家来帮忙打包和搬运。要是你恰好有时间就来帮忙吧！</p>

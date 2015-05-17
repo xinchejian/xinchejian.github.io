@@ -24,7 +24,7 @@ tags:
 - arduino
 comments: []
 ---
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/untitled2.jpg" alt="untitled.jpg" title="untitled.jpg" border="0" width="265" height="400" /></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/01/untitled2.jpg" alt="untitled.jpg" title="untitled.jpg" border="0" width="265" height="400" /></p>
 <p>新车间的机器人课程是针对对物理运算有兴趣了解的朋友提供入门的课程和实践机会，适合十岁以上的人参加。</p>
 <p>课程内容为：</p>
 <p>8小时的授课时间：</p>

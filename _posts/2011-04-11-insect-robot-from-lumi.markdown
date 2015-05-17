@@ -54,6 +54,6 @@ comments:
 <p>Our members Lumi just posted his insect robot built according to <a href="http://oreilly.com/catalog/0636920010371" target="_blank">Make: Arduino Bots and Gadgets</a>.</p>
 <h2>Video on Youku</h2></p>
 <p><embed src="http://player.youku.com/player.php/sid/XMjU4Mzc5OTgw/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>And <a href="http://www.flickr.com/photos/lumi3005/5603826772/">Video</a> here.</p>

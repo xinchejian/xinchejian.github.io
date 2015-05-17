@@ -33,5 +33,5 @@ comments:
     rel=\"nofollow\">New Frontier</a> by Leslie Jones"
 ---
 <p>XinCheJian is on the December issue of <a href="http://emagazine.thatsmags.com/SH/SH201112/online.html">"That's Shanghai"</a> with Gilbert on the cover. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/12/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/12/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/12/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/12/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>

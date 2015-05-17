@@ -45,11 +45,11 @@ comments:
 <p>图形化的Arduino编程工具Mind+来了！</p>
 <p>Mind+首次现场演示&nbsp;<a href="http://weibo.com/n/Rex%E9%99%88%E6%AD%A3%E7%BF%94">@Rex陈正翔</a>&nbsp;将带来大量范例演示, 现场更有各种传感器 可以让你亲自尝试体验 制作自己的互动项目</p>
 <p>就在本周三（2月27日）晚7点半 新车间见，免费入场！</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/mind+event.png"><img class="alignnone size-large wp-image-4402" alt="mind+event" src="http://xinchejian.com/wp-content/uploads/2013/02/mind+event-283x400.png" width="283" height="400" /></a>&nbsp; &nbsp;&nbsp;<a href="http://xinchejian.com/wp-content/uploads/2013/02/mind+.png"><img class="alignnone size-large wp-image-4401" alt="mind+" src="http://xinchejian.com/wp-content/uploads/2013/02/mind+-600x337.png" width="470" height="263" /></a><!--:--><!--:en-->Want to learn microprocessor, but&nbsp;afraid of programming？</p>
+<p><a href="/uploads/2013/02/mind+event.png"><img class="alignnone size-large wp-image-4402" alt="mind+event" src="/uploads/2013/02/mind+event-283x400.png" width="283" height="400" /></a>&nbsp; &nbsp;&nbsp;<a href="/uploads/2013/02/mind+.png"><img class="alignnone size-large wp-image-4401" alt="mind+" src="/uploads/2013/02/mind+-600x337.png" width="470" height="263" /></a><!--:--><!--:en-->Want to learn microprocessor, but&nbsp;afraid of programming？</p>
 <p>Want to learn Arduino, but hate to write code？</p>
 <p>Bought Arduino, but don't know how to write programs？</p>
 <p>Come checkout the new Arduino graphical programing software Mind+！</p>
 <p>Mind+ Demo brought by&nbsp;<a href="http://weibo.com/n/Rex%E9%99%88%E6%AD%A3%E7%BF%94">@Rex陈正翔</a>&nbsp;, come to experience yourself and have fun programming your Arduino!</p>
 <p>See you at XinCheJian Wednesday February 27th at 7:30, it's FREE !</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/mind+event.png"><br />
-<img alt="mind+event" src="http://xinchejian.com/wp-content/uploads/2013/02/mind+event-283x400.png" width="283" height="400" /></a>&nbsp; &nbsp;&nbsp;<a href="http://xinchejian.com/wp-content/uploads/2013/02/mind+.png"><img alt="mind+" src="http://xinchejian.com/wp-content/uploads/2013/02/mind+-600x337.png" width="470" height="263" /></a><!--:--></p>
+<p><a href="/uploads/2013/02/mind+event.png"><br />
+<img alt="mind+event" src="/uploads/2013/02/mind+event-283x400.png" width="283" height="400" /></a>&nbsp; &nbsp;&nbsp;<a href="/uploads/2013/02/mind+.png"><img alt="mind+" src="/uploads/2013/02/mind+-600x337.png" width="470" height="263" /></a><!--:--></p>

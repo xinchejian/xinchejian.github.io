@@ -32,7 +32,7 @@ comments:
     shopping in Shanghai? (to built robot part)
 ---
 <p><!-- p.p1 {margin: 0.0px 0.0px 20.0px 0.0px; line-height: 20.0px; font: 13.0px Arial; color: #111111} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 13.0px Arial; min-height: 15.0px} p.p3 {margin: 0.0px 0.0px 22.0px 0.0px; line-height: 22.0px; font: 14.0px Arial; color: #111111} --></p>
-<p><a rel="attachment wp-att-387" href="http://xinchejian.com/?attachment_id=387"><img class="alignnone size-full wp-image-387" title="xinshanzhai2-436" src="http://xinchejian.com/wp-content/uploads/2011/01/xinshanzhai2-436.jpg" alt="" width="436" height="616" /></a></p>
+<p><a rel="attachment wp-att-387" href="http://xinchejian.com/?attachment_id=387"><img class="alignnone size-full wp-image-387" title="xinshanzhai2-436" src="/uploads/2011/01/xinshanzhai2-436.jpg" alt="" width="436" height="616" /></a></p>
 <p><strong>IDEO模式: 山寨设计是创新的开放平台</strong><br />
 <strong>时间</strong>: 2011年元月二十二日，下午两点到五点<br />
 <strong>地点</strong>：徐汇区永嘉路50号新单位（近陕西南路）<br />

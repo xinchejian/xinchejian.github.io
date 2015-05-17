@@ -23,9 +23,9 @@ tags:
 comments: []
 ---
 <p><!--:en--><br />
-<img src="http://xinchejian.com/wp-content/uploads/2012/06/oregano_peat_20120613.jpg" width="400"><br />
-<img src="http://xinchejian.com/wp-content/uploads/2012/06/tray1-20120613.jpg" width="400"><br />
-<img src="http://xinchejian.com/wp-content/uploads/2012/06/tray12_with_light.jpg" width="400"></p>
+<img src="/uploads/2012/06/oregano_peat_20120613.jpg" width="400"><br />
+<img src="/uploads/2012/06/tray1-20120613.jpg" width="400"><br />
+<img src="/uploads/2012/06/tray12_with_light.jpg" width="400"></p>
 <p>instead of traditional seedling from seeds, we are trying to grow roots in water and coconut peat bases from fresh oregano plant (stems with leaves). after 1 week, more than 50% oregano has grown its own roots. finding: </p>
 <ul>
 <li>oregano grows taller with more leaves in coconut peat than in water,but with less and smaller roots </li>
@@ -33,7 +33,7 @@ comments: []
 </ul><br />
 <!--:--></p>
 <p><!--:zh--></p>
-<p><img src="http://xinchejian.com/wp-content/uploads/2012/06/oregano_peat_20120613.jpg" width="400"><br />
-<img src="http://xinchejian.com/wp-content/uploads/2012/06/tray1-20120613.jpg" width="400"><br />
-<img src="http://xinchejian.com/wp-content/uploads/2012/06/tray12_with_light.jpg" width="400"></p>
+<p><img src="/uploads/2012/06/oregano_peat_20120613.jpg" width="400"><br />
+<img src="/uploads/2012/06/tray1-20120613.jpg" width="400"><br />
+<img src="/uploads/2012/06/tray12_with_light.jpg" width="400"></p>
 <p>instead of traditional seedling from seeds, we are trying to grow roots in water and coconut peat bases from fresh oregano plant (stems with leaves). after 1 week, more than 50% oregano has grown its own roots.<br /><br /> finding:<br /><br /> - oregano grows taller with more leaves in coconut peat than in water,but with less and smaller roots<br /><br /> - in the same water base, oregano grows more and roots with lightening compares to those under sunlight. </p> <!--:--></p>

@@ -24,13 +24,13 @@ tags:
 comments: []
 ---
 <p><!--:en-->Materials：water bucket, strainer, ceramic balls, plastic tube, water pump, air pump, plants, water, nutrient. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0858.jpg" alt="IMG 0858" title="IMG_0858.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0861.jpg" alt="IMG 0861" title="IMG_0861.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/bucket2.jpg" alt="bucket2" title="bucket2.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0885.jpg" alt="IMG 0885" title="IMG_0885.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0875.jpg" alt="IMG 0875" title="IMG_0875.jpg" border="0"/></p><!--:--><!--:zh-->材料：水桶，果蔬箩，花卉陶粒，水管，直流水泵，氧气泵，菜苗，水，水培营养剂</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0858.jpg" alt="IMG 0858" title="IMG_0858.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0861.jpg" alt="IMG 0861" title="IMG_0861.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/bucket2.jpg" alt="bucket2" title="bucket2.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0885.jpg" alt="IMG 0885" title="IMG_0885.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/06/IMG_0875.jpg" alt="IMG 0875" title="IMG_0875.jpg" border="0"/></p><!--:--></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0858.jpg" alt="IMG 0858" title="IMG_0858.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0861.jpg" alt="IMG 0861" title="IMG_0861.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/bucket2.jpg" alt="bucket2" title="bucket2.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0885.jpg" alt="IMG 0885" title="IMG_0885.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0875.jpg" alt="IMG 0875" title="IMG_0875.jpg" border="0"/></p><!--:--><!--:zh-->材料：水桶，果蔬箩，花卉陶粒，水管，直流水泵，氧气泵，菜苗，水，水培营养剂</p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0858.jpg" alt="IMG 0858" title="IMG_0858.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0861.jpg" alt="IMG 0861" title="IMG_0861.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/bucket2.jpg" alt="bucket2" title="bucket2.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0885.jpg" alt="IMG 0885" title="IMG_0885.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/06/IMG_0875.jpg" alt="IMG 0875" title="IMG_0875.jpg" border="0"/></p><!--:--></p>

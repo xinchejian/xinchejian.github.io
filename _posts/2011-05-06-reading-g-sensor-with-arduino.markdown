@@ -36,15 +36,15 @@ comments:
 <p>现在重力传感器应用非常广，目前iphone等智能手机上都有重力传感器，包括笔者的一台山寨手机上都有重力传感器。</p></p>
 <p>这次就是要用Android来读取重力传感器的数据。这个重力传感器模块是从淘宝购买的，模块非常简单，自己够买芯片来焊接也不成问题。根据它的datasheet，就能够知道如何使用这款重力加速度模块了。下面就进行详细的介绍</p></p>
 <p>这个模块使用的芯片型号是MMA7260Q，(datasheet<a href="promotion/download/25270_MOTOROLA_MMA7260Q.pdf">下载</a>[PDF,229KB])，测试中的电路就是下面图片中的样子</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>控制的目标是通过重力传感器的数据来控制舵机的转动。但是发现会有少量的抖动，于是在程序中加入了一个简单的滤波器，阶数没有仔细调，但是基本上能够进行控制了。</p></p>
 <p class="video">
 <embed src="http://player.youku.com/player.php/sid/XMjYzNjIyODIw/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
 <a href="http://v.youku.com/v_show/id_XMjYzNjIyODIw.html">http://v.youku.com/v_show/id_XMjYzNjIyODIw.html</a><br />
 </p></p>
 <p>下面是芯片的特写</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0"/><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled10.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled10.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>下面是用到的代码</p></p>
 <pre class="code">
 #include <Servo.h></p>

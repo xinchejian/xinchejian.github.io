@@ -26,7 +26,7 @@ comments:
   date_gmt: '2014-12-09 11:57:59 +0800'
   content: 呵呵，学习了
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/07/fusion.png"><img src="http://xinchejian.com/wp-content/uploads/2014/07/fusion-290x290.png" alt="fusion" width="290" height="290" class="aligncenter size-thumbnail wp-image-6548" /></a><br />
+<p><a href="/uploads/2014/07/fusion.png"><img src="/uploads/2014/07/fusion-290x290.png" alt="fusion" width="290" height="290" class="aligncenter size-thumbnail wp-image-6548" /></a><br />
 *** 电脑系统要求 OS requirements: ***<br />
 64位win 7, 或64位Mac OS X 10.8, 或更高版本<br />
 64-bit Windows 7 or newer and 64-bit Mac OS X 10.8 or newer<br />

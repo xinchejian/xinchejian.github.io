@@ -40,18 +40,18 @@ RoboPeak is a research &amp; development team in robotics platforms and applicat
 <p>From <a href="http://www.robopeak.net/blog/" target="_blank">their blog</a>, they are doing very impressive work with Arduino and Robotic. Here is a picture of their robot. Definitely check out the blog! Click on the image to read more about their works.</p></p>
 <p style="text-align:center">
 <a href="http://www.robopeak.net/blog/?p=24" target="_blank"><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/rp_intro_001.jpg" alt="Rp intro 001" title="rp_intro_001.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/rp_intro_001.jpg" alt="Rp intro 001" title="rp_intro_001.jpg" border="0"/><br />
 </a><br />
 </p></p>
 <p style="text-align:center">
 <a href="http://www.robopeak.net/blog/?p=24" target="_blank"><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/rp_intro_002.jpg" alt="Rp intro 002" title="rp_intro_002.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/rp_intro_002.jpg" alt="Rp intro 002" title="rp_intro_002.jpg" border="0"/><br />
 </a><br />
 </p></p>
 <p>iPad controller</p></p>
 <p style="text-align:center">
 <a href="http://www.robopeak.net/blog/?p=24" target="_blank"><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/rp_intro_005.jpg" alt="Rp intro 005" title="rp_intro_005.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/rp_intro_005.jpg" alt="Rp intro 005" title="rp_intro_005.jpg" border="0"/><br />
 </a><br />
 </p></p>
 <p><!--:--><br />
@@ -67,18 +67,18 @@ RoboPeak是国内由一群软件工程师、电子工程师、新媒体艺术家
 <p>这个团队在机器人和Arduino上做了相当多开发，详细的情况可以查看<a href="http://www.robopeak.net/blog/" target="_blank">他们的博客</a>.底下的图片来自他们的博客，看起来相当有趣的机器人设计，期待周六和他们见面。</p></p>
 <p style="text-align:center">
 <a href="http://www.robopeak.net/blog/?p=24" target="_blank"><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/rp_intro_001.jpg" alt="Rp intro 001" title="rp_intro_001.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/rp_intro_001.jpg" alt="Rp intro 001" title="rp_intro_001.jpg" border="0"/><br />
 </a><br />
 </p></p>
 <p style="text-align:center">
 <a href="http://www.robopeak.net/blog/?p=24" target="_blank"><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/rp_intro_002.jpg" alt="Rp intro 002" title="rp_intro_002.jpg" border="0" width="569" height="453" /><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/rp_intro_002.jpg" alt="Rp intro 002" title="rp_intro_002.jpg" border="0" width="569" height="453" /><br />
 </a><br />
 </p></p>
 <p>iPad 遥控</p></p>
 <p style="text-align:center">
 <a href="http://www.robopeak.net/blog/?p=24" target="_blank"><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/rp_intro_005.jpg" alt="Rp intro 005" title="rp_intro_005.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/rp_intro_005.jpg" alt="Rp intro 005" title="rp_intro_005.jpg" border="0"/><br />
 </a><br />
 </p></p>
 <p><!--:--></p>

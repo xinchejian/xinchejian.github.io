@@ -20,5 +20,5 @@ tags: []
 comments: []
 ---
 <p>I just got the system circulation up and started the fishless cycle  with liquid seaweed for the plants. </p>
-<p><br /><br /><center><a href='http://xinchejian.com/wp-content/uploads/2012/07/76685F98-E1E3-4FE9-99C5-F42AEE01F1F212.jpg'><img src='http://xinchejian.com/wp-content/uploads/2012/07/76685F98-E1E3-4FE9-99C5-F42AEE01F1F212.jpg' border='0' width='281' height='210' style='margin:5px'></a></center><br /></p>
+<p><br /><br /><center><a href='/uploads/2012/07/76685F98-E1E3-4FE9-99C5-F42AEE01F1F212.jpg'><img src='/uploads/2012/07/76685F98-E1E3-4FE9-99C5-F42AEE01F1F212.jpg' border='0' width='281' height='210' style='margin:5px'></a></center><br /></p>
 <p>- Posted using BlogPress from my iPhone<br /></p>

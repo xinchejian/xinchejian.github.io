@@ -81,7 +81,7 @@ comments:
   date_gmt: '2013-09-20 02:05:42 +0800'
   content: The workshop will likely to start after the Oct holidays!
 ---
-<p><!--:zh--><a href="http://xinchejian.com/wp-content/uploads/2013/08/3D-Printing1.jpg"><img class="aligncenter size-full wp-image-5870" alt="3D Printing" src="http://xinchejian.com/wp-content/uploads/2013/08/3D-Printing1.jpg" width="500" height="884" /></a></p>
+<p><!--:zh--><a href="/uploads/2013/08/3D-Printing1.jpg"><img class="aligncenter size-full wp-image-5870" alt="3D Printing" src="/uploads/2013/08/3D-Printing1.jpg" width="500" height="884" /></a></p>
 <p>3维打印机已迅速普及，开始在相关行业产生影响。所想，所见，即所得。</p>
 <p>我们将进行一系列的workshop来探索如何通过3维打印机实现最酷的想法，把概念变成实际的模型，充分发挥3维打印机的无限可能。我们从最开始的知识普及，经过头脑风暴，然后在3维软件里面建立设计模型，输出到打印机进行打印。经过这一流程，工作营的成员将获得关于3维打印得系统知识，并开启个人基于3维打印系统的项目。</p>
 <p>&nbsp;</p>
@@ -107,7 +107,7 @@ comments:
 <p>建筑师 ，美国Gensler事务所亚洲区技术总监</p>
 <p>DADA--中国建筑学会数字建筑设计专业委员会发起人</p>
 <p>DigiInt 数字整合研究机构创始人</p>
-<p>Michael 曾任教于香港大学建筑学院上海学习中心数字媒体工作室，致力于前沿的数字化技术与设计的整合研究 ，受邀在多个大学和国际性论坛教学和演讲。Michael负责目前在建的中国最高的摩天楼&mdash;632米的上海中心的设计和施工监督。作为该项目的核心成员，Michael通过运用全球领先的数字化设计平台对系统性设计进行优化。使创意性的战略思考能迅速的付诸实施。<!--:--><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2013/08/3D-Printing1.jpg"><img class="aligncenter size-full wp-image-5870" alt="3D Printing" src="http://xinchejian.com/wp-content/uploads/2013/08/3D-Printing1.jpg" width="500" height="884" /></a></p>
+<p>Michael 曾任教于香港大学建筑学院上海学习中心数字媒体工作室，致力于前沿的数字化技术与设计的整合研究 ，受邀在多个大学和国际性论坛教学和演讲。Michael负责目前在建的中国最高的摩天楼&mdash;632米的上海中心的设计和施工监督。作为该项目的核心成员，Michael通过运用全球领先的数字化设计平台对系统性设计进行优化。使创意性的战略思考能迅速的付诸实施。<!--:--><!--:en--><a href="/uploads/2013/08/3D-Printing1.jpg"><img class="aligncenter size-full wp-image-5870" alt="3D Printing" src="/uploads/2013/08/3D-Printing1.jpg" width="500" height="884" /></a></p>
 <p>Michael Peng will host a series of workshops on 3D printing, to make ideas real. We will start from the basic knowledge, brainstorming, design with 3D model software, and finish with 3D printing your ideas.</p>
 <p><strong><span style="color: #ff0000;">September 1, 2pm, xinchejian, Workshop Kickoff</span></strong></p>
 <p>Michael will show us from a small project, scan an daily object, toy, cups, etc... or a body part, finger, ear, ankle...and use the data to design a new object, and PRINT!</p>

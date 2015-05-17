@@ -63,8 +63,8 @@ comments: []
 <li>Find a more secure way to protect the Uno board and protect it from bumping into objects when robot start to run</li>
 <li>Figure out how and where to attach sensors: ultrasonic distance and infra red for distance and obstacle sensing</li><br />
 </ul></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/DSC_7415.jpg" alt="DSC 7415" title="DSC_7415.JPG" border="0"/></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/DSC_7417.jpg" alt="DSC 7417" title="DSC_7417.JPG" border="0"/></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/DSC_7421.jpg" alt="DSC 7417" title="DSC_7417.JPG" border="0"/></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/03/DSC_7422.jpg" alt="DSC 7417" title="DSC_7417.JPG" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/DSC_7415.jpg" alt="DSC 7415" title="DSC_7415.JPG" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/DSC_7417.jpg" alt="DSC 7417" title="DSC_7417.JPG" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/DSC_7421.jpg" alt="DSC 7417" title="DSC_7417.JPG" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/03/DSC_7422.jpg" alt="DSC 7417" title="DSC_7417.JPG" border="0"/></p>
 <p></div></p>

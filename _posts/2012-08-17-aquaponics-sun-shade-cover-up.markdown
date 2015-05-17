@@ -24,12 +24,12 @@ tags:
 comments: []
 ---
 <p>To counter the harsh Sun of Shanghai summer, a Sun Shade Cover is added. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3247.jpg" alt="IMG 3247" title="IMG_3247.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3247.jpg" alt="IMG 3247" title="IMG_3247.jpg" border="0"/></p>
 <p>Also, 100 earth worms are added to help process the organic matter in the system. Hope they can survive with constant ebb and flow. :) </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3260.jpg" alt="IMG 3260" title="IMG_3260.JPG" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3260.jpg" alt="IMG 3260" title="IMG_3260.JPG" border="0"/></p>
 <p>Finally, over 300 Chinese green, tomato, cucumbers, eggplants, and sun flowers are transplanted and we should be ready to harvest in about 4 weeks. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3253.jpg" alt="IMG 3253" title="IMG_3253.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3253.jpg" alt="IMG 3253" title="IMG_3253.jpg" border="0"/></p>
 <p><br/><br />
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3256.jpg" alt="IMG 3256" title="IMG_3256.jpg" border="0"/></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3256.jpg" alt="IMG 3256" title="IMG_3256.jpg" border="0"/></p>
 <p>The basils and chives transplanted into the system are growing amazingly. </p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3257.jpg" alt="IMG 3257" title="IMG_3257.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3257.jpg" alt="IMG 3257" title="IMG_3257.jpg" border="0"/></p>

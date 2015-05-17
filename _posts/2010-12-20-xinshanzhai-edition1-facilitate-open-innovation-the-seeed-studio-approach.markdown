@@ -39,7 +39,7 @@ comments:
   date_gmt: '2010-12-22 11:32:24 +0800'
   content: 可以在新单位网站报名： http://xindanwei.com/products/one-hour/  选择30元的后加入购物车然后去结账，填写个人资料后到现场现金付款。
 ---
-<p><a href="http://xinchejian.com/?attachment_id=118" rel="attachment wp-att-118"><img src="http://xinchejian.com/wp-content/uploads/2010/12/xinchejian-600.jpg" alt="" title="xinchejian-600" width="600" height="373" class="alignnone size-full wp-image-118" /></a></p>
+<p><a href="http://xinchejian.com/?attachment_id=118" rel="attachment wp-att-118"><img src="/uploads/2010/12/xinchejian-600.jpg" alt="" title="xinchejian-600" width="600" height="373" class="alignnone size-full wp-image-118" /></a></p>
 <p><strong>Time</strong>: 3pm Dec 26, 2010</p>
 <p><strong>Location</strong>: Xin Che Jian, 2nd floor, Yongjia Rd 50 (close to Shaanxi Road South)</p>
 <p><strong>Cost</strong>: 30RMB for non-Xinchejian members, free of charge for Xinchejian members.</p>

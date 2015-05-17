@@ -27,7 +27,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100002670887880"
     target="_blank">Alan Yue</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/05/jianzi-1.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/05/jianzi-1.jpg" alt="jianzi 1" width="241" height="243" class="aligncenter size-full wp-image-6394" /></a><br />
+<p><a href="/uploads/2014/05/jianzi-1.jpg"><img src="/uploads/2014/05/jianzi-1.jpg" alt="jianzi 1" width="241" height="243" class="aligncenter size-full wp-image-6394" /></a><br />
 *制作会发光的毽子</p>
 <p>踢毽子，老少皆宜的活动。见过用电子制作的毽子吗？ 每当踢一下则会发光，在傍晚和夜间玩将成为一道亮丽的风景。本次工作坊将使参加者体会电子焊接、制作、运动和合作的快乐，接触一些电子、力学的知识。</p>
 <p>费用: 网上支付100元/人,现场支付125元/人，  包含所有制作材料。<br />

@@ -36,7 +36,7 @@ comments:
 <p><!--:en-->
 <dl class="wp-caption alignnone" id="attachment_6181" style="width: 251px;">
 <dt class="wp-caption-dt"></dt>
-<dd class="wp-caption-dd">Arduino</dd></dl><a href="http://xinchejian.com/wp-content/uploads/2014/02/images.jpg"><img alt="Arduino" src="http://xinchejian.com/wp-content/uploads/2014/02/images.jpg" width="241" height="209" /></a></p>
+<dd class="wp-caption-dd">Arduino</dd></dl><a href="/uploads/2014/02/images.jpg"><img alt="Arduino" src="/uploads/2014/02/images.jpg" width="241" height="209" /></a></p>
 <p>The Arduino workshop is great for those looking to get started with micro-controller programming and need a kickstart in the right direction. This is one of the most Popular workshops at xinchejian, Designed to not overwhelm people but provide the right balance of theoretical and hands on experience. Please do not sign up if you are not going to show up as you&rsquo;ll be taking a seat from somone that wants to do it. This workshop will run in English.</p>
 <p>You will need to have your own Arduino kit, we have&nbsp;<a href="http://www.dfrobot.com.cn/goods-149.html">DFrobot</a>&nbsp;kits in XinCheJian for sale at RMB 210.00 &ndash; order online from DFRobot or Buy from us and help support the space.</p>
 <p>Content of the workshop:<br />

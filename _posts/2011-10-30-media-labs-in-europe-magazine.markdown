@@ -36,5 +36,5 @@ comments:
 
     It's a bilingual magazine...
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/10/wpid-IMG_20111030_170334.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/10/wpid-IMG_20111030_170334.jpg" /></p>
 <p>We have a copy (offered by Habib and Clement) of this magazine at Xinchejian if you want to read it.</p></p>

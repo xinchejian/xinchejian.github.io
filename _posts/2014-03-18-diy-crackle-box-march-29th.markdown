@@ -35,7 +35,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100000324397404"
     target="_blank">Paul Yang</a> liked this on Facebook.
 ---
-<p><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2014/03/Crakle-Box-600x400.jpg"><img class="alignnone size-medium wp-image-6227" alt="Crakle-Box-600x400" src="http://xinchejian.com/wp-content/uploads/2014/03/Crakle-Box-600x400-300x200.jpg" width="300" height="200" /></a></p>
+<p><!--:en--><a href="/uploads/2014/03/Crakle-Box-600x400.jpg"><img class="alignnone size-medium wp-image-6227" alt="Crakle-Box-600x400" src="/uploads/2014/03/Crakle-Box-600x400-300x200.jpg" width="300" height="200" /></a></p>
 <p><strong>Fee (including materials)</strong>: online registration: 250rmb/person</p>
 <p><strong>时间 Time：</strong>下午2点－5点 ／2PM - 5PM</p>
 <p><strong>地址：新车间创客空间，上海徐汇区长乐路1035号2楼（乌鲁木齐路口）</strong></p>

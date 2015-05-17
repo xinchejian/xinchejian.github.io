@@ -23,6 +23,6 @@ tags:
 - A.R.T.
 comments: []
 ---
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="untitled.jpg" src="http://xinchejian.com/wp-content/uploads/2010/12/untitled.jpg" border="0" alt="untitled.jpg" width="600" height="484" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="untitled.jpg" src="/uploads/2010/12/untitled.jpg" border="0" alt="untitled.jpg" width="600" height="484" /></p>
 <p>Saw Ricky came in with a RC car today and kicked his <a href="http://www.google.com/buzz/rngadam/bh8stzNfvTb/Autonomous-Robot-Toy-Car-ProjectExecutive-summary">Robot RC car project</a>. Very cool! <a href="http://xinchejian.com/?page_id=73">Read more</a>...</p>
 <p>Also, spoke NPI today about hosting robot RC car race in their place in the future. A robot F-1! That would be fun.</p>

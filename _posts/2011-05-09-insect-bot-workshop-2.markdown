@@ -35,12 +35,12 @@ comments:
 <p><!--:en--></p>
 <p>We got full house this Sunday with 13 people doing Insect Bot workshop including 10 kids. It's a lot of fun and most of insect got to walk.</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/IMG_20110508_141501.jpg" alt="IMG 20110508 141501" title="IMG_20110508_141501.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/IMG_20110508_141501.jpg" alt="IMG 20110508 141501" title="IMG_20110508_141501.jpg" border="0"/><br />
 </p><br />
 <!--:--></p>
 <p><!--:zh--></p>
 <p>周日的虫虫工作坊有13人参与，10个小朋友加上家长，很热闹，很愉快的周日下午！</p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/IMG_20110508_141501.jpg" alt="IMG 20110508 141501" title="IMG_20110508_141501.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/IMG_20110508_141501.jpg" alt="IMG 20110508 141501" title="IMG_20110508_141501.jpg" border="0"/><br />
 </p><br />
 <!--:--></p>

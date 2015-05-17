@@ -32,7 +32,7 @@ comments:
 ---
 <p><em>Chromaphase (aka&nbsp;&nbsp;<b>Matthieu Tondeur)&nbsp;</b>will be presenting this Wednesday at XinCheJian. In addition to having his own <a href="https://en.wikipedia.org/wiki/Chromaphase">Wikipedia page</a>, Matthieu is currently doing exciting 3D mapping video DJ &nbsp;using Mao Livehouse as his home base. Here's his self introduction:</em></p>
 <div>I'm a french artist-designer from Paris. I'm doing 3D mapping, VJing live show with music producers, DJ, live bands, etc...</div></p>
-<div><img alt="P20927-2303323" src="http://xinchejian.com/wp-content/uploads/2013/01/P20927-2303323-533x400.jpg" width="470" height="352" /></div></p>
+<div><img alt="P20927-2303323" src="/uploads/2013/01/P20927-2303323-533x400.jpg" width="470" height="352" /></div></p>
 <div>I also worked for Huawei Mobile R&amp;D where I lead a small innovation team makingn UI and GUI for Mobile Phones. Now I'm a freelance artist working on different projects that involve live music, art expo, interactive design and video games. (and maybe robots !! haha)</div></p>
 <div></div></p>
 <div>What I will speak about :</div></p>
@@ -42,7 +42,7 @@ comments:
 <div>4- Introduce my upcoming project and ask people that have some skill to join these projetcs</div></p>
 <div></div></p>
 <div>Which could lead to :</div></p>
-<div><img class="alignnone size-large wp-image-4167" alt="IMG_3677" src="http://xinchejian.com/wp-content/uploads/2013/01/IMG_3677-600x400.jpg" width="470" height="313" /></div></p>
+<div><img class="alignnone size-large wp-image-4167" alt="IMG_3677" src="/uploads/2013/01/IMG_3677-600x400.jpg" width="470" height="313" /></div></p>
 <div><b>3D mapping workshop</b>&nbsp;(A to Z creation workshop, research, process, inspiration, technical solution, etc..)</div></p>
 <div>
 <div></div></p>

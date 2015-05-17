@@ -20,8 +20,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/12/wpid-IMG_20111204_162637.jpg" /></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/12/wpid-IMG_20111204_165149.jpg" /></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/12/wpid-IMG_20111204_165130.jpg" /></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/12/wpid-IMG_20111204_162724.jpg" /></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/12/wpid-IMG_20111204_162646.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/12/wpid-IMG_20111204_162637.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/12/wpid-IMG_20111204_165149.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/12/wpid-IMG_20111204_165130.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/12/wpid-IMG_20111204_162724.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/12/wpid-IMG_20111204_162646.jpg" /></p>

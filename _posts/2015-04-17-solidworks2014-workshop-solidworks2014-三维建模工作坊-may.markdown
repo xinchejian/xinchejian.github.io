@@ -20,7 +20,7 @@ tags: []
 comments: []
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2015/04/solidworks-2014.jpg"><img src="http://xinchejian.com/wp-content/uploads/2015/04/solidworks-2014-290x290.jpg" alt="solidworks-2014" width="290" height="290" class="aligncenter size-thumbnail wp-image-7264" /></a><br />
+<a href="/uploads/2015/04/solidworks-2014.jpg"><img src="/uploads/2015/04/solidworks-2014-290x290.jpg" alt="solidworks-2014" width="290" height="290" class="aligncenter size-thumbnail wp-image-7264" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/5278273552000" target="_blank" title="立即报名">Sign Up 报名参加</a><br />
 <!--:zh--><br />
 5月四个周末，四次培训＋四次答疑</p>

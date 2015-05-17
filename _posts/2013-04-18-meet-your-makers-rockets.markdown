@@ -31,7 +31,7 @@ comments:
 ---
 <h2>Rockets</h2></p>
 <p>夏青，微笑的Rockets，前环境工程师，现DFRobot社区经理，Ham，呼号BG4HTO，从小爱折腾，参加过一次机器人挑战大赛后决定自制机器人。第一次在新车间找到同好，热爱一切可以动手实践的玩意！</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
 <h3>Battle of 3D Printers</h3></p>
 <p>Both Lucio and Rockets are working on 3D Printers.</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>

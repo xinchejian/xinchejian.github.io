@@ -23,12 +23,12 @@ comments: []
 <h1>在Arduino上使用陀螺仪控制舵机</h1><br />
 <i>May 1st, 2011</i></p>
 <p>今天拿到了四轴飞行器的一个重要部件，就是陀螺仪。^_^ 下面这张图上的就是了，这是一个三轴陀螺仪，seeedstudio GROVE套装的一个部件。</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>这个陀螺仪使用ITG3200芯片，可以直接使用了I2C接口连接到Arduino上面。默认的地址是0x68，但是可以修改成0x69，只要将板子上的JP1连起来就可以修改。接口四个针脚的定义就像下面这张图中所画的。</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>是的。。你没看错，他们用红色作为地线  -_-b</p></p>
 <p>舵机就是最简单的使用pwm的口就可以了。最后链接成下面这张图中的样子。</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>我写了一个程序，代码在下方，能够做到让陀螺仪的转动直接反应在舵机的摇臂上面。但是，这样也会遇到问题，就是当动的次数比较多的时候，舵机的角度就会越来越大，直到超过最大的范围，所以这也是陀螺仪不是很精确的地方。另外就是，在陀螺仪静止的情况下，z轴的输出不为0，始终为-1。也就是说，这个陀螺仪的零点可能是不准确的，同时，正负转动的也有可能有差别，不知道这回对将来飞控算法带来多大的影响。</p></p>
 <p>最后用到的程序就是下面这段。</p></p>
 <pre class="code">

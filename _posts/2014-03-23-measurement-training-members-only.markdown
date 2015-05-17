@@ -27,6 +27,6 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100002313386916"
     target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
-<p><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2014/03/images.jpg"><img class="alignnone size-full wp-image-6243" alt="images" src="http://xinchejian.com/wp-content/uploads/2014/03/images.jpg" width="253" height="199" /></a></p>
+<p><!--:en--><a href="/uploads/2014/03/images.jpg"><img class="alignnone size-full wp-image-6243" alt="images" src="/uploads/2014/03/images.jpg" width="253" height="199" /></a></p>
 <p><span style="line-height: 1.5em;">Time: 16:00, March 30th, Sunday.</span></p>
 <p>Danny will set up some simple practices to show how to use the device and explain some basics.<!--:--></p>

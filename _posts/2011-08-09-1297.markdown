@@ -27,7 +27,7 @@ comments: []
 <li>Ricky Ng-Adam, Min Lin Hsieh from <a href="http://xinchejian.com/">XinCheJian</a></li>
 <li>Tony Bacigulapo, "Mayor" of <a href="http://nwc.co">New Work City</a>, New York</li><br />
 </ul><br />
-<a rel="attachment wp-att-1298" href="http://xinchejian.com/2011/08/09/1297/futureco/"><img class="aligncenter size-medium wp-image-1298" title="The Future is Co" src="http://xinchejian.com/wp-content/uploads/2011/08/futureco-225x300.jpg" alt="" width="225" height="300" /></a></p>
+<a rel="attachment wp-att-1298" href="http://xinchejian.com/2011/08/09/1297/futureco/"><img class="aligncenter size-medium wp-image-1298" title="The Future is Co" src="/uploads/2011/08/futureco-225x300.jpg" alt="" width="225" height="300" /></a></p>
 <p><a href="http://anxiaostudio.com/2011/08/11/notes-from-the-future-is-co-at-xindanwei-coworking-in-china-america-and-the-world/">Notes from the moderator, An Xiao are available</a>.</p>
 <p>Quotes:</p>
 <blockquote><p>At a hacker space like Xinchejian, this might mean bringing in hackers of different kinds, from software programmers to roboticists to urban farmers. The point is to find that magic spark of synergy that a more homogenous group wouldn&rsquo;t be able to provide.</blockquote></p>

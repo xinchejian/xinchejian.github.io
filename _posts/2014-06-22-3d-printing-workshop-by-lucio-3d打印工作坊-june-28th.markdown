@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/DSC_5975.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/DSC_5975-290x290.jpg" alt="DSC_5975" width="290" height="290" class="aligncenter size-thumbnail wp-image-6465" /></a><br />
+<p><a href="/uploads/2014/06/DSC_5975.jpg"><img src="/uploads/2014/06/DSC_5975-290x290.jpg" alt="DSC_5975" width="290" height="290" class="aligncenter size-thumbnail wp-image-6465" /></a><br />
 <a style="background: none repeat scroll 0 0 #7EBD40;color: #F2FFFF;font-weight:700;border: 1px solid #4A8F32;border-radius: 4px 4px 4px 4px;cursor: pointer;display: inline-block;font-size: 14px;margin-bottom: 3px;overflow: visible;padding: 6px 30px;text-decoration: none;" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f0146c3a6c2da27b4" target="_blank" id="ied_button_show" alt="购买门票3D打印工作坊 3D printing workshop by Lucio" title="购买门票">报名参加Register</a><br />
 Learn How to 3D Print and see a real live 3D Scanning by Lucio (<strong>weibo: @Lucio鲁修</strong>)!<br />
 学习如何应用3d打印技术并观看实时三维扫描 （<strong>微博：@Lucio鲁修</strong>）</p>

@@ -43,7 +43,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=1051771888" target="_blank">William
     Lue</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/05/Costing.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/05/Costing-290x290.jpg" alt="Costing" width="290" height="290" class="aligncenter size-thumbnail wp-image-6416" /></a><br />
+<p><a href="/uploads/2014/05/Costing.jpg"><img src="/uploads/2014/05/Costing-290x290.jpg" alt="Costing" width="290" height="290" class="aligncenter size-thumbnail wp-image-6416" /></a><br />
 <a style="background-color: rgb(128, 0, 0); color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 6px 30px; text-decoration: none; background-position: initial initial; background-repeat: initial initial;" href="http://www.vasee.com/event/view.jsp?inid=ff80808145f542f00146425723225569" target="_blank" id="ied_button_show" alt="报名参加Solidworks 初学者工作坊 Solidworks workshop for beginners" title="报名参加">报名参加 Register</a><br />
 现场支付250元，网上支付200元。<br />
 200RMB pay online, 250RMB pay at door.<br />

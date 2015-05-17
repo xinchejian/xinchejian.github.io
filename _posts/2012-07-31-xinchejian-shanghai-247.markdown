@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 <p>Thanks to Andrew Wen of <a href="http://www.shanghai247.net/style/feature/hacker-heaven">Shanghai 247 for the great article on XinCheJian</a>. </p>
-<p><a href="http://www.shanghai247.net/style/feature/hacker-heaven" target="_blank"><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/07/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0" width="447" height="600" /></a></p>
+<p><a href="http://www.shanghai247.net/style/feature/hacker-heaven" target="_blank"><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/07/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0" width="447" height="600" /></a></p>

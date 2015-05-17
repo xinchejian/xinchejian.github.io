@@ -20,7 +20,7 @@ tags: []
 comments: []
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2015/01/images.jpg"><img src="http://xinchejian.com/wp-content/uploads/2015/01/images-290x165.jpg" alt="images" width="290" height="165" class="aligncenter size-thumbnail wp-image-7088" /></a><br />
+<a href="/uploads/2015/01/images.jpg"><img src="/uploads/2015/01/images-290x165.jpg" alt="images" width="290" height="165" class="aligncenter size-thumbnail wp-image-7088" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/7262474266400" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:en--><br />
 Python is one of the top 5 programming languages in the world by popularity. It is used by many of the big software companies including Amazon, Facebook, Google, Microsoft and Yahoo. In this class, you will learn the basic of the language such as the interactive console, data types, data structures, control flow, basic input/output, error handling and more.<br />

@@ -51,7 +51,7 @@ comments:
     one.
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/10/30771764662089731.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/30771764662089731-290x290.jpg" alt="30771764662089731" width="290" height="290" class="aligncenter size-thumbnail wp-image-6981" /></a><a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/7258579359600" target="_blank" title="立即报名">Register 报名参加</a><br />
+<a href="/uploads/2014/10/30771764662089731.jpg"><img src="/uploads/2014/10/30771764662089731-290x290.jpg" alt="30771764662089731" width="290" height="290" class="aligncenter size-thumbnail wp-image-6981" /></a><a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/7258579359600" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:zh--><br />
 时间：12月7号周日，下午14:00－17:00.<br />
 费用：300元；新车间会员享受250元优惠价格。费用包含所需材料。<br />

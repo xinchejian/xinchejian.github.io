@@ -76,7 +76,7 @@ comments:
   content: Correction. The sensor is a Infrared sensor.
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2013/11/insectbot_workshop_201311.jpg"><img src="http://xinchejian.com/wp-content/uploads/2013/11/insectbot_workshop_201311-290x290.jpg" alt="insectbot_workshop_201311" width="290" height="290" class="aligncenter size-thumbnail wp-image-6068" /></a><br />
+<a href="/uploads/2013/11/insectbot_workshop_201311.jpg"><img src="/uploads/2013/11/insectbot_workshop_201311-290x290.jpg" alt="insectbot_workshop_201311" width="290" height="290" class="aligncenter size-thumbnail wp-image-6068" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/insectbot" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:en--><br />
 Price: 250rmb for xcj members；300rmb for nonmembers<br />

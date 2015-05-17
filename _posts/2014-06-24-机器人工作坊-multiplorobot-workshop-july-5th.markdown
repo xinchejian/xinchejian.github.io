@@ -43,7 +43,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=1051771888" target="_blank">William
     Lue</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/0088.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/0088-290x290.jpeg" alt="0088" width="290" height="290" class="aligncenter size-thumbnail wp-image-6486" /></a><br />
+<p><a href="/uploads/2014/06/0088.jpeg"><img src="/uploads/2014/06/0088-290x290.jpeg" alt="0088" width="290" height="290" class="aligncenter size-thumbnail wp-image-6486" /></a><br />
 <a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(128, 0, 0);" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f0146cdd3ee203ff0" target="_blank" id="ied_button_show" alt="购买门票新车间机器人工作坊 MultiploRobot Workshop at XinCheJian" title="购买门票">Register 报名参加</a><br />
 Time: July 5th,10am &ndash; 1:30pm<br />
 时间：7月5号星期六，上午10点-下午1点半<br />

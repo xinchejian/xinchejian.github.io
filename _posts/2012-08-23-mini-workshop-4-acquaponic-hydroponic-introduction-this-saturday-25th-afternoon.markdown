@@ -35,12 +35,12 @@ comments:
 <p>We are going to open the 4th Mini Workshop of Acquaponic and Hydroponic system this Saturday (25th) at XinCheJian from 2pm to 3pm. &nbsp;Open to XinCheJian Members; and the workshop is free to attend.</p></p>
 <p>The pic below is the hydroponic box we built up 10 days ago at XinCheJian Mini Workshop (#3) and now, they are ready for harvest!</p></p>
 <p><a href="http://xinchejian.com/2012/08/23/mini-workshop-4-acquaponic-hydroponic-introduction-this-saturday-25th-afternoon/5a817740jw1dw6chukvkdj/"><br />
-<img title="hydroponic box build up on 11th August" src="http://xinchejian.com/wp-content/uploads/2012/08/5a817740jw1dw6chukvkdj-219x300.jpg" alt=""/><br />
+<img title="hydroponic box build up on 11th August" src="/uploads/2012/08/5a817740jw1dw6chukvkdj-219x300.jpg" alt=""/><br />
 </a><br />
 </p></p>
 <p>Very amazing growth</p><br />
 <!--:--><!--:zh-->
 <p>这个周六（8月25）下午2到3点在新车间会有都市农耕迷你工作坊，介绍鱼菜共生和家庭简易水培系统。欢迎新车间会员参加; 工作坊免费。</p></p>
 <p>照片是10天前工作坊做的水耕菜盆，现在已经可以收成炒菜吃啦! :D</p></p>
-<p><a href="http://xinchejian.com/2012/08/23/mini-workshop-4-acquaponic-hydroponic-introduction-this-saturday-25th-afternoon/5a817740jw1dw6chukvkdj/" rel="attachment wp-att-3764"><img class="size-medium wp-image-3764" title="hydroponic box build up on 11th August" src="http://xinchejian.com/wp-content/uploads/2012/08/5a817740jw1dw6chukvkdj-219x300.jpg" alt=""/></a></p><br />
+<p><a href="http://xinchejian.com/2012/08/23/mini-workshop-4-acquaponic-hydroponic-introduction-this-saturday-25th-afternoon/5a817740jw1dw6chukvkdj/" rel="attachment wp-att-3764"><img class="size-medium wp-image-3764" title="hydroponic box build up on 11th August" src="/uploads/2012/08/5a817740jw1dw6chukvkdj-219x300.jpg" alt=""/></a></p><br />
 <!--:--></p>

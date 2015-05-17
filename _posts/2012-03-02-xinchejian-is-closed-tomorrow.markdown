@@ -26,8 +26,8 @@ comments: []
 <div>Come visit us at 1788 Nanjing West Rd 17th floor.</div></p>
 <div>Thanks!</div><br />
 </div></p>
-<div><a href="http://xinchejian.com/wp-content/uploads/2012/03/occupybarcamp-mix.jpg"><img title="occupybarcamp-mix" src="http://xinchejian.com/wp-content/uploads/2012/03/occupybarcamp-mix-284x400.jpg" alt="" width="284" height="400" /></a></div><!--:--><!--:zh-->
+<div><a href="/uploads/2012/03/occupybarcamp-mix.jpg"><img title="occupybarcamp-mix" src="/uploads/2012/03/occupybarcamp-mix-284x400.jpg" alt="" width="284" height="400" /></a></div><!--:--><!--:zh-->
 <div>请注意，新车间明天（3月3日）不开门，因为<wbr>我们都忙着在占领上海Barcamp!</wbr></div></p>
 <div>欢迎过来Barcamp找我们玩：南京西路1788号17楼。</div></p>
 <div>谢谢！</div></p>
-<div><a href="http://xinchejian.com/wp-content/uploads/2012/03/occupybarcamp-mix.jpg"><img class="alignnone size-large wp-image-2606" title="occupybarcamp-mix" src="http://xinchejian.com/wp-content/uploads/2012/03/occupybarcamp-mix-284x400.jpg" alt="" width="284" height="400" /></a></div><!--:--></p>
+<div><a href="/uploads/2012/03/occupybarcamp-mix.jpg"><img class="alignnone size-large wp-image-2606" title="occupybarcamp-mix" src="/uploads/2012/03/occupybarcamp-mix-284x400.jpg" alt="" width="284" height="400" /></a></div><!--:--></p>

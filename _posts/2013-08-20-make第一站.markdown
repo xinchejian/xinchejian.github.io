@@ -35,7 +35,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=572220355" target="_blank">Janie
     Lin</a> liked this on Facebook.
 ---
-<p><!--:zh--><a href="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" /></a></p>
+<p><!--:zh--><a href="/uploads/2013/08/shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="/uploads/2013/08/shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" /></a></p>
 <p>经由三个月，Make+艺术与科技计划终于将对世界展示自己。欢迎在8月28日到9月2日之间，来上海展览中心-瑞士科技文化中心的展厅看我们的第一个展。展览将展出Make+其中三个项目。到其官网上可以下载免费参观券。kyz.shkp.org.cn</p>
 <p>&nbsp;</p>
 <p>Make+第一站@2013年上海国际科学与艺术展 &ldquo;融合 -- 十年纷呈&rdquo;</p>
@@ -45,7 +45,7 @@ comments:
 2013年8月29日 - 9月1日 （9:00 - 16:30）<br />
 2013年9月2日 （9:00 - 15:00）</p>
 <p><span style="color: #ff0000;">8月28日晚7点，我们还将在新车间庆祝2013年计划的结束。欢迎新车间的各位朋友来玩。下半周将会有更详细的信息。</span></p>
-<p>Make+计划由林哲水创立，与新车间和视界艺术中心合作，并由DFRobot，swissnex China支持。更多信息，请见我们的官网@makeplus.org 或新浪微博@makeplus-sh<!--:--><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="http://xinchejian.com/wp-content/uploads/2013/08/shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" /></a></p>
+<p>Make+计划由林哲水创立，与新车间和视界艺术中心合作，并由DFRobot，swissnex China支持。更多信息，请见我们的官网@makeplus.org 或新浪微博@makeplus-sh<!--:--><!--:en--><a href="/uploads/2013/08/shanghai-exhibition-center1-small.jpg"><img class="aligncenter size-large wp-image-5851" alt="Print" src="/uploads/2013/08/shanghai-exhibition-center1-small-502x400.jpg" width="502" height="400" /></a></p>
 <p>Make+ Art &amp; Technology program, after three months of hard work, will finally show the world what's it got. Go check out our very first exhibition at the swissnex China booth, Shanghai exhibition center from August 28 - September 2. It will display three of the Make+ projects. Free admission by ordering from&nbsp;kyz.shkp.org.cn</p>
 <p>&nbsp;</p>
 <p>Make+ 1st stop@2013 Shanghai International Science and Art Exhibition</p>

@@ -151,11 +151,11 @@ View a list of projects and pictures here:</p>
 <p>We have a strong self-interest in seeing this project succeed and driving traffic to our sponsor to build an audience for the project and enhance our reputation as a creative and innovative space.</p>
 <p><strong>概念图Concept Proposals</strong></p>
 <p>Figure 1: Audience members watching the Soccerbots playing football.</p>
-<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/exhibition/" rel="attachment wp-att-3183"><img title="exhibition" src="http://xinchejian.com/wp-content/uploads/2012/05/exhibition-383x400.jpg" alt="" width="383" height="400" /></a></p>
+<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/exhibition/" rel="attachment wp-att-3183"><img title="exhibition" src="/uploads/2012/05/exhibition-383x400.jpg" alt="" width="383" height="400" /></a></p>
 <p>Figure 2: &nbsp;Proposed 3D model shell for the soccerbot robot exterior.</p>
-<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/3d_model/" rel="attachment wp-att-3185"><img title="3d_model" src="http://xinchejian.com/wp-content/uploads/2012/05/3d_model.jpg" alt="" width="308" height="375" /></a></p>
+<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/3d_model/" rel="attachment wp-att-3185"><img title="3d_model" src="/uploads/2012/05/3d_model.jpg" alt="" width="308" height="375" /></a></p>
 <p>Figure 3: Concept of external skins for soccerbots, based on European Football teams.</p>
-<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/external_skins-2/" rel="attachment wp-att-3186"><img title="external_skins" src="http://xinchejian.com/wp-content/uploads/2012/05/external_skins1-600x372.jpg" alt="" width="470" height="291" /></a><!--:--><!--:zh-->
+<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/external_skins-2/" rel="attachment wp-att-3186"><img title="external_skins" src="/uploads/2012/05/external_skins1-600x372.jpg" alt="" width="470" height="291" /></a><!--:--><!--:zh-->
 <p><em>翻译：Otto Mao</em></p></p>
 <p>我们的目标：建立一支能在任何公共区域踢足球的机器人足球队。这些机器人既可以由参赛的男女老少远程控制，也可以自主运动。 在2012年6月欧洲杯到来之际，这项活动必能吸引媒体的眼球并带来巨大的客流量。同时，这也是全中国第一届可以由观众互动参与的机器人足球展。</p></p>
 <p>比赛双方各由7名队员组成，比赛在一片特制的足球场进行（约一张4.5米＊1.5米桌子的大小）。观众可以对机器人进行遥控。机器人可以由其自主控制，进行机器人对抗，甚至是与人类玩家对抗。每个机器人都将穿上特制的欧洲杯参赛队球衣。</p></p>
@@ -196,9 +196,9 @@ View a list of projects and pictures here:</p>
 <p>我们有信心，此次活动必会取得巨大的成功，为赞助方带来客流，也将为我们的创客组织增添新的活力与创意。</p></p>
 <p><strong>概念图Concept Proposals</strong></p></p>
 <p>图1. 观众们正在参观足球机器人</p></p>
-<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/exhibition/" rel="attachment wp-att-3183"><img title="exhibition" src="http://xinchejian.com/wp-content/uploads/2012/05/exhibition-383x400.jpg" alt="" width="383" height="400" /></a></p></p>
+<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/exhibition/" rel="attachment wp-att-3183"><img title="exhibition" src="/uploads/2012/05/exhibition-383x400.jpg" alt="" width="383" height="400" /></a></p></p>
 <p>图2. 足球机器人的3D模拟外观</p></p>
-<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/3d_model/" rel="attachment wp-att-3185"><img title="3d_model" src="http://xinchejian.com/wp-content/uploads/2012/05/3d_model.jpg" alt="" width="308" height="375" /></a></p></p>
+<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/3d_model/" rel="attachment wp-att-3185"><img title="3d_model" src="/uploads/2012/05/3d_model.jpg" alt="" width="308" height="375" /></a></p></p>
 <p>图3. 参考欧洲杯设计的足球机器人外衣</p></p>
-<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/external_skins-2/" rel="attachment wp-att-3186"><img title="external_skins" src="http://xinchejian.com/wp-content/uploads/2012/05/external_skins1-600x372.jpg" alt="" width="470" height="291" /></a></p><br />
+<p><a href="http://xinchejian.com/2012/05/15/soccerbots-robotic-football-exhibition/external_skins-2/" rel="attachment wp-att-3186"><img title="external_skins" src="/uploads/2012/05/external_skins1-600x372.jpg" alt="" width="470" height="291" /></a></p><br />
 <!--:--></p>

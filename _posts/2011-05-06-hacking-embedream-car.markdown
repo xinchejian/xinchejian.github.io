@@ -33,13 +33,13 @@ CT3	后退控制信号，高电位转动<br />
 <p>但是由于小车上的UNO与我的Ubuntu连接有问题，貌似只有Windows是好的，Mac OS有时也会出问题。所以最后车上改用了Mega 1280。</p></p>
 <p>但是又发现一个问题，就是Arduino使用USB供电的时候很正常，然而，使用车上接出来的5V电源时，程序就会混乱，完全没有一点规律。猜测可能是由于电机转动导致整个系统的电压下降，无法提供足够的电压给Arduino的板子上。这大概也是之前uno不会发疯的原因。没办法，在小车上再接一块9V层叠式电池，作为Arduino的电源。最后终于行了。</p></p>
 <p>后面程序的作用是往前走，遇到前方有物体是后退，打弯，然后继续往前，一个简单的壁障程序。没有用到速度控制。下面就是这个小车最后的样子，手机拍的，将就看吧</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled4.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled4.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>左侧照</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled5.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled5.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>右侧照</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled6.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled6.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p>再来一张</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p>
 <p><embed src="http://player.youku.com/player.php/sid/XMjYzMzY0NzA0/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
 <a href="http://v.youku.com/v_show/id_XMjYzMzY0NzA0.html">http://v.youku.com/v_show/id_XMjYzMzY0NzA0.html</a></p>
 <p>用到的程序就是下面的</p></p>

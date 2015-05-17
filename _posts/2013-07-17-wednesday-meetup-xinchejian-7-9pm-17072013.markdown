@@ -29,7 +29,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2013/07/Wednesday.jpg"><img src="http://xinchejian.com/wp-content/uploads/2013/07/Wednesday.jpg" alt="Wednesday" width="220" height="140" class="alignnone size-full wp-image-5793" /></a></p>
+<p><!--:en--><a href="/uploads/2013/07/Wednesday.jpg"><img src="/uploads/2013/07/Wednesday.jpg" alt="Wednesday" width="220" height="140" class="alignnone size-full wp-image-5793" /></a></p>
 <h2>7月17日周三开放日</h2><br />
 <strong>Make something this summer! &nbsp;</strong></p>
 <p>Processing workshop went well on the weekend, for those that missed it, well worth checking out when it comes up again. just a friendly reminder that if you havn't paid your membership dues, please do so at the space. in August paul will be running a free Arduino workshop for members only make sure you have your own Arduino kit, buy through the space to support XinCheJian. also let us know what you think about the new design on the xinchejian website. A friendly reminder that XinCheJian is a hackerspace and not a co-working space/cheap office space, its fine to work on your projects but not cool to run your business out of the space, people involved in this are kindly being asked to move to a co-working facility, we can make introductions if you need them.</p>

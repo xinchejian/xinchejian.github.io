@@ -62,7 +62,7 @@ comments:
   content: 请问安卓的App怎么下载？下次会上啥课？这是arduino?有没有微信群呢？
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2015/01/2.pic_.jpg"><img src="http://xinchejian.com/wp-content/uploads/2015/01/2.pic_-290x290.jpg" alt="2.pic" width="290" height="290" class="aligncenter size-thumbnail wp-image-7101" /></a><br />
+<a href="/uploads/2015/01/2.pic_.jpg"><img src="/uploads/2015/01/2.pic_-290x290.jpg" alt="2.pic" width="290" height="290" class="aligncenter size-thumbnail wp-image-7101" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/1264617453400" target="_blank" title="立即报名">Register 报名参加</a><br />
 活动时间：1月17日 10am-12:00pm<br />
 活动地点：新车间 -愚园东路28号3号楼一楼.<br />

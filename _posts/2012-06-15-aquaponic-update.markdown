@@ -22,8 +22,8 @@ comments: []
 ---
 <p>Roger setup the aquaponic box last Saturday. It's a ebb and flow system with ceramic pebbles. </p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/06/IMG_1726.jpeg" alt="IMG 1726" title="IMG_1726.jpeg" border="0" width="450" height="600" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/06/IMG_1726.jpeg" alt="IMG 1726" title="IMG_1726.jpeg" border="0" width="450" height="600" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/06/IMG_1727.jpeg" alt="IMG 1727" title="IMG_1727.jpeg" border="0" width="450" height="600" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/06/IMG_1727.jpeg" alt="IMG 1727" title="IMG_1727.jpeg" border="0" width="450" height="600" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/06/IMG_1728.jpeg" alt="IMG 1728" title="IMG_1728.jpeg" border="0" width="450" height="600" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/06/IMG_1728.jpeg" alt="IMG 1728" title="IMG_1728.jpeg" border="0" width="450" height="600" /></p></p>

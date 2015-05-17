@@ -23,4 +23,4 @@ tags: []
 comments: []
 ---
 <p>Tomorrow, Saturday at 2pm.  <a href="http://xinchejian.com/event/?regevent_action=register&event_id=39&name_of_event=RoboracingWorkshop">Register</a>!</p>
-<p><a href="http://xinchejian.com/2011/08/05/arduino-shield-assembly-workshop/img_0005-1/" rel="attachment wp-att-1286"><img src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0005-1-300x225.jpg" alt="" title="IMG_0005-1" width="300" height="225" class="aligncenter size-medium wp-image-1286" /></a></p>
+<p><a href="http://xinchejian.com/2011/08/05/arduino-shield-assembly-workshop/img_0005-1/" rel="attachment wp-att-1286"><img src="/uploads/2011/08/IMG_0005-1-300x225.jpg" alt="" title="IMG_0005-1" width="300" height="225" class="aligncenter size-medium wp-image-1286" /></a></p>

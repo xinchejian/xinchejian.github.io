@@ -51,7 +51,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=1195917587" target="_blank">Lionello
     Lunesu</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/05/javascript.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/05/javascript-290x290.jpg" alt="javascript" width="290" height="290" class="aligncenter size-thumbnail wp-image-6374" /></a><br />
+<p><a href="/uploads/2014/05/javascript.jpg"><img src="/uploads/2014/05/javascript-290x290.jpg" alt="javascript" width="290" height="290" class="aligncenter size-thumbnail wp-image-6374" /></a><br />
 Fee费用: RMB150<br />
 Time时间: 2pm - 5pm, May 25th 5月25号下午2点-5点<br />
 Location地点: XinCheJian, sw corner of SOHO Donghai Plaza, 299 Tongren Road. 新车间，铜仁路299号，soho东海广场西南角<br />

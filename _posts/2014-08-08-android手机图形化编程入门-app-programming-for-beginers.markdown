@@ -28,7 +28,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=575433750" target="_blank">Candy
     Hsiao</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/08/app-android.png"><img src="http://xinchejian.com/wp-content/uploads/2014/08/app-android-290x290.png" alt="app android" width="290" height="290" class="aligncenter size-thumbnail wp-image-6602" /></a><br />
+<p><a href="/uploads/2014/08/app-android.png"><img src="/uploads/2014/08/app-android-290x290.png" alt="app android" width="290" height="290" class="aligncenter size-thumbnail wp-image-6602" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/aa" target="_blank" title="立即报名">报名参加 Register</a><br />
 Android手机 图形化编程应用软件 入门公开课<br />
 <strong>软件介绍</strong><br />

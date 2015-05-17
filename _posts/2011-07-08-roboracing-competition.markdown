@@ -26,8 +26,8 @@ tags:
 comments: []
 ---
 <p><!--:en--></p>
-<p><img width="400" height="565" src="http://xinchejian.com/wp-content/uploads/2011/07/ROBORACING-500x700.jpg" alt="" /></p>
-<p><a rel="attachment wp-att-1028" href="http://xinchejian.com/2011/05/25/hcr-roboracing/racingtracksketchup/"><img class="alignnone size-large wp-image-1028" title="RacingTrackSketchUp" src="http://xinchejian.com/wp-content/uploads/2011/05/RacingTrackSketchUp-549x400.jpg" alt="" width="470" height="342" /></a></p>
+<p><img width="400" height="565" src="/uploads/2011/07/ROBORACING-500x700.jpg" alt="" /></p>
+<p><a rel="attachment wp-att-1028" href="http://xinchejian.com/2011/05/25/hcr-roboracing/racingtracksketchup/"><img class="alignnone size-large wp-image-1028" title="RacingTrackSketchUp" src="/uploads/2011/05/RacingTrackSketchUp-549x400.jpg" alt="" width="470" height="342" /></a></p>
 <p>This event is open to everyone, please bring your friends and family! Register <a href="http://xinchejian.com/event/?regevent_action=register&event_id=24&name_of_event=RoboracingCompetition">here</a>.</p>
 <p>The competition will be in 2 parts:</p>
 <p>* Autonomous robot car racing</p>
@@ -52,8 +52,8 @@ Team 12: Nelson Zhang (Autonomous Wall-E)<br />
 Team 13: Lionello Lunesu (LEGO mobile robot)<br />
 Team 14: David Li (Soccerbot)</p>
 <p><!--:--><!--:zh--></p>
-<p><img width="400" height="565" src="http://xinchejian.com/wp-content/uploads/2011/07/ROBORACING-500x700.jpg" alt="" /></p>
-<p><a rel="attachment wp-att-1028" href="http://xinchejian.com/2011/05/25/hcr-roboracing/racingtracksketchup/"><img class="alignnone size-large wp-image-1028" title="RacingTrackSketchUp" src="http://xinchejian.com/wp-content/uploads/2011/05/RacingTrackSketchUp-549x400.jpg" alt="" width="470" height="342" /></a></p>
+<p><img width="400" height="565" src="/uploads/2011/07/ROBORACING-500x700.jpg" alt="" /></p>
+<p><a rel="attachment wp-att-1028" href="http://xinchejian.com/2011/05/25/hcr-roboracing/racingtracksketchup/"><img class="alignnone size-large wp-image-1028" title="RacingTrackSketchUp" src="/uploads/2011/05/RacingTrackSketchUp-549x400.jpg" alt="" width="470" height="342" /></a></p>
 <p>欢迎有兴趣的朋友来围观！<a href="http://xinchejian.com/event/?regevent_action=register&event_id=24&name_of_event=RoboracingCompetition">这里报名</a>。</p>
 <p>比赛分为两个部分：</p>
 <p>* 自动控制组</p>

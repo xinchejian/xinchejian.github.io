@@ -21,7 +21,7 @@ comments: []
 ---
 <p>Sunday, August 24, 2014 3:00 PM ～ Sunday, August 24, 2014 5:00 PM</p>
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间</a></p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/08/zbrush.jpg"><img class="alignnone size-large wp-image-6634" src="http://xinchejian.com/wp-content/uploads/2014/08/zbrush-600x257.jpg" alt="zbrush" width="470" height="201" /></a></p>
+<p><a href="/uploads/2014/08/zbrush.jpg"><img class="alignnone size-large wp-image-6634" src="/uploads/2014/08/zbrush-600x257.jpg" alt="zbrush" width="470" height="201" /></a></p>
 <p><span style="color: #003366;">-ZBrush&nbsp;是按照世界领先的特效工作室和全世界范围内的游戏设计者的需要，以一种精密的结合方式开发成功的，它提供了极其优秀的功能和特色，可以极大地增强你的创造力。<br />
 </span><span style="color: #003366;">-在建模方面，ZBrush进行了相当大的优化编码改革，并与一套独特的建模流程相结合，可以让你制作出令人惊讶的复杂模型。无论是从中级到高分辨率的模型，你的任何雕刻动作都可以瞬间得到回应。还可以实时的进行不断的渲染和着色。<br />
 </span><span style="color: #003366;">-</span><span style="color: #003366;">对于绘制操作，ZBrush增加了新的范围尺度，可以让你给基于像素的作品增加深度，材质，光照和复杂精密的渲染特效，真正实现了2D与3D的结合，模糊了多边形与像素之间的界限。<br />

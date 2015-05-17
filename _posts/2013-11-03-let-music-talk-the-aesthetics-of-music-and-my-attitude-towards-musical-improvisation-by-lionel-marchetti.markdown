@@ -79,4 +79,4 @@ comments:
 <p>主题：莱昂内尔&bull;马尔凯蒂；来自法国具象音乐作曲家的音乐美学和即兴音乐态度 当浪漫遇到具象，音乐遇见美学，想象这样的音乐会是什么样的旋律嘛？11月10日下午1点到3点莱昂内尔&bull;马尔凯蒂将在新车间，分享主题---来自法国具象音乐作曲家的音乐美学和即兴音乐态度----音乐专场演说，记住是&ldquo;演说&rdquo;，不是演讲，席位有限，预定赶早。</p>
 <p>1、所谓&ldquo;具象音乐&rdquo;(Musique Concrete) ，也就是用自然界或人类发出的声音（乐器以外）作为原始素材而以各种录音及音响手法加工制作出的现代音乐。40年代末由法国人 Pierre Schaeffer、 Pierre Henry 等人首创，是法国对现代音乐的重要贡献。</p>
 <p>2、莱昂内尔&bull;马凯蒂是今天法国电子音乐和即兴音乐的代表音乐家之一。也是一位诗人和视觉艺术家。他是一位活跃的作曲家、即兴演奏者、声音艺术家和教育家。 分享内容： 1、 简单介绍他眼中的具象音乐； 2、 介绍和展示自己的音乐创作； 3、 介绍和分享电子原音音乐的美学； 4、 分享什么叫做即兴音乐与即兴音乐创作的态度；</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/11/公主坊海报20131110.jpg"><img class="alignnone size-medium wp-image-6065" alt="公主坊海报20131110" src="http://xinchejian.com/wp-content/uploads/2013/11/公主坊海报20131110-300x198.jpg" width="300" height="198" /></a></p>
+<p><a href="/uploads/2013/11/公主坊海报20131110.jpg"><img class="alignnone size-medium wp-image-6065" alt="公主坊海报20131110" src="/uploads/2013/11/公主坊海报20131110-300x198.jpg" width="300" height="198" /></a></p>

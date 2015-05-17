@@ -70,82 +70,82 @@ comments:
 <p><!--:zh-->
 <p>On Saturday, we decided to run a mini <a href="http://shanghaimakercarnival.com">Maker Carnival</a> on the <a href="http://xinchejian.com/2013/09/27/pop-up-hackerspace-in-grand-gateway-mall/">container hackerspace</a> currently in front Grand Gateway in Xujiahui, Shanghai. This being the one of the busiest intersections in Shanghai, we have attract a lot of interested and meet interesting people. Thanks for the volunteers from our space, <a href="http://makeplus.org">Make+</a> and <a href="http://www.dfrobot.com/index.php">DFRobot</a>.</p></p>
 <h3>Busy event</h3></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2488.jpg" alt="DSC 2488" title="DSC_2488.JPG" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2488.jpg" alt="DSC 2488" title="DSC_2488.JPG" border="0" width="600" height="398" /></p></p>
 <h3>Make+ and brain matter!</h3></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2473.jpg" alt="DSC 2473" title="DSC_2473.JPG" border="0" width="600" height="398" /></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2473.jpg" alt="DSC 2473" title="DSC_2473.JPG" border="0" width="600" height="398" /></p>
 <h3>Firefly from Make+</h3></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2516.jpg" alt="DSC 2516" title="DSC_2516.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2516.jpg" alt="DSC 2516" title="DSC_2516.JPG" border="0" width="600" height="398" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2546.jpg" alt="DSC 2546" title="DSC_2546.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2546.jpg" alt="DSC 2546" title="DSC_2546.JPG" border="0" width="600" height="398" /></p></p>
 <h3>The Snake Robot steals the show</h3></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2528.jpg" alt="DSC 2528" title="DSC_2528.jpg" border="0" width="398" height="600" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2528.jpg" alt="DSC 2528" title="DSC_2528.jpg" border="0" width="398" height="600" /></p></p>
 <h4>The kids can't get enough of the snake</h4></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2479.jpg" alt="DSC 2479" title="DSC_2479.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2479.jpg" alt="DSC 2479" title="DSC_2479.JPG" border="0" width="600" height="398" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2518.jpg" alt="DSC 2518" title="DSC_2518.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2518.jpg" alt="DSC 2518" title="DSC_2518.JPG" border="0" width="600" height="398" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2520.jpg" alt="DSC 2520" title="DSC_2520.jpg" border="0" width="398" height="600" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2534.jpg" alt="DSC 2534" title="DSC_2534.JPG" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2537.jpg" alt="DSC 2537" title="DSC_2537.jpg" border="0" width="398" height="600" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2520.jpg" alt="DSC 2520" title="DSC_2520.jpg" border="0" width="398" height="600" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2534.jpg" alt="DSC 2534" title="DSC_2534.JPG" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2537.jpg" alt="DSC 2537" title="DSC_2537.jpg" border="0" width="398" height="600" /></p></p>
 <h4>Beauties and snake&hellip; That's how men got into trouble in the first place? :) </h4></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2522.jpg" alt="DSC 2522" title="DSC_2522.jpg" border="0" width="398" height="600" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2522.jpg" alt="DSC 2522" title="DSC_2522.jpg" border="0" width="398" height="600" /></p></p>
 <h4>Mr. Wen built the snake and explain to visitors about it</h4></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2540.jpg" alt="DSC 2540" title="DSC_2540.JPG" border="0" width="600" height="398" /><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2540.jpg" alt="DSC 2540" title="DSC_2540.JPG" border="0" width="600" height="398" /><br />
 </p></p>
 <h3>Boys and robots</h3></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2466.jpg" alt="DSC 2466" title="DSC_2466.JPG" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2526.jpg" alt="DSC 2526" title="DSC_2526.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2466.jpg" alt="DSC 2466" title="DSC_2466.JPG" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2526.jpg" alt="DSC 2526" title="DSC_2526.JPG" border="0" width="600" height="398" /></p></p>
 <h3>People are still trying to figure out this 3D printing thing&hellip;</h3></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2462.jpg" alt="DSC 2462" title="DSC_2462.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2462.jpg" alt="DSC 2462" title="DSC_2462.JPG" border="0" width="600" height="398" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2503.jpg" alt="DSC 2503" title="DSC_2503.JPG" border="0" width="600" height="398" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2503.jpg" alt="DSC 2503" title="DSC_2503.JPG" border="0" width="600" height="398" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2511.jpg" alt="DSC 2511" title="DSC_2511.JPG" border="0" width="600" height="398" /></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2513.jpg" alt="DSC 2513" title="DSC_2513.jpg" border="0" width="398" height="600" /></p><!--:--><!--:en-->On Saturday, we decided to run a mini <a href="http://shanghaimakercarnival.com">Maker Carnival</a> on the <a href="http://xinchejian.com/2013/09/27/pop-up-hackerspace-in-grand-gateway-mall/">container hackerspace</a> currently in front Grand Gateway in Xujiahui, Shanghai. This being the one of the busiest intersections in Shanghai, we have attract a lot of interested and meet interesting people. Thanks for the volunteers from our space, <a href="http://makeplus.org">Make+</a> and <a href="http://www.dfrobot.com/index.php">DFRobot</a>.</p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2511.jpg" alt="DSC 2511" title="DSC_2511.JPG" border="0" width="600" height="398" /></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/09/DSC_2513.jpg" alt="DSC 2513" title="DSC_2513.jpg" border="0" width="398" height="600" /></p><!--:--><!--:en-->On Saturday, we decided to run a mini <a href="http://shanghaimakercarnival.com">Maker Carnival</a> on the <a href="http://xinchejian.com/2013/09/27/pop-up-hackerspace-in-grand-gateway-mall/">container hackerspace</a> currently in front Grand Gateway in Xujiahui, Shanghai. This being the one of the busiest intersections in Shanghai, we have attract a lot of interested and meet interesting people. Thanks for the volunteers from our space, <a href="http://makeplus.org">Make+</a> and <a href="http://www.dfrobot.com/index.php">DFRobot</a>.</p>
 <h3>Busy event</h3><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2488.JPG" alt="DSC 2488" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2488.jpg" width="600" height="398" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2488.JPG" alt="DSC 2488" src="/uploads/2013/09/DSC_2488.jpg" width="600" height="398" border="0" /></p>
 <h3>Make+ and brain matter!</h3><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2473.JPG" alt="DSC 2473" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2473.jpg" width="600" height="398" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2473.JPG" alt="DSC 2473" src="/uploads/2013/09/DSC_2473.jpg" width="600" height="398" border="0" /></p>
 <h3>Firefly from Make+</h3><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2516.JPG" alt="DSC 2516" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2516.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2546.JPG" alt="DSC 2546" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2546.jpg" width="600" height="398" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2516.JPG" alt="DSC 2516" src="/uploads/2013/09/DSC_2516.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2546.JPG" alt="DSC 2546" src="/uploads/2013/09/DSC_2546.jpg" width="600" height="398" border="0" /></p>
 <h3>The Snake Robot steals the show</h3><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2528.jpg" alt="DSC 2528" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2528.jpg" width="398" height="600" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2528.jpg" alt="DSC 2528" src="/uploads/2013/09/DSC_2528.jpg" width="398" height="600" border="0" /></p>
 <h4>The kids can't get enough of the snake</h4><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2479.JPG" alt="DSC 2479" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2479.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2518.JPG" alt="DSC 2518" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2518.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2520.jpg" alt="DSC 2520" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2520.jpg" width="398" height="600" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2534.JPG" alt="DSC 2534" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2534.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2537.jpg" alt="DSC 2537" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2537.jpg" width="398" height="600" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2479.JPG" alt="DSC 2479" src="/uploads/2013/09/DSC_2479.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2518.JPG" alt="DSC 2518" src="/uploads/2013/09/DSC_2518.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2520.jpg" alt="DSC 2520" src="/uploads/2013/09/DSC_2520.jpg" width="398" height="600" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2534.JPG" alt="DSC 2534" src="/uploads/2013/09/DSC_2534.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2537.jpg" alt="DSC 2537" src="/uploads/2013/09/DSC_2537.jpg" width="398" height="600" border="0" /></p>
 <h4>Beauties and snake&hellip; That's how men got into trouble in the first place? :)</h4><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2522.jpg" alt="DSC 2522" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2522.jpg" width="398" height="600" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2522.jpg" alt="DSC 2522" src="/uploads/2013/09/DSC_2522.jpg" width="398" height="600" border="0" /></p>
 <h4>Mr. Wen built the snake and explain to visitors about it</h4><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2540.JPG" alt="DSC 2540" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2540.jpg" width="600" height="398" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2540.JPG" alt="DSC 2540" src="/uploads/2013/09/DSC_2540.jpg" width="600" height="398" border="0" /></p>
 <h3>Boys and robots</h3><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2466.JPG" alt="DSC 2466" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2466.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2526.JPG" alt="DSC 2526" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2526.jpg" width="600" height="398" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2466.JPG" alt="DSC 2466" src="/uploads/2013/09/DSC_2466.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2526.JPG" alt="DSC 2526" src="/uploads/2013/09/DSC_2526.jpg" width="600" height="398" border="0" /></p>
 <h3>People are still trying to figure out this 3D printing thing&hellip;</h3><br />
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2462.JPG" alt="DSC 2462" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2462.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2503.JPG" alt="DSC 2503" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2503.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2511.JPG" alt="DSC 2511" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2511.jpg" width="600" height="398" border="0" /></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2513.jpg" alt="DSC 2513" src="http://xinchejian.com/wp-content/uploads/2013/09/DSC_2513.jpg" width="398" height="600" border="0" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2462.JPG" alt="DSC 2462" src="/uploads/2013/09/DSC_2462.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2503.JPG" alt="DSC 2503" src="/uploads/2013/09/DSC_2503.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2511.JPG" alt="DSC 2511" src="/uploads/2013/09/DSC_2511.jpg" width="600" height="398" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="DSC_2513.jpg" alt="DSC 2513" src="/uploads/2013/09/DSC_2513.jpg" width="398" height="600" border="0" /></p>
 <h3>Boys and Sumo Robots</h3></p>
-<p style="text-align: center;"><img class="alignnone size-large wp-image-5987" alt="IMG_3573" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3573-600x400.jpg" width="600" height="400" /></p></p>
-<p style="text-align: center;"><img class="alignnone size-large wp-image-5985" alt="IMG_3565" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3565-600x400.jpg" width="600" height="400" /></p><br />
-<img class="alignnone size-large wp-image-5984 aligncenter" alt="IMG_3564" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3564-600x400.jpg" width="600" height="400" /></p>
+<p style="text-align: center;"><img class="alignnone size-large wp-image-5987" alt="IMG_3573" src="/uploads/2013/09/IMG_3573-600x400.jpg" width="600" height="400" /></p></p>
+<p style="text-align: center;"><img class="alignnone size-large wp-image-5985" alt="IMG_3565" src="/uploads/2013/09/IMG_3565-600x400.jpg" width="600" height="400" /></p><br />
+<img class="alignnone size-large wp-image-5984 aligncenter" alt="IMG_3564" src="/uploads/2013/09/IMG_3564-600x400.jpg" width="600" height="400" /></p>
 <h3>Indeed, 3D printing will not only attract man...</h3><br />
-<img class="size-large wp-image-5993 aligncenter" alt="IMG_3607" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3607-600x400.jpg" width="600" height="400" /></p>
-<p><img class="size-large wp-image-5992 aligncenter" alt="IMG_3591" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3591-266x400.jpg" width="266" height="400" /></p>
-<p><img class="size-large wp-image-5990 aligncenter" alt="IMG_3608" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3608-600x400.jpg" width="600" height="400" /></p>
+<img class="size-large wp-image-5993 aligncenter" alt="IMG_3607" src="/uploads/2013/09/IMG_3607-600x400.jpg" width="600" height="400" /></p>
+<p><img class="size-large wp-image-5992 aligncenter" alt="IMG_3591" src="/uploads/2013/09/IMG_3591-266x400.jpg" width="266" height="400" /></p>
+<p><img class="size-large wp-image-5990 aligncenter" alt="IMG_3608" src="/uploads/2013/09/IMG_3608-600x400.jpg" width="600" height="400" /></p>
 <h3>Prime location in Xujiahui. Crowded place with many people stopping at the container.</h3><br />
-<img class="aligncenter size-large wp-image-5989" alt="IMG_3582" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3582-600x400.jpg" width="600" height="400" /></p>
-<p><img class="aligncenter size-large wp-image-5988" alt="IMG_3583" src="http://xinchejian.com/wp-content/uploads/2013/09/IMG_3583-600x400.jpg" width="600" height="400" /></p>
+<img class="aligncenter size-large wp-image-5989" alt="IMG_3582" src="/uploads/2013/09/IMG_3582-600x400.jpg" width="600" height="400" /></p>
+<p><img class="aligncenter size-large wp-image-5988" alt="IMG_3583" src="/uploads/2013/09/IMG_3583-600x400.jpg" width="600" height="400" /></p>
 <h3>Volunteers got a personal photo with two beautiful girls</h3><br />
-<img class="aligncenter size-large wp-image-5996" alt="dfrobot_and_girls" src="http://xinchejian.com/wp-content/uploads/2013/09/dfrobot_and_girls-600x337.jpg" width="600" height="337" /><!--:--></p>
+<img class="aligncenter size-large wp-image-5996" alt="dfrobot_and_girls" src="/uploads/2013/09/dfrobot_and_girls-600x337.jpg" width="600" height="337" /><!--:--></p>

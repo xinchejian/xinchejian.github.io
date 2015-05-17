@@ -21,6 +21,6 @@ categories:
 tags: []
 comments: []
 ---
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/09/wpid-IMG_20110927_143429.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/09/wpid-IMG_20110927_143429.jpg" /></p>
 <p>爱上Arduino中文书：45人民币一本（附学习光碟），有兴趣的人请过来新车间购买！</p></p>
 <p>We're selling them for 45 RMB (to cover shipping), the book comes with a learning CD. Buy one and get started with Arduino!</p></p>

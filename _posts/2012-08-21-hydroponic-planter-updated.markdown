@@ -62,7 +62,7 @@ comments:
 <hr/>
 <h3>A week ago</h3></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3227.jpg"><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3227.jpg"><br />
 </p></p>
 <h3>Today</h3></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2012/08/IMG_3302.jpg" alt="IMG 3302" title="IMG_3302.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2012/08/IMG_3302.jpg" alt="IMG 3302" title="IMG_3302.jpg" border="0"/></p></p>

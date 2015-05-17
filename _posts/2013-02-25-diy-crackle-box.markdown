@@ -22,7 +22,7 @@ tags: []
 comments: []
 ---
 <p><!--:zh-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/Crakle-Box.jpg"><img class="alignnone size-large wp-image-4387" alt="Crakle Box" src="http://xinchejian.com/wp-content/uploads/2013/02/Crakle-Box-600x400.jpg" width="470" height="313" /></a></p></p>
+<p><a href="/uploads/2013/02/Crakle-Box.jpg"><img class="alignnone size-large wp-image-4387" alt="Crakle Box" src="/uploads/2013/02/Crakle-Box-600x400.jpg" width="470" height="313" /></a></p></p>
 <p><strong>日期：</strong>2013年3月9日（周六）</p></p>
 <p><strong>时间：</strong>下午2点－5点 </p></p>
 <p><strong>工作坊内容：</strong></p></p>
@@ -33,7 +33,7 @@ comments: []
 <h2>
 <p><br/><a href="http://xinchejian.com/event2/?ee=166">线上报名点击这里</a>
 <p></h2><!--:--><!--:en-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/Crakle-Box.jpg"><img class="alignnone size-large wp-image-4387" alt="Crakle Box" src="http://xinchejian.com/wp-content/uploads/2013/02/Crakle-Box-600x400.jpg" width="470" height="313" /></a></p></p>
+<p><a href="/uploads/2013/02/Crakle-Box.jpg"><img class="alignnone size-large wp-image-4387" alt="Crakle Box" src="/uploads/2013/02/Crakle-Box-600x400.jpg" width="470" height="313" /></a></p></p>
 <p><strong>Date：</strong>March 9th 2013（Saturday）</p></p>
 <p><strong>Time：</strong>2PM - 5PM</p></p>
 <p><strong>Workshop Content：</strong></p></p>

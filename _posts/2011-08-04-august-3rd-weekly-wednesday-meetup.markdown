@@ -35,34 +35,34 @@ We haven't been very good about posting blog posts, but the weeks since the Robo
 <p><a href="http://xinchejian.com/event">See you next week</a>!<!--:--></p>
 <table border="1">
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1256' title='IMG_0068'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0068-290x290.jpg" class="attachment-thumbnail" alt="IMG_0068" title="IMG_0068" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1257' title='IMG_0070-1'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0070-1-290x290.jpg" class="attachment-thumbnail" alt="IMG_0070-1" title="IMG_0070-1" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1256' title='IMG_0068'><img width="290" height="290" src="/uploads/2011/08/IMG_0068-290x290.jpg" class="attachment-thumbnail" alt="IMG_0068" title="IMG_0068" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1257' title='IMG_0070-1'><img width="290" height="290" src="/uploads/2011/08/IMG_0070-1-290x290.jpg" class="attachment-thumbnail" alt="IMG_0070-1" title="IMG_0070-1" /></a></td><br />
 </tr></p>
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1258' title='IMG_0081'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0081-290x290.jpg" class="attachment-thumbnail" alt="IMG_0081" title="IMG_0081" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1259' title='IMG_0082-1'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0082-1-290x290.jpg" class="attachment-thumbnail" alt="IMG_0082-1" title="IMG_0082-1" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1258' title='IMG_0081'><img width="290" height="290" src="/uploads/2011/08/IMG_0081-290x290.jpg" class="attachment-thumbnail" alt="IMG_0081" title="IMG_0081" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1259' title='IMG_0082-1'><img width="290" height="290" src="/uploads/2011/08/IMG_0082-1-290x290.jpg" class="attachment-thumbnail" alt="IMG_0082-1" title="IMG_0082-1" /></a></td><br />
 </tr></p>
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1260' title='IMG_0087'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0087-290x290.jpg" class="attachment-thumbnail" alt="IMG_0087" title="IMG_0087" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1261' title='IMG_0094'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0094-290x290.jpg" class="attachment-thumbnail" alt="IMG_0094" title="IMG_0094" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1260' title='IMG_0087'><img width="290" height="290" src="/uploads/2011/08/IMG_0087-290x290.jpg" class="attachment-thumbnail" alt="IMG_0087" title="IMG_0087" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1261' title='IMG_0094'><img width="290" height="290" src="/uploads/2011/08/IMG_0094-290x290.jpg" class="attachment-thumbnail" alt="IMG_0094" title="IMG_0094" /></a></td></p>
 <tr>
 </tr></p>
-<td><a href='http://xinchejian.com/?attachment_id=1262' title='IMG_0101'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0101-290x290.jpg" class="attachment-thumbnail" alt="IMG_0101" title="IMG_0101" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1263' title='IMG_0102'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0102-290x290.jpg" class="attachment-thumbnail" alt="IMG_0102" title="IMG_0102" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1262' title='IMG_0101'><img width="290" height="290" src="/uploads/2011/08/IMG_0101-290x290.jpg" class="attachment-thumbnail" alt="IMG_0101" title="IMG_0101" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1263' title='IMG_0102'><img width="290" height="290" src="/uploads/2011/08/IMG_0102-290x290.jpg" class="attachment-thumbnail" alt="IMG_0102" title="IMG_0102" /></a></td><br />
 </tr></p>
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1264' title='IMG_0108'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0108-290x290.jpg" class="attachment-thumbnail" alt="IMG_0108" title="IMG_0108" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1265' title='IMG_0111'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0111-290x290.jpg" class="attachment-thumbnail" alt="IMG_0111" title="IMG_0111" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1264' title='IMG_0108'><img width="290" height="290" src="/uploads/2011/08/IMG_0108-290x290.jpg" class="attachment-thumbnail" alt="IMG_0108" title="IMG_0108" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1265' title='IMG_0111'><img width="290" height="290" src="/uploads/2011/08/IMG_0111-290x290.jpg" class="attachment-thumbnail" alt="IMG_0111" title="IMG_0111" /></a></td><br />
 </tr></p>
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1266' title='IMG_0112'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_0112-290x290.jpg" class="attachment-thumbnail" alt="IMG_0112" title="IMG_0112" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1281' title='IMG_6982'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_6982-290x290.jpg" class="attachment-thumbnail" alt="IMG_6982" title="IMG_6982" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1266' title='IMG_0112'><img width="290" height="290" src="/uploads/2011/08/IMG_0112-290x290.jpg" class="attachment-thumbnail" alt="IMG_0112" title="IMG_0112" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1281' title='IMG_6982'><img width="290" height="290" src="/uploads/2011/08/IMG_6982-290x290.jpg" class="attachment-thumbnail" alt="IMG_6982" title="IMG_6982" /></a></td><br />
 </tr></p>
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1282' title='IMG_6973'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_6973-290x290.jpg" class="attachment-thumbnail" alt="IMG_6973" title="IMG_6973" /></a></td></p>
-<td><a href='http://xinchejian.com/?attachment_id=1283' title='IMG_6971'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_6971-290x290.jpg" class="attachment-thumbnail" alt="IMG_6971" title="IMG_6971" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1282' title='IMG_6973'><img width="290" height="290" src="/uploads/2011/08/IMG_6973-290x290.jpg" class="attachment-thumbnail" alt="IMG_6973" title="IMG_6973" /></a></td></p>
+<td><a href='http://xinchejian.com/?attachment_id=1283' title='IMG_6971'><img width="290" height="290" src="/uploads/2011/08/IMG_6971-290x290.jpg" class="attachment-thumbnail" alt="IMG_6971" title="IMG_6971" /></a></td><br />
 </tr></p>
 <tr>
-<td><a href='http://xinchejian.com/?attachment_id=1284' title='IMG_6968'><img width="290" height="290" src="http://xinchejian.com/wp-content/uploads/2011/08/IMG_6968-290x290.jpg" class="attachment-thumbnail" alt="IMG_6968" title="IMG_6968" /></a></td><br />
+<td><a href='http://xinchejian.com/?attachment_id=1284' title='IMG_6968'><img width="290" height="290" src="/uploads/2011/08/IMG_6968-290x290.jpg" class="attachment-thumbnail" alt="IMG_6968" title="IMG_6968" /></a></td><br />
 </tr><br />
 </table></p>

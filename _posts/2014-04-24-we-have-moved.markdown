@@ -55,4 +55,4 @@ comments:
 <p><!--:zh-->谢谢大家帮我们搬家。</p>
 <p>请注意更新的<a href="http://xinchejian.com/contact-us/" title="Contact Us | 联系我们">联系信息和地址</a>。<!--:--><!--:en-->Thanks to everyone who helped out.<br />
 Check the updated <a href="http://xinchejian.com/contact-us/" title="Contact Us | 联系我们">contact page</a> for the new location.<br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/04/Foto.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/04/Foto-290x290.jpg" alt="XCJ Map" width="290" height="290" class="aligncenter size-thumbnail wp-image-6309" /></a><!--:--></p>
+<a href="/uploads/2014/04/Foto.jpg"><img src="/uploads/2014/04/Foto-290x290.jpg" alt="XCJ Map" width="290" height="290" class="aligncenter size-thumbnail wp-image-6309" /></a><!--:--></p>

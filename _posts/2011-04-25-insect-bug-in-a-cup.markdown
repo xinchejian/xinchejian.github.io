@@ -24,14 +24,14 @@ tags:
 comments: []
 ---
 <p><!--:en--></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-3.jpg" alt="Bug 3" title="bug 3.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-4.jpg" alt="Bug 4" title="bug 4.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-5.jpg" alt="Bug 5" title="bug 5.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-11.jpg" alt="Bug 11" title="bug 11.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-3.jpg" alt="Bug 3" title="bug 3.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-4.jpg" alt="Bug 4" title="bug 4.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-5.jpg" alt="Bug 5" title="bug 5.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-11.jpg" alt="Bug 11" title="bug 11.jpg" border="0"/></p></p>
 <p><!--:--></p>
 <p><!--:zh--></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-3.jpg" alt="Bug 3" title="bug 3.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-4.jpg" alt="Bug 4" title="bug 4.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-5.jpg" alt="Bug 5" title="bug 5.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/bug-11.jpg" alt="Bug 11" title="bug 11.jpg" border="0"/></p><br />
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-3.jpg" alt="Bug 3" title="bug 3.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-4.jpg" alt="Bug 4" title="bug 4.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-5.jpg" alt="Bug 5" title="bug 5.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/bug-11.jpg" alt="Bug 11" title="bug 11.jpg" border="0"/></p><br />
 <!--:--></p>

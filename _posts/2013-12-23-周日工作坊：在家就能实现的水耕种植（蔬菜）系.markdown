@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/12/IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" alt="IMG_20131222_160910" src="http://xinchejian.com/wp-content/uploads/2013/12/IMG_20131222_160910-225x300.jpg" width="225" height="300" /></a><br />
+<p><a href="/uploads/2013/12/IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" alt="IMG_20131222_160910" src="/uploads/2013/12/IMG_20131222_160910-225x300.jpg" width="225" height="300" /></a><br />
 主题：学习种子培养、植物活体克隆和窗台水耕种植系统的建立<br />
 如果对以下任一课题有兴趣，你可不能错过本周日下午的水培工作坊：<br />
  同传统种植方式相比，水耕有什么不同和其特点？<br />

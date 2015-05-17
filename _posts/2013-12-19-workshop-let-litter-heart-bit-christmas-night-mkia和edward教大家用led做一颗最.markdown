@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/12/PicForxinchejianWEB.png"><img src="http://xinchejian.com/wp-content/uploads/2013/12/PicForxinchejianWEB-300x47.png" alt="PicForxinchejianWEB" width="300" height="47" class="alignnone size-medium wp-image-6158" /></a></p>
+<p><a href="/uploads/2013/12/PicForxinchejianWEB.png"><img src="/uploads/2013/12/PicForxinchejianWEB-300x47.png" alt="PicForxinchejianWEB" width="300" height="47" class="alignnone size-medium wp-image-6158" /></a></p>
 <p>Workshop : Let litter heart bit Christmas night<br />
 THE Subject :HOW TO MAKE A LITTER HEART BIT By MIKA and EDWARD<br />
 The Time：Dec 22st  1pm-3pm<br />

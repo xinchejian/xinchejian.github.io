@@ -37,7 +37,7 @@ comments:
   content: At last! Something clear I can uenrdstand. Thanks!
 ---
 <p><!--:en-->
-<p><img width="300" height="400" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111106_124310.jpg" alt="" /></p></p>
+<p><img width="300" height="400" src="/uploads/2011/11/wpid-IMG_20111106_124310.jpg" alt="" /></p></p>
 <p><strong>Time：December 4th at 1PM</strong></p></p>
 <p><strong>Fees：RMB160 (including materials) </strong></p></p>
 <p>If you've never heard of the most useless machine before, it proves the the uselessness of this machine again. To keep it as useless as possible, by all means DO NOT google the term or follow the link below.</p></p>
@@ -45,7 +45,7 @@ comments:
 <p>If you want to make it even more useless, nothing beats wasting your own time to learn to make one for yourself (or make several of them). So come and join us @ XinCheJian to make some useless machines! All parts and<br />
 tools needed are provided with customizations welcome.</p></p>
 <p>Sign up for the event here: <a href="http://xinchejian.com/event/?ee=79">http://xinchejian.com/event/?ee=79</a></p><!--:--><!--:zh-->
-<p><img width="300" height="400" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111106_124310.jpg" alt="" /></p></p>
+<p><img width="300" height="400" src="/uploads/2011/11/wpid-IMG_20111106_124310.jpg" alt="" /></p></p>
 <p><strong>时间：12月4日下午1点~6点</strong></p></p>
 <p><strong>费用：160元（含材料）</strong></br><br />
 各位大哥大姐，别跟我说你没听说过&ldquo;史上最木有用之破盒子&rdquo;，听说过才怪。反正也没用所以千万也别去上网查，查了也不一定查得到，查到了也不一定就查的对，查对了也不一定看得懂，看懂了其实也啥用没有，所以才叫&ldquo;史上最木有用之破盒子&rdquo;。</p></p>

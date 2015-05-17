@@ -42,6 +42,6 @@ comments:
   date_gmt: '2011-10-01 19:56:24 +0800'
   content: Need to grow some lemons and limes too! ^_^
 ---
-<p>Aeroponic box really grow these fast. Harvest a batch to go with eggplant for dinner. ;) <br /><br /><center><a href='http://xinchejian.com/wp-content/uploads/2011/09/376D16A9-C5F4-47E9-BF99-FEF03B73FE1C2.jpg'><img src='http://xinchejian.com/wp-content/uploads/2011/09/376D16A9-C5F4-47E9-BF99-FEF03B73FE1C2.jpg' border='0' width='210' height='281' style='margin:5px'></a></center><br /><br />
-Let's see how fast I can do another harvest from this. The roots have taken on the aeroponic environment really well! ;) <br /><br /><center><a href='http://xinchejian.com/wp-content/uploads/2011/09/F4B9B820-DFBE-4B0F-AF6F-E0964E176F383.jpg'><img src='http://xinchejian.com/wp-content/uploads/2011/09/F4B9B820-DFBE-4B0F-AF6F-E0964E176F383.jpg' border='0' width='210' height='281' style='margin:5px'></a></center><br /> </p>
+<p>Aeroponic box really grow these fast. Harvest a batch to go with eggplant for dinner. ;) <br /><br /><center><a href='/uploads/2011/09/376D16A9-C5F4-47E9-BF99-FEF03B73FE1C2.jpg'><img src='/uploads/2011/09/376D16A9-C5F4-47E9-BF99-FEF03B73FE1C2.jpg' border='0' width='210' height='281' style='margin:5px'></a></center><br /><br />
+Let's see how fast I can do another harvest from this. The roots have taken on the aeroponic environment really well! ;) <br /><br /><center><a href='/uploads/2011/09/F4B9B820-DFBE-4B0F-AF6F-E0964E176F383.jpg'><img src='/uploads/2011/09/F4B9B820-DFBE-4B0F-AF6F-E0964E176F383.jpg' border='0' width='210' height='281' style='margin:5px'></a></center><br /> </p>
 <p>- Posted using BlogPress from my iPhone<br /></p>

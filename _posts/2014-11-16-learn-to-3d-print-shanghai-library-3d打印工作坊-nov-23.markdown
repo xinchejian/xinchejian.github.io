@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 <p><a style="color: #2578bf;" href="http://www.huodongxing.com/event/map/2254258294900">（上海徐汇）淮海中路1555号上海图书馆三楼创新空间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/06/DSC_5975.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/DSC_5975-290x290.jpg" alt="DSC_5975" width="290" height="290" class="aligncenter size-thumbnail wp-image-6465" /></a><br />
+<a href="/uploads/2014/06/DSC_5975.jpg"><img src="/uploads/2014/06/DSC_5975-290x290.jpg" alt="DSC_5975" width="290" height="290" class="aligncenter size-thumbnail wp-image-6465" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/event/2254258294900" target="_blank" title="立即报名">Register 报名参加</a><br />
 <!--:en--><br />
 Learn How to 3D Print and see a real live 3D Scanning － by Lucio (weibo: @Lucio鲁修)!<br />

@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 <p><!--:zh-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/Optical-Theremin.jpg"><img class="alignnone size-large wp-image-4379" alt="Optical Theremin" src="http://xinchejian.com/wp-content/uploads/2013/02/Optical-Theremin-533x400.jpg" width="470" height="352" /></a></p></p>
+<p><a href="/uploads/2013/02/Optical-Theremin.jpg"><img class="alignnone size-large wp-image-4379" alt="Optical Theremin" src="/uploads/2013/02/Optical-Theremin-533x400.jpg" width="470" height="352" /></a></p></p>
 <p>你知道吗，光线能说话，光学泰勒明让你聆听阳光的呢喃，有趣的光敏电阻控制振荡器的频率，不仅可以通过插座连接阻值较大的电阻类传感器，通过传感器来改变音高。还可以通过使用各种不同的光源，尤其是闪动的光源，可以创造非常丰富的声音变化。</p></p>
 <p>如果一个人能顺利活到70岁，生命也只有900多个月，生命中，许多司空见惯的事物都用它们自己的方式在表达诉说着自己的故事，只是我们看不到或者听不到而已，那人生岂不是要错过许多美好的瞬间？好声音，不能等！</p></p>
 <p><strong>日期：</strong>2013年3月9日（周六）</p></p>
@@ -34,7 +34,7 @@ comments: []
 <h2>
 <p><br/><a href="http://xinchejian.com/event2/?ee=165">线上报名点击这里</a>
 <p></h2><!--:--><!--:en-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/Optical-Theremin.jpg"><img class="alignnone size-large wp-image-4379" alt="Optical Theremin" src="http://xinchejian.com/wp-content/uploads/2013/02/Optical-Theremin-533x400.jpg" width="470" height="352" /></a></p></p>
+<p><a href="/uploads/2013/02/Optical-Theremin.jpg"><img class="alignnone size-large wp-image-4379" alt="Optical Theremin" src="/uploads/2013/02/Optical-Theremin-533x400.jpg" width="470" height="352" /></a></p></p>
 <p><strong>Date：</strong>March 9th 2013（Saturday）</p></p>
 <p><strong>Time：</strong>10AM - 12PM</p></p>
 <p><strong>Workshop Content：</strong></p></p>

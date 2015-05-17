@@ -47,5 +47,5 @@ comments:
 </strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img class="alignnone size-full wp-image-1388" src="http://xinchejian.com/wp-content/uploads/2011/08/Bee-refuge-hacking-OBSERVE8-e1313652776229.jpg" alt="" width="600" height="848" /></p>
+<p><img class="alignnone size-full wp-image-1388" src="/uploads/2011/08/Bee-refuge-hacking-OBSERVE8-e1313652776229.jpg" alt="" width="600" height="848" /></p>
 <p><!--:--></p>

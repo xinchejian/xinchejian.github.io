@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/03/filling-holes1.jpg"><img src="http://xinchejian.com/wp-content/uploads/2013/03/filling-holes1-290x290.jpg" alt="filling holes1" width="290" height="290" class="aligncenter size-thumbnail wp-image-4594" /></a></p>
+<p><a href="/uploads/2013/03/filling-holes1.jpg"><img src="/uploads/2013/03/filling-holes1-290x290.jpg" alt="filling holes1" width="290" height="290" class="aligncenter size-thumbnail wp-image-4594" /></a></p>
 <p>Learn How to 3D Print!</p>
 <p>Fee: 200rmb/person online payment, 250rmb at door.<br />
 Date：June 1st<br />

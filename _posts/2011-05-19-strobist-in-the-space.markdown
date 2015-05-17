@@ -29,10 +29,10 @@ comments:
 ---
 <p>A few of the space members are also members of <a href="http://www.flickr.com/groups/strobist_shanghai/" target="_blank">Shanghai Strobist</a> and we can't help to hack the space to do some photo and video shoots.</p></p>
 <h2>Video for GGHC Video</h2></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/IMG_0761.jpg" alt="IMG 0761" title="IMG_0761.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/IMG_0761.jpg" alt="IMG 0761" title="IMG_0761.JPG" border="0"/></p></p>
 <p><embed src="http://player.youku.com/player.php/sid/XMjY4Mzc4ODQ0/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p></p>
 <h2>Glamour Shoot</h2></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/05/IMG_0757.jpg" alt="IMG 0757" title="IMG_0757.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/05/IMG_0757.jpg" alt="IMG 0757" title="IMG_0757.JPG" border="0"/></p></p>
 <p>
 <a href="http://www.flickr.com/photos/taweili/5720078894/" title="Evan by xxom, on Flickr"><img style="text-align:center; display:block; margin-left:auto; margin-right:auto;" src="http://farm4.static.flickr.com/3004/5720078894_f452dc4219.jpg" width="332" height="500" alt="Evan"></a><br />
 </p></p>

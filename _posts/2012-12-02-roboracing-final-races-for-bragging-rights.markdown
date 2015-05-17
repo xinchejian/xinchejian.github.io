@@ -22,7 +22,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en--><a href="http://xinchejian.com/2011/01/03/art-platform-v3-control-v4-and-the-future-platform-v4/img_0023/" rel="attachment wp-att-306"><img class="alignleft size-medium wp-image-306" style="border: 10px solid #fff;" title="IMG_0023" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0023-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><!--:en--><a href="http://xinchejian.com/2011/01/03/art-platform-v3-control-v4-and-the-future-platform-v4/img_0023/" rel="attachment wp-att-306"><img class="alignleft size-medium wp-image-306" style="border: 10px solid #fff;" title="IMG_0023" src="/uploads/2011/01/IMG_0023-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p>A few of us have gotten together to organize a Robo race on the 16th of December 2012 at 1pm, we're racing autonomous, it's purely for fun but also bragging rights for the end of the season.</p>
 <p>If you would like to join us to race (you can be a spectator but its more fun to join in) then sign up for the event, to enter Autonomous racing you'll need to drop 100rmb into the robo racing box, the ultimate winner will take the winnings, if there is no winner, then the money goes into XinCheJian's donation box.&nbsp; We're doing it for fun with a little incentive.</p>
 <p>If you would like to race a line follower please sign up, there is no prizes for that category and is free to enter (for now, but if you want an incentive then we can put an entry fee on this). Who knows, there might not be a robo racing season next year, so build and join in!</p>
@@ -30,8 +30,8 @@ comments: []
 <p><a href="http://wiki.xinchejian.com/wiki/RoboRacing">http://wiki.xinchejian.com/wiki/RoboRacing</a> (Challenge track)</p>
 <p><strong>2</strong>: line follower - entry ???rmb winner takes all?</p>
 <p><a href="http://wiki.xinchejian.com/wiki/Analog_line_follower">http://wiki.xinchejian.com/wiki/Analog_line_follower</a></p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/03/track-201204.pdf">http://xinchejian.com/wp-content/uploads/2012/03/track-201204.pdf</a> << track</p>
-<p>Register here: <a href="http://xinchejian.com/event/?ee=156">http://xinchejian.com/event/?ee=156</a><!--:--><!--:zh--><a href="http://xinchejian.com/2011/01/03/art-platform-v3-control-v4-and-the-future-platform-v4/img_0023/" rel="attachment wp-att-306"><img class="alignleft size-medium wp-image-306" style="border: 10px solid #fff;" title="IMG_0023" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0023-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="/uploads/2012/03/track-201204.pdf">/uploads/2012/03/track-201204.pdf</a> << track</p>
+<p>Register here: <a href="http://xinchejian.com/event/?ee=156">http://xinchejian.com/event/?ee=156</a><!--:--><!--:zh--><a href="http://xinchejian.com/2011/01/03/art-platform-v3-control-v4-and-the-future-platform-v4/img_0023/" rel="attachment wp-att-306"><img class="alignleft size-medium wp-image-306" style="border: 10px solid #fff;" title="IMG_0023" src="/uploads/2011/01/IMG_0023-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p>我们准备在2012年12月16日下午1点在世界末日前举办本年度最后的新车间机器人比赛。</p>
 <p>如果你想要加入这个比赛，请注册我们的活动（你可以参观，但相信我们，加入比赛比作壁上观的感觉会更好！）。加入比赛的需要丢100元人民币到我们的比赛箱，最终胜者将拿走所有的钱，当然如果没有人胜出的话，这些前会用于支持新车间的日常运行。这将是这件乐事的小小刺激吧。</p>
 <p>如果你愿意参加循线比赛，虽然没有奖励，但同时也是免费参加噢（如果你愿意，也可以制造一些刺激）。</p>
@@ -41,5 +41,5 @@ comments: []
 <p><a href="http://wiki.xinchejian.com/wiki/RoboRacing">http://wiki.xinchejian.com/wiki/RoboRacing</a> (Challenge track)</p>
 <p><strong>2</strong>: 循线组&nbsp;- entry ???rmb winner takes all?</p>
 <p><a href="http://wiki.xinchejian.com/wiki/Analog_line_follower">http://wiki.xinchejian.com/wiki/Analog_line_follower</a></p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/03/track-201204.pdf">http://xinchejian.com/wp-content/uploads/2012/03/track-201204.pdf</a> << track</p>
+<p><a href="/uploads/2012/03/track-201204.pdf">/uploads/2012/03/track-201204.pdf</a> << track</p>
 <p>注册: <a href="http://xinchejian.com/event/?ee=156">http://xinchejian.com/event/?ee=156</a><!--:--></p>

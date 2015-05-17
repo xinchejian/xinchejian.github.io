@@ -74,7 +74,7 @@ comments:
   date_gmt: '2014-07-21 10:12:15 +0800'
   content: would like to go, will u be there?
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/07/shuttlecock.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/07/shuttlecock.jpeg" alt="shuttlecock" width="220" height="200" class="aligncenter size-full wp-image-6537" /></a><br />
+<p><a href="/uploads/2014/07/shuttlecock.jpeg"><img src="/uploads/2014/07/shuttlecock.jpeg" alt="shuttlecock" width="220" height="200" class="aligncenter size-full wp-image-6537" /></a><br />
 <a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: rgb(255, 204, 0);" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f0147395ff0f5480a" target="_blank" id="ied_button_show" alt="报名参加发光毽子制作工作坊 flashing shuttlecock workshop" title="报名参加"> Register 报名参加</a><br />
 <strong>7月26号星期六下午1:00 - 2:30.</strong><br />
 见过用电子制作的毽子吗？ 每当踢一下则会发光，在傍晚和夜间玩将成为一道亮丽的风景。本次工作坊将使参加者体会电子焊接、制作、运动和合作的快乐，接触一些电子、力学的知识。</p>

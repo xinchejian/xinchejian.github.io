@@ -28,10 +28,10 @@ comments:
   content: This is my first time pay a quick visit at here and i am really happy to
     read all at alone place.
 ---
-<p><!--:en--><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111102_160253-1.jpg" alt="image" /></p>
-<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111102_160428-1.jpg" alt="image" /></p>
-<p><img style="display: block; margin-right: auto; margin-left: auto;" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111102_160811-1.jpg" alt="image" /></p>
-<p>We've just received our nine temperature controlled soldering station with digital display! Generously given by ELEMENT14 as participation prizes to for the spring 2011 Great Global Hackerspace Challenge competition.<!--:--><!--:zh--><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111102_160253-1.jpg" /></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111102_160428-1.jpg" /></p>
-<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://xinchejian.com/wp-content/uploads/2011/11/wpid-IMG_20111102_160811-1.jpg" /></p>
+<p><!--:en--><img style="display: block; margin-right: auto; margin-left: auto;" src="/uploads/2011/11/wpid-IMG_20111102_160253-1.jpg" alt="image" /></p>
+<p><img style="display: block; margin-right: auto; margin-left: auto;" src="/uploads/2011/11/wpid-IMG_20111102_160428-1.jpg" alt="image" /></p>
+<p><img style="display: block; margin-right: auto; margin-left: auto;" src="/uploads/2011/11/wpid-IMG_20111102_160811-1.jpg" alt="image" /></p>
+<p>We've just received our nine temperature controlled soldering station with digital display! Generously given by ELEMENT14 as participation prizes to for the spring 2011 Great Global Hackerspace Challenge competition.<!--:--><!--:zh--><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/11/wpid-IMG_20111102_160253-1.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/11/wpid-IMG_20111102_160428-1.jpg" /></p>
+<p><img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/uploads/2011/11/wpid-IMG_20111102_160811-1.jpg" /></p>
 <p>We've just received our nine temperature controlled soldering station with digital display! Generously given by ELEMENT14 as participation prizes to for the spring 2011 Great Global Hackerspace Challenge competition.</p><!--:--></p>

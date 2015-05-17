@@ -22,7 +22,7 @@ tags: []
 comments: []
 ---
 <p><!--:zh-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/osc6-mk2.jpg"><img class="alignnone size-large wp-image-4388" alt="osc6 mk2" src="http://xinchejian.com/wp-content/uploads/2013/02/osc6-mk2-300x400.jpg" width="300" height="400" /></a></p></p>
+<p><a href="/uploads/2013/02/osc6-mk2.jpg"><img class="alignnone size-large wp-image-4388" alt="osc6 mk2" src="/uploads/2013/02/osc6-mk2-300x400.jpg" width="300" height="400" /></a></p></p>
 <p><strong>日期：</strong>2013年3月10日（周日）</p></p>
 <p><strong>时间：</strong>下午2点－5点 </p></p>
 <p><strong>工作坊内容：</strong></p></p>
@@ -33,7 +33,7 @@ comments: []
 <h2>
 <p><br/><a href="http://xinchejian.com/event2/?ee=167">线上报名点击这里</a>
 <p></h2><!--:--><!--:en-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/02/osc6-mk2.jpg"><img class="alignnone size-large wp-image-4388" alt="osc6 mk2" src="http://xinchejian.com/wp-content/uploads/2013/02/osc6-mk2-300x400.jpg" width="300" height="400" /></a></p></p>
+<p><a href="/uploads/2013/02/osc6-mk2.jpg"><img class="alignnone size-large wp-image-4388" alt="osc6 mk2" src="/uploads/2013/02/osc6-mk2-300x400.jpg" width="300" height="400" /></a></p></p>
 <p><strong>Date：March 10th 2013（Sunday）</p></p>
 <p><strong>Time：</strong>2PM - 5PM</p></p>
 <p><strong>Workshop Content：</strong></p></p>

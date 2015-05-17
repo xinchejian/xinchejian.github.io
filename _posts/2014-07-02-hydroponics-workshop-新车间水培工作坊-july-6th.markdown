@@ -43,7 +43,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100000317945166"
     target="_blank">Wenyu Chen</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/08/DSC_8541.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/08/DSC_8541-290x290.jpg" alt="DSC_8541.JPG" width="290" height="290" class="aligncenter size-thumbnail wp-image-3674" /></a><br />
+<p><a href="/uploads/2012/08/DSC_8541.jpg"><img src="/uploads/2012/08/DSC_8541-290x290.jpg" alt="DSC_8541.JPG" width="290" height="290" class="aligncenter size-thumbnail wp-image-3674" /></a><br />
 <a style="color: rgb(242, 255, 255); font-weight: 700; border: 1px solid rgb(74, 143, 50); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; display: inline-block; font-size: 14px; margin-bottom: 3px; overflow: visible; padding: 5px 20px 4px; text-decoration: none; background: none 0px 0px repeat scroll rgb(126, 189, 64);" href="http://www.vasee.com/event/view.jsp?inid=ff80808146acac6f0146f689809f4c72" target="_blank" id="ied_button_show" alt="报名参加hydroponics workshop 新车间水培工作坊" title="报名参加">报名参加</a><br />
 <strong>主题：</strong>学习种子培养、植物活体克隆和窗台水耕种植系统的建立<br />
 <strong>时间：</strong>7月6号星期天下午2点-5点<br />

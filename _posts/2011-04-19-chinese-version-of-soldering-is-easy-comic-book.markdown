@@ -51,9 +51,9 @@ comments:
   content: http://dongxi.net/b05Mt
 ---
 <p><!--:en-->XinCheJian has published the Simplified Chinese version for Mainland of Mitch Altman's "Soldering is easy" comic book. Let's give a big thank to Linkin Li (李英臣) and Min Lin Hsieh (谢旻琳) for their great work! Min Lin will work on Traditional Chinese version and publish it as soon as possible.<br />
-<a href="http://mightyohm.com/files/soldercomic/translations/FullSolderComicChinese.pdf"><img class="alignnone size-large wp-image-891" title="Simplified Chinese version of "Soldering is easy"" src="http://xinchejian.com/wp-content/uploads/2011/04/Cover-309x400.jpg" alt="" width="309" height="400" /></a></p>
+<a href="http://mightyohm.com/files/soldercomic/translations/FullSolderComicChinese.pdf"><img class="alignnone size-large wp-image-891" title="Simplified Chinese version of "Soldering is easy"" src="/uploads/2011/04/Cover-309x400.jpg" alt="" width="309" height="400" /></a></p>
 <p>You can download the PDF version on <a href="http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/">MightyOhm's website</a>.</p>
 <p>Please feel free to distribute the document widely, it's completely FREE! You are also welcome to practice soldering at XinCheJian!<!--:--><!--:zh-->Mitch Altman的完全开源漫画书： &ldquo;焊接是容易的&rdquo; 新车间制造的简体中文版出爐啦！非常感谢李英臣和谢旻琳无私的付出将中文版完成。谢旻琳会再翻成繁体版的，敬请期待！<br />
-<a href="http://mightyohm.com/files/soldercomic/translations/FullSolderComicChinese.pdf"><img class="alignnone size-large wp-image-891" title="Simplified Chinese version of "Soldering is easy"" src="http://xinchejian.com/wp-content/uploads/2011/04/Cover-309x400.jpg" alt="" width="309" height="400" /></a></p>
+<a href="http://mightyohm.com/files/soldercomic/translations/FullSolderComicChinese.pdf"><img class="alignnone size-large wp-image-891" title="Simplified Chinese version of "Soldering is easy"" src="/uploads/2011/04/Cover-309x400.jpg" alt="" width="309" height="400" /></a></p>
 <p>中文版 PDF 档案下载请到<a href="http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/">MightyOhm的网站</a>.</p>
 <p>请广泛传播这本完全开源的漫画书！ 欢迎对焊接有兴趣的人到新车间来学习！<!--:--></p>

@@ -66,7 +66,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100002313386916"
     target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/pcb.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/pcb-290x225.jpg" alt="pcb" width="290" height="225" class="aligncenter size-thumbnail wp-image-6422" /></a><br />
+<p><a href="/uploads/2014/06/pcb.jpg"><img src="/uploads/2014/06/pcb-290x225.jpg" alt="pcb" width="290" height="225" class="aligncenter size-thumbnail wp-image-6422" /></a><br />
 =Introduction to PCB Design=<br />
 PCB电路板设计入门</p>
 <p>June 8th 1pm - 4pm 6月8号下午1:00 - 4:00<br />

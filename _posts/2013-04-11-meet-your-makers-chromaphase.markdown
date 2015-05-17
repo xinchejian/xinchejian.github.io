@@ -57,16 +57,16 @@ comments:
 <p>Actually working on the Daedalus city project. Its a gigantic city robot that carry smarm robot and received real time synchrnization 3D mapping with advanced content. Robots inside robots.</p></p>
 <h2>Why XCJ ?</h2></p>
 <p>As an artist that is passionated in science and electronic i found my place in Xinchejian. here I can cooperate with people that are from different cultures and expertises. Making stuff that link art and technology is my aim. Also its a good working atmosphere when doing some projects. Always a member is around for help or advise, help you to "make stuff"</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p><!--:--><!--:en--><br />
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p><!--:--><!--:en--><br />
 <h2>Matthieu Tondeur aka Chromaphase</h2></p>
 <h3>Live visual artist / 3D mapping</h3></p>
 <p>Actually working on the Daedalus city project. Its a gigantic city robot that carry swarm robot and received real time synchronization 3D mapping with advanced content. Robots inside robots.</p></p>
 <h2>Why XCJ ?</h2></p>
 <p>As an artist that is passionated in science and electronic i found my place in Xinchejian. here I can cooperate with people that are from different cultures and expertises. Making stuff that link art and technology is my aim. Also its a good working atmosphere when doing some projects. Always a member is around for help or advise, help you to "make stuff"</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/04/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p><!--:--></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/04/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0"/></p><!--:--></p>

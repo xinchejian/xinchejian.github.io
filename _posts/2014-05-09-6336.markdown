@@ -51,7 +51,7 @@ comments:
   content: Thx!
 ---
 <p><strong><strong>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/09/3Dprintedobjects.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/09/3Dprintedobjects-290x290.jpg" alt="3Dprintedobjects" width="290" height="290" class="aligncenter size-thumbnail wp-image-3854" /></a></p></p>
+<p><a href="/uploads/2012/09/3Dprintedobjects.jpg"><img src="/uploads/2012/09/3Dprintedobjects-290x290.jpg" alt="3Dprintedobjects" width="290" height="290" class="aligncenter size-thumbnail wp-image-3854" /></a></p></p>
 <p>Learn How to 3D Print!</p></p>
 <p>Fee: 150rmb/person, please pay directly at the workshop</p></p>
 <p>Date：May 18</p></p>

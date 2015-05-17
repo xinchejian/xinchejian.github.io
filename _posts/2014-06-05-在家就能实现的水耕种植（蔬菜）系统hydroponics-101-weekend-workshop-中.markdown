@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/12/IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" src="http://xinchejian.com/wp-content/uploads/2013/12/IMG_20131222_160910-225x300.jpg" alt="IMG_20131222_160910" width="225" height="300" /></a><br />
+<p><a href="/uploads/2013/12/IMG_20131222_160910.jpg"><img class="alignnone size-medium wp-image-6167" src="/uploads/2013/12/IMG_20131222_160910-225x300.jpg" alt="IMG_20131222_160910" width="225" height="300" /></a><br />
 <a style="background: none repeat scroll 0 0 #7EBD40;color: #F2FFFF;font-weight:700;border: 1px solid #4A8F32;border-radius: 4px 4px 4px 4px;cursor: pointer;display: inline-block;font-size: 14px;margin-bottom: 3px;overflow: visible;padding: 6px 30px;text-decoration: none;" href="http://www.vasee.com/event/view.jsp?inid=ff80808145f542f001466bd35caa0c96" target="_blank" id="ied_button_show" alt="报名参加在家就能实现的水耕种植（蔬菜）系统Hydroponics 101 Workshop" title="报名参加">报名参加 Register</a><br />
 <a> Date fixed on June 29th 2pm -4pm. 6月工作坊时间确定为6月29号星期天下午2点-4点。 </a><br />
 (中英双语) 主题：学习种子培养、植物活体克隆和窗台水耕种植系统的建立</p>

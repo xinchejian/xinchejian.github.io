@@ -38,7 +38,7 @@ comments:
   content: <a href="http://facebook.com/profile.php?id=650336569" target="_blank">Camilo
     Parra</a> liked this on Facebook.
 ---
-<p><!--:en-->[caption id="attachment_3983" align="alignleft" width="225"]<a href="http://xinchejian.com/2012/11/04/first-shanghai-maker-carnival/img_20121104_105728/" rel="attachment wp-att-3983"><img class="size-medium wp-image-3983" title="Shanghai Maker Carnival badge" src="http://xinchejian.com/wp-content/uploads/2012/11/IMG_20121104_105728-225x300.jpg" alt="Shanghai Maker Carnival badge" width="225" height="300" /></a> Shanghai Maker Carnival badge 2012[/caption]</p>
+<p><!--:en-->[caption id="attachment_3983" align="alignleft" width="225"]<a href="http://xinchejian.com/2012/11/04/first-shanghai-maker-carnival/img_20121104_105728/" rel="attachment wp-att-3983"><img class="size-medium wp-image-3983" title="Shanghai Maker Carnival badge" src="/uploads/2012/11/IMG_20121104_105728-225x300.jpg" alt="Shanghai Maker Carnival badge" width="225" height="300" /></a> Shanghai Maker Carnival badge 2012[/caption]</p>
 <p>XinCheJian attended the first Shanghai maker carnival this weekend showing off members projects. There were also lots of really interesting projects from other Chinese hackers.</p>
 <p>Heaps more photos and videos can be found via these links:</p>
 <ul>

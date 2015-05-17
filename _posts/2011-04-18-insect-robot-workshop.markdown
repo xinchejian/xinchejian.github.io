@@ -83,9 +83,9 @@ The kit includes the following:</p>
 </li><br />
 </ul></p>
 <p><embed src='http://player.youku.com/player.php/sid/XMjU5ODIyMjAw/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
 <p><!--:--><br />
 <!--:zh--></p>
 <h1>虫虫机器人工作坊</h1></p>
@@ -104,7 +104,7 @@ The kit includes the following:</p>
 </li><br />
 </ul></p>
 <p><embed src='http://player.youku.com/player.php/sid/XMjU5ODIyMjAw/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
 <p><!--:--></p>

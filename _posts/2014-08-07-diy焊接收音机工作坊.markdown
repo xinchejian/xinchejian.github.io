@@ -51,7 +51,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=633713884" target="_blank">Min
     Chi</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/08/webwxgetmsgimg.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/08/webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6596" /></a><br />
+<p><a href="/uploads/2014/08/webwxgetmsgimg.jpg"><img src="/uploads/2014/08/webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6596" /></a><br />
 报名链接：https://rexchen80.wufoo.com/forms/diyeec/<br />
 活动费用:200元<br />
 活动日期:8月10日(星期日) 下午2点<br />

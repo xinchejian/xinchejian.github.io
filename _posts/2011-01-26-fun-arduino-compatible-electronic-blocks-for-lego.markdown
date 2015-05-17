@@ -22,4 +22,4 @@ tags:
 comments: []
 ---
 <p>One of the coolest things <a href="http://www.flamingoeda.com">Flamingo EDA</a> brought to the Xinshanzhai talk is the Lego compatible sensor block! This is very awesome. I WANT ONE! Actually, I want a DOZENS and a bucket of Lego blocks!</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/01/IMG_0268.jpg" alt="IMG_0268.jpg" title="IMG_0268.jpg" border="0" width="298" height="400" /></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/01/IMG_0268.jpg" alt="IMG_0268.jpg" title="IMG_0268.jpg" border="0" width="298" height="400" /></p>

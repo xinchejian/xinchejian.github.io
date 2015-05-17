@@ -45,10 +45,10 @@ void loop() {<br />
 }<br />
 </pre></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/02/vpl-1.jpg" alt="Vpl 1" title="vpl-1.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/02/vpl-1.jpg" alt="Vpl 1" title="vpl-1.jpg" border="0"/><br />
 </p></p>
 <h3>Design II</h3></p>
 <p>Since the block language is targeted at the beginner of Arduino and programming, most of time, we talk about "When the button on pin 1 is pushed, I want the LED on pin 2 to light up." There is a much natural way to map this statement into an intuitive block language by building the blocks around the pin. Here is how it may look like:</p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/02/vpl-2.jpg" alt="Vpl 2" title="vpl-2.jpg" border="0"/></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/02/vpl-2.jpg" alt="Vpl 2" title="vpl-2.jpg" border="0"/></p>
 <p>This language is more concise and easier to understand. The language itself should provide enough meta info to infer the setup codes. However, in order to do this, the language may need a little runtime (OS?) to be compiled along with the Sketch but it seems to be worth the effort. </p></p>
 <p>The OpenBlocks codes I am playing around with the idea is available at my <a href="https://github.com/taweili/openblocks/tree/ant">'ant' branch openblocks</a> on github. Appreciate any feedback on this. </p></p>

@@ -56,7 +56,7 @@ comments:
 ---
 <p>Friday, September 19, 2014 18:30 - 21:00 PM to Sunday, September 21, 2014<br />
 <a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安）上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/09/webwxgetmsgimg.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/09/webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6645" /></a><br />
+<a href="/uploads/2014/09/webwxgetmsgimg.jpg"><img src="/uploads/2014/09/webwxgetmsgimg-290x290.jpg" alt="webwxgetmsgimg" width="290" height="290" class="aligncenter size-thumbnail wp-image-6645" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/hachathon" target="_blank" title="立即报名">立即报名 Register</a><br />
 <!--:zh--><br />
 视野决定高度。当你一直受囿于你固定的朋友圈、同事圈的时候，你是否想过你的思维可能会被慢慢局限住？四十八个小时，快速高效，紧张刺激。付出的是一个周末，收获的是不同行业、不同水平、不同背景的伙伴们的想法和经验。当然，如果你是冲着现场滴妹子们而来，那放下你的矜持，展示你的魅力，带个妹子回家也是极好的。<br />

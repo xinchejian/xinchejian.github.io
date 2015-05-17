@@ -48,19 +48,19 @@ comments:
 <li>Velcro!!!</li><br />
 </ul></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"/><br />
 </p><br />
 <!--:--><br />
 <!--:zh--></p>
@@ -76,18 +76,18 @@ comments:
 <li>Velcro!!!</li><br />
 </ul></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0555.jpg" alt="IMG 0555" title="IMG_0555.jpg" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0572.jpg" alt="IMG 0572" title="IMG_0572.jpg" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0580.jpg" alt="IMG 0580" title="IMG_0580.JPG" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0582.jpg" alt="IMG 0582" title="IMG_0582.JPG" border="0"/><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"/><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/IMG_0584.jpg" alt="IMG 0584" title="IMG_0584.JPG" border="0"/><br />
 </p><br />
 <!--:--></p>

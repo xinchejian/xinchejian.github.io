@@ -22,7 +22,7 @@ comments: []
 ---
 <p><!--:zh-->On June 22nd, XinCheJian &amp; Swissnex China are bringing you:</p>
 <p><em id="__mceDel">Workshop and Panel Discussion on 3D Printing and BioMaterials</em></p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/06/3dprint.jpg"><img class="alignnone size-large wp-image-4714" alt="3dprint" src="http://xinchejian.com/wp-content/uploads/2013/06/3dprint-600x304.jpg" width="470" height="238" /></a></p>
+<p><a href="/uploads/2013/06/3dprint.jpg"><img class="alignnone size-large wp-image-4714" alt="3dprint" src="/uploads/2013/06/3dprint-600x304.jpg" width="470" height="238" /></a></p>
 <p>The new industrial revolution &ndash; 3D printing, is rapidly becoming accessible to anyone and everyone.&nbsp; But with the growing revolution in 3D printing comes growing waste. How can we build integrated system solutions that favor recycling and sustainable, compostable materials (biomaterials) that still fulfill all the technical requirements to be used at the large-scale?</p>
 <p>Join a diverse panel of experts to tackle questions of sustainability and ethics in the 3D printing revolution.</p>
 <p>This event kicks off our forum on biomaterials and 3D printing. Discover innovations in 3D printing, biomimicry, and sustainable materials with experts and entrepreneurs, and interact with the creative makers and artists.</p>
@@ -62,7 +62,7 @@ CEO of 3D Biotek, LLC<br />
 Lecturer, Design &amp; Innovation College, Expert on 3D printing &amp; Design</p>
 <p><strong>*More information on the speakers will be soon available on our website:&nbsp;<a href="http://www.swissenxchina.org/" target="_blank">www.swissenxchina.org</a></strong><!--:--><!--:en-->On June 22nd, XinCheJian &amp; Swissnex China are bringing you:</p>
 <p><em id="__mceDel"><em id="__mceDel">Workshop and Panel Discussion on 3D Printing and BioMaterials</em></em></p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2013/06/3dprint.jpg"><img class="alignnone size-large wp-image-4714" alt="3dprint" src="http://xinchejian.com/wp-content/uploads/2013/06/3dprint-600x304.jpg" width="470" height="238" /></a></p>
+<p><a href="/uploads/2013/06/3dprint.jpg"><img class="alignnone size-large wp-image-4714" alt="3dprint" src="/uploads/2013/06/3dprint-600x304.jpg" width="470" height="238" /></a></p>
 <p><img alt="" src="file:///c:/users/aaabbb/appdata/roaming/360se6/USERDA~1/Temp/3dprint.jpg" /></p>
 <p>The new industrial revolution &ndash; 3D printing, is rapidly becoming accessible to anyone and everyone.&nbsp; But with the growing revolution in 3D printing comes growing waste. How can we build integrated system solutions that favor recycling and sustainable, compostable materials (biomaterials) that still fulfill all the technical requirements to be used at the large-scale?</p>
 <p>Join a diverse panel of experts to tackle questions of sustainability and ethics in the 3D printing revolution.</p>

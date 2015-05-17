@@ -61,7 +61,7 @@ comments:
     events: xinchejian.'
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2013/11/arduino.jpg"><img src="http://xinchejian.com/wp-content/uploads/2013/11/arduino-290x290.jpg" alt="arduino" width="290" height="290" class="aligncenter size-thumbnail wp-image-6070" /></a><br />
+<a href="/uploads/2013/11/arduino.jpg"><img src="/uploads/2013/11/arduino-290x290.jpg" alt="arduino" width="290" height="290" class="aligncenter size-thumbnail wp-image-6070" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/event/6248523679100" target="_blank" title="立即报名">立即报名 Register</a><br />
 <!--:en--><br />
 The Arduino workshop is great for those looking to get started with micro-controller programming and need a kickstart in the right direction. This is one of the most Popular workshops at xinchejian, Designed to not overwhelm people but provide the right balance of theoretical and hands on experience. Please do not sign up if you are not going to show up as you&rsquo;ll be taking a seat from someone that wants to do it. This workshop will run in English.</p>

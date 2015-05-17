@@ -34,7 +34,7 @@ comments:
   content: 你可以参加新车间组织的入门工作坊，会有人教一些基础的技能。加入会员也可以参加一些会员活动自己慢慢学习。
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/10/BASICS-1-d-popup.jpeg"><img src="http://xinchejian.com/wp-content/uploads/2014/10/BASICS-1-d-popup-290x290.jpeg" alt="BASICS-1-d-popup" width="290" height="290" class="aligncenter size-thumbnail wp-image-6684" /></a><br />
+<a href="/uploads/2014/10/BASICS-1-d-popup.jpeg"><img src="/uploads/2014/10/BASICS-1-d-popup-290x290.jpeg" alt="BASICS-1-d-popup" width="290" height="290" class="aligncenter size-thumbnail wp-image-6684" /></a><br />
 <a style="background-color:#0088CC;color:white;border-radius:4px;cursor:pointer;font-size:14px;padding:6px 20px;" href="http://www.huodongxing.com/go/3D-meetup" target="_blank" title="立即报名">报名参加 Register</a><br />
 <!--:en--><br />
 <strong>Every Thursday at 7:30pm. Free for XCJ members; 100RMB for non members.</strong><br />

@@ -68,10 +68,10 @@ comments:
 4) Use the dough with arduino to make some eye popping artistic projects (great for the entire family)<br />
 5). . . . . . . . . . . .</p>
 <p>Welcome children over the age of five and the playful spirit of moms and dads together in this workshop, and our dough carnival :)</p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/1-4/" rel="attachment wp-att-2408"><img src="http://xinchejian.com/wp-content/uploads/2012/02/11.jpg" alt="" width="230" height="230" /></a></p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/2-4/" rel="attachment wp-att-2409"><img src="http://xinchejian.com/wp-content/uploads/2012/02/21-300x225.jpg" alt="" width="300" height="225" /></a></p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/4-2/" rel="attachment wp-att-2413"><img src="http://xinchejian.com/wp-content/uploads/2012/02/41-223x300.jpg" alt="" width="223" height="300" /></a></p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/3-4/" rel="attachment wp-att-2412"><img src="http://xinchejian.com/wp-content/uploads/2012/02/33-300x179.jpg" alt="" width="300" height="179" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/1-4/" rel="attachment wp-att-2408"><img src="/uploads/2012/02/11.jpg" alt="" width="230" height="230" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/2-4/" rel="attachment wp-att-2409"><img src="/uploads/2012/02/21-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/4-2/" rel="attachment wp-att-2413"><img src="/uploads/2012/02/41-223x300.jpg" alt="" width="223" height="300" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/3-4/" rel="attachment wp-att-2412"><img src="/uploads/2012/02/33-300x179.jpg" alt="" width="300" height="179" /></a></p>
 <p>Attribution:</p>
 <p>Crazy dough (squishy circuit) is the product of the American University of St. Thomas University UST Design Lab AnnMarie P. Thomas, professor and her team developed and used to help children quickly and securely visual learning circuit. Thank AnnMarie P. Thomas and her team around the world to share the results of this teaching, but also thanks to Squishy Circuits, project Matthew Schmidtbauer in the process of organizing this workshop to provide technical guidance. Text pictures from facebook and Squishy Circuits, the project's website.<!--:--><!--:zh-->什么？人有男女之分，面团也有性别？？？</p>
 <p>2月26号上午9点~12点的面团工作坊，让我们像女娲造人一样，亲手制造出热情奔放的导电&ldquo;男&ldquo;面团（conductive dough）和文静温婉的绝缘&rdquo;女&rdquo;面团 (non-conductive dough) 。<br />
@@ -84,9 +84,9 @@ comments:
 5） 。。。。。。。。。。。。<br />
 6） 最后，你还可以把面团当馒头蒸了吃，至于味道好不好，就等你的博客了 ：）</p>
 <p>欢迎5岁以上的小朋友和童心未泯的爸爸妈妈们一起来我们的工作坊，来和我们的面团一起狂欢吧：）</p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/1-4/" rel="attachment wp-att-2408"><img src="http://xinchejian.com/wp-content/uploads/2012/02/11.jpg" alt="" width="230" height="230" /></a></p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/2-4/" rel="attachment wp-att-2409"><img src="http://xinchejian.com/wp-content/uploads/2012/02/21-300x225.jpg" alt="" width="300" height="225" /></a></p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/4-2/" rel="attachment wp-att-2413"><img src="http://xinchejian.com/wp-content/uploads/2012/02/41-223x300.jpg" alt="" width="223" height="300" /></a></p>
-<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/3-4/" rel="attachment wp-att-2412"><img src="http://xinchejian.com/wp-content/uploads/2012/02/33-300x179.jpg" alt="" width="300" height="179" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/1-4/" rel="attachment wp-att-2408"><img src="/uploads/2012/02/11.jpg" alt="" width="230" height="230" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/2-4/" rel="attachment wp-att-2409"><img src="/uploads/2012/02/21-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/4-2/" rel="attachment wp-att-2413"><img src="/uploads/2012/02/41-223x300.jpg" alt="" width="223" height="300" /></a></p>
+<p><a href="http://xinchejian.com/2012/02/04/squishy-circuit/3-4/" rel="attachment wp-att-2412"><img src="/uploads/2012/02/33-300x179.jpg" alt="" width="300" height="179" /></a></p>
 <p>注：</p>
 <p>疯狂面团（squishy circuit）是美国University of St. Thomas 大学UST Design Lab的AnnMarie P. Thomas教授和她的团队开发的产品，用来帮助孩子们迅速安全的视觉化学习电路。感谢AnnMarie P. Thomas和她的团队与全世界分享了这个教学成果，同时也感谢Squishy Circuits project的Matthew Schmidtbauer在举办这个workshop过程中提供的技术指导。文中的图片来源于facebook 和Squishy Circuits项目的网页。<!--:--></p>

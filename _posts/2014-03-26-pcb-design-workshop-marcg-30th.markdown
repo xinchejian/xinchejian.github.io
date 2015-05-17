@@ -68,7 +68,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100002313386916"
     target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
-<p><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2014/03/PhotoProtoProPCB1_800.jpg"><img alt="PhotoProtoProPCB1_800" src="http://xinchejian.com/wp-content/uploads/2014/03/PhotoProtoProPCB1_800-300x188.jpg" width="300" height="188" /></a></p>
+<p><!--:en--><a href="/uploads/2014/03/PhotoProtoProPCB1_800.jpg"><img alt="PhotoProtoProPCB1_800" src="/uploads/2014/03/PhotoProtoProPCB1_800-300x188.jpg" width="300" height="188" /></a></p>
 <p>Fee: Members RMB100; non members RMB200.</p>
 <p>Rookies like me always are fascinated by how circuit board plays important role in all electronics. Now we have a chance to learn to design our own.<br />
 This coming Sunday 30th of March 12:30 - 15:30, Wouter will be teaching us how to design a PCB from scratch.</p>

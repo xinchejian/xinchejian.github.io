@@ -34,7 +34,7 @@ comments:
   date_gmt: '2014-10-18 14:20:16 +0800'
   content: 直接去！
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/10/1wlogo.png"><img src="http://xinchejian.com/wp-content/uploads/2014/10/1wlogo-290x240.png" alt="1wlogo" width="290" height="240" class="aligncenter size-thumbnail wp-image-6708" /></a><br />
+<p><a href="/uploads/2014/10/1wlogo.png"><img src="/uploads/2014/10/1wlogo-290x240.png" alt="1wlogo" width="290" height="240" class="aligncenter size-thumbnail wp-image-6708" /></a><br />
 <!--:en--><br />
 XinCheJian will be the featured hacker space at upcoming Shanghai Makers Carnival running through 18-19 of October. Come visit us at our booth and meet the most creative and most daring XinCheJian makers and see for yourself what can be achieved if you dare to do!<br />
 This will be the biggest event of makers community. There will be talks and seminars, workshops, showcasing, as well as a market place. Don't miss it out!</p>

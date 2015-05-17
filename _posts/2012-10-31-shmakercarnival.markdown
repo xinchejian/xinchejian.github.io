@@ -66,8 +66,8 @@ comments:
 <p>Location: Century Park Pudong, Shanghai (subway line 2, Science Museum station, exit 4 and 5)<br />
 Date&amp;Time:&nbsp;Nov. 2 to 4, 9AM~5PM</p>
 <p>The event is free but the park charges 10rmb&nbsp;entrance fee.</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/10/Collages5-small.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/10/Collages5-small-533x400.jpg" alt="" title="Collages5-small" width="470" height="352" class="alignnone size-large wp-image-3976" /></a><!--:--><!--:zh-->本周五～周日（11月2日～4日）新车间的创客们将在上海创客嘉年华做项目展示，欢迎大家来围观！</p>
+<p><a href="/uploads/2012/10/Collages5-small.jpg"><img src="/uploads/2012/10/Collages5-small-533x400.jpg" alt="" title="Collages5-small" width="470" height="352" class="alignnone size-large wp-image-3976" /></a><!--:--><!--:zh-->本周五～周日（11月2日～4日）新车间的创客们将在上海创客嘉年华做项目展示，欢迎大家来围观！</p>
 <p>活动地点：上海浦东世纪公园的亲水平台（近二号线科技馆站，4、5号口）<br />
 时间：上午9点～下午5点</p>
 <p>活动是免费开放给大众的，不过世纪公园收取10元门票。</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/10/Collages5-small.jpg"><img src="http://xinchejian.com/wp-content/uploads/2012/10/Collages5-small-533x400.jpg" alt="" title="Collages5-small" width="470" height="352" class="alignnone size-large wp-image-3976" /></a><!--:--></p>
+<p><a href="/uploads/2012/10/Collages5-small.jpg"><img src="/uploads/2012/10/Collages5-small-533x400.jpg" alt="" title="Collages5-small" width="470" height="352" class="alignnone size-large wp-image-3976" /></a><!--:--></p>

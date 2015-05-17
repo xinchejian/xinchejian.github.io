@@ -66,7 +66,7 @@ comments:
     Time... http://t.co/E81NWaa8AJ
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2014/11/Mitch-Altman-cropped.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/11/Mitch-Altman-cropped-290x290.jpg" alt="Mitch-Altman-cropped" width="290" height="290" class="aligncenter size-thumbnail wp-image-7028" /></a><br />
+<a href="/uploads/2014/11/Mitch-Altman-cropped.jpg"><img src="/uploads/2014/11/Mitch-Altman-cropped-290x290.jpg" alt="Mitch-Altman-cropped" width="290" height="290" class="aligncenter size-thumbnail wp-image-7028" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/go/mitch" target="_blank" title="立即报名">Open to All 开放活动，欢迎参加！</a><br />
 Time: Nov 23, 16:00 ~<br />
 Location: XinCheJian Hackerspace</p>

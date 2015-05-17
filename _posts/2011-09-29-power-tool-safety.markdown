@@ -21,7 +21,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><img width="300" height="400" src="http://xinchejian.com/wp-content/uploads/2011/09/CNCMill.jpg" alt="CNC Mill" /></p>
+<p><img width="300" height="400" src="/uploads/2011/09/CNCMill.jpg" alt="CNC Mill" /></p>
 <p>Power tools can be dangerous. Whether its the band saw cutting a finger or that hand held Dremel shooting a plastic shard at your eye, please treat power (and non-power) tools with respect.</p>
 <p>Don't be afraid to use tools.&nbsp; Attend training classes and practice using the tools.&nbsp; Be aware of safety for yourself and others.&nbsp; If someone is doing something unsafe, ask them to stop.&nbsp; Ask questions if you're unsure.</p>
 <p>Guidelines for using power tools at Xinchejian:</p>

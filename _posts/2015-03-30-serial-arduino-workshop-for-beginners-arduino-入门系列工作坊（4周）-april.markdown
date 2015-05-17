@@ -29,7 +29,7 @@ comments:
     target="_blank">新车间 [Xin Che Jian]</a> liked this on Facebook.
 ---
 <p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a><br />
-<a href="http://xinchejian.com/wp-content/uploads/2015/03/ArduinoUno_R3_Pinouts.png"><img src="http://xinchejian.com/wp-content/uploads/2015/03/ArduinoUno_R3_Pinouts-290x290.png" alt="ArduinoUno_R3_Pinouts" width="290" height="290" class="aligncenter size-thumbnail wp-image-7215" /></a><br />
+<a href="/uploads/2015/03/ArduinoUno_R3_Pinouts.png"><img src="/uploads/2015/03/ArduinoUno_R3_Pinouts-290x290.png" alt="ArduinoUno_R3_Pinouts" width="290" height="290" class="aligncenter size-thumbnail wp-image-7215" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/4275725692400" target="_blank" title="立即报名">Sign Up 报名参加</a><br />
 <!--:en--><br />
 Time: April 11th - April 25th,  Every Saturday10:00am - 12:00pm.<br />

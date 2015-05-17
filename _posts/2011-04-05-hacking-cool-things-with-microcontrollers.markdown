@@ -55,7 +55,7 @@ Fee: 30rmb/person</p>
 <p>＊ TV-B-Gone (turn off TVs in public places!) Material cost：130rmb<br />
 ＊ Brain Machine (Meditate, Hallucinate, and Trip Out!) Material cost：130rmb</p>
 <p>Please register <a href="http://xinchejian.com/event/?regevent_action=register&event_id=5&name_of_event=MitchAltman-HackingCoolThingswithMicrocontrollers!">here</a> for the event.</p>
-<p><img src="http://xinchejian.com/wp-content/uploads/2011/03/MitchAlmanPoster-Web.jpg"></p><!--:--><!--:zh-->日期: 2011年4月17日<br />
+<p><img src="/uploads/2011/03/MitchAlmanPoster-Web.jpg"></p><!--:--><!--:zh-->日期: 2011年4月17日<br />
 时间: 2PM-5PM<br />
 地点：上海市长宁区安化路76号301室 (靠近江苏路)<br />
 入场费用：30元/人</p>
@@ -66,4 +66,4 @@ Fee: 30rmb/person</p>
 <p>＊ TV-B-Gone (turn off TVs in public places!) 材料费：130元<br />
 ＊ Brain Machine (Meditate, Hallucinate, and Trip Out!) 材料费：130元</p>
 <p>有兴趣参加的人请<a href="http://xinchejian.com/event/?regevent_action=register&event_id=5&name_of_event=MitchAltman-HackingCoolThingswithMicrocontrollers!">报名</a>。</p>
-<p><img src="http://xinchejian.com/wp-content/uploads/2011/03/MitchAlmanPoster-Web.jpg"></p><!--:--></p>
+<p><img src="/uploads/2011/03/MitchAlmanPoster-Web.jpg"></p><!--:--></p>

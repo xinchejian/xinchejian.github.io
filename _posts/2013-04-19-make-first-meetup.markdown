@@ -22,4 +22,4 @@ tags:
 - event
 comments: []
 ---
-<p><!--:zh--><a href="http://xinchejian.com/wp-content/uploads/2013/04/poster-new.jpg"><img class="alignnone size-full wp-image-4627" alt="poster-new" src="http://xinchejian.com/wp-content/uploads/2013/04/poster-new.jpg" width="612" height="2658" /></a><!--:--><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2013/04/poster-new.jpg"><img class="alignnone size-full wp-image-4627" alt="poster-new" src="http://xinchejian.com/wp-content/uploads/2013/04/poster-new.jpg" width="612" height="2658" /></a><!--:--></p>
+<p><!--:zh--><a href="/uploads/2013/04/poster-new.jpg"><img class="alignnone size-full wp-image-4627" alt="poster-new" src="/uploads/2013/04/poster-new.jpg" width="612" height="2658" /></a><!--:--><!--:en--><a href="/uploads/2013/04/poster-new.jpg"><img class="alignnone size-full wp-image-4627" alt="poster-new" src="/uploads/2013/04/poster-new.jpg" width="612" height="2658" /></a><!--:--></p>

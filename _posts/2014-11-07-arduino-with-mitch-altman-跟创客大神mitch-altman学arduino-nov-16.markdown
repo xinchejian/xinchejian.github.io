@@ -36,7 +36,7 @@ comments:
   content: 'RT @xinchejian: Arduino with Mitch Altman 跟创客大神Mitch Altman学Arduino ..
     http://t.co/UsXKCG7zAg'
 ---
-<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a> <a href="http://xinchejian.com/wp-content/uploads/2014/11/800px-Arduinos_For_Total_Newbies_workshop.jpg"><img class="aligncenter size-thumbnail wp-image-6988" src="http://xinchejian.com/wp-content/uploads/2014/11/800px-Arduinos_For_Total_Newbies_workshop-290x290.jpg" alt="800px-Arduinos_For_Total_Newbies_workshop" width="290" height="290" /></a> <a style="background-color: #0088cc; color: white; border-radius: 4px; cursor: pointer; font-size: 14px; padding: 6px 20px;" title="立即报名" href="http://www.huodongxing.com/event/8255090990500" target="_blank">报名参加 Register</a></p>
+<p><a style="color: #2578bf;" href="http://xinchejian.huodongxing.com/event/map/5244063275800" target="_blank">上海静安愚园东路28号3号楼一楼 新车间</a> <a href="/uploads/2014/11/800px-Arduinos_For_Total_Newbies_workshop.jpg"><img class="aligncenter size-thumbnail wp-image-6988" src="/uploads/2014/11/800px-Arduinos_For_Total_Newbies_workshop-290x290.jpg" alt="800px-Arduinos_For_Total_Newbies_workshop" width="290" height="290" /></a> <a style="background-color: #0088cc; color: white; border-radius: 4px; cursor: pointer; font-size: 14px; padding: 6px 20px;" title="立即报名" href="http://www.huodongxing.com/event/8255090990500" target="_blank">报名参加 Register</a></p>
 <p><!--:en--><br />
 rmb200 for non xinchejian members and rmb150 for xinchejian members.<br />
 Taught by Mitch Altman.<br />

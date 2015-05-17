@@ -26,7 +26,7 @@ tags:
 - event
 comments: []
 ---
-<p><a href="http://xinchejian.com/?attachment_id=327" rel="attachment wp-att-327"><img src="http://xinchejian.com/wp-content/uploads/2011/01/RC21.jpg" alt="" title="RC2" width="550" height="828" class="alignnone size-full wp-image-327" /></a></p>
+<p><a href="http://xinchejian.com/?attachment_id=327" rel="attachment wp-att-327"><img src="/uploads/2011/01/RC21.jpg" alt="" title="RC2" width="550" height="828" class="alignnone size-full wp-image-327" /></a></p>
 <p>新车间开放日：休闲机器人的时代<br />
 时间: 2011年元月十六日，下午一点到五点<br />
 地点：徐汇区永嘉路50号新单位（近陕西南路）<br />

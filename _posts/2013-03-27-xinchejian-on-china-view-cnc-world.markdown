@@ -50,51 +50,51 @@ comments:
 <h2>Fast forward to 18:18! ;) </h2></p>
 <p><embed src="http://www.cncworld.tv/player/32067/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" play="false"></embed></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled10.jpg" alt="Untitled" title="untitled.jpg" border="0" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled10.jpg" alt="Untitled" title="untitled.jpg" border="0" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled11.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled11.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="353" /><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="353" /><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="366" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="366" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="351" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="351" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled4.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="349" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled4.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="349" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled5.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="352" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled5.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="352" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled6.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="369" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled6.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="369" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0" width="505" height="366" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0" width="505" height="366" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="370" /></p><!--:--><!--:en-->
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="370" /></p><!--:--><!--:en-->
 <p>Matt and Lucio are famous now! The foreigners determine to realize their dreams in China! </p></p>
 <h2>Fast forward to 18:18! ;) </h2></p>
 <p><embed src="http://www.cncworld.tv/player/32067/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" play="false"></embed></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled10.jpg" alt="Untitled" title="untitled.jpg" border="0" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled10.jpg" alt="Untitled" title="untitled.jpg" border="0" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled11.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled11.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="353" /><br />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled1.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="353" /><br />
 </p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="366" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled2.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="366" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="351" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled3.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="351" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled4.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="349" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled4.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="349" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled5.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="352" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled5.jpg" alt="Untitled" title="untitled.jpg" border="0" width="600" height="352" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled6.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="369" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled6.jpg" alt="Untitled" title="untitled.jpg" border="0" width="502" height="369" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled7.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="368" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0" width="505" height="366" /></p></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled8.jpg" alt="Untitled" title="untitled.jpg" border="0" width="505" height="366" /></p></p>
 <p>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2013/03/untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="370" /></p><!--:--></p>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2013/03/untitled9.jpg" alt="Untitled" title="untitled.jpg" border="0" width="504" height="370" /></p><!--:--></p>

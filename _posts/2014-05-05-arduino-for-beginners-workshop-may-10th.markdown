@@ -83,7 +83,7 @@ comments:
     target="_blank">Jerry Liang</a> liked this on Facebook.
 ---
 <p><!--:zh-->Arduino入门系列工作坊开班啦！<br />
-<a href="http://xinchejian.com/wp-content/uploads/2013/11/arduino.jpg"><img src="http://xinchejian.com/wp-content/uploads/2013/11/arduino-290x290.jpg" alt="arduino" width="290" height="290" class="aligncenter size-thumbnail wp-image-6070" /></a><br />
+<a href="/uploads/2013/11/arduino.jpg"><img src="/uploads/2013/11/arduino-290x290.jpg" alt="arduino" width="290" height="290" class="aligncenter size-thumbnail wp-image-6070" /></a><br />
 相信来过新车间的朋友 都会惊讶于新车间各种稀奇古怪的Arduino项目印象深刻。3D打印机 巡线小车，虫虫机器人，遥控车 这些神奇的项目是不是也想自己动手做一个。那么如何看懂代码，如何亲自动手做一个项目呢？不要着急 Arduino入门系列工作坊 Rex 就带您从头学起。（Arduino是什么？！ Arduino 是一款便捷灵活、方便上手的开源控制器，并有自己的开源平台，包含硬件（各种型号的arduino板）和软件（arduino IDE)。它适用于艺术家、设计师、爱好者和对于&ldquo;互动&rdquo;有兴趣的朋友们。如果你还不知道它能干什么的话？随便在网上搜一搜全球各地的人们用Arduino做的有趣项目吧~或者看看创客空间利用Arduino做出来的记忆金属、跑马灯、握手袋鼠，小贱笔等等一系列好玩儿的东西。）</p>
 <p>这个下午你将学到：<br />
 1.知识：<br />
@@ -106,7 +106,7 @@ comments:
 <p>除套件活动所得收入将全部捐给新车间!<br />
 欢迎大家来创客空间完成你想做的作品。</p>
 <p><a href="http://xinchejian.com/event2/upcoming-workshop/?ee=219">Registration page</a><!--:--><!--:en-->Arduino beginners workshop！<br />
-<a href="http://xinchejian.com/wp-content/uploads/2013/11/arduino.jpg"><img src="http://xinchejian.com/wp-content/uploads/2013/11/arduino-290x290.jpg" alt="arduino" width="290" height="290" class="aligncenter size-thumbnail wp-image-6070" /></a></p>
+<a href="/uploads/2013/11/arduino.jpg"><img src="/uploads/2013/11/arduino-290x290.jpg" alt="arduino" width="290" height="290" class="aligncenter size-thumbnail wp-image-6070" /></a></p>
 <p>The Arduino workshop is great for those looking to get started with micro-controller programming and need a kickstart in the right direction. Please do not sign up if you are not going to show up as you&rsquo;ll be taking a seat from someone that wants to do it. </p>
 <p>You'll learn<br />
 * Introduction to Arduino, basic electronic knowledge, binary,<br />

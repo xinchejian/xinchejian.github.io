@@ -39,7 +39,7 @@ comments:
 <p><strong>Children's Carnival:</strong>&nbsp;June 2, 1:00 to 5:00</p>
 <p><strong>XinCheJian address:</strong>&nbsp;2nd Floor, 1035 Changle Rd, Xuhui District, Shanghai (corner Wulumuqi Rd)<br />
 <strong>Transportation:</strong>&nbsp;we recommend you the best public transport to participate in our activities, you can get off in Changshu Rd., Rail Transit Line 7 or line 1, about 10 minutes walk) or you can use line 10 and exit at Shanghai Library (15 minutes)</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/05/Picture-43.png"><img title="Picture 43" src="http://xinchejian.com/wp-content/uploads/2012/05/Picture-43.png" alt="" width="719" height="242" /></a><!--:--><!--:zh-->号外，号外， 上海的小朋友们要开心了，新车间要举办&ldquo;小小创客游乐会&rdquo;了！</p>
+<p><a href="/uploads/2012/05/Picture-43.png"><img title="Picture 43" src="/uploads/2012/05/Picture-43.png" alt="" width="719" height="242" /></a><!--:--><!--:zh-->号外，号外， 上海的小朋友们要开心了，新车间要举办&ldquo;小小创客游乐会&rdquo;了！</p>
 <p>刚刚过去的4月份，是一个超级忙碌的月份。新车间的创客们带着他们的作品奔波于深圳和北京参加了中国第一届创客嘉年华。在活动中，我们经常碰到一些父母提问：你们的项目很好，但是如何让我们的孩子也能参与到动手创造的乐趣中呢？答案现在有了！！！</p>
 <p>为了庆祝儿童节，新车间将在6月2日下午1~5点专门举办一个针对儿童的嘉年华，让上海的小朋友也能分享到做一个&ldquo;小创客&rdquo;的快乐！</p>
 <p>在这次&ldquo;小小创客游乐会&rdquo;的现场，孩子们可以看到新车间在一年多的时间里制作的各种好玩的制作，如&ldquo;筷子机器人&rdquo;，&ldquo;机器捕鼠器&rdquo;，&ldquo;疯狂的导电面团&rdquo;，&ldquo;神奇的瓶盖巡线小车&rdquo;，&ldquo;马里奥种蘑菇&rdquo;， &ldquo;儿童编程软件&rdquo;，由DFRobot带来的风靡京城的的&ldquo;拆弹专家&rdquo;等等各种好玩的项目，还可以和我们新车间一些小创客聊聊天，看看小创客们是怎么炼成的。。。出了这些展示项目，我们还准备了锻炼实战技能的&ldquo;焊接工坊&ldquo;，&rdquo;超轻粘土工坊&rdquo; (这些可都是小创客的基本功啊)。</p>
@@ -48,4 +48,4 @@ comments:
 <p><strong>儿童嘉年华时间</strong>： 6月2号下午1点~5点</p>
 <p><strong>新车间地址</strong>：上海徐汇区长乐路1035号2楼 (乌鲁木齐路口)。<br />
 <strong>交通</strong>： 绿色环保，我们推荐您最好通过公共交通来参加我们的活动，您可以在轨道交通7号线常熟路下车，8号口出来，走10分钟即到）</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2012/05/Picture-43.png"><img title="Picture 43" src="http://xinchejian.com/wp-content/uploads/2012/05/Picture-43.png" alt="" width="719" height="242" /></a><!--:--></p>
+<p><a href="/uploads/2012/05/Picture-43.png"><img title="Picture 43" src="/uploads/2012/05/Picture-43.png" alt="" width="719" height="242" /></a><!--:--></p>

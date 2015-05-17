@@ -22,4 +22,4 @@ categories:
 tags: []
 comments: []
 ---
-<p><!--:en--><a href="http://xinchejian.com/wp-content/uploads/2011/11/Ziyun-CitiweekendInterview.jpg"><img src="http://xinchejian.com/wp-content/uploads/2011/11/Ziyun-CitiweekendInterview-230x300.jpg" alt="" title="Ziyun-CitiweekendInterview" width="230" height="300" class="alignnone size-medium wp-image-1766" /></a><!--:--></p>
+<p><!--:en--><a href="/uploads/2011/11/Ziyun-CitiweekendInterview.jpg"><img src="/uploads/2011/11/Ziyun-CitiweekendInterview-230x300.jpg" alt="" title="Ziyun-CitiweekendInterview" width="230" height="300" class="alignnone size-medium wp-image-1766" /></a><!--:--></p>

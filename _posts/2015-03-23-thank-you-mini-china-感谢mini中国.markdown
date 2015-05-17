@@ -93,7 +93,7 @@ comments:
     Adams</a> liked this on Facebook.
 ---
 <p>
-<a href="http://www.minichina.com.cn/mini/cn/zh/index.html"><img src="http://xinchejian.com/wp-content/uploads/2015/03/mini-logo-AT-1-176px.jpg" alt="mini-logo-AT-1 176px" width="176" height="74" class="aligncenter size-full wp-image-7145" /></a><br />
+<a href="http://www.minichina.com.cn/mini/cn/zh/index.html"><img src="/uploads/2015/03/mini-logo-AT-1-176px.jpg" alt="mini-logo-AT-1 176px" width="176" height="74" class="aligncenter size-full wp-image-7145" /></a><br />
 To Mini,</p>
 <p>On behalf of all the members of XinCheJian: THANK YOU!</p>
 <p>Thanks to the generous donation of our new gold sponsor <a href="http://www.minichina.com.cn/mini/cn/zh/index.html" title="MINI China">MINI China</a>, we no longer have to worry about paying our rent for the next year! This means that the money we collect from our other sources (memberships, workshops, sales) can all go toward improving the space.</p>

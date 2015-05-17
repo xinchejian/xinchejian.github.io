@@ -28,7 +28,7 @@ comments:
   content: <a href="https://facebook.com/profile.php?id=100000004081678"
     target="_blank">Linna Wenchang Zhou</a> liked this on Facebook.
 ---
-<p><a href="http://xinchejian.com/wp-content/uploads/2015/01/solidworks-for-mac.png"><img src="http://xinchejian.com/wp-content/uploads/2015/01/solidworks-for-mac-290x290.png" alt="solidworks-for-mac" width="290" height="290" class="aligncenter size-thumbnail wp-image-7106" /></a><br />
+<p><a href="/uploads/2015/01/solidworks-for-mac.png"><img src="/uploads/2015/01/solidworks-for-mac-290x290.png" alt="solidworks-for-mac" width="290" height="290" class="aligncenter size-thumbnail wp-image-7106" /></a><br />
 <a style="background-color:#62b651;color:white;border-radius:2px;cursor:pointer;font-size:14px;padding:8px 10px;" href="http://www.huodongxing.com/event/1265917026000" target="_blank" title="立即报名">Register 报名参加</a><br />
 地点：淮海中路1555号上海图书馆三楼创新空间<br />
 时间：2015年2月1号上午10:30 － 12:30.</p>
