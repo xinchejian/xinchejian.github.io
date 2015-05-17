@@ -29,7 +29,7 @@ comments: []
 <p><strong>地址：<a href="http://j.map.baidu.com/Vi6xr" target="_blank">愚园东路28号3号楼1楼西侧</a></strong>&nbsp;（门口在FamilyMart旁边）</p>
 <p><strong>交通:</strong> 地铁静安寺站，2号线（3号口），7号线（6号口）; 15路, 21路, 315路, 323路, 921路, 927路 - 北京西路常德路</p>
 <p><strong>开门时间：</strong> 对外开放：周三晚上 7点－9点。非会员，其他时间想参观新车间，请前一天发邮件联系: info@xinchejian.com。感谢您的支持!</p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/xcjmap.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/xcjmap-290x290.jpg" alt="xcjmap" width="290" height="290" class="aligncenter size-thumbnail wp-image-6510" /></a></p>
+<p><a href="/uploads/2014/06/xcjmap.jpg"><img src="/uploads/2014/06/xcjmap-290x290.jpg" alt="xcjmap" width="290" height="290" class="aligncenter size-thumbnail wp-image-6510" /></a></p>
 <p><!--:en--><br />
 Thanks for your interest in contacting Xinchejian!</p>
 <h2>What's going on at Xinchejian?</h2><br />
@@ -45,7 +45,7 @@ Xinchejian is located at the People Squared Hero Center (创客中心).<br />
 Building 3, 28 YuYuan East Rd, JingAn District, Shanghai, CHINA<br />
 (walk through the hall of building 1 by the street, past FamilyMart)<br />
 <a href="http://j.map.baidu.com/Vi6xr" target="_blank">Baidu Map</a> </p>
-<p><a href="http://xinchejian.com/wp-content/uploads/2014/06/xcjmap.jpg"><img src="http://xinchejian.com/wp-content/uploads/2014/06/xcjmap-290x290.jpg" alt="xcjmap" width="290" height="290" class="aligncenter size-thumbnail wp-image-6510" /></a></p>
+<p><a href="/uploads/2014/06/xcjmap.jpg"><img src="/uploads/2014/06/xcjmap-290x290.jpg" alt="xcjmap" width="290" height="290" class="aligncenter size-thumbnail wp-image-6510" /></a></p>
 <p>Transportation:<br />
 * Subway: Jing'an Temple Station Metro line 2 (exit 3), 7 (exit 6);<br />
 * Bus: Lines 15, 21, 315, 323, 921, 927 - Beijing West Rd/ChangDe Rd<br />

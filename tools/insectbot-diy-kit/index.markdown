@@ -26,9 +26,9 @@ comments:
   content: I'd like to buy one of these.  Can you deliver in Shanghai?
 ---
 <p><!--:en-->InsectBot DIY Kit - RMB280 (shipping not included)</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
 <p><embed src="http://player.youku.com/player.php/sid/XMjU4Mzc5OTgw/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p>
 <p>The DIY kit includes the following:</p>
 <p>* Arduino borad x 1<br />
@@ -39,9 +39,9 @@ comments:
 * 6V battery charger x 1<br />
 * Other materials for the robot structures<br />
 * Step by step instructions<!--:--><!--:zh-->DIY 虫虫机器人套件 － 280元 （不包含运费和税点）</p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
-<p><img style="display:block; margin-left:auto; margin-right:auto;" src="http://xinchejian.com/wp-content/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8260.jpg" alt="DSC 8260" title="DSC_8260.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8262.jpg" alt="DSC 8262" title="DSC_8262.JPG" border="0"/></p></p>
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="/uploads/2011/04/DSC_8264.jpg" alt="DSC 8264" title="DSC_8264.JPG" border="0"/></p></p>
 <p><embed src="http://player.youku.com/player.php/sid/XMjU4Mzc5OTgw/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p>
 <p>套件包含下列材料：</p>
 <p>* Arduino微控制器板1块<br />

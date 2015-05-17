@@ -18,7 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p><!--:en--><img title="001-Opening-poster-NoText" src="http://xinchejian.com/wp-content/uploads/2010/12/001-Opening-poster-NoText-400x400.jpg" alt="" width="400" height="400" /><br />
+<p><!--:en--><img title="001-Opening-poster-NoText" src="/uploads/2010/12/001-Opening-poster-NoText-400x400.jpg" alt="" width="400" height="400" /><br />
 <strong>What is XinCheJian? </strong></p>
 <p>Xinchejian is a hackerspace.  Hackerspaces are communities where people who are interested in physical computing and technology can meet and collaborate on projects.</p>
 <p>Xinchejian is the first hackerspace in China.  It is a non-profit organization run by volunteers.  Xinchejian's mission is to support and promote physical computing, open source hardware, and the Internet of Things.</p>
@@ -43,7 +43,7 @@ comments: []
 <br />&nbsp;<br /></p>
 <p><!--:--></p>
 <p><!--:zh-->
-<p><a href="http://xinchejian.com/wp-content/uploads/2010/12/001-Opening-poster-NoText.jpg"><img class="alignnone size-large wp-image-3176" title="001-Opening-poster-NoText" src="http://xinchejian.com/wp-content/uploads/2010/12/001-Opening-poster-NoText-400x400.jpg" alt="" width="400" height="400" /></a></p></p>
+<p><a href="/uploads/2010/12/001-Opening-poster-NoText.jpg"><img class="alignnone size-large wp-image-3176" title="001-Opening-poster-NoText" src="/uploads/2010/12/001-Opening-poster-NoText-400x400.jpg" alt="" width="400" height="400" /></a></p></p>
 <p><strong>有关新车间</strong></p></p>
 <p>新车间是一个<a href="http://hackerspaces.org/wiki/Hackerspaces" target="_blank">创客空间</a>，是一个非盈利的组织。创客空间遍布全球，它们都具有实体空间并采用社区化方式运营。在这里，大家可以一同开展有趣的项目。新车间既是全中国第一个创客空间，也是全球数百个创客空间之一。尽管每个创客空间都自主运营，但大家都秉承着相同的理念&mdash;&mdash;在创作中寻求快乐。在创客环境中，大家可以捣鼓新技术，可以与团队一同协作，也可以参与国际竞赛，寻找并创造新的机会。</p></p>
 <p>创客空间最早可以追溯到1978年&mdash;&mdash;乔布斯(Steve Jobs)和沃兹尼亚克(Steven Wozniak)在他们的Homebrew Computer Club展示了Apple Zero,再往后，比尔盖茨开始为Basic语言到处筹款&hellip;&hellip;</p></p>
