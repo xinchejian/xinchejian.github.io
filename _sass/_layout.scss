@@ -208,13 +208,6 @@
         margin-left: 200px;
         margin-right: 216px;
     }
-    @include media-query($on-palm) {
-        .home, .post, .pages {
-            margin-left: 0px;
-        }
-    }
-
-
 
     .sponsors {
         position: absolute;
@@ -231,7 +224,39 @@
             }
         }
     }
+
+    @include media-query($on-palm) {
+        .home, .post, .pages {
+            margin-left: 0px;
+            margin-right: 0px;
+        }
+        .sponsors {
+            position: initial;
+            top: initial;
+            right: initial;
+            width: initial;
+            margin-bottom: 50px;
+            margin-top: 40px;
+        }
+
+    }
+    @include media-query($on-laptop) {
+        .sponsors {
+            position: initial;
+            top: initial;
+            right: initial;
+            width: initial;
+            margin-bottom: 50px;
+            margin-top: 40px;
+        }
+        .home, .post, .pages {
+            margin-right: 0px;
+        }
+    }
 }
+
+
+
 
 .page-heading {
     font-size: 20px;

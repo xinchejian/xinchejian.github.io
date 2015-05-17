@@ -8,6 +8,7 @@ layout: default
 
   <div class="post-list">
     {% assign posts = site.posts | sort: 'date' %}
+    {% assign hasSeenSponsor = false %}
     {% for post in site.posts limit: 10 %}
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -16,6 +17,11 @@ layout: default
     {{ post.content }}
 
     </div>
+      {% if hasSeenSponsor == false %}
+        {% include sponsors.html %}
+        {% assign hasSeenSponsor = true %}
+      {% endif %}
+
     {% endfor %}
   </div>
 
