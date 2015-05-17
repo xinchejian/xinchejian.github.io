@@ -2,7 +2,12 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">
+      <div class="logo"><img src="/uploads/2010/12/cropped-xinchejian-logo1.jpg" /></div>
+      <h1>{{ site.title }}</h1>
+      <h2>Hackerspace in Shanghai</h2>
+
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,8 +19,9 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
+        {% assign pages = site.pages | sort: 'title' %}
+        {% for page in pages  %}
+          {% if page.title == "Hackers Meetup | 创客聚会" or page.title == "Manifesto | 宣言" or page.title == "Mailing List |  订阅"  or page.title == "Membership | 会员制度" or page.title == "Workshops | 工作坊" or page.title == "Contact Us | 联系我们" or page.title == "Links | 连结" or page.title == "About Us | 有关我们" %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
@@ -25,3 +31,5 @@
   </div>
 
 </header>
+
+
