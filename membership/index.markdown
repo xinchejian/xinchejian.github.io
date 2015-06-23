@@ -2,37 +2,44 @@
 layout: page
 status: publish
 published: true
-title: Membership | 会员制度
-author:
+title: "Membership | 会员制度"
+author: 
   display_name: Min Lin Hsieh
   login: mlhsieh
-  email: mlhsie@gmail.com
-  url: ''
+  email: "mlhsie@gmail.com"
+  url: ""
 author_login: mlhsieh
-author_email: mlhsie@gmail.com
+author_email: "mlhsie@gmail.com"
 wordpress_id: 13
-wordpress_url: http://xinchejian.com/?page_id=13
-date: '2010-12-15 15:23:14 +0800'
-date_gmt: '2010-12-15 07:23:14 +0800'
+wordpress_url: "http://xinchejian.com/?page_id=13"
+date: "2010-12-15 15:23:14 +0800"
+date_gmt: "2010-12-15 07:23:14 +0800"
 categories: []
 tags: []
 comments: []
 ---
+
 <p><!--:zh--><br />
 <strong>加入新车间会员</strong>:</p>
-<h2>第1步: 付费 </h2></p>
+<h2>第1步: 付费 </h2>
+</p>
 <h3>会员价格</h3><br />
 * 一个月： 100元<br />
 * 半年： 450元</p>
 <h3>付费选择 </h3><br />
 * 新车间支付宝账户：amanda@xinchejian.com<br />
-* 现金： 请联系一个新车间组织人。<br />
+* 现金： 请联系一个新车间组织人。
+<br />
 <br />&nbsp;<br /></p>
-<h2>第2步： 加入新车间邮件单子 </h2><br />
-* <a href="http://eepurl.com/oiiqn">新车间订阅</a><br />
+<h2>第2步： 加入新车间邮件单子 </h2>
+<br />
+* <a href="http://eepurl.com/oiiqn">新车间订阅</a>
+<br />
 <br />&nbsp;<br /></p>
-<h2>第3步: 请进入注册页面</h2><br />
-* <a href=&ldquo;http://members.xinchejian.com">会员注册</a><br />
+<h2>第3步: 请进入注册页面</h2>
+<br />
+* <a href="http://members.xinchejian.com">会员注册</a>
+<br />
 填写个人信息.<br />
 <br />&nbsp;<br /></p>
 <p><strong>新车间社团会员资格介绍</strong> <br /><br />
